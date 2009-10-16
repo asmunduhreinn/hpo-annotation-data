@@ -1,0 +1,23 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:200700		MIM:601146			GDF5	HP:0000007																			
+MIM:200700		MIM:601146			GDF5	HP:0000707				PATO:0000001									PATO:0000460						
+MIM:200700		MIM:601146			GDF5	HP:0001162																			
+MIM:200700		MIM:601146			GDF5	HP:0001624																			
+MIM:200700		MIM:601146			GDF5	HP:0001766		FMA:9664		PATO:0000574															
+MIM:200700		MIM:601146			GDF5	HP:0001840																			
+MIM:200700		MIM:601146			GDF5	HP:0001964																			
+MIM:200700		MIM:601146			GDF5	HP:0002750		GO:0070977		PATO:0000911															
+MIM:200700		MIM:601146			GDF5	HP:0002985		FMA:33977		PATO:0000574															
+MIM:200700		MIM:601146			GDF5	HP:0002993		FMA:24476		PATO:0000574															
+MIM:200700		MIM:601146			GDF5	HP:0002995		FMA:23463		PATO:0000574															
+MIM:200700		MIM:601146			GDF5	HP:0002998		FMA:23466		PATO:0000574															
+MIM:200700		MIM:601146			GDF5	HP:0003014																			
+MIM:200700		MIM:601146			GDF5	HP:0003097		FMA:33155		PATO:0000574															
+MIM:200700		MIM:601146			GDF5	HP:0003505																			
+MIM:200700		MIM:601146			GDF5	HP:0003823																			
+MIM:200700		MIM:601146			GDF5	HP:0005914				PATO:0000587															
+MIM:200700		MIM:601146			GDF5	HP:0006228																			
+MIM:200700		MIM:601146			GDF5	HP:0006498		FMA:43623		PATO:0000587		FMA:33977													
+MIM:200700		MIM:601146			GDF5	HP:0008081																			
+MIM:200700		MIM:601146			GDF5	HP:0009370																			
+MIM:200700		MIM:601146			GDF5	HP:0009803		FMA:23914		PATO:0000645															

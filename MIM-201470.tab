@@ -1,0 +1,21 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:201470		MIM:606885			ACADS	HP:0000007																			
+MIM:201470		MIM:606885			ACADS	HP:0000544		FMA:74548		HP:0000602															
+MIM:201470		MIM:606885			ACADS	HP:0000709																			
+MIM:201470		MIM:606885			ACADS	HP:0001250																			
+MIM:201470		MIM:606885			ACADS	HP:0001252		FMA:30316		PATO:0001619									PATO:0001869						
+MIM:201470		MIM:606885			ACADS	HP:0001254																			
+MIM:201470		MIM:606885			ACADS	HP:0001263																			
+MIM:201470		MIM:606885			ACADS	HP:0001371		FMA:9721		PATO:0000574															
+MIM:201470		MIM:606885			ACADS	HP:0001638																			
+MIM:201470		MIM:606885			ACADS	HP:0002008		FMA:50868		PATO:0001624															
+MIM:201470		MIM:606885			ACADS	HP:0002022																			
+MIM:201470		MIM:606885			ACADS	HP:0002117																			
+MIM:201470		MIM:606885			ACADS	HP:0002375																			
+MIM:201470		MIM:606885			ACADS	HP:0002500				PATO:0000001									PATO:0000460						
+MIM:201470		MIM:606885			ACADS	HP:0002650				PATO:0002049									PATO:0001869						
+MIM:201470		MIM:606885			ACADS	HP:0003198																			
+MIM:201470		MIM:606885			ACADS	HP:0003219																			
+MIM:201470		MIM:606885			ACADS	HP:0003595																			
+MIM:201470		MIM:606885			ACADS	HP:0003815																			
+MIM:201470		MIM:606885			ACADS	HP:0004911																			

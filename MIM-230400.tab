@@ -1,0 +1,18 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:230400		MIM:606999			GALT	HP:0000007																			
+MIM:230400		MIM:606999			GALT	HP:0000119				PATO:0000001									PATO:0000460						
+MIM:230400		MIM:606999			GALT	HP:0000518																			
+MIM:230400		MIM:606999			GALT	HP:0001394																			
+MIM:230400		MIM:606999			GALT	HP:0001508																			
+MIM:230400		MIM:606999			GALT	HP:0001878																			
+MIM:230400		MIM:606999			GALT	HP:0002013																			
+MIM:230400		MIM:606999			GALT	HP:0002014		FMA:64183		PATO:0001548															
+MIM:230400		MIM:606999			GALT	HP:0002167																			
+MIM:230400		MIM:606999			GALT	HP:0002240		FMA:7197		PATO:0000586															
+MIM:230400		MIM:606999			GALT	HP:0002903		FMA:12274		PATO:0002002		CHEBI:33709													
+MIM:230400		MIM:606999			GALT	HP:0003293																			
+MIM:230400		MIM:606999			GALT	HP:0003767																			
+MIM:230400		MIM:606999			GALT	HP:0004918																			
+MIM:230400		MIM:606999			GALT	HP:0004919																			
+MIM:230400		MIM:606999			GALT	HP:0006570																			
+MIM:230400		MIM:606999			GALT	HP:0008209																			

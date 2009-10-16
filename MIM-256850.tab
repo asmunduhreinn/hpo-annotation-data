@@ -1,0 +1,24 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:256850		MIM:605379			GAN	HP:0000007																			
+MIM:256850		MIM:605379			GAN	HP:0000639																			
+MIM:256850		MIM:605379			GAN	HP:0001249																			
+MIM:256850		MIM:605379			GAN	HP:0001258																			
+MIM:256850		MIM:605379			GAN	HP:0001260																			
+MIM:256850		MIM:605379			GAN	HP:0001317				PATO:0000001									PATO:0000460						
+MIM:256850		MIM:605379			GAN	HP:0001347																			
+MIM:256850		MIM:605379			GAN	HP:0001761																			
+MIM:256850		MIM:605379			GAN	HP:0001762																			
+MIM:256850		MIM:605379			GAN	HP:0001763																			
+MIM:256850		MIM:605379			GAN	HP:0002062				PATO:0000001									PATO:0000460						
+MIM:256850		MIM:605379			GAN	HP:0002212																			
+MIM:256850		MIM:605379			GAN	HP:0002522																			
+MIM:256850		MIM:605379			GAN	HP:0002600		FMA:7184		HP:0001265															
+MIM:256850		MIM:605379			GAN	HP:0002934																			
+MIM:256850		MIM:605379			GAN	HP:0002935																			
+MIM:256850		MIM:605379			GAN	HP:0002936		FMA:30327		HP:0003474															
+MIM:256850		MIM:605379			GAN	HP:0003376																			
+MIM:256850		MIM:605379			GAN	HP:0003497		FMA:7182		HP:0002460															
+MIM:256850		MIM:605379			GAN	HP:0003578																			
+MIM:256850		MIM:605379			GAN	HP:0003677																			
+MIM:256850		MIM:605379			GAN	HP:0003693		_:distal_muscle		PATO:0001623															
+MIM:256850		MIM:605379			GAN	HP:0007002																			

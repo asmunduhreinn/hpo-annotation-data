@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:264600		MIM:607306			SRD5A2	HP:0000007																			
+MIM:264600		MIM:607306			SRD5A2	HP:0000033		FMA:67811		HP:0000062															
+MIM:264600		MIM:607306			SRD5A2	HP:0000038		FMA:9707		PATO:0000587															
+MIM:264600		MIM:607306			SRD5A2	HP:0000048		FMA:18252		PATO:0000403															
+MIM:264600		MIM:607306			SRD5A2	HP:0000051																			
+MIM:264600		MIM:607306			SRD5A2	HP:0000818				PATO:0000001									PATO:0000460						
+MIM:264600		MIM:607306			SRD5A2	HP:0001595		FMA:53667		PATO:0000001									PATO:0000460						
+MIM:264600		MIM:607306			SRD5A2	HP:0001608																			
+MIM:264600		MIM:607306			SRD5A2	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:264600		MIM:607306			SRD5A2	HP:0003813																			

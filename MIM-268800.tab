@@ -1,0 +1,22 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:268800		MIM:606873			HEXB	HP:0000158		FMA:46689		PATO:0000584															
+MIM:268800		MIM:606873			HEXB	HP:0000256		FMA:46565		PATO:0000586															
+MIM:268800		MIM:606873			HEXB	HP:0000280		FMA:24728		PATO:0000700															
+MIM:268800		MIM:606873			HEXB	HP:0000478				PATO:0000001									PATO:0000460						
+MIM:268800		MIM:606873			HEXB	HP:0000802																			
+MIM:268800		MIM:606873			HEXB	HP:0000951		FMA:7163		PATO:0000001									PATO:0000460						
+MIM:268800		MIM:606873			HEXB	HP:0001253		FMA:67944		HP:0001251															
+MIM:268800		MIM:606873			HEXB	HP:0001260																			
+MIM:268800		MIM:606873			HEXB	HP:0001278																			
+MIM:268800		MIM:606873			HEXB	HP:0001347																			
+MIM:268800		MIM:606873			HEXB	HP:0001433		_:liver_and_spleen		PATO:0000586															
+MIM:268800		MIM:606873			HEXB	HP:0001640																			
+MIM:268800		MIM:606873			HEXB	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:268800		MIM:606873			HEXB	HP:0002028		FMA:64183		PATO:0001548															
+MIM:268800		MIM:606873			HEXB	HP:0002380		FMA:30316		HP:0002380															
+MIM:268800		MIM:606873			HEXB	HP:0002574																			
+MIM:268800		MIM:606873			HEXB	HP:0003202		FMA:5022		PATO:0001623															
+MIM:268800		MIM:606873			HEXB	HP:0006856																			
+MIM:268800		MIM:606873			HEXB	HP:0006901																			
+MIM:268800		MIM:606873			HEXB	HP:0007275		FMA:72634		PATO:0001641															
+MIM:268800		MIM:606873			HEXB	HP:0008681																			

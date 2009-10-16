@@ -1,0 +1,30 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:208900		MIM:607585			ATM	HP:0000007																			
+MIM:208900		MIM:607585			ATM	HP:0000134		FMA:67812		HP:0000135															
+MIM:208900		MIM:607585			ATM	HP:0000246		GO:0006954		PATO:0002017															
+MIM:208900		MIM:607585			ATM	HP:0000486																			
+MIM:208900		MIM:607585			ATM	HP:0000524																			
+MIM:208900		MIM:607585			ATM	HP:0000778		FMA:9607		PATO:0000645															
+MIM:208900		MIM:607585			ATM	HP:0000823																			
+MIM:208900		MIM:607585			ATM	HP:0000833																			
+MIM:208900		MIM:607585			ATM	HP:0000957																			
+MIM:208900		MIM:607585			ATM	HP:0001009																			
+MIM:208900		MIM:607585			ATM	HP:0001250																			
+MIM:208900		MIM:607585			ATM	HP:0001253		FMA:67944		HP:0001251															
+MIM:208900		MIM:607585			ATM	HP:0001260																			
+MIM:208900		MIM:607585			ATM	HP:0001266																			
+MIM:208900		MIM:607585			ATM	HP:0001316																			
+MIM:208900		MIM:607585			ATM	HP:0001509		FMA:20394		PATO:0000569															
+MIM:208900		MIM:607585			ATM	HP:0001595		FMA:53667		PATO:0000001									PATO:0000460						
+MIM:208900		MIM:607585			ATM	HP:0001888																			
+MIM:208900		MIM:607585			ATM	HP:0001909		MPATH:336		PATO:0000912															
+MIM:208900		MIM:607585			ATM	HP:0002110																			
+MIM:208900		MIM:607585			ATM	HP:0002837																			
+MIM:208900		MIM:607585			ATM	HP:0005357		GO:0030183		PATO:0001511															
+MIM:208900		MIM:607585			ATM	HP:0005403																			
+MIM:208900		MIM:607585			ATM	HP:0005415																			
+MIM:208900		MIM:607585			ATM	HP:0006254																			
+MIM:208900		MIM:607585			ATM	HP:0006860																			
+MIM:208900		MIM:607585			ATM	HP:0008348																			
+MIM:208900		MIM:607585			ATM	HP:0008350																			
+MIM:208900		MIM:607585			ATM	HP:0008669		GO:0007283		PATO:0000762															

@@ -1,0 +1,21 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:270450		MIM:147370			IGF1R	HP:0000006																			
+MIM:270450		MIM:147370			IGF1R	HP:0000007																			
+MIM:270450		MIM:147370			IGF1R	HP:0000219		FMA:59817		PATO:0000592															
+MIM:270450		MIM:147370			IGF1R	HP:0000252		FMA:46565		PATO:0000587															
+MIM:270450		MIM:147370			IGF1R	HP:0000299																			
+MIM:270450		MIM:147370			IGF1R	HP:0000431																			
+MIM:270450		MIM:147370			IGF1R	HP:0000713																			
+MIM:270450		MIM:147370			IGF1R	HP:0000739																			
+MIM:270450		MIM:147370			IGF1R	HP:0000767																			
+MIM:270450		MIM:147370			IGF1R	HP:0001157		FMA:9666		PATO:0000140									PATO:0000460						
+MIM:270450		MIM:147370			IGF1R	HP:0001270																			
+MIM:270450		MIM:147370			IGF1R	HP:0001509		FMA:20394		PATO:0000569															
+MIM:270450		MIM:147370			IGF1R	HP:0001511																			
+MIM:270450		MIM:147370			IGF1R	HP:0001547		FMA:7480		PATO:0000051									PATO:0000460						
+MIM:270450		MIM:147370			IGF1R	HP:0001823																			
+MIM:270450		MIM:147370			IGF1R	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:270450		MIM:147370			IGF1R	HP:0002117																			
+MIM:270450		MIM:147370			IGF1R	HP:0002750		GO:0070977		PATO:0000911															
+MIM:270450		MIM:147370			IGF1R	HP:0003660																			
+MIM:270450		MIM:147370			IGF1R	HP:0004655																			

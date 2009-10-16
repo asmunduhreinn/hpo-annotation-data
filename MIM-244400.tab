@@ -1,0 +1,20 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:244400		MIM:604366			DNAI1	HP:0000007																			
+MIM:244400		MIM:604366			DNAI1	HP:0000246		GO:0006954		PATO:0002017															
+MIM:244400		MIM:604366			DNAI1	HP:0000367																			
+MIM:244400		MIM:604366			DNAI1	HP:0000389																			
+MIM:244400		MIM:604366			DNAI1	HP:0000458																			
+MIM:244400		MIM:604366			DNAI1	HP:0000462																			
+MIM:244400		MIM:604366			DNAI1	HP:0000481				PATO:0000001									PATO:0000460						
+MIM:244400		MIM:604366			DNAI1	HP:0001334																			
+MIM:244400		MIM:604366			DNAI1	HP:0001651																			
+MIM:244400		MIM:604366			DNAI1	HP:0001696				PATO:0000625															
+MIM:244400		MIM:604366			DNAI1	HP:0001746				PATO:0001557		FMA:7196													
+MIM:244400		MIM:604366			DNAI1	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:244400		MIM:604366			DNAI1	HP:0002090																			
+MIM:244400		MIM:604366			DNAI1	HP:0002110																			
+MIM:244400		MIM:604366			DNAI1	HP:0002257																			
+MIM:244400		MIM:604366			DNAI1	HP:0002315																			
+MIM:244400		MIM:604366			DNAI1	HP:0002688				PATO:0001557		FMA:57417													
+MIM:244400		MIM:604366			DNAI1	HP:0003251																			
+MIM:244400		MIM:604366			DNAI1	HP:0003363				HP:0001696															

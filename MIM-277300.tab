@@ -1,0 +1,12 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:277300		MIM:602768			DLL3	HP:0000007																			
+MIM:277300		MIM:602768			DLL3	HP:0000470		FMA:7155		PATO:0000574															
+MIM:277300		MIM:602768			DLL3	HP:0000902		FMA:7574		PATO:0000642		FMA:7574													
+MIM:277300		MIM:602768			DLL3	HP:0001516																			
+MIM:277300		MIM:602768			DLL3	HP:0001522																			
+MIM:277300		MIM:602768			DLL3	HP:0001524		FMA:7181		PATO:0000574															
+MIM:277300		MIM:602768			DLL3	HP:0002205																			
+MIM:277300		MIM:602768			DLL3	HP:0002937																			
+MIM:277300		MIM:602768			DLL3	HP:0002948		FMA:9914		PATO:0000642		FMA:9914													
+MIM:277300		MIM:602768			DLL3	HP:0003305																			
+MIM:277300		MIM:602768			DLL3	HP:0003310																			

@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:260540		MIM:157140			MAPT	HP:0000597		FMA:49033		PATO:0001779															
+MIM:260540		MIM:157140			MAPT	HP:0000726																			
+MIM:260540		MIM:157140			MAPT	HP:0001300																			
+MIM:260540		MIM:157140			MAPT	HP:0001337																			
+MIM:260540		MIM:157140			MAPT	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:260540		MIM:157140			MAPT	HP:0002062				PATO:0000001									PATO:0000460						
+MIM:260540		MIM:157140			MAPT	HP:0002063																			
+MIM:260540		MIM:157140			MAPT	HP:0002185																			
+MIM:260540		MIM:157140			MAPT	HP:0002751				PATO:0000001															
+MIM:260540		MIM:157140			MAPT	HP:0003585																			

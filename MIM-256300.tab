@@ -1,0 +1,15 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:256300		MIM:602716			NPHS1	HP:0000007																			
+MIM:256300		MIM:602716			NPHS1	HP:0000083		FMA:7203		PATO:0001511															
+MIM:256300		MIM:602716			NPHS1	HP:0000093		FMA:12274		PATO:0002002		CHEBI:16541													
+MIM:256300		MIM:602716			NPHS1	HP:0000821																			
+MIM:256300		MIM:602716			NPHS1	HP:0000969				PATO:0001450															
+MIM:256300		MIM:602716			NPHS1	HP:0001518																			
+MIM:256300		MIM:602716			NPHS1	HP:0002020																			
+MIM:256300		MIM:602716			NPHS1	HP:0002021		FMA:14579		PATO:0001847															
+MIM:256300		MIM:602716			NPHS1	HP:0002643																			
+MIM:256300		MIM:602716			NPHS1	HP:0002719																			
+MIM:256300		MIM:602716			NPHS1	HP:0003073																			
+MIM:256300		MIM:602716			NPHS1	HP:0003075		FMA:62970		PATO:0001163		CHEBI:16541													
+MIM:256300		MIM:602716			NPHS1	HP:0003270		FMA:9577		PATO:0001602															
+MIM:256300		MIM:602716			NPHS1	HP:0008677																			

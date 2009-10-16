@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:243300		MIM:602397			ATP8B1	HP:0000007																			
+MIM:243300		MIM:602397			ATP8B1	HP:0000952																			
+MIM:243300		MIM:602397			ATP8B1	HP:0000989																			
+MIM:243300		MIM:602397			ATP8B1	HP:0001406																			
+MIM:243300		MIM:602397			ATP8B1	HP:0001733				PATO:0000470		GO:0006954													
+MIM:243300		MIM:602397			ATP8B1	HP:0002240		FMA:7197		PATO:0000586															
+MIM:243300		MIM:602397			ATP8B1	HP:0002613																			
+MIM:243300		MIM:602397			ATP8B1	HP:0002908																			
+MIM:243300		MIM:602397			ATP8B1	HP:0003618																			

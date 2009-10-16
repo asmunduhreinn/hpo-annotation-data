@@ -1,0 +1,23 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:256840		MIM:610150			CCT5	HP:0000007																			
+MIM:256840		MIM:610150			CCT5	HP:0001258																			
+MIM:256840		MIM:610150			CCT5	HP:0001347																			
+MIM:256840		MIM:610150			CCT5	HP:0001760				PATO:0000001									PATO:0000460						
+MIM:256840		MIM:610150			CCT5	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:256840		MIM:610150			CCT5	HP:0002061		FMA:7184		HP:0001257															
+MIM:256840		MIM:610150			CCT5	HP:0002064																			
+MIM:256840		MIM:610150			CCT5	HP:0002169																			
+MIM:256840		MIM:610150			CCT5	HP:0002754		GO:0006954		PATO:0002017															
+MIM:256840		MIM:610150			CCT5	HP:0002934																			
+MIM:256840		MIM:610150			CCT5	HP:0003407																			
+MIM:256840		MIM:610150			CCT5	HP:0003437																			
+MIM:256840		MIM:610150			CCT5	HP:0003477		GO:0030424		HP:0003407															
+MIM:256840		MIM:610150			CCT5	HP:0003487																			
+MIM:256840		MIM:610150			CCT5	HP:0003579																			
+MIM:256840		MIM:610150			CCT5	HP:0003580																			
+MIM:256840		MIM:610150			CCT5	HP:0003678																			
+MIM:256840		MIM:610150			CCT5	HP:0003693		_:distal_muscle		PATO:0001623															
+MIM:256840		MIM:610150			CCT5	HP:0005040																			
+MIM:256840		MIM:610150			CCT5	HP:0006827																			
+MIM:256840		MIM:610150			CCT5	HP:0006843																			
+MIM:256840		MIM:610150			CCT5	HP:0006984																			

@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:253601		MIM:603009			DYSF	HP:0000007																			
+MIM:253601		MIM:603009			DYSF	HP:0002147																			
+MIM:253601		MIM:603009			DYSF	HP:0003322																			
+MIM:253601		MIM:603009			DYSF	HP:0003544																			
+MIM:253601		MIM:603009			DYSF	HP:0003551																			
+MIM:253601		MIM:603009			DYSF	HP:0003555																			
+MIM:253601		MIM:603009			DYSF	HP:0003556		FMA:9727		PATO:0001958															
+MIM:253601		MIM:603009			DYSF	HP:0003677																			
+MIM:253601		MIM:603009			DYSF	HP:0003701		_:proximal_muscle		PATO:0001779															

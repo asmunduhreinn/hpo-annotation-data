@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:257320		MIM:600514			RELN	HP:0000007																			
+MIM:257320		MIM:600514			RELN	HP:0000252		FMA:46565		PATO:0000587															
+MIM:257320		MIM:600514			RELN	HP:0000426																			
+MIM:257320		MIM:600514			RELN	HP:0006818																			
+MIM:257320		MIM:600514			RELN	HP:0006891		FMA:61830		PATO:0000591															
+MIM:257320		MIM:600514			RELN	HP:0008493																			

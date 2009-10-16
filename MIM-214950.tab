@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:214950		MIM:604489			AMACR	HP:0000007																			
+MIM:214950		MIM:604489			AMACR	HP:0000986																			
+MIM:214950		MIM:604489			AMACR	HP:0001406																			
+MIM:214950		MIM:604489			AMACR	HP:0001411		FMA:7197		PATO:0001509									PATO:0000460						
+MIM:214950		MIM:604489			AMACR	HP:0001925																			
+MIM:214950		MIM:604489			AMACR	HP:0002024		GO:0050892		PATO:0000001									PATO:0000460						
+MIM:214950		MIM:604489			AMACR	HP:0002240		FMA:7197		PATO:0000586															
+MIM:214950		MIM:604489			AMACR	HP:0002904																			
+MIM:214950		MIM:604489			AMACR	HP:0003623																			

@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:241600		MIM:109700			B2M	HP:0000007																			
+MIM:241600		MIM:109700			B2M	HP:0002970																			
+MIM:241600		MIM:109700			B2M	HP:0002979		FMA:24979		PATO:0000406															
+MIM:241600		MIM:109700			B2M	HP:0002998		FMA:23466		PATO:0000574															
+MIM:241600		MIM:109700			B2M	HP:0003052																			
+MIM:241600		MIM:109700			B2M	HP:0003075		FMA:62970		PATO:0001163		CHEBI:16541													
+MIM:241600		MIM:109700			B2M	HP:0008340		FMA:63083		PATO:0001163		FMA:62872													

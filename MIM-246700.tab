@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:246700		MIM:607690			SAR1B	HP:0000007																			
+MIM:246700		MIM:607690			SAR1B	HP:0000478				PATO:0000001									PATO:0000460						
+MIM:246700		MIM:607690			SAR1B	HP:0001249																			
+MIM:246700		MIM:607690			SAR1B	HP:0001316																			
+MIM:246700		MIM:607690			SAR1B	HP:0001510		GO:0040007		PATO:0000911															
+MIM:246700		MIM:607690			SAR1B	HP:0001871																			
+MIM:246700		MIM:607690			SAR1B	HP:0002495																			
+MIM:246700		MIM:607690			SAR1B	HP:0002570																			
+MIM:246700		MIM:607690			SAR1B	HP:0003073																			
+MIM:246700		MIM:607690			SAR1B	HP:0004395																			

@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:222100					FOXP3, HNF1A, ITPR3, OAS1, PTPN22	HP:0000103		GO:0060073		PATO:0000912															
+MIM:222100					FOXP3, HNF1A, ITPR3, OAS1, PTPN22	HP:0000819																			
+MIM:222100					FOXP3, HNF1A, ITPR3, OAS1, PTPN22	HP:0001425																			
+MIM:222100					FOXP3, HNF1A, ITPR3, OAS1, PTPN22	HP:0001959		GO:0042756		PATO:0000912															
+MIM:222100					FOXP3, HNF1A, ITPR3, OAS1, PTPN22	HP:0001993																			
+MIM:222100					FOXP3, HNF1A, ITPR3, OAS1, PTPN22	HP:0002591		GO:0042755		PATO:0000912									PATO:0000396						
+MIM:222100					FOXP3, HNF1A, ITPR3, OAS1, PTPN22	HP:0002715																			
+MIM:222100					FOXP3, HNF1A, ITPR3, OAS1, PTPN22	HP:0003074		FMA:62970		PATO:0001162		CHEBI:17234													

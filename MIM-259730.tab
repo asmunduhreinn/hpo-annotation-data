@@ -1,0 +1,17 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:259730		MIM:611492			CA2	HP:0000007																			
+MIM:259730		MIM:611492			CA2	HP:0000572																			
+MIM:259730		MIM:611492			CA2	HP:0000689																			
+MIM:259730		MIM:611492			CA2	HP:0001433		_:liver_and_spleen		PATO:0000586															
+MIM:259730		MIM:611492			CA2	HP:0001509		FMA:20394		PATO:0000569															
+MIM:259730		MIM:611492			CA2	HP:0001903																			
+MIM:259730		MIM:611492			CA2	HP:0001978		GO:0030097		PATO:0000628															
+MIM:259730		MIM:611492			CA2	HP:0002135		FMA:62514		PATO:0001447															
+MIM:259730		MIM:611492			CA2	HP:0002796				PATO:0001788									PATO:0001869						
+MIM:259730		MIM:611492			CA2	HP:0002900		FMA:62970		PATO:0001163		CHEBI:26216													
+MIM:259730		MIM:611492			CA2	HP:0003034		FMA:24013		PATO:0001788									PATO:0001869						
+MIM:259730		MIM:611492			CA2	HP:0003148																			
+MIM:259730		MIM:611492			CA2	HP:0004437				PATO:0000584															
+MIM:259730		MIM:611492			CA2	HP:0008153																			
+MIM:259730		MIM:611492			CA2	HP:0008341																			
+MIM:259730		MIM:611492			CA2	HP:0008495																			

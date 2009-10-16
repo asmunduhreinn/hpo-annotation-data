@@ -1,0 +1,19 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:277580					EDN3, EDNRB, SOX10	HP:0000007																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0000374		FMA:65132		HP:0000404															
+MIM:277580					EDN3, EDNRB, SOX10	HP:0000639																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0001053																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0001100																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0001251		GO:0050881		PATO:0000770															
+MIM:277580					EDN3, EDNRB, SOX10	HP:0001252		FMA:30316		PATO:0001619									PATO:0001869						
+MIM:277580					EDN3, EDNRB, SOX10	HP:0001263																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0001271																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0001425																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0002211																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0002226		FMA:71098		PATO:0000323															
+MIM:277580					EDN3, EDNRB, SOX10	HP:0002227		FMA:70742		PATO:0000323															
+MIM:277580					EDN3, EDNRB, SOX10	HP:0002251		FMA:14543		PATO:0000586		FMA:5884													
+MIM:277580					EDN3, EDNRB, SOX10	HP:0002271																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0002313																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0002415																			
+MIM:277580					EDN3, EDNRB, SOX10	HP:0002596																			

@@ -1,0 +1,19 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:248510		MIM:609489			MANBA	HP:0000007																			
+MIM:248510		MIM:609489			MANBA	HP:0000404		GO:0007605		PATO:0000462															
+MIM:248510		MIM:609489			MANBA	HP:0000503																			
+MIM:248510		MIM:609489			MANBA	HP:0000718																			
+MIM:248510		MIM:609489			MANBA	HP:0000752																			
+MIM:248510		MIM:609489			MANBA	HP:0001014																			
+MIM:248510		MIM:609489			MANBA	HP:0001249																			
+MIM:248510		MIM:609489			MANBA	HP:0001250																			
+MIM:248510		MIM:609489			MANBA	HP:0001252		FMA:30316		PATO:0001619									PATO:0001869						
+MIM:248510		MIM:609489			MANBA	HP:0001478																			
+MIM:248510		MIM:609489			MANBA	HP:0001626				PATO:0000001									PATO:0000460						
+MIM:248510		MIM:609489			MANBA	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:248510		MIM:609489			MANBA	HP:0002167																			
+MIM:248510		MIM:609489			MANBA	HP:0002719																			
+MIM:248510		MIM:609489			MANBA	HP:0004652																			
+MIM:248510		MIM:609489			MANBA	HP:0005124																			
+MIM:248510		MIM:609489			MANBA	HP:0007181		FMA:37417		PATO:0001623															
+MIM:248510		MIM:609489			MANBA	HP:0007205																			

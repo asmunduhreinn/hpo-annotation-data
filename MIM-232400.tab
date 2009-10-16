@@ -1,0 +1,19 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:232400		MIM:610860			AGL	HP:0000007																			
+MIM:232400		MIM:610860			AGL	HP:0000233																			
+MIM:232400		MIM:610860			AGL	HP:0000272		FMA:52747		PATO:0000645															
+MIM:232400		MIM:610860			AGL	HP:0000425		FMA:52745		PATO:0000407															
+MIM:232400		MIM:610860			AGL	HP:0000490																			
+MIM:232400		MIM:610860			AGL	HP:0001324		FMA:5022		PATO:0001779															
+MIM:232400		MIM:610860			AGL	HP:0001395		MPATH:181		PATO:0000470															
+MIM:232400		MIM:610860			AGL	HP:0001509		FMA:20394		PATO:0000569															
+MIM:232400		MIM:610860			AGL	HP:0001638																			
+MIM:232400		MIM:610860			AGL	HP:0001943		FMA:62970		PATO:0001163		CHEBI:17234							PATO:0001869						
+MIM:232400		MIM:610860			AGL	HP:0002147																			
+MIM:232400		MIM:610860			AGL	HP:0002240		FMA:7197		PATO:0000586															
+MIM:232400		MIM:610860			AGL	HP:0002910																			
+MIM:232400		MIM:610860			AGL	HP:0003077		FMA:62970		PATO:0001162		CHEBI:18059													
+MIM:232400		MIM:610860			AGL	HP:0003198																			
+MIM:232400		MIM:610860			AGL	HP:0003693		_:distal_muscle		PATO:0001623															
+MIM:232400		MIM:610860			AGL	HP:0004501																			
+MIM:232400		MIM:610860			AGL	HP:0005167																			

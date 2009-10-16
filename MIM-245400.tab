@@ -1,0 +1,13 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:245400		MIM:611224			SUCLG1	HP:0000951		FMA:7163		PATO:0000001									PATO:0000460						
+MIM:245400		MIM:611224			SUCLG1	HP:0001250																			
+MIM:245400		MIM:611224			SUCLG1	HP:0001251		GO:0050881		PATO:0000770															
+MIM:245400		MIM:611224			SUCLG1	HP:0001252		FMA:30316		PATO:0001619									PATO:0001869						
+MIM:245400		MIM:611224			SUCLG1	HP:0001255																			
+MIM:245400		MIM:611224			SUCLG1	HP:0001510		GO:0040007		PATO:0000911															
+MIM:245400		MIM:611224			SUCLG1	HP:0002148		FMA:62970		PATO:0001163		CHEBI:26020													
+MIM:245400		MIM:611224			SUCLG1	HP:0002275																			
+MIM:245400		MIM:611224			SUCLG1	HP:0002317																			
+MIM:245400		MIM:611224			SUCLG1	HP:0003255																			
+MIM:245400		MIM:611224			SUCLG1	HP:0005941																			
+MIM:245400		MIM:611224			SUCLG1	HP:0008335		FMA:7203		HP:0002903															

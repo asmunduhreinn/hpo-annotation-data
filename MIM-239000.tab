@@ -1,0 +1,18 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:239000		MIM:602643			TNFRSF11B	HP:0000007																			
+MIM:239000		MIM:602643			TNFRSF11B	HP:0000256		FMA:46565		PATO:0000586															
+MIM:239000		MIM:602643			TNFRSF11B	HP:0000939				_:increased_bone_resorption_and__:decreased_osteogenesis									PATO:0001869						
+MIM:239000		MIM:602643			TNFRSF11B	HP:0001102																			
+MIM:239000		MIM:602643			TNFRSF11B	HP:0001324		FMA:5022		PATO:0001779															
+MIM:239000		MIM:602643			TNFRSF11B	HP:0001509		FMA:20394		PATO:0000569															
+MIM:239000		MIM:602643			TNFRSF11B	HP:0002149																			
+MIM:239000		MIM:602643			TNFRSF11B	HP:0002684		FMA:52800		PATO:0000591															
+MIM:239000		MIM:602643			TNFRSF11B	HP:0002905		FMA:62970		PATO:0001162		CHEBI:26020													
+MIM:239000		MIM:602643			TNFRSF11B	HP:0002970																			
+MIM:239000		MIM:602643			TNFRSF11B	HP:0002979		FMA:24979		PATO:0000406															
+MIM:239000		MIM:602643			TNFRSF11B	HP:0003052																			
+MIM:239000		MIM:602643			TNFRSF11B	HP:0003080																			
+MIM:239000		MIM:602643			TNFRSF11B	HP:0003148																			
+MIM:239000		MIM:602643			TNFRSF11B	HP:0003260																			
+MIM:239000		MIM:602643			TNFRSF11B	HP:0006480																			
+MIM:239000		MIM:602643			TNFRSF11B	HP:0007632																			

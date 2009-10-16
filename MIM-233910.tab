@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:233910		MIM:600225			GCH1	HP:0000007																			
+MIM:233910		MIM:600225			GCH1	HP:0001250																			
+MIM:233910		MIM:600225			GCH1	HP:0002509		FMA:7182		HP:0001276															
+MIM:233910		MIM:600225			GCH1	HP:0004923																			
+MIM:233910		MIM:600225			GCH1	HP:0006829		FMA:5022		PATO:0001619									PATO:0000396						
+MIM:233910		MIM:600225			GCH1	HP:0006887																			

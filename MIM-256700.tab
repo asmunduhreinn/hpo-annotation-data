@@ -1,0 +1,24 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:256700					KIF1B, NME1	HP:0000006																			
+MIM:256700					KIF1B, NME1	HP:0000765				PATO:0000001									PATO:0000460						
+MIM:256700					KIF1B, NME1	HP:0000822																			
+MIM:256700					KIF1B, NME1	HP:0000978																			
+MIM:256700					KIF1B, NME1	HP:0001251		GO:0050881		PATO:0000770															
+MIM:256700					KIF1B, NME1	HP:0001336																			
+MIM:256700					KIF1B, NME1	HP:0001420																			
+MIM:256700					KIF1B, NME1	HP:0001508																			
+MIM:256700					KIF1B, NME1	HP:0001824																			
+MIM:256700					KIF1B, NME1	HP:0001903																			
+MIM:256700					KIF1B, NME1	HP:0001945																			
+MIM:256700					KIF1B, NME1	HP:0002014		FMA:64183		PATO:0001548															
+MIM:256700					KIF1B, NME1	HP:0002027																			
+MIM:256700					KIF1B, NME1	HP:0002176																			
+MIM:256700					KIF1B, NME1	HP:0002277																			
+MIM:256700					KIF1B, NME1	HP:0002653																			
+MIM:256700					KIF1B, NME1	HP:0003005																			
+MIM:256700					KIF1B, NME1	HP:0003270		FMA:9577		PATO:0001602															
+MIM:256700					KIF1B, NME1	HP:0003674																			
+MIM:256700					KIF1B, NME1	HP:0003815																			
+MIM:256700					KIF1B, NME1	HP:0003829																			
+MIM:256700					KIF1B, NME1	HP:0006738																			
+MIM:256700					KIF1B, NME1	HP:0006747																			

@@ -1,0 +1,24 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:226600					COL7A1, MMP1	HP:0000007																			
+MIM:226600					COL7A1, MMP1	HP:0000160																			
+MIM:226600					COL7A1, MMP1	HP:0000509																			
+MIM:226600					COL7A1, MMP1	HP:0000518																			
+MIM:226600					COL7A1, MMP1	HP:0000559		FMA:58238		HP:0000987															
+MIM:226600					COL7A1, MMP1	HP:0001030		FMA:7163		PATO:0001362															
+MIM:226600					COL7A1, MMP1	HP:0001056																			
+MIM:226600					COL7A1, MMP1	HP:0001075																			
+MIM:226600					COL7A1, MMP1	HP:0001372				HP:0001371															
+MIM:226600					COL7A1, MMP1	HP:0001510		GO:0040007		PATO:0000911															
+MIM:226600					COL7A1, MMP1	HP:0001596																			
+MIM:226600					COL7A1, MMP1	HP:0001903																			
+MIM:226600					COL7A1, MMP1	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:226600					COL7A1, MMP1	HP:0002015		GO:0043050		PATO:0001641															
+MIM:226600					COL7A1, MMP1	HP:0002019		GO:0030421		PATO:0000381															
+MIM:226600					COL7A1, MMP1	HP:0002043		FMA:7131		PATO:0001847															
+MIM:226600					COL7A1, MMP1	HP:0002164		FMA:54326		PATO:0001780															
+MIM:226600					COL7A1, MMP1	HP:0002860																			
+MIM:226600					COL7A1, MMP1	HP:0003577																			
+MIM:226600					COL7A1, MMP1	HP:0004057																			
+MIM:226600					COL7A1, MMP1	HP:0004395																			
+MIM:226600					COL7A1, MMP1	HP:0005203																			
+MIM:226600					COL7A1, MMP1	HP:0006297																			

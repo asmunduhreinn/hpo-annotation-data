@@ -1,0 +1,31 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:257200		MIM:607608			SMPD1	HP:0000007																			
+MIM:257200		MIM:607608			SMPD1	HP:0000939				_:increased_bone_resorption_and__:decreased_osteogenesis									PATO:0001869						
+MIM:257200		MIM:607608			SMPD1	HP:0000986																			
+MIM:257200		MIM:607608			SMPD1	HP:0000991																			
+MIM:257200		MIM:607608			SMPD1	HP:0001114																			
+MIM:257200		MIM:607608			SMPD1	HP:0001252		FMA:30316		PATO:0001619									PATO:0001869						
+MIM:257200		MIM:607608			SMPD1	HP:0001255																			
+MIM:257200		MIM:607608			SMPD1	HP:0001257																			
+MIM:257200		MIM:607608			SMPD1	HP:0001265																			
+MIM:257200		MIM:607608			SMPD1	HP:0001324		FMA:5022		PATO:0001779															
+MIM:257200		MIM:607608			SMPD1	HP:0001462																			
+MIM:257200		MIM:607608			SMPD1	HP:0001508																			
+MIM:257200		MIM:607608			SMPD1	HP:0001509		FMA:20394		PATO:0000569															
+MIM:257200		MIM:607608			SMPD1	HP:0001538		FMA:9577		PATO:0000623															
+MIM:257200		MIM:607608			SMPD1	HP:0001744		FMA:7196		PATO:0000586															
+MIM:257200		MIM:607608			SMPD1	HP:0001823																			
+MIM:257200		MIM:607608			SMPD1	HP:0001935																			
+MIM:257200		MIM:607608			SMPD1	HP:0001979																			
+MIM:257200		MIM:607608			SMPD1	HP:0001982																			
+MIM:257200		MIM:607608			SMPD1	HP:0002013																			
+MIM:257200		MIM:607608			SMPD1	HP:0002019		GO:0030421		PATO:0000381															
+MIM:257200		MIM:607608			SMPD1	HP:0002022																			
+MIM:257200		MIM:607608			SMPD1	HP:0002063																			
+MIM:257200		MIM:607608			SMPD1	HP:0002205																			
+MIM:257200		MIM:607608			SMPD1	HP:0002207																			
+MIM:257200		MIM:607608			SMPD1	HP:0002240		FMA:7197		PATO:0000586															
+MIM:257200		MIM:607608			SMPD1	HP:0002305																			
+MIM:257200		MIM:607608			SMPD1	HP:0002716		FMA:30315		PATO:0000644															
+MIM:257200		MIM:607608			SMPD1	HP:0003576																			
+MIM:257200		MIM:607608			SMPD1	HP:0003609																			
