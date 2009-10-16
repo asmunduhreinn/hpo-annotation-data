@@ -1,0 +1,17 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:123000		MIM:605145			ANKH	HP:0000006																			
+MIM:123000		MIM:605145			ANKH	HP:0000007																			
+MIM:123000		MIM:605145			ANKH	HP:0000164				PATO:0000001									PATO:0000460						
+MIM:123000		MIM:605145			ANKH	HP:0000303		FMA:46495		PATO:0001482															
+MIM:123000		MIM:605145			ANKH	HP:0000410																			
+MIM:123000		MIM:605145			ANKH	HP:0000925				PATO:0000001									PATO:0000460						
+MIM:123000		MIM:605145			ANKH	HP:0001507		GO:0040007		PATO:0000001									PATO:0000460						
+MIM:123000		MIM:605145			ANKH	HP:0001739				PATO:0000001									PATO:0000460						
+MIM:123000		MIM:605145			ANKH	HP:0001742																			
+MIM:123000		MIM:605145			ANKH	HP:0002008		FMA:50868		PATO:0001624															
+MIM:123000		MIM:605145			ANKH	HP:0002644				PATO:0000001									PATO:0000460						
+MIM:123000		MIM:605145			ANKH	HP:0002694		FMA:52801		PATO:0001788									PATO:0001869						
+MIM:123000		MIM:605145			ANKH	HP:0003016		FMA:24014		PATO:0000600															
+MIM:123000		MIM:605145			ANKH	HP:0004407																			
+MIM:123000		MIM:605145			ANKH	HP:0006384																			
+MIM:123000		MIM:605145			ANKH	HP:0006422																			

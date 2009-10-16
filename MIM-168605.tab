@@ -1,0 +1,18 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:168605		MIM:601143			DCTN1	HP:0000006																			
+MIM:168605		MIM:601143			DCTN1	HP:0000298																			
+MIM:168605		MIM:601143			DCTN1	HP:0000716																			
+MIM:168605		MIM:601143			DCTN1	HP:0000741																			
+MIM:168605		MIM:601143			DCTN1	HP:0001260																			
+MIM:168605		MIM:601143			DCTN1	HP:0001300																			
+MIM:168605		MIM:601143			DCTN1	HP:0001337																			
+MIM:168605		MIM:601143			DCTN1	HP:0001621																			
+MIM:168605		MIM:601143			DCTN1	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:168605		MIM:601143			DCTN1	HP:0002063																			
+MIM:168605		MIM:601143			DCTN1	HP:0002067																			
+MIM:168605		MIM:601143			DCTN1	HP:0002093		FMA:7158		PATO:0001628															
+MIM:168605		MIM:601143			DCTN1	HP:0002171		FMA:55675		PATO:0002002		FMA:54537													
+MIM:168605		MIM:601143			DCTN1	HP:0002360				PATO:0000001									PATO:0000460						
+MIM:168605		MIM:601143			DCTN1	HP:0002400																			
+MIM:168605		MIM:601143			DCTN1	HP:0004892																			
+MIM:168605		MIM:601143			DCTN1	HP:0007311																			

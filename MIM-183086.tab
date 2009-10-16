@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:183086		MIM:601011			CACNA1A	HP:0000006																			
+MIM:183086		MIM:601011			CACNA1A	HP:0000617																			
+MIM:183086		MIM:601011			CACNA1A	HP:0000640																			
+MIM:183086		MIM:601011			CACNA1A	HP:0000763																			
+MIM:183086		MIM:601011			CACNA1A	HP:0001260																			
+MIM:183086		MIM:601011			CACNA1A	HP:0001272																			
+MIM:183086		MIM:601011			CACNA1A	HP:0002015		GO:0043050		PATO:0001641															
+MIM:183086		MIM:601011			CACNA1A	HP:0002073																			
+MIM:183086		MIM:601011			CACNA1A	HP:0003743																			
+MIM:183086		MIM:601011			CACNA1A	HP:0007670		GO:0060005		PATO:0000460															

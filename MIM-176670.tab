@@ -1,0 +1,14 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:176670		MIM:150330			LMNA	HP:0000006																			
+MIM:176670		MIM:150330			LMNA	HP:0000210		FMA:54396		PATO:0000587															
+MIM:176670		MIM:150330			LMNA	HP:0000272		FMA:52747		PATO:0000645															
+MIM:176670		MIM:150330			LMNA	HP:0000951		FMA:7163		PATO:0000001									PATO:0000460						
+MIM:176670		MIM:150330			LMNA	HP:0001514		GO:0040007		PATO:0000911															
+MIM:176670		MIM:150330			LMNA	HP:0001596																			
+MIM:176670		MIM:150330			LMNA	HP:0001635		GO:0060047		PATO:0001641															
+MIM:176670		MIM:150330			LMNA	HP:0001658																			
+MIM:176670		MIM:150330			LMNA	HP:0001681																			
+MIM:176670		MIM:150330			LMNA	HP:0004416																			
+MIM:176670		MIM:150330			LMNA	HP:0005181																			
+MIM:176670		MIM:150330			LMNA	HP:0005744																			
+MIM:176670		MIM:150330			LMNA	HP:0007485				PATO:0001557		FMA:74315													

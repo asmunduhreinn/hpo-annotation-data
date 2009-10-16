@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:162830		MIM:138971			CSF3R	HP:0000006																			
+MIM:162830		MIM:138971			CSF3R	HP:0001433		_:liver_and_spleen		PATO:0000586															
+MIM:162830		MIM:138971			CSF3R	HP:0001871																			
+MIM:162830		MIM:138971			CSF3R	HP:0002684		FMA:52800		PATO:0000591															
+MIM:162830		MIM:138971			CSF3R	HP:0008318																			

@@ -1,0 +1,27 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:102700		MIM:608958			ADA	HP:0000007																			
+MIM:102700		MIM:608958			ADA	HP:0000246		GO:0006954		PATO:0002017															
+MIM:102700		MIM:608958			ADA	HP:0000926				PATO:0000407									PATO:0001869						
+MIM:102700		MIM:608958			ADA	HP:0001442																			
+MIM:102700		MIM:608958			ADA	HP:0001508																			
+MIM:102700		MIM:608958			ADA	HP:0001547		FMA:7480		PATO:0000051									PATO:0000460						
+MIM:102700		MIM:608958			ADA	HP:0001744		FMA:7196		PATO:0000586															
+MIM:102700		MIM:608958			ADA	HP:0001880																			
+MIM:102700		MIM:608958			ADA	HP:0001888																			
+MIM:102700		MIM:608958			ADA	HP:0001890																			
+MIM:102700		MIM:608958			ADA	HP:0001936																			
+MIM:102700		MIM:608958			ADA	HP:0001967																			
+MIM:102700		MIM:608958			ADA	HP:0002014		FMA:64183		PATO:0001548															
+MIM:102700		MIM:608958			ADA	HP:0002090																			
+MIM:102700		MIM:608958			ADA	HP:0002099																			
+MIM:102700		MIM:608958			ADA	HP:0002240		FMA:7197		PATO:0000586															
+MIM:102700		MIM:608958			ADA	HP:0002644				PATO:0000001									PATO:0000460						
+MIM:102700		MIM:608958			ADA	HP:0002664																			
+MIM:102700		MIM:608958			ADA	HP:0002856				PATO:0001557		CL:0000236													
+MIM:102700		MIM:608958			ADA	HP:0003212				PATO:0001162		FMA:62875													
+MIM:102700		MIM:608958			ADA	HP:0003584																			
+MIM:102700		MIM:608958			ADA	HP:0004430																			
+MIM:102700		MIM:608958			ADA	HP:0005359																			
+MIM:102700		MIM:608958			ADA	HP:0005387																			
+MIM:102700		MIM:608958			ADA	HP:0005388																			
+MIM:102700		MIM:608958			ADA	HP:0005424																			

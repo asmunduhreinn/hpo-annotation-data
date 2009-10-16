@@ -1,0 +1,16 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:153650		MIM:160775			MYH9	HP:0000006																			
+MIM:153650		MIM:160775			MYH9	HP:0000093		FMA:12274		PATO:0002002		CHEBI:16541													
+MIM:153650		MIM:160775			MYH9	HP:0000123																			
+MIM:153650		MIM:160775			MYH9	HP:0000404		GO:0007605		PATO:0000462															
+MIM:153650		MIM:160775			MYH9	HP:0000421																			
+MIM:153650		MIM:160775			MYH9	HP:0000518																			
+MIM:153650		MIM:160775			MYH9	HP:0000822																			
+MIM:153650		MIM:160775			MYH9	HP:0001902		FMA:62851		PATO:0001940															
+MIM:153650		MIM:160775			MYH9	HP:0002239		FMA:7152		PATO:0001561		MPATH:119													
+MIM:153650		MIM:160775			MYH9	HP:0002907																			
+MIM:153650		MIM:160775			MYH9	HP:0003774																			
+MIM:153650		MIM:160775			MYH9	HP:0004838																			
+MIM:153650		MIM:160775			MYH9	HP:0008513																			
+MIM:153650		MIM:160775			MYH9	HP:0008530																			
+MIM:153650		MIM:160775			MYH9	HP:0008579																			

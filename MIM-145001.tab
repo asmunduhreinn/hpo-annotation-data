@@ -1,0 +1,16 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:145001		MIM:607393			CDC73	HP:0000006																			
+MIM:145001		MIM:607393			CDC73	HP:0000113																			
+MIM:145001		MIM:607393			CDC73	HP:0000234				PATO:0000001									PATO:0000460						
+MIM:145001		MIM:607393			CDC73	HP:0000787																			
+MIM:145001		MIM:607393			CDC73	HP:0000843																			
+MIM:145001		MIM:607393			CDC73	HP:0001732				PATO:0000001									PATO:0000460						
+MIM:145001		MIM:607393			CDC73	HP:0002667																			
+MIM:145001		MIM:607393			CDC73	HP:0003072		FMA:62970		PATO:0001162		CHEBI:22984													
+MIM:145001		MIM:607393			CDC73	HP:0004706																			
+MIM:145001		MIM:607393			CDC73	HP:0006725																			
+MIM:145001		MIM:607393			CDC73	HP:0006735																			
+MIM:145001		MIM:607393			CDC73	HP:0006766																			
+MIM:145001		MIM:607393			CDC73	HP:0006780																			
+MIM:145001		MIM:607393			CDC73	HP:0006781																			
+MIM:145001		MIM:607393			CDC73	HP:0008257																			

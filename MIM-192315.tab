@@ -1,0 +1,16 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:192315		MIM:606609			TREX1	HP:0000006																			
+MIM:192315		MIM:606609			TREX1	HP:0000505		GO:0007601		PATO:0000762															
+MIM:192315		MIM:606609			TREX1	HP:0000573		FMA:58301		PATO:0001561		MPATH:119													
+MIM:192315		MIM:606609			TREX1	HP:0000924				PATO:0000001									PATO:0000460						
+MIM:192315		MIM:606609			TREX1	HP:0000951		FMA:7163		PATO:0000001									PATO:0000460						
+MIM:192315		MIM:606609			TREX1	HP:0001147																			
+MIM:192315		MIM:606609			TREX1	HP:0001250																			
+MIM:192315		MIM:606609			TREX1	HP:0001260																			
+MIM:192315		MIM:606609			TREX1	HP:0001269																			
+MIM:192315		MIM:606609			TREX1	HP:0002395		FMA:7184		HP:0001347															
+MIM:192315		MIM:606609			TREX1	HP:0002633																			
+MIM:192315		MIM:606609			TREX1	HP:0003565																			
+MIM:192315		MIM:606609			TREX1	HP:0006970																			
+MIM:192315		MIM:606609			TREX1	HP:0007009		FMA:55675		PATO:0000639															
+MIM:192315		MIM:606609			TREX1	HP:0007017																			

@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:193670		MIM:162643			CXCR4	HP:0000006																			
+MIM:193670		MIM:162643			CXCR4	HP:0000119				PATO:0000001									PATO:0000460						
+MIM:193670		MIM:162643			CXCR4	HP:0000951		FMA:7163		PATO:0000001									PATO:0000460						
+MIM:193670		MIM:162643			CXCR4	HP:0002788																			
+MIM:193670		MIM:162643			CXCR4	HP:0003579																			
+MIM:193670		MIM:162643			CXCR4	HP:0004315		FMA:62872		PATO:0001997															
+MIM:193670		MIM:162643			CXCR4	HP:0005533		FMA:74552		HP:0001875															

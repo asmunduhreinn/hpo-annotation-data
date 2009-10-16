@@ -1,0 +1,21 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:167320		MIM:601023			VCP	HP:0000006																			
+MIM:167320		MIM:601023			VCP	HP:0001332		FMA:30316		PATO:0001814															
+MIM:167320		MIM:601023			VCP	HP:0002145																			
+MIM:167320		MIM:601023			VCP	HP:0002147																			
+MIM:167320		MIM:601023			VCP	HP:0002355																			
+MIM:167320		MIM:601023			VCP	HP:0002534				PATO:0001779															
+MIM:167320		MIM:601023			VCP	HP:0002644				PATO:0000001									PATO:0000460						
+MIM:167320		MIM:601023			VCP	HP:0002938		FMA:75791		PATO:0002017															
+MIM:167320		MIM:601023			VCP	HP:0003198																			
+MIM:167320		MIM:601023			VCP	HP:0003418																			
+MIM:167320		MIM:601023			VCP	HP:0003551																			
+MIM:167320		MIM:601023			VCP	HP:0003593																			
+MIM:167320		MIM:601023			VCP	HP:0003691																			
+MIM:167320		MIM:601023			VCP	HP:0003693		_:distal_muscle		PATO:0001623															
+MIM:167320		MIM:601023			VCP	HP:0003701		_:proximal_muscle		PATO:0001779															
+MIM:167320		MIM:601023			VCP	HP:0003805																			
+MIM:167320		MIM:601023			VCP	HP:0007112																			
+MIM:167320		MIM:601023			VCP	HP:0008266																			
+MIM:167320		MIM:601023			VCP	HP:0008946				PATO:0000001															
+MIM:167320		MIM:601023			VCP	HP:0009009				PATO:0000001															

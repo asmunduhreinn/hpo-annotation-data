@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:174500		MIM:605522			LMBR1	HP:0000006																			
+MIM:174500		MIM:605522			LMBR1	HP:0005866																			
+MIM:174500		MIM:605522			LMBR1	HP:0009606																			
+MIM:174500		MIM:605522			LMBR1	HP:0010066				PATO:0001473		FMA:25047													

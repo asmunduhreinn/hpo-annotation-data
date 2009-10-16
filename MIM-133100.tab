@@ -1,0 +1,15 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:133100		MIM:133171			EPOR	HP:0000006																			
+MIM:133100		MIM:133171			EPOR	HP:0000822																			
+MIM:133100		MIM:133171			EPOR	HP:0001050																			
+MIM:133100		MIM:133171			EPOR	HP:0001342																			
+MIM:133100		MIM:133171			EPOR	HP:0001658																			
+MIM:133100		MIM:133171			EPOR	HP:0001744		FMA:7196		PATO:0000586															
+MIM:133100		MIM:133171			EPOR	HP:0001898		FMA:62845		PATO:0001563															
+MIM:133100		MIM:133171			EPOR	HP:0001899																			
+MIM:133100		MIM:133171			EPOR	HP:0001900		FMA:62293		PATO:0000470															
+MIM:133100		MIM:133171			EPOR	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:133100		MIM:133171			EPOR	HP:0002315																			
+MIM:133100		MIM:133171			EPOR	HP:0002641		FMA:74552		HP:0001977															
+MIM:133100		MIM:133171			EPOR	HP:0002875																			
+MIM:133100		MIM:133171			EPOR	HP:0003813																			

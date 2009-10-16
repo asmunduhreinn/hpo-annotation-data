@@ -1,0 +1,16 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:160500		MIM:160760			MYH7	HP:0000006																			
+MIM:160500		MIM:160760			MYH7	HP:0001288																			
+MIM:160500		MIM:160760			MYH7	HP:0001644																			
+MIM:160500		MIM:160760			MYH7	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:160500		MIM:160760			MYH7	HP:0002309																			
+MIM:160500		MIM:160760			MYH7	HP:0003322																			
+MIM:160500		MIM:160760			MYH7	HP:0003324		FMA:72954		PATO:0001779															
+MIM:160500		MIM:160760			MYH7	HP:0003583																			
+MIM:160500		MIM:160760			MYH7	HP:0003584																			
+MIM:160500		MIM:160760			MYH7	HP:0003677																			
+MIM:160500		MIM:160760			MYH7	HP:0003701		_:proximal_muscle		PATO:0001779															
+MIM:160500		MIM:160760			MYH7	HP:0003705																			
+MIM:160500		MIM:160760			MYH7	HP:0006010																			
+MIM:160500		MIM:160760			MYH7	HP:0009031																			
+MIM:160500		MIM:160760			MYH7	HP:0009077																			

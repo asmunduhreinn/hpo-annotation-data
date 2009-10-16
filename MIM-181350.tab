@@ -1,0 +1,17 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:181350		MIM:150330			LMNA	HP:0000006																			
+MIM:181350		MIM:150330			LMNA	HP:0001644																			
+MIM:181350		MIM:150330			LMNA	HP:0001665																			
+MIM:181350		MIM:150330			LMNA	HP:0001771		FMA:51061		HP:0001371															
+MIM:181350		MIM:150330			LMNA	HP:0002309																			
+MIM:181350		MIM:150330			LMNA	HP:0002987		FMA:24901		HP:0001371															
+MIM:181350		MIM:150330			LMNA	HP:0003211																			
+MIM:181350		MIM:150330			LMNA	HP:0003306		FMA:13478		HP:0002063															
+MIM:181350		MIM:150330			LMNA	HP:0003324		FMA:72954		PATO:0001779															
+MIM:181350		MIM:150330			LMNA	HP:0003325		_:limb-girdle_muscle		HP:0001324															
+MIM:181350		MIM:150330			LMNA	HP:0003677																			
+MIM:181350		MIM:150330			LMNA	HP:0003701		_:proximal_muscle		PATO:0001779															
+MIM:181350		MIM:150330			LMNA	HP:0004631																			
+MIM:181350		MIM:150330			LMNA	HP:0005997																			
+MIM:181350		MIM:150330			LMNA	HP:0006785		_:limb-girdle_muscle		PATO:0001780															
+MIM:181350		MIM:150330			LMNA	HP:0008944				PATO:0000001															

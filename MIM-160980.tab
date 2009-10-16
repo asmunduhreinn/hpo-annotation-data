@@ -1,0 +1,16 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:160980		MIM:188830			PRKAR1A	HP:0000006																			
+MIM:160980		MIM:188830			PRKAR1A	HP:0000478				PATO:0000001									PATO:0000460						
+MIM:160980		MIM:188830			PRKAR1A	HP:0000845		GO:0030252		PATO:0000912															
+MIM:160980		MIM:188830			PRKAR1A	HP:0001007																			
+MIM:160980		MIM:188830			PRKAR1A	HP:0001425																			
+MIM:160980		MIM:188830			PRKAR1A	HP:0001480																			
+MIM:160980		MIM:188830			PRKAR1A	HP:0001635		GO:0060047		PATO:0001641															
+MIM:160980		MIM:188830			PRKAR1A	HP:0002297		FMA:53667		PATO:0000322															
+MIM:160980		MIM:188830			PRKAR1A	HP:0002666																			
+MIM:160980		MIM:188830			PRKAR1A	HP:0002890																			
+MIM:160980		MIM:188830			PRKAR1A	HP:0002893		MPATH:270		PATO:0000912															
+MIM:160980		MIM:188830			PRKAR1A	HP:0003764																			
+MIM:160980		MIM:188830			PRKAR1A	HP:0005587																			
+MIM:160980		MIM:188830			PRKAR1A	HP:0006769																			
+MIM:160980		MIM:188830			PRKAR1A	HP:0008225																			

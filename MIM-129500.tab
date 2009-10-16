@@ -1,0 +1,21 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:129500		MIM:604418			GJB6	HP:0000006																			
+MIM:129500		MIM:604418			GJB6	HP:0000164				PATO:0000001									PATO:0000460						
+MIM:129500		MIM:604418			GJB6	HP:0000486																			
+MIM:129500		MIM:604418			GJB6	HP:0000498		GO:0006954		PATO:0000912															
+MIM:129500		MIM:604418			GJB6	HP:0000509																			
+MIM:129500		MIM:604418			GJB6	HP:0000518																			
+MIM:129500		MIM:604418			GJB6	HP:0000535		FMA:71098		PATO:0001609															
+MIM:129500		MIM:604418			GJB6	HP:0000613																			
+MIM:129500		MIM:604418			GJB6	HP:0000653		FMA:70742		PATO:0001609															
+MIM:129500		MIM:604418			GJB6	HP:0000953		GO:0043473		PATO:0000912															
+MIM:129500		MIM:604418			GJB6	HP:0000972																			
+MIM:129500		MIM:604418			GJB6	HP:0001155				PATO:0000001									PATO:0000460						
+MIM:129500		MIM:604418			GJB6	HP:0001509		FMA:20394		PATO:0000569															
+MIM:129500		MIM:604418			GJB6	HP:0001760				PATO:0000001									PATO:0000460						
+MIM:129500		MIM:604418			GJB6	HP:0001792		FMA:54326		PATO:0000645															
+MIM:129500		MIM:604418			GJB6	HP:0001806																			
+MIM:129500		MIM:604418			GJB6	HP:0002221				PATO:0001557		FMA:70756													
+MIM:129500		MIM:604418			GJB6	HP:0002555				PATO:0001557		FMA:54319													
+MIM:129500		MIM:604418			GJB6	HP:0004767																			
+MIM:129500		MIM:604418			GJB6	HP:0008408																			

@@ -1,0 +1,40 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:117550		MIM:606681			NSD1	HP:0000156																			
+MIM:117550		MIM:606681			NSD1	HP:0000254		FMA:63864		PATO:0000001															
+MIM:117550		MIM:606681			NSD1	HP:0000256		FMA:46565		PATO:0000586															
+MIM:117550		MIM:606681			NSD1	HP:0000268																			
+MIM:117550		MIM:606681			NSD1	HP:0000303		FMA:46495		PATO:0001482															
+MIM:117550		MIM:606681			NSD1	HP:0000307		FMA:46495		PATO:0000944															
+MIM:117550		MIM:606681			NSD1	HP:0000388																			
+MIM:117550		MIM:606681			NSD1	HP:0000405																			
+MIM:117550		MIM:606681			NSD1	HP:0000486																			
+MIM:117550		MIM:606681			NSD1	HP:0000494																			
+MIM:117550		MIM:606681			NSD1	HP:0000540																			
+MIM:117550		MIM:606681			NSD1	HP:0000639																			
+MIM:117550		MIM:606681			NSD1	HP:0000715																			
+MIM:117550		MIM:606681			NSD1	HP:0001176		FMA:9712		PATO:0000586															
+MIM:117550		MIM:606681			NSD1	HP:0001250																			
+MIM:117550		MIM:606681			NSD1	HP:0001263																			
+MIM:117550		MIM:606681			NSD1	HP:0001319																			
+MIM:117550		MIM:606681			NSD1	HP:0001347																			
+MIM:117550		MIM:606681			NSD1	HP:0001388																			
+MIM:117550		MIM:606681			NSD1	HP:0001420																			
+MIM:117550		MIM:606681			NSD1	HP:0001597				PATO:0000001									PATO:0000460						
+MIM:117550		MIM:606681			NSD1	HP:0001629																			
+MIM:117550		MIM:606681			NSD1	HP:0001631																			
+MIM:117550		MIM:606681			NSD1	HP:0001643																			
+MIM:117550		MIM:606681			NSD1	HP:0001763																			
+MIM:117550		MIM:606681			NSD1	HP:0001833		FMA:9664		PATO:0000586															
+MIM:117550		MIM:606681			NSD1	HP:0002119																			
+MIM:117550		MIM:606681			NSD1	HP:0002280																			
+MIM:117550		MIM:606681			NSD1	HP:0002370																			
+MIM:117550		MIM:606681			NSD1	HP:0002382																			
+MIM:117550		MIM:606681			NSD1	HP:0002474																			
+MIM:117550		MIM:606681			NSD1	HP:0002667																			
+MIM:117550		MIM:606681			NSD1	HP:0002857																			
+MIM:117550		MIM:606681			NSD1	HP:0005616		GO:0070977		PATO:0000912															
+MIM:117550		MIM:606681			NSD1	HP:0006204																			
+MIM:117550		MIM:606681			NSD1	HP:0006288																			
+MIM:117550		MIM:606681			NSD1	HP:0006884																			
+MIM:117550		MIM:606681			NSD1	HP:0007128																			
+MIM:117550		MIM:606681			NSD1	HP:0008070		FMA:53667		PATO:0001609															

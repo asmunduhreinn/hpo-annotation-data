@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:192600					CAV3, MYH6, MYH7, MYLK2, SLC25A4	HP:0001635		GO:0060047		PATO:0001641															
+MIM:192600					CAV3, MYH6, MYH7, MYLK2, SLC25A4	HP:0001639																			
+MIM:192600					CAV3, MYH6, MYH7, MYLK2, SLC25A4	HP:0001670																			
+MIM:192600					CAV3, MYH6, MYH7, MYLK2, SLC25A4	HP:0001682																			
+MIM:192600					CAV3, MYH6, MYH7, MYLK2, SLC25A4	HP:0001699																			
+MIM:192600					CAV3, MYH6, MYH7, MYLK2, SLC25A4	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						

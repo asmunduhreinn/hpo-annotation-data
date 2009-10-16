@@ -1,0 +1,32 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:153480		MIM:601728			PTEN	HP:0000006																			
+MIM:153480		MIM:601728			PTEN	HP:0000040		FMA:9707		PATO:0000586															
+MIM:153480		MIM:601728			PTEN	HP:0000156																			
+MIM:153480		MIM:601728			PTEN	HP:0000256		FMA:46565		PATO:0000586															
+MIM:153480		MIM:601728			PTEN	HP:0000486																			
+MIM:153480		MIM:601728			PTEN	HP:0000494																			
+MIM:153480		MIM:601728			PTEN	HP:0000538																			
+MIM:153480		MIM:601728			PTEN	HP:0000646																			
+MIM:153480		MIM:601728			PTEN	HP:0000767																			
+MIM:153480		MIM:601728			PTEN	HP:0000872																			
+MIM:153480		MIM:601728			PTEN	HP:0000956																			
+MIM:153480		MIM:601728			PTEN	HP:0000957																			
+MIM:153480		MIM:601728			PTEN	HP:0001012																			
+MIM:153480		MIM:601728			PTEN	HP:0001014																			
+MIM:153480		MIM:601728			PTEN	HP:0001028																			
+MIM:153480		MIM:601728			PTEN	HP:0001155				PATO:0000001									PATO:0000460						
+MIM:153480		MIM:601728			PTEN	HP:0001250																			
+MIM:153480		MIM:601728			PTEN	HP:0001252		FMA:30316		PATO:0001619									PATO:0001869						
+MIM:153480		MIM:601728			PTEN	HP:0001382																			
+MIM:153480		MIM:601728			PTEN	HP:0002117																			
+MIM:153480		MIM:601728			PTEN	HP:0002194																			
+MIM:153480		MIM:601728			PTEN	HP:0002458																			
+MIM:153480		MIM:601728			PTEN	HP:0002558		FMA:67771		PATO:0000470															
+MIM:153480		MIM:601728			PTEN	HP:0002576																			
+MIM:153480		MIM:601728			PTEN	HP:0002609																			
+MIM:153480		MIM:601728			PTEN	HP:0002650				PATO:0002049									PATO:0001869						
+MIM:153480		MIM:601728			PTEN	HP:0002858																			
+MIM:153480		MIM:601728			PTEN	HP:0003517																			
+MIM:153480		MIM:601728			PTEN	HP:0007074		FMA:86464		PATO:0000591															
+MIM:153480		MIM:601728			PTEN	HP:0007873																			
+MIM:153480		MIM:601728			PTEN	HP:0008868																			

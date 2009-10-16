@@ -1,0 +1,32 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:183090		MIM:601517			ATXN2	HP:0000006																			
+MIM:183090		MIM:601517			ATXN2	HP:0000510																			
+MIM:183090		MIM:601517			ATXN2	HP:0000514																			
+MIM:183090		MIM:601517			ATXN2	HP:0000602		FMA:49033		PATO:0000763															
+MIM:183090		MIM:601517			ATXN2	HP:0000640																			
+MIM:183090		MIM:601517			ATXN2	HP:0000641																			
+MIM:183090		MIM:601517			ATXN2	HP:0000657																			
+MIM:183090		MIM:601517			ATXN2	HP:0000726																			
+MIM:183090		MIM:601517			ATXN2	HP:0001151																			
+MIM:183090		MIM:601517			ATXN2	HP:0001252		FMA:30316		PATO:0001619									PATO:0001869						
+MIM:183090		MIM:601517			ATXN2	HP:0001257																			
+MIM:183090		MIM:601517			ATXN2	HP:0001260																			
+MIM:183090		MIM:601517			ATXN2	HP:0001265																			
+MIM:183090		MIM:601517			ATXN2	HP:0001310																			
+MIM:183090		MIM:601517			ATXN2	HP:0001336																			
+MIM:183090		MIM:601517			ATXN2	HP:0002015		GO:0043050		PATO:0001641															
+MIM:183090		MIM:601517			ATXN2	HP:0002063																			
+MIM:183090		MIM:601517			ATXN2	HP:0002067																			
+MIM:183090		MIM:601517			ATXN2	HP:0002070		FMA:7182		HP:0001251															
+MIM:183090		MIM:601517			ATXN2	HP:0002073																			
+MIM:183090		MIM:601517			ATXN2	HP:0002075																			
+MIM:183090		MIM:601517			ATXN2	HP:0002172																			
+MIM:183090		MIM:601517			ATXN2	HP:0002198		FMA:78469		PATO:0000586															
+MIM:183090		MIM:601517			ATXN2	HP:0002468																			
+MIM:183090		MIM:601517			ATXN2	HP:0002495																			
+MIM:183090		MIM:601517			ATXN2	HP:0002503																			
+MIM:183090		MIM:601517			ATXN2	HP:0002542																			
+MIM:183090		MIM:601517			ATXN2	HP:0002839																			
+MIM:183090		MIM:601517			ATXN2	HP:0003693		_:distal_muscle		PATO:0001623															
+MIM:183090		MIM:601517			ATXN2	HP:0003743																			
+MIM:183090		MIM:601517			ATXN2	HP:0007197																			

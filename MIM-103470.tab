@@ -1,0 +1,13 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:103470					MITF, TYR	HP:0000404		GO:0007605		PATO:0000462															
+MIM:103470					MITF, TYR	HP:0000486																			
+MIM:103470					MITF, TYR	HP:0000505		GO:0007601		PATO:0000762															
+MIM:103470					MITF, TYR	HP:0000540																			
+MIM:103470					MITF, TYR	HP:0000613																			
+MIM:103470					MITF, TYR	HP:0000639																			
+MIM:103470					MITF, TYR	HP:0001010																			
+MIM:103470					MITF, TYR	HP:0001022																			
+MIM:103470					MITF, TYR	HP:0001093		FMA:50863		PATO:0000640															
+MIM:103470					MITF, TYR	HP:0001756		FMA:7193		PATO:0001624															
+MIM:103470					MITF, TYR	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:103470					MITF, TYR	HP:0007750																			

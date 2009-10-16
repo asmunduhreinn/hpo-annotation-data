@@ -1,0 +1,18 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:182600		MIM:606439			ATL1	HP:0000006																			
+MIM:182600		MIM:606439			ATL1	HP:0000012																			
+MIM:182600		MIM:606439			ATL1	HP:0000020																			
+MIM:182600		MIM:606439			ATL1	HP:0001270																			
+MIM:182600		MIM:606439			ATL1	HP:0001347																			
+MIM:182600		MIM:606439			ATL1	HP:0001760				PATO:0000001									PATO:0000460						
+MIM:182600		MIM:606439			ATL1	HP:0002061		FMA:7184		HP:0001257															
+MIM:182600		MIM:606439			ATL1	HP:0002064																			
+MIM:182600		MIM:606439			ATL1	HP:0002314		FMA:72635		PATO:0000639															
+MIM:182600		MIM:606439			ATL1	HP:0002650				PATO:0002049									PATO:0001869						
+MIM:182600		MIM:606439			ATL1	HP:0002839																			
+MIM:182600		MIM:606439			ATL1	HP:0003487																			
+MIM:182600		MIM:606439			ATL1	HP:0003587																			
+MIM:182600		MIM:606439			ATL1	HP:0003825																			
+MIM:182600		MIM:606439			ATL1	HP:0003830																			
+MIM:182600		MIM:606439			ATL1	HP:0006975																			
+MIM:182600		MIM:606439			ATL1	HP:0007340		FMA:9622		PATO:0001779															

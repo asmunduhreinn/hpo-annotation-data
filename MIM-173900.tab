@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:173900		MIM:601313			PKD1	HP:0000006																			
+MIM:173900		MIM:601313			PKD1	HP:0000083		FMA:7203		PATO:0001511															
+MIM:173900		MIM:601313			PKD1	HP:0000113																			
+MIM:173900		MIM:601313			PKD1	HP:0001407		FMA:7197		PATO:0001673															
+MIM:173900		MIM:601313			PKD1	HP:0001425																			
+MIM:173900		MIM:601313			PKD1	HP:0001726																			
+MIM:173900		MIM:601313			PKD1	HP:0002253		FMA:14543		PATO:0002002		MPATH:68													
+MIM:173900		MIM:601313			PKD1	HP:0002618																			
