@@ -1,0 +1,14 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:310468		MIM:300008			CLCN5	HP:0000084																			
+MIM:310468		MIM:300008			CLCN5	HP:0000092		FMA:15627		PATO:0001623															
+MIM:310468		MIM:300008			CLCN5	HP:0000096		FMA:15624		PATO:0001561		MPATH:184													
+MIM:310468		MIM:300008			CLCN5	HP:0000114																			
+MIM:310468		MIM:300008			CLCN5	HP:0000121																			
+MIM:310468		MIM:300008			CLCN5	HP:0000129																			
+MIM:310468		MIM:300008			CLCN5	HP:0000787																			
+MIM:310468		MIM:300008			CLCN5	HP:0001419																			
+MIM:310468		MIM:300008			CLCN5	HP:0001918																			
+MIM:310468		MIM:300008			CLCN5	HP:0002150		FMA:12274		PATO:0001162		CHEBI:22984													
+MIM:310468		MIM:300008			CLCN5	HP:0002907																			
+MIM:310468		MIM:300008			CLCN5	HP:0003126																			
+MIM:310468		MIM:300008			CLCN5	HP:0003813																			

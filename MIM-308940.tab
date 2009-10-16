@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:308940		MIM:303631			COL4A6	HP:0000087																			
+MIM:308940		MIM:303631			COL4A6	HP:0000093		FMA:12274		PATO:0002002		CHEBI:16541													
+MIM:308940		MIM:303631			COL4A6	HP:0000518																			
+MIM:308940		MIM:303631			COL4A6	HP:0000790		FMA:12274		PATO:0002002		FMA:62970													
+MIM:308940		MIM:303631			COL4A6	HP:0001438		FMA:9577		PATO:0000001									PATO:0000460						
+MIM:308940		MIM:303631			COL4A6	HP:0001508																			
+MIM:308940		MIM:303631			COL4A6	HP:0001757																			
+MIM:308940		MIM:303631			COL4A6	HP:0002094																			
+MIM:308940		MIM:303631			COL4A6	HP:0006524																			
+MIM:308940		MIM:303631			COL4A6	HP:0006756																			

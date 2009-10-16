@@ -1,0 +1,21 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:312080		MIM:300401			PLP1	HP:0000252		FMA:46565		PATO:0000587															
+MIM:312080		MIM:300401			PLP1	HP:0000648		FMA:50863		PATO:0001623															
+MIM:312080		MIM:300401			PLP1	HP:0001250																			
+MIM:312080		MIM:300401			PLP1	HP:0001251		GO:0050881		PATO:0000770															
+MIM:312080		MIM:300401			PLP1	HP:0001252		FMA:30316		PATO:0001619									PATO:0001869						
+MIM:312080		MIM:300401			PLP1	HP:0001258																			
+MIM:312080		MIM:300401			PLP1	HP:0001260																			
+MIM:312080		MIM:300401			PLP1	HP:0001263																			
+MIM:312080		MIM:300401			PLP1	HP:0001265																			
+MIM:312080		MIM:300401			PLP1	HP:0001266																			
+MIM:312080		MIM:300401			PLP1	HP:0001332		FMA:30316		PATO:0001814															
+MIM:312080		MIM:300401			PLP1	HP:0001419																			
+MIM:312080		MIM:300401			PLP1	HP:0001583																			
+MIM:312080		MIM:300401			PLP1	HP:0001600				PATO:0000001									PATO:0000460						
+MIM:312080		MIM:300401			PLP1	HP:0002168																			
+MIM:312080		MIM:300401			PLP1	HP:0002361																			
+MIM:312080		MIM:300401			PLP1	HP:0003269																			
+MIM:312080		MIM:300401			PLP1	HP:0003576																			
+MIM:312080		MIM:300401			PLP1	HP:0003677																			
+MIM:312080		MIM:300401			PLP1	HP:0007342																			

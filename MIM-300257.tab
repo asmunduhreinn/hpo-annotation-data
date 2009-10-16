@@ -1,0 +1,21 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:300257		MIM:309060			LAMP2	HP:0001263																			
+MIM:300257		MIM:309060			LAMP2	HP:0001423																			
+MIM:300257		MIM:309060			LAMP2	HP:0001427		GO:0005739		HP:0000005															
+MIM:300257		MIM:309060			LAMP2	HP:0001639																			
+MIM:300257		MIM:309060			LAMP2	HP:0001640																			
+MIM:300257		MIM:309060			LAMP2	HP:0001644																			
+MIM:300257		MIM:309060			LAMP2	HP:0001685																			
+MIM:300257		MIM:309060			LAMP2	HP:0001700		GO:0008219		PATO:0000912															
+MIM:300257		MIM:309060			LAMP2	HP:0001716																			
+MIM:300257		MIM:309060			LAMP2	HP:0001761																			
+MIM:300257		MIM:309060			LAMP2	HP:0002129																			
+MIM:300257		MIM:309060			LAMP2	HP:0002147																			
+MIM:300257		MIM:309060			LAMP2	HP:0002375																			
+MIM:300257		MIM:309060			LAMP2	HP:0003322																			
+MIM:300257		MIM:309060			LAMP2	HP:0003546																			
+MIM:300257		MIM:309060			LAMP2	HP:0003701		_:proximal_muscle		PATO:0001779															
+MIM:300257		MIM:309060			LAMP2	HP:0003710																			
+MIM:300257		MIM:309060			LAMP2	HP:0003812																			
+MIM:300257		MIM:309060			LAMP2	HP:0007860																			
+MIM:300257		MIM:309060			LAMP2	HP:0009074		GO:0014889		PATO:0000635															

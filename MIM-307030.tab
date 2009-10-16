@@ -1,0 +1,12 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:307030		MIM:300474			GK	HP:0000565																			
+MIM:307030		MIM:300474			GK	HP:0000846																			
+MIM:307030		MIM:300474			GK	HP:0000939				_:increased_bone_resorption_and__:decreased_osteogenesis									PATO:0001869						
+MIM:307030		MIM:300474			GK	HP:0001249																			
+MIM:307030		MIM:300474			GK	HP:0001417																			
+MIM:307030		MIM:300474			GK	HP:0001510		GO:0040007		PATO:0000911															
+MIM:307030		MIM:300474			GK	HP:0001942																			
+MIM:307030		MIM:300474			GK	HP:0002572																			
+MIM:307030		MIM:300474			GK	HP:0002756				HP:0002662									PATO:0001869						
+MIM:307030		MIM:300474			GK	HP:0003198																			
+MIM:307030		MIM:300474			GK	HP:0008182																			

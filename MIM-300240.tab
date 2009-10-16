@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:300240		MIM:300126			DKC1	HP:0000153				PATO:0000001									PATO:0000460						
+MIM:300240		MIM:300126			DKC1	HP:0000252		FMA:46565		PATO:0000587															
+MIM:300240		MIM:300126			DKC1	HP:0001249																			
+MIM:300240		MIM:300126			DKC1	HP:0001251		GO:0050881		PATO:0000770															
+MIM:300240		MIM:300126			DKC1	HP:0001321		FMA:67944		PATO:0000645															
+MIM:300240		MIM:300126			DKC1	HP:0001419																			
+MIM:300240		MIM:300126			DKC1	HP:0001515																			
+MIM:300240		MIM:300126			DKC1	HP:0001876																			
+MIM:300240		MIM:300126			DKC1	HP:0002438		FMA:67944		PATO:0000646															
+MIM:300240		MIM:300126			DKC1	HP:0003817																			

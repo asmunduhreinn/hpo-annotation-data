@@ -1,0 +1,34 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:301000		MIM:300392			WAS	HP:0000112																			
+MIM:301000		MIM:300392			WAS	HP:0000167																			
+MIM:301000		MIM:300392			WAS	HP:0000246		GO:0006954		PATO:0002017															
+MIM:301000		MIM:300392			WAS	HP:0000388																			
+MIM:301000		MIM:300392			WAS	HP:0000421																			
+MIM:301000		MIM:300392			WAS	HP:0000716																			
+MIM:301000		MIM:300392			WAS	HP:0000964																			
+MIM:301000		MIM:300392			WAS	HP:0000967																			
+MIM:301000		MIM:300392			WAS	HP:0000979																			
+MIM:301000		MIM:300392			WAS	HP:0001287																			
+MIM:301000		MIM:300392			WAS	HP:0001419																			
+MIM:301000		MIM:300392			WAS	HP:0001873																			
+MIM:301000		MIM:300392			WAS	HP:0001878																			
+MIM:301000		MIM:300392			WAS	HP:0001888																			
+MIM:301000		MIM:300392			WAS	HP:0001891																			
+MIM:301000		MIM:300392			WAS	HP:0001983																			
+MIM:301000		MIM:300392			WAS	HP:0002014		FMA:64183		PATO:0001548															
+MIM:301000		MIM:300392			WAS	HP:0002037																			
+MIM:301000		MIM:300392			WAS	HP:0002090																			
+MIM:301000		MIM:300392			WAS	HP:0002248																			
+MIM:301000		MIM:300392			WAS	HP:0002249		FMA:64183		PATO:0002002		FMA:62970													
+MIM:301000		MIM:300392			WAS	HP:0002783																			
+MIM:301000		MIM:300392			WAS	HP:0002788																			
+MIM:301000		MIM:300392			WAS	HP:0002848																			
+MIM:301000		MIM:300392			WAS	HP:0002963																			
+MIM:301000		MIM:300392			WAS	HP:0002971																			
+MIM:301000		MIM:300392			WAS	HP:0003010																			
+MIM:301000		MIM:300392			WAS	HP:0003147																			
+MIM:301000		MIM:300392			WAS	HP:0003212				PATO:0001162		FMA:62875													
+MIM:301000		MIM:300392			WAS	HP:0003261				PATO:0001162		FMA:62874													
+MIM:301000		MIM:300392			WAS	HP:0003565																			
+MIM:301000		MIM:300392			WAS	HP:0005310																			
+MIM:301000		MIM:300392			WAS	HP:0005537																			
