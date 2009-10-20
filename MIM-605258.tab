@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:605258		MIM:605257			AICDA	HP:0000007																			
+MIM:605258		MIM:605257			AICDA	HP:0000752																			
+MIM:605258		MIM:605257			AICDA	HP:0002487		GO:0042465		PATO:0000470															
+MIM:605258		MIM:605257			AICDA	HP:0002716		FMA:30315		PATO:0000644															
+MIM:605258		MIM:605257			AICDA	HP:0002718																			
+MIM:605258		MIM:605257			AICDA	HP:0002721																			
+MIM:605258		MIM:605257			AICDA	HP:0002873																			
+MIM:605258		MIM:605257			AICDA	HP:0002959																			
+MIM:605258		MIM:605257			AICDA	HP:0004798																			

@@ -1,0 +1,34 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:601152		MIM:608507			MFN2	HP:0000006																			
+MIM:601152		MIM:608507			MFN2	HP:0000007																			
+MIM:601152		MIM:608507			MFN2	HP:0000360																			
+MIM:601152		MIM:608507			MFN2	HP:0000458																			
+MIM:601152		MIM:608507			MFN2	HP:0000543																			
+MIM:601152		MIM:608507			MFN2	HP:0000603		FMA:30328		HP:0000575															
+MIM:601152		MIM:608507			MFN2	HP:0000641																			
+MIM:601152		MIM:608507			MFN2	HP:0000648		FMA:50863		PATO:0001623															
+MIM:601152		MIM:608507			MFN2	HP:0000649																			
+MIM:601152		MIM:608507			MFN2	HP:0001265																			
+MIM:601152		MIM:608507			MFN2	HP:0001284																			
+MIM:601152		MIM:608507			MFN2	HP:0001761																			
+MIM:601152		MIM:608507			MFN2	HP:0002403																			
+MIM:601152		MIM:608507			MFN2	HP:0002770				HP:0002650									PATO:0000396						
+MIM:601152		MIM:608507			MFN2	HP:0002934																			
+MIM:601152		MIM:608507			MFN2	HP:0002935																			
+MIM:601152		MIM:608507			MFN2	HP:0002936		FMA:30327		HP:0003474															
+MIM:601152		MIM:608507			MFN2	HP:0002938		FMA:75791		PATO:0002017															
+MIM:601152		MIM:608507			MFN2	HP:0003376																			
+MIM:601152		MIM:608507			MFN2	HP:0003378																			
+MIM:601152		MIM:608507			MFN2	HP:0003409																			
+MIM:601152		MIM:608507			MFN2	HP:0003437																			
+MIM:601152		MIM:608507			MFN2	HP:0003497		FMA:7182		HP:0002460															
+MIM:601152		MIM:608507			MFN2	HP:0003584																			
+MIM:601152		MIM:608507			MFN2	HP:0003593																			
+MIM:601152		MIM:608507			MFN2	HP:0003693		_:distal_muscle		PATO:0001623															
+MIM:601152		MIM:608507			MFN2	HP:0003701		_:proximal_muscle		PATO:0001779															
+MIM:601152		MIM:608507			MFN2	HP:0003829																			
+MIM:601152		MIM:608507			MFN2	HP:0007304																			
+MIM:601152		MIM:608507			MFN2	HP:0007652																			
+MIM:601152		MIM:608507			MFN2	HP:0007860																			
+MIM:601152		MIM:608507			MFN2	HP:0008587																			
+MIM:601152		MIM:608507			MFN2	HP:0008745																			

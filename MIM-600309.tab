@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:600309					AVSD1, GJA1	HP:0000961		FMA:7163		PATO:0000319															
+MIM:600309					AVSD1, GJA1	HP:0001463																			
+MIM:600309					AVSD1, GJA1	HP:0001629																			
+MIM:600309					AVSD1, GJA1	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:600309					AVSD1, GJA1	HP:0002092		FMA:66326		PATO:0001576															
+MIM:600309					AVSD1, GJA1	HP:0006695																			

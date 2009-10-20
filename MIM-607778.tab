@@ -1,0 +1,25 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607778		MIM:600726			IHH	HP:0000007																			
+MIM:607778		MIM:600726			IHH	HP:0000707				PATO:0000001									PATO:0000460						
+MIM:607778		MIM:600726			IHH	HP:0000767																			
+MIM:607778		MIM:600726			IHH	HP:0000768																			
+MIM:607778		MIM:600726			IHH	HP:0000774		FMA:9576		PATO:0000599															
+MIM:607778		MIM:600726			IHH	HP:0000887																			
+MIM:607778		MIM:600726			IHH	HP:0001165		FMA:9712		PATO:0000587															
+MIM:607778		MIM:600726			IHH	HP:0001216																			
+MIM:607778		MIM:600726			IHH	HP:0001523																			
+MIM:607778		MIM:600726			IHH	HP:0001760				PATO:0000001									PATO:0000460						
+MIM:607778		MIM:600726			IHH	HP:0001821		FMA:54326		PATO:0000600															
+MIM:607778		MIM:600726			IHH	HP:0002812																			
+MIM:607778		MIM:600726			IHH	HP:0002938		FMA:75791		PATO:0002017															
+MIM:607778		MIM:600726			IHH	HP:0002970																			
+MIM:607778		MIM:600726			IHH	HP:0003032		FMA:42385		PATO:0000574															
+MIM:607778		MIM:600726			IHH	HP:0003181																			
+MIM:607778		MIM:600726			IHH	HP:0003300		FMA:71515		PATO:0001891															
+MIM:607778		MIM:600726			IHH	HP:0003498																			
+MIM:607778		MIM:600726			IHH	HP:0004482																			
+MIM:607778		MIM:600726			IHH	HP:0006059		FMA:9612		HP:0000937															
+MIM:607778		MIM:600726			IHH	HP:0006438		FMA:32844		PATO:0000586															
+MIM:607778		MIM:600726			IHH	HP:0009370																			
+MIM:607778		MIM:600726			IHH	HP:0009826		FMA:7182		PATO:0000574															
+MIM:607778		MIM:600726			IHH	HP:0010230		FMA:240707		PATO:0002021															

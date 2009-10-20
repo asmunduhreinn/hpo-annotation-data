@@ -1,0 +1,19 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:610984		MIM:217030			CFI	HP:0000007																			
+MIM:610984		MIM:217030			CFI	HP:0000010																			
+MIM:610984		MIM:217030			CFI	HP:0000083		FMA:7203		PATO:0001511															
+MIM:610984		MIM:217030			CFI	HP:0000099		GO:0006954		PATO:0000912															
+MIM:610984		MIM:217030			CFI	HP:0000234				PATO:0000001									PATO:0000460						
+MIM:610984		MIM:217030			CFI	HP:0000403																			
+MIM:610984		MIM:217030			CFI	HP:0001369		GO:0006954		PATO:0002017															
+MIM:610984		MIM:217030			CFI	HP:0001581																			
+MIM:610984		MIM:217030			CFI	HP:0002633																			
+MIM:610984		MIM:217030			CFI	HP:0003578																			
+MIM:610984		MIM:217030			CFI	HP:0005356																			
+MIM:610984		MIM:217030			CFI	HP:0005366																			
+MIM:610984		MIM:217030			CFI	HP:0005369																			
+MIM:610984		MIM:217030			CFI	HP:0005376																			
+MIM:610984		MIM:217030			CFI	HP:0005381																			
+MIM:610984		MIM:217030			CFI	HP:0005416																			
+MIM:610984		MIM:217030			CFI	HP:0005421																			
+MIM:610984		MIM:217030			CFI	HP:0006946																			

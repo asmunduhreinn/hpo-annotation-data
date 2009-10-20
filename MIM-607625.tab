@@ -1,0 +1,36 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607625		MIM:601015			NPC2	HP:0000007																			
+MIM:607625		MIM:601015			NPC2	HP:0000511		FMA:74526		HP:0000605															
+MIM:607625		MIM:601015			NPC2	HP:0000709																			
+MIM:607625		MIM:601015			NPC2	HP:0000715																			
+MIM:607625		MIM:601015			NPC2	HP:0000726																			
+MIM:607625		MIM:601015			NPC2	HP:0000730																			
+MIM:607625		MIM:601015			NPC2	HP:0000986																			
+MIM:607625		MIM:601015			NPC2	HP:0001250																			
+MIM:607625		MIM:601015			NPC2	HP:0001252		FMA:30316		PATO:0001619									PATO:0001869						
+MIM:607625		MIM:601015			NPC2	HP:0001253		FMA:67944		HP:0001251															
+MIM:607625		MIM:601015			NPC2	HP:0001257																			
+MIM:607625		MIM:601015			NPC2	HP:0001260																			
+MIM:607625		MIM:601015			NPC2	HP:0001263																			
+MIM:607625		MIM:601015			NPC2	HP:0001268																			
+MIM:607625		MIM:601015			NPC2	HP:0001332		FMA:30316		PATO:0001814															
+MIM:607625		MIM:601015			NPC2	HP:0001425																			
+MIM:607625		MIM:601015			NPC2	HP:0001432		GO:0016265		PATO:0000694															
+MIM:607625		MIM:601015			NPC2	HP:0001744		FMA:7196		PATO:0000586															
+MIM:607625		MIM:601015			NPC2	HP:0001791																			
+MIM:607625		MIM:601015			NPC2	HP:0001982																			
+MIM:607625		MIM:601015			NPC2	HP:0002015		GO:0043050		PATO:0001641															
+MIM:607625		MIM:601015			NPC2	HP:0002093		FMA:7158		PATO:0001628															
+MIM:607625		MIM:601015			NPC2	HP:0002185																			
+MIM:607625		MIM:601015			NPC2	HP:0002240		FMA:7197		PATO:0000586															
+MIM:607625		MIM:601015			NPC2	HP:0002371																			
+MIM:607625		MIM:601015			NPC2	HP:0002375																			
+MIM:607625		MIM:601015			NPC2	HP:0002524																			
+MIM:607625		MIM:601015			NPC2	HP:0003349																			
+MIM:607625		MIM:601015			NPC2	HP:0003464				PATO:0000001									PATO:0000460						
+MIM:607625		MIM:601015			NPC2	HP:0003640																			
+MIM:607625		MIM:601015			NPC2	HP:0003650																			
+MIM:607625		MIM:601015			NPC2	HP:0003664																			
+MIM:607625		MIM:601015			NPC2	HP:0003815																			
+MIM:607625		MIM:601015			NPC2	HP:0004333																			
+MIM:607625		MIM:601015			NPC2	HP:0008759																			

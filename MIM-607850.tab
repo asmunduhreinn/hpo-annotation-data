@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607850		MIM:608135			ASPN	HP:0000006																			
+MIM:607850		MIM:608135			ASPN	HP:0001379																			
+MIM:607850		MIM:608135			ASPN	HP:0001387		FMA:7490		PATO:0001545															
+MIM:607850		MIM:608135			ASPN	HP:0002758																			
+MIM:607850		MIM:608135			ASPN	HP:0002829																			
+MIM:607850		MIM:608135			ASPN	HP:0006226																			
+MIM:607850		MIM:608135			ASPN	HP:0006233		FMA:65024		HP:0002758															

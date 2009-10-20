@@ -1,0 +1,17 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:609200		MIM:604103			MYOT	HP:0000006																			
+MIM:609200		MIM:604103			MYOT	HP:0001271																			
+MIM:609200		MIM:604103			MYOT	HP:0001284																			
+MIM:609200		MIM:604103			MYOT	HP:0001638																			
+MIM:609200		MIM:604103			MYOT	HP:0001771		FMA:51061		HP:0001371															
+MIM:609200		MIM:604103			MYOT	HP:0002147																			
+MIM:609200		MIM:604103			MYOT	HP:0003475																			
+MIM:609200		MIM:604103			MYOT	HP:0003581																			
+MIM:609200		MIM:604103			MYOT	HP:0003677																			
+MIM:609200		MIM:604103			MYOT	HP:0003693		_:distal_muscle		PATO:0001623															
+MIM:609200		MIM:604103			MYOT	HP:0003715																			
+MIM:609200		MIM:604103			MYOT	HP:0003790																			
+MIM:609200		MIM:604103			MYOT	HP:0006785		_:limb-girdle_muscle		PATO:0001780															
+MIM:609200		MIM:604103			MYOT	HP:0006861																			
+MIM:609200		MIM:604103			MYOT	HP:0009014																			
+MIM:609200		MIM:604103			MYOT	HP:0009063				HP:0002460									PATO:0001818						

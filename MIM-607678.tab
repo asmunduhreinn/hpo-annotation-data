@@ -1,0 +1,13 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607678		MIM:129010			EGR2	HP:0000006																			
+MIM:607678		MIM:129010			EGR2	HP:0000760																			
+MIM:607678		MIM:129010			EGR2	HP:0001425																			
+MIM:607678		MIM:129010			EGR2	HP:0002934																			
+MIM:607678		MIM:129010			EGR2	HP:0002935																			
+MIM:607678		MIM:129010			EGR2	HP:0003376																			
+MIM:607678		MIM:129010			EGR2	HP:0003377																			
+MIM:607678		MIM:129010			EGR2	HP:0003484																			
+MIM:607678		MIM:129010			EGR2	HP:0003497		FMA:7182		HP:0002460															
+MIM:607678		MIM:129010			EGR2	HP:0003589																			
+MIM:607678		MIM:129010			EGR2	HP:0003693		_:distal_muscle		PATO:0001623															
+MIM:607678		MIM:129010			EGR2	HP:0003814																			

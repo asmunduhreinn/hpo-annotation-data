@@ -1,0 +1,25 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:606777		MIM:138140			SLC2A1	HP:0000006																			
+MIM:606777		MIM:138140			SLC2A1	HP:0000241		GO:0035265		PATO:0002018															
+MIM:606777		MIM:138140			SLC2A1	HP:0000259																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001250																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001251		GO:0050881		PATO:0000770															
+MIM:606777		MIM:138140			SLC2A1	HP:0001254																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001260																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001263																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001266																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001269																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001276		FMA:30316		PATO:0001618															
+MIM:606777		MIM:138140			SLC2A1	HP:0001289																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001328																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001336																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001347																			
+MIM:606777		MIM:138140			SLC2A1	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+MIM:606777		MIM:138140			SLC2A1	HP:0002268																			
+MIM:606777		MIM:138140			SLC2A1	HP:0002353																			
+MIM:606777		MIM:138140			SLC2A1	HP:0002360				PATO:0000001									PATO:0000460						
+MIM:606777		MIM:138140			SLC2A1	HP:0002399																			
+MIM:606777		MIM:138140			SLC2A1	HP:0003470																			
+MIM:606777		MIM:138140			SLC2A1	HP:0003487																			
+MIM:606777		MIM:138140			SLC2A1	HP:0003576																			
+MIM:606777		MIM:138140			SLC2A1	HP:0007704																			

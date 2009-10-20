@@ -1,0 +1,35 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:610377		MIM:251170			MVK	HP:0000007																			
+MIM:610377		MIM:251170			MVK	HP:0000239		FMA:75438		PATO:0000586															
+MIM:610377		MIM:251170			MVK	HP:0000252		FMA:46565		PATO:0000587															
+MIM:610377		MIM:251170			MVK	HP:0000268																			
+MIM:610377		MIM:251170			MVK	HP:0000325																			
+MIM:610377		MIM:251170			MVK	HP:0000358		FMA:52780		PATO:0001922															
+MIM:610377		MIM:251170			MVK	HP:0000369		FMA:52780		PATO:0001476															
+MIM:610377		MIM:251170			MVK	HP:0000494																			
+MIM:610377		MIM:251170			MVK	HP:0000592		FMA:58269		PATO:0000318															
+MIM:610377		MIM:251170			MVK	HP:0000639																			
+MIM:610377		MIM:251170			MVK	HP:0000969				PATO:0001450															
+MIM:610377		MIM:251170			MVK	HP:0000988																			
+MIM:610377		MIM:251170			MVK	HP:0001252		FMA:30316		PATO:0001619									PATO:0001869						
+MIM:610377		MIM:251170			MVK	HP:0001255																			
+MIM:610377		MIM:251170			MVK	HP:0001263																			
+MIM:610377		MIM:251170			MVK	HP:0001272																			
+MIM:610377		MIM:251170			MVK	HP:0001329																			
+MIM:610377		MIM:251170			MVK	HP:0001433		_:liver_and_spleen		PATO:0000586															
+MIM:610377		MIM:251170			MVK	HP:0001508																			
+MIM:610377		MIM:251170			MVK	HP:0001509		FMA:20394		PATO:0000569															
+MIM:610377		MIM:251170			MVK	HP:0001873																			
+MIM:610377		MIM:251170			MVK	HP:0001974																			
+MIM:610377		MIM:251170			MVK	HP:0002013																			
+MIM:610377		MIM:251170			MVK	HP:0002014		FMA:64183		PATO:0001548															
+MIM:610377		MIM:251170			MVK	HP:0002059																			
+MIM:610377		MIM:251170			MVK	HP:0002335				PATO:0001557		FMA:76928													
+MIM:610377		MIM:251170			MVK	HP:0002716		FMA:30315		PATO:0000644															
+MIM:610377		MIM:251170			MVK	HP:0002716		FMA:30315		PATO:0000644															
+MIM:610377		MIM:251170			MVK	HP:0002829																			
+MIM:610377		MIM:251170			MVK	HP:0002910																			
+MIM:610377		MIM:251170			MVK	HP:0003078																			
+MIM:610377		MIM:251170			MVK	HP:0004819																			
+MIM:610377		MIM:251170			MVK	HP:0006268																			
+MIM:610377		MIM:251170			MVK	HP:0006564																			

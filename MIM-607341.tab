@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607341		MIM:605284			TSC1	HP:0000622																			
+MIM:607341		MIM:605284			TSC1	HP:0001420																			
+MIM:607341		MIM:605284			TSC1	HP:0002128																			
+MIM:607341		MIM:605284			TSC1	HP:0002303																			
+MIM:607341		MIM:605284			TSC1	HP:0002384																			
+MIM:607341		MIM:605284			TSC1	HP:0002446		CL:0000127		PATO:0000912		GO:0016049													
+MIM:607341		MIM:605284			TSC1	HP:0003629																			
+MIM:607341		MIM:605284			TSC1	HP:0003662																			
+MIM:607341		MIM:605284			TSC1	HP:0007042																			

@@ -1,0 +1,18 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607706		MIM:606598			GDAP1	HP:0000007																			
+MIM:607706		MIM:606598			GDAP1	HP:0001171																			
+MIM:607706		MIM:606598			GDAP1	HP:0001284																			
+MIM:607706		MIM:606598			GDAP1	HP:0001371		FMA:9721		PATO:0000574															
+MIM:607706		MIM:606598			GDAP1	HP:0001616																			
+MIM:607706		MIM:606598			GDAP1	HP:0001761																			
+MIM:607706		MIM:606598			GDAP1	HP:0002934																			
+MIM:607706		MIM:606598			GDAP1	HP:0002935																			
+MIM:607706		MIM:606598			GDAP1	HP:0003378																			
+MIM:607706		MIM:606598			GDAP1	HP:0003380																			
+MIM:607706		MIM:606598			GDAP1	HP:0003437																			
+MIM:607706		MIM:606598			GDAP1	HP:0003497		FMA:7182		HP:0002460															
+MIM:607706		MIM:606598			GDAP1	HP:0003623																			
+MIM:607706		MIM:606598			GDAP1	HP:0003693		_:distal_muscle		PATO:0001623															
+MIM:607706		MIM:606598			GDAP1	HP:0007013																			
+MIM:607706		MIM:606598			GDAP1	HP:0007292																			
+MIM:607706		MIM:606598			GDAP1	HP:0008443		FMA:13478		PATO:0001617															

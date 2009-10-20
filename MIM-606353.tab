@@ -1,0 +1,19 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:606353		MIM:606352			ALS2	HP:0000007																			
+MIM:606353		MIM:606352			ALS2	HP:0000183																			
+MIM:606353		MIM:606352			ALS2	HP:0000980		FMA:7163		PATO:0000328															
+MIM:606353		MIM:606352			ALS2	HP:0001152																			
+MIM:606353		MIM:606352			ALS2	HP:0001285																			
+MIM:606353		MIM:606352			ALS2	HP:0001347																			
+MIM:606353		MIM:606352			ALS2	HP:0002015		GO:0043050		PATO:0001641															
+MIM:606353		MIM:606352			ALS2	HP:0002064																			
+MIM:606353		MIM:606352			ALS2	HP:0002120																			
+MIM:606353		MIM:606352			ALS2	HP:0002127		FMA:84631		PATO:0000001									PATO:0000460						
+MIM:606353		MIM:606352			ALS2	HP:0002193																			
+MIM:606353		MIM:606352			ALS2	HP:0002464																			
+MIM:606353		MIM:606352			ALS2	HP:0002491		FMA:71288		HP:0001257															
+MIM:606353		MIM:606352			ALS2	HP:0002501		FMA:67169		HP:0001257															
+MIM:606353		MIM:606352			ALS2	HP:0003487																			
+MIM:606353		MIM:606352			ALS2	HP:0003576																			
+MIM:606353		MIM:606352			ALS2	HP:0003580																			
+MIM:606353		MIM:606352			ALS2	HP:0003677																			

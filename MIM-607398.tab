@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607398		MIM:609196			MRAP	HP:0000007																			
+MIM:607398		MIM:609196			MRAP	HP:0000953		GO:0043473		PATO:0000912															
+MIM:607398		MIM:609196			MRAP	HP:0001988																			
+MIM:607398		MIM:609196			MRAP	HP:0003154		FMA:9670		PATO:0001162		FMA:74639													
+MIM:607398		MIM:609196			MRAP	HP:0008163		FMA:9670		PATO:0001163		CHEBI:17650													

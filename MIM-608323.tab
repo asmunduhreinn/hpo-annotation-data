@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:608323		MIM:603623			YARS	HP:0000006																			
+MIM:608323		MIM:603623			YARS	HP:0001760				PATO:0000001									PATO:0000460						
+MIM:608323		MIM:603623			YARS	HP:0002934																			
+MIM:608323		MIM:603623			YARS	HP:0002935																			
+MIM:608323		MIM:603623			YARS	HP:0002936		FMA:30327		HP:0003474															
+MIM:608323		MIM:603623			YARS	HP:0003450																			
+MIM:608323		MIM:603623			YARS	HP:0003484																			
+MIM:608323		MIM:603623			YARS	HP:0003497		FMA:7182		HP:0002460															
+MIM:608323		MIM:603623			YARS	HP:0003674																			
+MIM:608323		MIM:603623			YARS	HP:0003693		_:distal_muscle		PATO:0001623															

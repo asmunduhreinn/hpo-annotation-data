@@ -1,0 +1,15 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:609452		MIM:605906			LDB3	HP:0000006																			
+MIM:609452		MIM:605906			LDB3	HP:0001271																			
+MIM:609452		MIM:605906			LDB3	HP:0001638																			
+MIM:609452		MIM:605906			LDB3	HP:0002147																			
+MIM:609452		MIM:605906			LDB3	HP:0002547																			
+MIM:609452		MIM:605906			LDB3	HP:0002600		FMA:7184		HP:0001265															
+MIM:609452		MIM:605906			LDB3	HP:0003322																			
+MIM:609452		MIM:605906			LDB3	HP:0003323		FMA:5022		PATO:0000001									PATO:0001818						
+MIM:609452		MIM:605906			LDB3	HP:0003555																			
+MIM:609452		MIM:605906			LDB3	HP:0003584																			
+MIM:609452		MIM:605906			LDB3	HP:0003715																			
+MIM:609452		MIM:605906			LDB3	HP:0003736																			
+MIM:609452		MIM:605906			LDB3	HP:0009063				HP:0002460									PATO:0001818						
+MIM:609452		MIM:605906			LDB3	HP:0009073		_:proximal_muscle		PATO:0001779									PATO:0001818						

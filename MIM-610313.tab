@@ -1,0 +1,16 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:610313		MIM:607672			CLCF1	HP:0000007																			
+MIM:610313		MIM:607672			CLCF1	HP:0000156																			
+MIM:610313		MIM:607672			CLCF1	HP:0000353				PATO:0001779									PATO:0000394						
+MIM:610313		MIM:607672			CLCF1	HP:0000412		FMA:52781		PATO:0001482															
+MIM:610313		MIM:607672			CLCF1	HP:0000975																			
+MIM:610313		MIM:607672			CLCF1	HP:0001064																			
+MIM:610313		MIM:607672			CLCF1	HP:0001157		FMA:9666		PATO:0000140									PATO:0000460						
+MIM:610313		MIM:607672			CLCF1	HP:0001159		FMA:85518		PATO:0000642		FMA:85518													
+MIM:610313		MIM:607672			CLCF1	HP:0001377																			
+MIM:610313		MIM:607672			CLCF1	HP:0001760				PATO:0000001									PATO:0000460						
+MIM:610313		MIM:607672			CLCF1	HP:0002938		FMA:75791		PATO:0002017															
+MIM:610313		MIM:607672			CLCF1	HP:0002944		FMA:72066		HP:0002650															
+MIM:610313		MIM:607672			CLCF1	HP:0002967																			
+MIM:610313		MIM:607672			CLCF1	HP:0007141																			
+MIM:610313		MIM:607672			CLCF1	HP:0008872																			

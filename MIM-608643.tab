@@ -1,0 +1,27 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:608643		MIM:107930			DDC	HP:0000007																			
+MIM:608643		MIM:107930			DDC	HP:0000271				PATO:0000001									PATO:0000460						
+MIM:608643		MIM:107930			DDC	HP:0000508																			
+MIM:608643		MIM:107930			DDC	HP:0000616																			
+MIM:608643		MIM:107930			DDC	HP:0000712																			
+MIM:608643		MIM:107930			DDC	HP:0000737																			
+MIM:608643		MIM:107930			DDC	HP:0001255																			
+MIM:608643		MIM:107930			DDC	HP:0001263																			
+MIM:608643		MIM:107930			DDC	HP:0001266																			
+MIM:608643		MIM:107930			DDC	HP:0001336																			
+MIM:608643		MIM:107930			DDC	HP:0001347																			
+MIM:608643		MIM:107930			DDC	HP:0002014		FMA:64183		PATO:0001548															
+MIM:608643		MIM:107930			DDC	HP:0002019		GO:0030421		PATO:0000381															
+MIM:608643		MIM:107930			DDC	HP:0002020																			
+MIM:608643		MIM:107930			DDC	HP:0002022																			
+MIM:608643		MIM:107930			DDC	HP:0002360				PATO:0000001									PATO:0000460						
+MIM:608643		MIM:107930			DDC	HP:0002375																			
+MIM:608643		MIM:107930			DDC	HP:0002451		FMA:7182		HP:0001332															
+MIM:608643		MIM:107930			DDC	HP:0002509		FMA:7182		HP:0001276															
+MIM:608643		MIM:107930			DDC	HP:0002615																			
+MIM:608643		MIM:107930			DDC	HP:0003487																			
+MIM:608643		MIM:107930			DDC	HP:0003591																			
+MIM:608643		MIM:107930			DDC	HP:0003785																			
+MIM:608643		MIM:107930			DDC	HP:0005964																			
+MIM:608643		MIM:107930			DDC	HP:0005968																			
+MIM:608643		MIM:107930			DDC	HP:0008936				PATO:0001619															

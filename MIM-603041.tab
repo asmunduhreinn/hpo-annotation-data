@@ -1,0 +1,25 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:603041		MIM:131222			TYMP	HP:0000007																			
+MIM:603041		MIM:131222			TYMP	HP:0000374		FMA:65132		HP:0000404															
+MIM:603041		MIM:131222			TYMP	HP:0000508																			
+MIM:603041		MIM:131222			TYMP	HP:0000590																			
+MIM:603041		MIM:131222			TYMP	HP:0001284																			
+MIM:603041		MIM:131222			TYMP	HP:0001824																			
+MIM:603041		MIM:131222			TYMP	HP:0002013																			
+MIM:603041		MIM:131222			TYMP	HP:0002024		GO:0050892		PATO:0000001									PATO:0000460						
+MIM:603041		MIM:131222			TYMP	HP:0002027																			
+MIM:603041		MIM:131222			TYMP	HP:0002254																			
+MIM:603041		MIM:131222			TYMP	HP:0002352		FMA:241998		PATO:0000639															
+MIM:603041		MIM:131222			TYMP	HP:0002375																			
+MIM:603041		MIM:131222			TYMP	HP:0002578																			
+MIM:603041		MIM:131222			TYMP	HP:0002579																			
+MIM:603041		MIM:131222			TYMP	HP:0002936		FMA:30327		HP:0003474															
+MIM:603041		MIM:131222			TYMP	HP:0003200																			
+MIM:603041		MIM:131222			TYMP	HP:0003255																			
+MIM:603041		MIM:131222			TYMP	HP:0003497		FMA:7182		HP:0002460															
+MIM:603041		MIM:131222			TYMP	HP:0003548																			
+MIM:603041		MIM:131222			TYMP	HP:0003693		_:distal_muscle		PATO:0001623															
+MIM:603041		MIM:131222			TYMP	HP:0003734																			
+MIM:603041		MIM:131222			TYMP	HP:0003737		GO:0005739		HP:0003198															
+MIM:603041		MIM:131222			TYMP	HP:0003801																			
+MIM:603041		MIM:131222			TYMP	HP:0007103																			

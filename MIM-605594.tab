@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:605594		MIM:125485			DSPP	HP:0000006																			
+MIM:605594		MIM:125485			DSPP	HP:0000360																			
+MIM:605594		MIM:125485			DSPP	HP:0000404		GO:0007605		PATO:0000462															
+MIM:605594		MIM:125485			DSPP	HP:0000703																			
+MIM:605594		MIM:125485			DSPP	HP:0008513																			
+MIM:605594		MIM:125485			DSPP	HP:0008530																			
+MIM:605594		MIM:125485			DSPP	HP:0008584																			

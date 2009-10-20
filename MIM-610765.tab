@@ -1,0 +1,18 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:610765		MIM:606797			ST14	HP:0000007																			
+MIM:610765		MIM:606797			ST14	HP:0000164				PATO:0000001									PATO:0000460						
+MIM:610765		MIM:606797			ST14	HP:0000515		FMA:58238		PATO:0000963															
+MIM:610765		MIM:606797			ST14	HP:0000535		FMA:71098		PATO:0001609															
+MIM:610765		MIM:606797			ST14	HP:0000613																			
+MIM:610765		MIM:606797			ST14	HP:0000955																			
+MIM:610765		MIM:606797			ST14	HP:0001006																			
+MIM:610765		MIM:606797			ST14	HP:0001479																			
+MIM:610765		MIM:606797			ST14	HP:0001507		GO:0040007		PATO:0000001									PATO:0000460						
+MIM:610765		MIM:606797			ST14	HP:0001597				PATO:0000001									PATO:0000460						
+MIM:610765		MIM:606797			ST14	HP:0002212																			
+MIM:610765		MIM:606797			ST14	HP:0002295		FMA:53667		PATO:0001362															
+MIM:610765		MIM:606797			ST14	HP:0003777																			
+MIM:610765		MIM:606797			ST14	HP:0007478																			
+MIM:610765		MIM:606797			ST14	HP:0007484																			
+MIM:610765		MIM:606797			ST14	HP:0007840																			
+MIM:610765		MIM:606797			ST14	HP:0008070		FMA:53667		PATO:0001609															

@@ -1,0 +1,18 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607078		MIM:602109			MATN3	HP:0000006																			
+MIM:607078		MIM:602109			MATN3	HP:0001216																			
+MIM:607078		MIM:602109			MATN3	HP:0001425																			
+MIM:607078		MIM:602109			MATN3	HP:0001507		GO:0040007		PATO:0000001									PATO:0000460						
+MIM:607078		MIM:602109			MATN3	HP:0002651																			
+MIM:607078		MIM:602109			MATN3	HP:0002654		HP:0002656		PATO:0000470															
+MIM:607078		MIM:602109			MATN3	HP:0002656		FMA:24012		PATO:0000640															
+MIM:607078		MIM:602109			MATN3	HP:0002812																			
+MIM:607078		MIM:602109			MATN3	HP:0002824																			
+MIM:607078		MIM:602109			MATN3	HP:0002829																			
+MIM:607078		MIM:602109			MATN3	HP:0002857																			
+MIM:607078		MIM:602109			MATN3	HP:0003039				PATO:0000001															
+MIM:607078		MIM:602109			MATN3	HP:0003365																			
+MIM:607078		MIM:602109			MATN3	HP:0003374		_:proximal_femoral_epiphysis		PATO:0000587															
+MIM:607078		MIM:602109			MATN3	HP:0005065				PATO:0000001															
+MIM:607078		MIM:602109			MATN3	HP:0008103		GO:0001503		PATO:0000502															
+MIM:607078		MIM:602109			MATN3	HP:0008781				PATO:0000001															
