@@ -1,0 +1,18 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:112500	BRACHYDACTYLY, TYPE A1	MIM:600726	INDIAN HEDGEHOG	MIM:600726 / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0000006	Autosomal dominant inheritance																		
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0001032	Absent distal interphalangeal creases											occasional					MIM112500		
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0001204	Distal symphalangism	FMA:30327	Distal	HP:0001159	Syndactyly							occasional					MIM:112500		
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0001425	Heterogeneous																		
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0001509	Short stature	FMA:20394	Human body	PATO:0000569	decreased height							frequent					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0010049	Hypoplastic/short metacarpal bones											occasional					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0005194	Flattened metatarsal and metacarpal heads											occasional					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0009638	Hypoplastic/small proximal phalanx of the thumb											common					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0010107	Hypoplastic/small proximal phalanx of the hallux											common					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0009843	Aplasia/Hypoplasia of the middle phalanges of the hand											obligate					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0004209	Clinodactyly of the 5th finger											typical					MIM112500	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0009467	Radial deviation of the 2nd finger											frequent					MIM112500	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0009279	Radial deviation of the 4th finger											frequent					MIM112500	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0009462	Radial deviation of the 3rd finger											occasional					MIM112500	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0010049	Hypoplastic/short metacarpal bones											occasional					ISBN-13: 978-3437214301	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0009194	Small epiphyses of the metacarpals											occasional					ISBN-13: 978-3437214301	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1					HP:0010194	Aplasia/Hypoplasia of the middle phalanges of the toes											occasional					ISBN-13: 978-3437214301	20.10.2009	
