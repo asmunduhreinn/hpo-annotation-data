@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:209950					IFNGR1, IFNGR2, IL12B, IL12RB1, STAT1	HP:0000007																			
-MIM:209950					IFNGR1, IFNGR2, IL12B, IL12RB1, STAT1	HP:0001438		FMA:9577		PATO:0000001									PATO:0000460						
-MIM:209950					IFNGR1, IFNGR2, IL12B, IL12RB1, STAT1	HP:0001871																			
-MIM:209950					IFNGR1, IFNGR2, IL12B, IL12RB1, STAT1	HP:0005661																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:209950	ATYPICAL MYCOBACTERIOSIS, FAMILIAL				IFNGR1, IFNGR2, IL12B, IL12RB1, STAT1	HP:0000007												IEA							17.02.2009	
+MIM:209950	ATYPICAL MYCOBACTERIOSIS, FAMILIAL				IFNGR1, IFNGR2, IL12B, IL12RB1, STAT1	HP:0001438		FMA:9577		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:209950	ATYPICAL MYCOBACTERIOSIS, FAMILIAL				IFNGR1, IFNGR2, IL12B, IL12RB1, STAT1	HP:0001871												IEA							17.02.2009	
+MIM:209950	ATYPICAL MYCOBACTERIOSIS, FAMILIAL				IFNGR1, IFNGR2, IL12B, IL12RB1, STAT1	HP:0005661												IEA							17.02.2009	

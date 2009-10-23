@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:604571					TAP1, TAP2, TAPBP	HP:0000007																			
-MIM:604571					TAP1, TAP2, TAPBP	HP:0000389																			
-MIM:604571					TAP1, TAP2, TAPBP	HP:0000462																			
-MIM:604571					TAP1, TAP2, TAPBP	HP:0001083		FMA:58241		PATO:0000628															
-MIM:604571					TAP1, TAP2, TAPBP	HP:0001574		FMA:74657		PATO:0000001									PATO:0000460						
-MIM:604571					TAP1, TAP2, TAPBP	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
-MIM:604571					TAP1, TAP2, TAPBP	HP:0002097																			
-MIM:604571					TAP1, TAP2, TAPBP	HP:0002837																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:604571	BARE LYMPHOCYTE SYNDROME, TYPE I				TAP1, TAP2, TAPBP	HP:0000007												IEA							17.02.2009	
+MIM:604571	BARE LYMPHOCYTE SYNDROME, TYPE I				TAP1, TAP2, TAPBP	HP:0000389												IEA							17.02.2009	
+MIM:604571	BARE LYMPHOCYTE SYNDROME, TYPE I				TAP1, TAP2, TAPBP	HP:0000462												ITM							17.02.2009	
+MIM:604571	BARE LYMPHOCYTE SYNDROME, TYPE I				TAP1, TAP2, TAPBP	HP:0001083		FMA:58241		PATO:0000628								IEA							17.02.2009	
+MIM:604571	BARE LYMPHOCYTE SYNDROME, TYPE I				TAP1, TAP2, TAPBP	HP:0001574		FMA:74657		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:604571	BARE LYMPHOCYTE SYNDROME, TYPE I				TAP1, TAP2, TAPBP	HP:0001939		GO:0008152		PATO:0000001								ITM		PATO:0000460					17.02.2009	
+MIM:604571	BARE LYMPHOCYTE SYNDROME, TYPE I				TAP1, TAP2, TAPBP	HP:0002097												IEA							17.02.2009	
+MIM:604571	BARE LYMPHOCYTE SYNDROME, TYPE I				TAP1, TAP2, TAPBP	HP:0002837												IEA							17.02.2009	

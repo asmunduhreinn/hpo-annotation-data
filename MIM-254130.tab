@@ -1,8 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:254130		MIM:603009			DYSF	HP:0000007																			
-MIM:254130		MIM:603009			DYSF	HP:0003078																			
-MIM:254130		MIM:603009			DYSF	HP:0003544																			
-MIM:254130		MIM:603009			DYSF	HP:0003551																			
-MIM:254130		MIM:603009			DYSF	HP:0003746		FMA:9622		PATO:0001623															
-MIM:254130		MIM:603009			DYSF	HP:0007032																			
-MIM:254130		MIM:603009			DYSF	HP:0007340		FMA:9622		PATO:0001779															
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:254130	MIYOSHI MYOPATHY	MIM:603009			DYSF	HP:0000007												IEA							17.02.2009	
+MIM:254130	MIYOSHI MYOPATHY	MIM:603009			DYSF	HP:0003078												IEA							17.02.2009	
+MIM:254130	MIYOSHI MYOPATHY	MIM:603009			DYSF	HP:0003544												IEA							17.02.2009	
+MIM:254130	MIYOSHI MYOPATHY	MIM:603009			DYSF	HP:0003551												IEA							17.02.2009	
+MIM:254130	MIYOSHI MYOPATHY	MIM:603009			DYSF	HP:0003746		FMA:9622		PATO:0001623								IEA							17.02.2009	
+MIM:254130	MIYOSHI MYOPATHY	MIM:603009			DYSF	HP:0007032												IEA							17.02.2009	
+MIM:254130	MIYOSHI MYOPATHY	MIM:603009			DYSF	HP:0007340		FMA:9622		PATO:0001779								IEA							17.02.2009	

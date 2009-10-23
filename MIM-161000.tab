@@ -1,8 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:161000		MIM:148066			KRT14	HP:0000006																			
-MIM:161000		MIM:148066			KRT14	HP:0000670																			
-MIM:161000		MIM:148066			KRT14	HP:0000701																			
-MIM:161000		MIM:148066			KRT14	HP:0000966																			
-MIM:161000		MIM:148066			KRT14	HP:0000982																			
-MIM:161000		MIM:148066			KRT14	HP:0001808		FMA:54326		PATO:0001362															
-MIM:161000		MIM:148066			KRT14	HP:0007579																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:161000	NAEGELI SYNDROME	MIM:148066			KRT14	HP:0000006												IEA							17.02.2009	
+MIM:161000	NAEGELI SYNDROME	MIM:148066			KRT14	HP:0000670												IEA							17.02.2009	
+MIM:161000	NAEGELI SYNDROME	MIM:148066			KRT14	HP:0000701												IEA							17.02.2009	
+MIM:161000	NAEGELI SYNDROME	MIM:148066			KRT14	HP:0000966												IEA							17.02.2009	
+MIM:161000	NAEGELI SYNDROME	MIM:148066			KRT14	HP:0000982												IEA							17.02.2009	
+MIM:161000	NAEGELI SYNDROME	MIM:148066			KRT14	HP:0001808		FMA:54326		PATO:0001362								IEA							17.02.2009	
+MIM:161000	NAEGELI SYNDROME	MIM:148066			KRT14	HP:0007579												IEA							17.02.2009	

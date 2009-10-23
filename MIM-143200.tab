@@ -1,10 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:143200		MIM:118661			VCAN	HP:0000006																			
-MIM:143200		MIM:118661			VCAN	HP:0000501																			
-MIM:143200		MIM:118661			VCAN	HP:0000518																			
-MIM:143200		MIM:118661			VCAN	HP:0000533																			
-MIM:143200		MIM:118661			VCAN	HP:0000648		FMA:50863		PATO:0001623															
-MIM:143200		MIM:118661			VCAN	HP:0000655																			
-MIM:143200		MIM:118661			VCAN	HP:0001123																			
-MIM:143200		MIM:118661			VCAN	HP:0007643																			
-MIM:143200		MIM:118661			VCAN	HP:0007722																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:143200	WAGNER SYNDROME 1	MIM:118661			VCAN	HP:0000006												IEA							17.02.2009	
+MIM:143200	WAGNER SYNDROME 1	MIM:118661			VCAN	HP:0000501												IEA							17.02.2009	
+MIM:143200	WAGNER SYNDROME 1	MIM:118661			VCAN	HP:0000518												IEA							17.02.2009	
+MIM:143200	WAGNER SYNDROME 1	MIM:118661			VCAN	HP:0000533												IEA							17.02.2009	
+MIM:143200	WAGNER SYNDROME 1	MIM:118661			VCAN	HP:0000648		FMA:50863		PATO:0001623								IEA							17.02.2009	
+MIM:143200	WAGNER SYNDROME 1	MIM:118661			VCAN	HP:0000655												IEA							17.02.2009	
+MIM:143200	WAGNER SYNDROME 1	MIM:118661			VCAN	HP:0001123												IEA							17.02.2009	
+MIM:143200	WAGNER SYNDROME 1	MIM:118661			VCAN	HP:0007643												IEA							17.02.2009	
+MIM:143200	WAGNER SYNDROME 1	MIM:118661			VCAN	HP:0007722												IEA							17.02.2009	

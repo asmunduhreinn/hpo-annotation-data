@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:608236		MIM:608136			ARHGEF10	HP:0000006																			
-MIM:608236		MIM:608136			ARHGEF10	HP:0000762																			
-MIM:608236		MIM:608136			ARHGEF10	HP:0003381																			
-MIM:608236		MIM:608136			ARHGEF10	HP:0003383																			
-MIM:608236		MIM:608136			ARHGEF10	HP:0003581																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:608236	SLOWED NERVE CONDUCTION VELOCITY, AUTOSOMAL DOMINANT	MIM:608136			ARHGEF10	HP:0000006												IEA							17.02.2009	
+MIM:608236	SLOWED NERVE CONDUCTION VELOCITY, AUTOSOMAL DOMINANT	MIM:608136			ARHGEF10	HP:0000762												IEA							17.02.2009	
+MIM:608236	SLOWED NERVE CONDUCTION VELOCITY, AUTOSOMAL DOMINANT	MIM:608136			ARHGEF10	HP:0003381												ITM							17.02.2009	
+MIM:608236	SLOWED NERVE CONDUCTION VELOCITY, AUTOSOMAL DOMINANT	MIM:608136			ARHGEF10	HP:0003383												IEA							17.02.2009	
+MIM:608236	SLOWED NERVE CONDUCTION VELOCITY, AUTOSOMAL DOMINANT	MIM:608136			ARHGEF10	HP:0003581												IEA							17.02.2009	

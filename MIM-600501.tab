@@ -1,12 +1,11 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:600501		MIM:131244			EDNRB	HP:0000007																			
-MIM:600501		MIM:131244			EDNRB	HP:0000404		GO:0007605		PATO:0000462															
-MIM:600501		MIM:131244			EDNRB	HP:0001022																			
-MIM:600501		MIM:131244			EDNRB	HP:0001111																			
-MIM:600501		MIM:131244			EDNRB	HP:0001507		GO:0040007		PATO:0000001									PATO:0000460						
-MIM:600501		MIM:131244			EDNRB	HP:0001595		FMA:53667		PATO:0000001									PATO:0000460						
-MIM:600501		MIM:131244			EDNRB	HP:0002251		FMA:14543		PATO:0000586		FMA:5884													
-MIM:600501		MIM:131244			EDNRB	HP:0002251		FMA:14543		PATO:0000586		FMA:5884													
-MIM:600501		MIM:131244			EDNRB	HP:0006958																			
-MIM:600501		MIM:131244			EDNRB	HP:0008513																			
-MIM:600501		MIM:131244			EDNRB	HP:0008530																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:600501	ABCD SYNDROME	MIM:131244			EDNRB	HP:0000007												IEA							17.02.2009	
+MIM:600501	ABCD SYNDROME	MIM:131244			EDNRB	HP:0000404		GO:0007605		PATO:0000462								ITM							17.02.2009	
+MIM:600501	ABCD SYNDROME	MIM:131244			EDNRB	HP:0001022												IEA							17.02.2009	
+MIM:600501	ABCD SYNDROME	MIM:131244			EDNRB	HP:0001111												IEA							17.02.2009	
+MIM:600501	ABCD SYNDROME	MIM:131244			EDNRB	HP:0001507		GO:0040007		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:600501	ABCD SYNDROME	MIM:131244			EDNRB	HP:0001595		FMA:53667		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:600501	ABCD SYNDROME	MIM:131244			EDNRB	HP:0002251		FMA:14543		PATO:0000586		FMA:5884						ITM							17.02.2009	
+MIM:600501	ABCD SYNDROME	MIM:131244			EDNRB	HP:0006958												IEA							17.02.2009	
+MIM:600501	ABCD SYNDROME	MIM:131244			EDNRB	HP:0008513												ITM							17.02.2009	
+MIM:600501	ABCD SYNDROME	MIM:131244			EDNRB	HP:0008530												ITM							17.02.2009	

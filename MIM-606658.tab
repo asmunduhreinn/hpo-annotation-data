@@ -1,11 +1,11 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:606658		MIM:147265			ITPR1	HP:0000006																			
-MIM:606658		MIM:147265			ITPR1	HP:0001253		FMA:67944		HP:0001251															
-MIM:606658		MIM:147265			ITPR1	HP:0001260																			
-MIM:606658		MIM:147265			ITPR1	HP:0001272																			
-MIM:606658		MIM:147265			ITPR1	HP:0001347																			
-MIM:606658		MIM:147265			ITPR1	HP:0002066																			
-MIM:606658		MIM:147265			ITPR1	HP:0002174																			
-MIM:606658		MIM:147265			ITPR1	HP:0002345																			
-MIM:606658		MIM:147265			ITPR1	HP:0003578																			
-MIM:606658		MIM:147265			ITPR1	HP:0003681																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:606658	SPINOCEREBELLAR ATAXIA 15	MIM:147265			ITPR1	HP:0000006												IEA							17.02.2009	
+MIM:606658	SPINOCEREBELLAR ATAXIA 15	MIM:147265			ITPR1	HP:0001253		FMA:67944		HP:0001251								IEA							17.02.2009	
+MIM:606658	SPINOCEREBELLAR ATAXIA 15	MIM:147265			ITPR1	HP:0001260												IEA							17.02.2009	
+MIM:606658	SPINOCEREBELLAR ATAXIA 15	MIM:147265			ITPR1	HP:0001272												IEA							17.02.2009	
+MIM:606658	SPINOCEREBELLAR ATAXIA 15	MIM:147265			ITPR1	HP:0001347												IEA							17.02.2009	
+MIM:606658	SPINOCEREBELLAR ATAXIA 15	MIM:147265			ITPR1	HP:0002066												IEA							17.02.2009	
+MIM:606658	SPINOCEREBELLAR ATAXIA 15	MIM:147265			ITPR1	HP:0002174												IEA							17.02.2009	
+MIM:606658	SPINOCEREBELLAR ATAXIA 15	MIM:147265			ITPR1	HP:0002345												IEA							17.02.2009	
+MIM:606658	SPINOCEREBELLAR ATAXIA 15	MIM:147265			ITPR1	HP:0003578												ITM							17.02.2009	
+MIM:606658	SPINOCEREBELLAR ATAXIA 15	MIM:147265			ITPR1	HP:0003681												IEA							17.02.2009	

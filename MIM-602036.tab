@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:602036		MIM:152445			LOR	HP:0000006																			
-MIM:602036		MIM:152445			LOR	HP:0000982																			
-MIM:602036		MIM:152445			LOR	HP:0001478																			
-MIM:602036		MIM:152445			LOR	HP:0001597				PATO:0000001									PATO:0000460						
-MIM:602036		MIM:152445			LOR	HP:0003576																			
-MIM:602036		MIM:152445			LOR	HP:0009775																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:602036	ERYTHROKERATODERMIA, PROGRESSIVE SYMMETRIC	MIM:152445			LOR	HP:0000006												IEA							17.02.2009	
+MIM:602036	ERYTHROKERATODERMIA, PROGRESSIVE SYMMETRIC	MIM:152445			LOR	HP:0000982												IEA							17.02.2009	
+MIM:602036	ERYTHROKERATODERMIA, PROGRESSIVE SYMMETRIC	MIM:152445			LOR	HP:0001478												IEA							17.02.2009	
+MIM:602036	ERYTHROKERATODERMIA, PROGRESSIVE SYMMETRIC	MIM:152445			LOR	HP:0001597				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:602036	ERYTHROKERATODERMIA, PROGRESSIVE SYMMETRIC	MIM:152445			LOR	HP:0003576												IEA							17.02.2009	
+MIM:602036	ERYTHROKERATODERMIA, PROGRESSIVE SYMMETRIC	MIM:152445			LOR	HP:0009775												IEA							17.02.2009	

@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:188055		MIM:612309			F5	HP:0000006																			
-MIM:188055		MIM:612309			F5	HP:0001977																			
-MIM:188055		MIM:612309			F5	HP:0002625		FMA:74551		HP:0004936															
-MIM:188055		MIM:612309			F5	HP:0003593																			
-MIM:188055		MIM:612309			F5	HP:0003645																			
-MIM:188055		MIM:612309			F5	HP:0004936																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:188055	THROMBOPHILIA DUE TO DEFICIENCY OF ACTIVATED PROTEIN C COFACTOR	MIM:612309			F5	HP:0000006												IEA							17.02.2009	
+MIM:188055	THROMBOPHILIA DUE TO DEFICIENCY OF ACTIVATED PROTEIN C COFACTOR	MIM:612309			F5	HP:0001977												ITM							17.02.2009	
+MIM:188055	THROMBOPHILIA DUE TO DEFICIENCY OF ACTIVATED PROTEIN C COFACTOR	MIM:612309			F5	HP:0002625		FMA:74551		HP:0004936								IEA							17.02.2009	
+MIM:188055	THROMBOPHILIA DUE TO DEFICIENCY OF ACTIVATED PROTEIN C COFACTOR	MIM:612309			F5	HP:0003593												ITM							17.02.2009	
+MIM:188055	THROMBOPHILIA DUE TO DEFICIENCY OF ACTIVATED PROTEIN C COFACTOR	MIM:612309			F5	HP:0003645												IEA							17.02.2009	
+MIM:188055	THROMBOPHILIA DUE TO DEFICIENCY OF ACTIVATED PROTEIN C COFACTOR	MIM:612309			F5	HP:0004936												IEA							17.02.2009	

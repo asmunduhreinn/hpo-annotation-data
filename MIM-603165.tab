@@ -1,16 +1,16 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0000006																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0000509																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0000518																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0000563																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0000955																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0000958		FMA:7163		PATO:0001824															
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0000964																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0000989																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0001041																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0001581																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0002099																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0002715																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0003193																			
-MIM:603165					ATOD3, ATOD5, ATOD6	HP:0007453																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0000006												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0000509												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0000518												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0000563												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0000955												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0000958		FMA:7163		PATO:0001824								IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0000964												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0000989												ITM							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0001041												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0001581												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0001939		GO:0008152		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0002099												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0002715												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0003193												IEA							17.02.2009	
+MIM:603165	DERMATITIS, ATOPIC				ATOD3, ATOD5, ATOD6	HP:0007453												IEA							17.02.2009	

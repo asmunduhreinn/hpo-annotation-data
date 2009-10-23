@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:601154		MIM:600163			SCN5A	HP:0000006																			
-MIM:601154		MIM:600163			SCN5A	HP:0001297																			
-MIM:601154		MIM:600163			SCN5A	HP:0001644																			
-MIM:601154		MIM:600163			SCN5A	HP:0004755																			
-MIM:601154		MIM:600163			SCN5A	HP:0006673																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:601154	CARDIOMYOPATHY, DILATED, 1E	MIM:600163			SCN5A	HP:0000006												IEA							17.02.2009	
+MIM:601154	CARDIOMYOPATHY, DILATED, 1E	MIM:600163			SCN5A	HP:0001297												IEA							17.02.2009	
+MIM:601154	CARDIOMYOPATHY, DILATED, 1E	MIM:600163			SCN5A	HP:0001644												IEA							17.02.2009	
+MIM:601154	CARDIOMYOPATHY, DILATED, 1E	MIM:600163			SCN5A	HP:0004755												IEA							17.02.2009	
+MIM:601154	CARDIOMYOPATHY, DILATED, 1E	MIM:600163			SCN5A	HP:0006673												IEA							17.02.2009	

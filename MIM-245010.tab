@@ -1,11 +1,11 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:245010		MIM:602365			CTSC	HP:0000007																			
-MIM:245010		MIM:602365			CTSC	HP:0000166																			
-MIM:245010		MIM:602365			CTSC	HP:0001166																			
-MIM:245010		MIM:602365			CTSC	HP:0001763																			
-MIM:245010		MIM:602365			CTSC	HP:0001819																			
-MIM:245010		MIM:602365			CTSC	HP:0003584																			
-MIM:245010		MIM:602365			CTSC	HP:0005406																			
-MIM:245010		MIM:602365			CTSC	HP:0006224																			
-MIM:245010		MIM:602365			CTSC	HP:0007545																			
-MIM:245010		MIM:602365			CTSC	HP:0009771		FMA:23914		HP:0002797															
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:245010	HAIM-MUNK SYNDROME	MIM:602365			CTSC	HP:0000007												IEA							17.02.2009	
+MIM:245010	HAIM-MUNK SYNDROME	MIM:602365			CTSC	HP:0000166												IEA							17.02.2009	
+MIM:245010	HAIM-MUNK SYNDROME	MIM:602365			CTSC	HP:0001166												IEA							17.02.2009	
+MIM:245010	HAIM-MUNK SYNDROME	MIM:602365			CTSC	HP:0001763												IEA							17.02.2009	
+MIM:245010	HAIM-MUNK SYNDROME	MIM:602365			CTSC	HP:0001819												IEA							17.02.2009	
+MIM:245010	HAIM-MUNK SYNDROME	MIM:602365			CTSC	HP:0003584												ITM							17.02.2009	
+MIM:245010	HAIM-MUNK SYNDROME	MIM:602365			CTSC	HP:0005406												IEA							17.02.2009	
+MIM:245010	HAIM-MUNK SYNDROME	MIM:602365			CTSC	HP:0006224												IEA							17.02.2009	
+MIM:245010	HAIM-MUNK SYNDROME	MIM:602365			CTSC	HP:0007545												IEA							17.02.2009	
+MIM:245010	HAIM-MUNK SYNDROME	MIM:602365			CTSC	HP:0009771		FMA:23914		HP:0002797								IEA							17.02.2009	

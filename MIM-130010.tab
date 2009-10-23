@@ -1,12 +1,12 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:130010		MIM:120215			COL5A1	HP:0000006																			
-MIM:130010		MIM:120215			COL5A1	HP:0000974																			
-MIM:130010		MIM:120215			COL5A1	HP:0000978																			
-MIM:130010		MIM:120215			COL5A1	HP:0000993																			
-MIM:130010		MIM:120215			COL5A1	HP:0001030		FMA:7163		PATO:0001362															
-MIM:130010		MIM:120215			COL5A1	HP:0001073																			
-MIM:130010		MIM:120215			COL5A1	HP:0001388																			
-MIM:130010		MIM:120215			COL5A1	HP:0001634		FMA:7235		PATO:0000623															
-MIM:130010		MIM:120215			COL5A1	HP:0001763																			
-MIM:130010		MIM:120215			COL5A1	HP:0002619																			
-MIM:130010		MIM:120215			COL5A1	HP:0002758																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0000006												IEA							17.02.2009	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0000974												IEA							17.02.2009	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0000978												IEA							17.02.2009	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0000993												IEA							17.02.2009	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0001030		FMA:7163		PATO:0001362								IEA							17.02.2009	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0001073												IEA							17.02.2009	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0001388												IEA							17.02.2009	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0001634		FMA:7235		PATO:0000623								IEA							17.02.2009	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0001763												IEA							17.02.2009	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0002619												IEA							17.02.2009	
+MIM:130010	EHLERS-DANLOS SYNDROME, TYPE II	MIM:120215			COL5A1	HP:0002758												IEA							17.02.2009	

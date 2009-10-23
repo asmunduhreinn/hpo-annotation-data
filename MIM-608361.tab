@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:608361		MIM:155760			ACAN	HP:0000006																			
-MIM:608361		MIM:155760			ACAN	HP:0000926				PATO:0000407									PATO:0001869						
-MIM:608361		MIM:155760			ACAN	HP:0002655																			
-MIM:608361		MIM:155760			ACAN	HP:0002750		GO:0070977		PATO:0000911															
-MIM:608361		MIM:155760			ACAN	HP:0002857																			
-MIM:608361		MIM:155760			ACAN	HP:0002970																			
-MIM:608361		MIM:155760			ACAN	HP:0003370																			
-MIM:608361		MIM:155760			ACAN	HP:0003499																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:608361	SPONDYLOEPIPHYSEAL DYSPLASIA, KIMBERLEY TYPE	MIM:155760			ACAN	HP:0000006												IEA							17.02.2009	
+MIM:608361	SPONDYLOEPIPHYSEAL DYSPLASIA, KIMBERLEY TYPE	MIM:155760			ACAN	HP:0000926				PATO:0000407								IEA		PATO:0001869					17.02.2009	
+MIM:608361	SPONDYLOEPIPHYSEAL DYSPLASIA, KIMBERLEY TYPE	MIM:155760			ACAN	HP:0002655												IEA							17.02.2009	
+MIM:608361	SPONDYLOEPIPHYSEAL DYSPLASIA, KIMBERLEY TYPE	MIM:155760			ACAN	HP:0002750		GO:0070977		PATO:0000911								IEA							17.02.2009	
+MIM:608361	SPONDYLOEPIPHYSEAL DYSPLASIA, KIMBERLEY TYPE	MIM:155760			ACAN	HP:0002857												IEA							17.02.2009	
+MIM:608361	SPONDYLOEPIPHYSEAL DYSPLASIA, KIMBERLEY TYPE	MIM:155760			ACAN	HP:0002970												IEA							17.02.2009	
+MIM:608361	SPONDYLOEPIPHYSEAL DYSPLASIA, KIMBERLEY TYPE	MIM:155760			ACAN	HP:0003370												IEA							17.02.2009	
+MIM:608361	SPONDYLOEPIPHYSEAL DYSPLASIA, KIMBERLEY TYPE	MIM:155760			ACAN	HP:0003499												IEA							17.02.2009	

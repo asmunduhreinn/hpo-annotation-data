@@ -1,8 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:303100		MIM:300390			CHM	HP:0000529																			
-MIM:303100		MIM:300390			CHM	HP:0000662																			
-MIM:303100		MIM:300390			CHM	HP:0001133																			
-MIM:303100		MIM:300390			CHM	HP:0001139																			
-MIM:303100		MIM:300390			CHM	HP:0001150		FMA:58298		PATO:0001788									PATO:0001869						
-MIM:303100		MIM:300390			CHM	HP:0001417																			
-MIM:303100		MIM:300390			CHM	HP:0007945		FMA:58298		PATO:0000639															
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:303100	CHOROIDEREMIA	MIM:300390			CHM	HP:0000529												IEA							17.02.2009	
+MIM:303100	CHOROIDEREMIA	MIM:300390			CHM	HP:0000662												IEA							17.02.2009	
+MIM:303100	CHOROIDEREMIA	MIM:300390			CHM	HP:0001133												IEA							17.02.2009	
+MIM:303100	CHOROIDEREMIA	MIM:300390			CHM	HP:0001139												IEA							17.02.2009	
+MIM:303100	CHOROIDEREMIA	MIM:300390			CHM	HP:0001150		FMA:58298		PATO:0001788								IEA		PATO:0001869					17.02.2009	
+MIM:303100	CHOROIDEREMIA	MIM:300390			CHM	HP:0001417												IEA							17.02.2009	
+MIM:303100	CHOROIDEREMIA	MIM:300390			CHM	HP:0007945		FMA:58298		PATO:0000639								IEA							17.02.2009	

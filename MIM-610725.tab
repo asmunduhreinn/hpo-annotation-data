@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:610725		MIM:608414			PLCE1	HP:0000007																			
-MIM:610725		MIM:608414			PLCE1	HP:0000093		FMA:12274		PATO:0002002		CHEBI:16541													
-MIM:610725		MIM:608414			PLCE1	HP:0000097																			
-MIM:610725		MIM:608414			PLCE1	HP:0000969				PATO:0001450															
-MIM:610725		MIM:608414			PLCE1	HP:0001967																			
-MIM:610725		MIM:608414			PLCE1	HP:0003073																			
-MIM:610725		MIM:608414			PLCE1	HP:0003583																			
-MIM:610725		MIM:608414			PLCE1	HP:0004718																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:610725	NEPHROTIC SYNDROME, TYPE 3	MIM:608414			PLCE1	HP:0000007												IEA							17.02.2009	
+MIM:610725	NEPHROTIC SYNDROME, TYPE 3	MIM:608414			PLCE1	HP:0000093		FMA:12274		PATO:0002002		CHEBI:16541						IEA							17.02.2009	
+MIM:610725	NEPHROTIC SYNDROME, TYPE 3	MIM:608414			PLCE1	HP:0000097												IEA							17.02.2009	
+MIM:610725	NEPHROTIC SYNDROME, TYPE 3	MIM:608414			PLCE1	HP:0000969				PATO:0001450								IEA							17.02.2009	
+MIM:610725	NEPHROTIC SYNDROME, TYPE 3	MIM:608414			PLCE1	HP:0001967												IEA							17.02.2009	
+MIM:610725	NEPHROTIC SYNDROME, TYPE 3	MIM:608414			PLCE1	HP:0003073												IEA							17.02.2009	
+MIM:610725	NEPHROTIC SYNDROME, TYPE 3	MIM:608414			PLCE1	HP:0003583												IEA							17.02.2009	
+MIM:610725	NEPHROTIC SYNDROME, TYPE 3	MIM:608414			PLCE1	HP:0004718												IEA							17.02.2009	

@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:104300					A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0000006																			
-MIM:104300					A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0001300																			
-MIM:104300					A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0001425																			
-MIM:104300					A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0002185																			
-MIM:104300					A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0002423																			
-MIM:104300					A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0002511																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:104300	ALZHEIMER DISEASE				A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0000006												IEA							17.02.2009	
+MIM:104300	ALZHEIMER DISEASE				A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0001300												IEA							17.02.2009	
+MIM:104300	ALZHEIMER DISEASE				A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0001425												IEA							17.02.2009	
+MIM:104300	ALZHEIMER DISEASE				A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0002185												ITM							17.02.2009	
+MIM:104300	ALZHEIMER DISEASE				A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0002423												IEA							17.02.2009	
+MIM:104300	ALZHEIMER DISEASE				A2M, ACE, AD10, AD5, AD6, AD8, AD9, APBB2, APP, BLMH, HFE, MPO, NOS3, PAXIP1, PLAU, SORL1	HP:0002511												ITM							17.02.2009	

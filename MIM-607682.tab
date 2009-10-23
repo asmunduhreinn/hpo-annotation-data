@@ -1,10 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:607682		MIM:600570			CLCN2	HP:0000006																			
-MIM:607682		MIM:600570			CLCN2	HP:0001275																			
-MIM:607682		MIM:600570			CLCN2	HP:0001425																			
-MIM:607682		MIM:600570			CLCN2	HP:0002069																			
-MIM:607682		MIM:600570			CLCN2	HP:0002121																			
-MIM:607682		MIM:600570			CLCN2	HP:0002373																			
-MIM:607682		MIM:600570			CLCN2	HP:0002392																			
-MIM:607682		MIM:600570			CLCN2	HP:0002407																			
-MIM:607682		MIM:600570			CLCN2	HP:0003592																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607682	EPILEPSY, CHILDHOOD ABSENCE, 3	MIM:600570			CLCN2	HP:0000006												IEA							17.02.2009	
+MIM:607682	EPILEPSY, CHILDHOOD ABSENCE, 3	MIM:600570			CLCN2	HP:0001275												ITM							17.02.2009	
+MIM:607682	EPILEPSY, CHILDHOOD ABSENCE, 3	MIM:600570			CLCN2	HP:0001425												ITM							17.02.2009	
+MIM:607682	EPILEPSY, CHILDHOOD ABSENCE, 3	MIM:600570			CLCN2	HP:0002069												IEA							17.02.2009	
+MIM:607682	EPILEPSY, CHILDHOOD ABSENCE, 3	MIM:600570			CLCN2	HP:0002121												IEA							17.02.2009	
+MIM:607682	EPILEPSY, CHILDHOOD ABSENCE, 3	MIM:600570			CLCN2	HP:0002373												IEA							17.02.2009	
+MIM:607682	EPILEPSY, CHILDHOOD ABSENCE, 3	MIM:600570			CLCN2	HP:0002392												IEA							17.02.2009	
+MIM:607682	EPILEPSY, CHILDHOOD ABSENCE, 3	MIM:600570			CLCN2	HP:0002407												IEA							17.02.2009	
+MIM:607682	EPILEPSY, CHILDHOOD ABSENCE, 3	MIM:600570			CLCN2	HP:0003592												IEA							17.02.2009	

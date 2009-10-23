@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:136520		MIM:607108			PAX6	HP:0000006																			
-MIM:136520		MIM:607108			PAX6	HP:0006934																			
-MIM:136520		MIM:607108			PAX6	HP:0007750																			
-MIM:136520		MIM:607108			PAX6	HP:0007819																			
-MIM:136520		MIM:607108			PAX6	HP:0007860																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:136520	FOVEAL HYPOPLASIA AND PRESENILE CATARACT SYNDROMEFOVEAL HYPOPLASIA, ISOLATED, INCLUDED	MIM:607108			PAX6	HP:0000006												IEA							17.02.2009	
+MIM:136520	FOVEAL HYPOPLASIA AND PRESENILE CATARACT SYNDROMEFOVEAL HYPOPLASIA, ISOLATED, INCLUDED	MIM:607108			PAX6	HP:0006934												IEA							17.02.2009	
+MIM:136520	FOVEAL HYPOPLASIA AND PRESENILE CATARACT SYNDROMEFOVEAL HYPOPLASIA, ISOLATED, INCLUDED	MIM:607108			PAX6	HP:0007750												IEA							17.02.2009	
+MIM:136520	FOVEAL HYPOPLASIA AND PRESENILE CATARACT SYNDROMEFOVEAL HYPOPLASIA, ISOLATED, INCLUDED	MIM:607108			PAX6	HP:0007819												IEA							17.02.2009	
+MIM:136520	FOVEAL HYPOPLASIA AND PRESENILE CATARACT SYNDROMEFOVEAL HYPOPLASIA, ISOLATED, INCLUDED	MIM:607108			PAX6	HP:0007860												IEA							17.02.2009	

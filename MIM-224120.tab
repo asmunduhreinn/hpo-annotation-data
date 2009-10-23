@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:224120		MIM:607465			CDAN1	HP:0000007																			
-MIM:224120		MIM:607465			CDAN1	HP:0000986																			
-MIM:224120		MIM:607465			CDAN1	HP:0001530																			
-MIM:224120		MIM:607465			CDAN1	HP:0001789		EMAP:640		PATO:0001450															
-MIM:224120		MIM:607465			CDAN1	HP:0003352																			
-MIM:224120		MIM:607465			CDAN1	HP:0003655																			
-MIM:224120		MIM:607465			CDAN1	HP:0005532																			
-MIM:224120		MIM:607465			CDAN1	HP:0005553																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:224120	ANEMIA, DYSERYTHROPOIETIC CONGENITAL, TYPE I	MIM:607465			CDAN1	HP:0000007												IEA							17.02.2009	
+MIM:224120	ANEMIA, DYSERYTHROPOIETIC CONGENITAL, TYPE I	MIM:607465			CDAN1	HP:0000986												IEA							17.02.2009	
+MIM:224120	ANEMIA, DYSERYTHROPOIETIC CONGENITAL, TYPE I	MIM:607465			CDAN1	HP:0001530												IEA							17.02.2009	
+MIM:224120	ANEMIA, DYSERYTHROPOIETIC CONGENITAL, TYPE I	MIM:607465			CDAN1	HP:0001789		EMAP:640		PATO:0001450								IEA							17.02.2009	
+MIM:224120	ANEMIA, DYSERYTHROPOIETIC CONGENITAL, TYPE I	MIM:607465			CDAN1	HP:0003352												IEA							17.02.2009	
+MIM:224120	ANEMIA, DYSERYTHROPOIETIC CONGENITAL, TYPE I	MIM:607465			CDAN1	HP:0003655												IEA							17.02.2009	
+MIM:224120	ANEMIA, DYSERYTHROPOIETIC CONGENITAL, TYPE I	MIM:607465			CDAN1	HP:0005532												IEA							17.02.2009	
+MIM:224120	ANEMIA, DYSERYTHROPOIETIC CONGENITAL, TYPE I	MIM:607465			CDAN1	HP:0005553												IEA							17.02.2009	

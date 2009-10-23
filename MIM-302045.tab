@@ -1,3 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:302045		MIM:300377			DMD	HP:0001417																			
-MIM:302045		MIM:300377			DMD	HP:0001644																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:302045	CARDIOMYOPATHY, DILATED, 3B	MIM:300377			DMD	HP:0001417												IEA							17.02.2009	
+MIM:302045	CARDIOMYOPATHY, DILATED, 3B	MIM:300377			DMD	HP:0001644												IEA							17.02.2009	

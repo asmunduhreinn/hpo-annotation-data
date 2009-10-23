@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:245340		MIM:600682			SLC16A1	HP:0000006																			
-MIM:245340		MIM:600682			SLC16A1	HP:0002147																			
-MIM:245340		MIM:600682			SLC16A1	HP:0003710																			
-MIM:245340		MIM:600682			SLC16A1	HP:0008967				EFO_0000483															
-MIM:245340		MIM:600682			SLC16A1	HP:0009020				EFO_0000483															
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:245340	ERYTHROCYTE LACTATE TRANSPORTER DEFECT	MIM:600682			SLC16A1	HP:0000006												IEA							17.02.2009	
+MIM:245340	ERYTHROCYTE LACTATE TRANSPORTER DEFECT	MIM:600682			SLC16A1	HP:0002147												IEA							17.02.2009	
+MIM:245340	ERYTHROCYTE LACTATE TRANSPORTER DEFECT	MIM:600682			SLC16A1	HP:0003710												IEA							17.02.2009	
+MIM:245340	ERYTHROCYTE LACTATE TRANSPORTER DEFECT	MIM:600682			SLC16A1	HP:0008967				EFO_0000483								IEA							17.02.2009	
+MIM:245340	ERYTHROCYTE LACTATE TRANSPORTER DEFECT	MIM:600682			SLC16A1	HP:0009020				EFO_0000483								IEA							17.02.2009	

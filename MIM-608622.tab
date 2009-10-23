@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:608622		MIM:603951			KCNMB1	HP:0000006																			
-MIM:608622		MIM:603951			KCNMB1	HP:0000822																			
-MIM:608622		MIM:603951			KCNMB1	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:608622	HYPERTENSION, DIASTOLIC, RESISTANCE TO	MIM:603951			KCNMB1	HP:0000006												IEA							17.02.2009	
+MIM:608622	HYPERTENSION, DIASTOLIC, RESISTANCE TO	MIM:603951			KCNMB1	HP:0000822												ITM							17.02.2009	
+MIM:608622	HYPERTENSION, DIASTOLIC, RESISTANCE TO	MIM:603951			KCNMB1	HP:0001939		GO:0008152		PATO:0000001								ITM		PATO:0000460					17.02.2009	

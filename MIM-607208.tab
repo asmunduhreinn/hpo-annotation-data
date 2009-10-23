@@ -1,13 +1,13 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:607208					GABRG2, SCN1A	HP:0000006																			
-MIM:607208					GABRG2, SCN1A	HP:0001251		GO:0050881		PATO:0000770															
-MIM:607208					GABRG2, SCN1A	HP:0001255																			
-MIM:607208					GABRG2, SCN1A	HP:0001268																			
-MIM:607208					GABRG2, SCN1A	HP:0001945																			
-MIM:607208					GABRG2, SCN1A	HP:0002121																			
-MIM:607208					GABRG2, SCN1A	HP:0002123																			
-MIM:607208					GABRG2, SCN1A	HP:0002133																			
-MIM:607208					GABRG2, SCN1A	HP:0002373																			
-MIM:607208					GABRG2, SCN1A	HP:0002384																			
-MIM:607208					GABRG2, SCN1A	HP:0003599																			
-MIM:607208					GABRG2, SCN1A	HP:0006813																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0000006												IEA							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0001251		GO:0050881		PATO:0000770								IEA							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0001255												IEA							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0001268												IEA							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0001945												ITM							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0002121												IEA							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0002123												IEA							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0002133												IEA							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0002373												ITM							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0002384												IEA							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0003599												IEA							17.02.2009	
+MIM:607208	SEVERE MYOCLONIC EPILEPSY OF INFANCY				GABRG2, SCN1A	HP:0006813												IEA							17.02.2009	

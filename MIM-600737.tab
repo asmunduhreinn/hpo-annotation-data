@@ -1,11 +1,11 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:600737		MIM:603824			GNE	HP:0000007																			
-MIM:600737		MIM:603824			GNE	HP:0001288																			
-MIM:600737		MIM:603824			GNE	HP:0003078																			
-MIM:600737		MIM:603824			GNE	HP:0003322																			
-MIM:600737		MIM:603824			GNE	HP:0003325		_:limb-girdle_muscle		HP:0001324															
-MIM:600737		MIM:603824			GNE	HP:0003581																			
-MIM:600737		MIM:603824			GNE	HP:0003693		_:distal_muscle		PATO:0001623															
-MIM:600737		MIM:603824			GNE	HP:0003791																			
-MIM:600737		MIM:603824			GNE	HP:0003797		_:limb-girdle_muscle		PATO:0001623															
-MIM:600737		MIM:603824			GNE	HP:0003805																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:600737	INCLUSION BODY MYOPATHY 2, AUTOSOMAL RECESSIVE	MIM:603824			GNE	HP:0000007												IEA							17.02.2009	
+MIM:600737	INCLUSION BODY MYOPATHY 2, AUTOSOMAL RECESSIVE	MIM:603824			GNE	HP:0001288												IEA							17.02.2009	
+MIM:600737	INCLUSION BODY MYOPATHY 2, AUTOSOMAL RECESSIVE	MIM:603824			GNE	HP:0003078												IEA							17.02.2009	
+MIM:600737	INCLUSION BODY MYOPATHY 2, AUTOSOMAL RECESSIVE	MIM:603824			GNE	HP:0003322												IEA							17.02.2009	
+MIM:600737	INCLUSION BODY MYOPATHY 2, AUTOSOMAL RECESSIVE	MIM:603824			GNE	HP:0003325		_:limb-girdle_muscle		HP:0001324								IEA							17.02.2009	
+MIM:600737	INCLUSION BODY MYOPATHY 2, AUTOSOMAL RECESSIVE	MIM:603824			GNE	HP:0003581												IEA							17.02.2009	
+MIM:600737	INCLUSION BODY MYOPATHY 2, AUTOSOMAL RECESSIVE	MIM:603824			GNE	HP:0003693		_:distal_muscle		PATO:0001623								IEA							17.02.2009	
+MIM:600737	INCLUSION BODY MYOPATHY 2, AUTOSOMAL RECESSIVE	MIM:603824			GNE	HP:0003791												IEA							17.02.2009	
+MIM:600737	INCLUSION BODY MYOPATHY 2, AUTOSOMAL RECESSIVE	MIM:603824			GNE	HP:0003797		_:limb-girdle_muscle		PATO:0001623								IEA							17.02.2009	
+MIM:600737	INCLUSION BODY MYOPATHY 2, AUTOSOMAL RECESSIVE	MIM:603824			GNE	HP:0003805												IEA							17.02.2009	

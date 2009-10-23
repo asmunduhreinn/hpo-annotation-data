@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:235800		MIM:609457			HAL	HP:0000007																			
-MIM:235800		MIM:609457			HAL	HP:0000715																			
-MIM:235800		MIM:609457			HAL	HP:0000951		FMA:7163		PATO:0000001									PATO:0000460						
-MIM:235800		MIM:609457			HAL	HP:0001249																			
-MIM:235800		MIM:609457			HAL	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
-MIM:235800		MIM:609457			HAL	HP:0002167																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:235800	HISTIDINEMIA	MIM:609457			HAL	HP:0000007												IEA							17.02.2009	
+MIM:235800	HISTIDINEMIA	MIM:609457			HAL	HP:0000715												IEA							17.02.2009	
+MIM:235800	HISTIDINEMIA	MIM:609457			HAL	HP:0000951		FMA:7163		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:235800	HISTIDINEMIA	MIM:609457			HAL	HP:0001249												IEA							17.02.2009	
+MIM:235800	HISTIDINEMIA	MIM:609457			HAL	HP:0001939		GO:0008152		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:235800	HISTIDINEMIA	MIM:609457			HAL	HP:0002167												ITM							17.02.2009	

@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:228960		MIM:612358			KNG1	HP:0000007																			
-MIM:228960		MIM:612358			KNG1	HP:0003645																			
-MIM:228960		MIM:612358			KNG1	HP:0004867																			
-MIM:228960		MIM:612358			KNG1	HP:0005500																			
-MIM:228960		MIM:612358			KNG1	HP:0005527																			
-MIM:228960		MIM:612358			KNG1	HP:0005530																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:228960	FLAUJEAC FACTOR DEFICIENCY	MIM:612358			KNG1	HP:0000007												IEA							17.02.2009	
+MIM:228960	FLAUJEAC FACTOR DEFICIENCY	MIM:612358			KNG1	HP:0003645												IEA							17.02.2009	
+MIM:228960	FLAUJEAC FACTOR DEFICIENCY	MIM:612358			KNG1	HP:0004867												IEA							17.02.2009	
+MIM:228960	FLAUJEAC FACTOR DEFICIENCY	MIM:612358			KNG1	HP:0005500												IEA							17.02.2009	
+MIM:228960	FLAUJEAC FACTOR DEFICIENCY	MIM:612358			KNG1	HP:0005527												IEA							17.02.2009	
+MIM:228960	FLAUJEAC FACTOR DEFICIENCY	MIM:612358			KNG1	HP:0005530												IEA							17.02.2009	

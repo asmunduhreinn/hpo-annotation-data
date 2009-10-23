@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:300071		MIM:300110			CACNA1F	HP:0000505		GO:0007601		PATO:0000762															
-MIM:300071		MIM:300110			CACNA1F	HP:0001425																			
-MIM:300071		MIM:300110			CACNA1F	HP:0007642																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:300071	NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 2A	MIM:300110			CACNA1F	HP:0000505		GO:0007601		PATO:0000762								IEA							17.02.2009	
+MIM:300071	NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 2A	MIM:300110			CACNA1F	HP:0001425												IEA							17.02.2009	
+MIM:300071	NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 2A	MIM:300110			CACNA1F	HP:0007642												IEA							17.02.2009	

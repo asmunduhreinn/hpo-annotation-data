@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:173600		MIM:607273			FLCN	HP:0000006																			
-MIM:173600		MIM:607273			FLCN	HP:0002107																			
-MIM:173600		MIM:607273			FLCN	HP:0003745																			
-MIM:173600		MIM:607273			FLCN	HP:0003829																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:173600	PNEUMOTHORAX, PRIMARY SPONTANEOUS	MIM:607273			FLCN	HP:0000006												IEA							17.02.2009	
+MIM:173600	PNEUMOTHORAX, PRIMARY SPONTANEOUS	MIM:607273			FLCN	HP:0002107												IEA							17.02.2009	
+MIM:173600	PNEUMOTHORAX, PRIMARY SPONTANEOUS	MIM:607273			FLCN	HP:0003745												ITM							17.02.2009	
+MIM:173600	PNEUMOTHORAX, PRIMARY SPONTANEOUS	MIM:607273			FLCN	HP:0003829												IEA							17.02.2009	

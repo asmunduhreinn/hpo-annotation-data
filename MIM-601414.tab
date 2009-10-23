@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:601414		MIM:607301			PRPF3	HP:0000006																			
-MIM:601414		MIM:607301			PRPF3	HP:0000662																			
-MIM:601414		MIM:607301			PRPF3	HP:0007987																			
-MIM:601414		MIM:607301			PRPF3	HP:0008043																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:601414	RETINITIS PIGMENTOSA 18	MIM:607301			PRPF3	HP:0000006												IEA							17.02.2009	
+MIM:601414	RETINITIS PIGMENTOSA 18	MIM:607301			PRPF3	HP:0000662												IEA							17.02.2009	
+MIM:601414	RETINITIS PIGMENTOSA 18	MIM:607301			PRPF3	HP:0007987												IEA							17.02.2009	
+MIM:601414	RETINITIS PIGMENTOSA 18	MIM:607301			PRPF3	HP:0008043		FMA:63182		PATO:0001847								IEA							17.02.2009	

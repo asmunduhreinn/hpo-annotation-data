@@ -1,12 +1,12 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:609814		MIM:134370			CFH	HP:0000006																			
-MIM:609814		MIM:134370			CFH	HP:0000007																			
-MIM:609814		MIM:134370			CFH	HP:0000106																			
-MIM:609814		MIM:134370			CFH	HP:0000790		FMA:12274		PATO:0002002		FMA:62970													
-MIM:609814		MIM:134370			CFH	HP:0003583																			
-MIM:609814		MIM:134370			CFH	HP:0003813																			
-MIM:609814		MIM:134370			CFH	HP:0004722																			
-MIM:609814		MIM:134370			CFH	HP:0004746																			
-MIM:609814		MIM:134370			CFH	HP:0005369																			
-MIM:609814		MIM:134370			CFH	HP:0005389																			
-MIM:609814		MIM:134370			CFH	HP:0005391																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0000006												IEA							17.02.2009	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0000007												IEA							17.02.2009	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0000106												IEA							17.02.2009	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0000790		FMA:12274		PATO:0002002		FMA:62970						IEA							17.02.2009	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0003583												IEA							17.02.2009	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0003813												IEA							17.02.2009	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0004722												IEA							17.02.2009	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0004746												IEA							17.02.2009	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0005369												IEA							17.02.2009	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0005389												IEA							17.02.2009	
+MIM:609814	COMPLEMENT FACTOR H DEFICIENCY	MIM:134370			CFH	HP:0005391												IEA							17.02.2009	

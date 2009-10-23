@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:609968		MIM:147670			INSR	HP:0000006																			
-MIM:609968		MIM:147670			INSR	HP:0000825																			
-MIM:609968		MIM:147670			INSR	HP:0001325																			
-MIM:609968		MIM:147670			INSR	HP:0001425																			
-MIM:609968		MIM:147670			INSR	HP:0001943		FMA:62970		PATO:0001163		CHEBI:17234							PATO:0001869						
-MIM:609968		MIM:147670			INSR	HP:0002173																			
-MIM:609968		MIM:147670			INSR	HP:0007185																			
-MIM:609968		MIM:147670			INSR	HP:0008283																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:609968	HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 5	MIM:147670			INSR	HP:0000006												IEA							17.02.2009	
+MIM:609968	HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 5	MIM:147670			INSR	HP:0000825												IEA							17.02.2009	
+MIM:609968	HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 5	MIM:147670			INSR	HP:0001325												IEA							17.02.2009	
+MIM:609968	HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 5	MIM:147670			INSR	HP:0001425												ITM							17.02.2009	
+MIM:609968	HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 5	MIM:147670			INSR	HP:0001943		FMA:62970		PATO:0001163		CHEBI:17234						ITM		PATO:0001869					17.02.2009	
+MIM:609968	HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 5	MIM:147670			INSR	HP:0002173												IEA							17.02.2009	
+MIM:609968	HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 5	MIM:147670			INSR	HP:0007185												ITM							17.02.2009	
+MIM:609968	HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 5	MIM:147670			INSR	HP:0008283												IEA							17.02.2009	

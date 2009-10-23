@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:240600		MIM:138571			GYS2	HP:0000007																			
-MIM:240600		MIM:138571			GYS2	HP:0001250																			
-MIM:240600		MIM:138571			GYS2	HP:0001998																			
-MIM:240600		MIM:138571			GYS2	HP:0002151		FMA:63083		PATO:0001162		CHEBI:24996													
-MIM:240600		MIM:138571			GYS2	HP:0003074		FMA:62970		PATO:0001162		CHEBI:17234													
-MIM:240600		MIM:138571			GYS2	HP:0003162																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER	MIM:138571			GYS2	HP:0000007												IEA							17.02.2009	
+MIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER	MIM:138571			GYS2	HP:0001250												IEA							17.02.2009	
+MIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER	MIM:138571			GYS2	HP:0001998												IEA							17.02.2009	
+MIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER	MIM:138571			GYS2	HP:0002151		FMA:63083		PATO:0001162		CHEBI:24996						ITM							17.02.2009	
+MIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER	MIM:138571			GYS2	HP:0003074		FMA:62970		PATO:0001162		CHEBI:17234						ITM							17.02.2009	
+MIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER	MIM:138571			GYS2	HP:0003162												IEA							17.02.2009	

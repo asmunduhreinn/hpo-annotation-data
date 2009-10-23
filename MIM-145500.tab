@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:145500					ADD1, AGT, AGTR1, ATP1B1, CYP3A5, ECE1, GNB3, HYT1, HYT2, HYT3, HYT4, HYT5, HYT6, NOS2, NOS3, PTGIS, RGS5, SELE	HP:0001426																			
-MIM:145500					ADD1, AGT, AGTR1, ATP1B1, CYP3A5, ECE1, GNB3, HYT1, HYT2, HYT3, HYT4, HYT5, HYT6, NOS2, NOS3, PTGIS, RGS5, SELE	HP:0004421																			
-MIM:145500					ADD1, AGT, AGTR1, ATP1B1, CYP3A5, ECE1, GNB3, HYT1, HYT2, HYT3, HYT4, HYT5, HYT6, NOS2, NOS3, PTGIS, RGS5, SELE	HP:0004972																			
-MIM:145500					ADD1, AGT, AGTR1, ATP1B1, CYP3A5, ECE1, GNB3, HYT1, HYT2, HYT3, HYT4, HYT5, HYT6, NOS2, NOS3, PTGIS, RGS5, SELE	HP:0005117																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:145500	HYPERTENSION, ESSENTIAL				ADD1, AGT, AGTR1, ATP1B1, CYP3A5, ECE1, GNB3, HYT1, HYT2, HYT3, HYT4, HYT5, HYT6, NOS2, NOS3, PTGIS, RGS5, SELE	HP:0001426												IEA							17.02.2009	
+MIM:145500	HYPERTENSION, ESSENTIAL				ADD1, AGT, AGTR1, ATP1B1, CYP3A5, ECE1, GNB3, HYT1, HYT2, HYT3, HYT4, HYT5, HYT6, NOS2, NOS3, PTGIS, RGS5, SELE	HP:0004421												IEA							17.02.2009	
+MIM:145500	HYPERTENSION, ESSENTIAL				ADD1, AGT, AGTR1, ATP1B1, CYP3A5, ECE1, GNB3, HYT1, HYT2, HYT3, HYT4, HYT5, HYT6, NOS2, NOS3, PTGIS, RGS5, SELE	HP:0004972												IEA							17.02.2009	
+MIM:145500	HYPERTENSION, ESSENTIAL				ADD1, AGT, AGTR1, ATP1B1, CYP3A5, ECE1, GNB3, HYT1, HYT2, HYT3, HYT4, HYT5, HYT6, NOS2, NOS3, PTGIS, RGS5, SELE	HP:0005117												IEA							17.02.2009	

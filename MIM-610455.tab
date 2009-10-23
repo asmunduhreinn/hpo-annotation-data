@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:610455		MIM:610456			SAMD9	HP:0000007																			
-MIM:610455		MIM:610456			SAMD9	HP:0000230																			
-MIM:610455		MIM:610456			SAMD9	HP:0000509																			
-MIM:610455		MIM:610456			SAMD9	HP:0001478																			
-MIM:610455		MIM:610456			SAMD9	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:610455	TUMORAL CALCINOSIS, NORMOPHOSPHATEMIC, FAMILIAL	MIM:610456			SAMD9	HP:0000007												IEA							17.02.2009	
+MIM:610455	TUMORAL CALCINOSIS, NORMOPHOSPHATEMIC, FAMILIAL	MIM:610456			SAMD9	HP:0000230												IEA							17.02.2009	
+MIM:610455	TUMORAL CALCINOSIS, NORMOPHOSPHATEMIC, FAMILIAL	MIM:610456			SAMD9	HP:0000509												IEA							17.02.2009	
+MIM:610455	TUMORAL CALCINOSIS, NORMOPHOSPHATEMIC, FAMILIAL	MIM:610456			SAMD9	HP:0001478												IEA							17.02.2009	
+MIM:610455	TUMORAL CALCINOSIS, NORMOPHOSPHATEMIC, FAMILIAL	MIM:610456			SAMD9	HP:0001939		GO:0008152		PATO:0000001								ITM		PATO:0000460					17.02.2009	

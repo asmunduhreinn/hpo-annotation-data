@@ -1,17 +1,17 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:112500					BDA1B, IHH	HP:0000006																			
-MIM:112500					BDA1B, IHH	HP:0000951		FMA:7163		PATO:0000001									PATO:0000460						
-MIM:112500					BDA1B, IHH	HP:0001032																			
-MIM:112500					BDA1B, IHH	HP:0001157		FMA:9666		PATO:0000140									PATO:0000460						
-MIM:112500					BDA1B, IHH	HP:0001174																			
-MIM:112500					BDA1B, IHH	HP:0001204		FMA:30327		HP:0001159															
-MIM:112500					BDA1B, IHH	HP:0001425																			
-MIM:112500					BDA1B, IHH	HP:0001509		FMA:20394		PATO:0000569															
-MIM:112500					BDA1B, IHH	HP:0006073																			
-MIM:112500					BDA1B, IHH	HP:0006146																			
-MIM:112500					BDA1B, IHH	HP:0006165																			
-MIM:112500					BDA1B, IHH	HP:0006213																			
-MIM:112500					BDA1B, IHH	HP:0009370																			
-MIM:112500					BDA1B, IHH	HP:0009882		FMA:75818		PATO:0000645															
-MIM:112500					BDA1B, IHH	HP:0010107																			
-MIM:112500					BDA1B, IHH	HP:0010241																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0000006												IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0000951		FMA:7163		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001032												IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001157		FMA:9666		PATO:0000140								IEA		PATO:0000460					17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001174												IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001204		FMA:30327		HP:0001159								IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001425												IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001509		FMA:20394		PATO:0000569								IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0006073												IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0006146												IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0006165												IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0006213												IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0009370												ITM							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0009882		FMA:75818		PATO:0000645								IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0010107												IEA							17.02.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0010241												ITM							17.02.2009	

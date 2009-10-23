@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:114480					AKT1, ATM, BARD1, BRCA2, BRIP1, CASP8, CHEK2, HMMR, KRAS, PALB2, PIK3CA, PPM1D, RAD51, RB1CC1, SLC22A18, TP53	HP:0000006																			
-MIM:114480					AKT1, ATM, BARD1, BRCA2, BRIP1, CASP8, CHEK2, HMMR, KRAS, PALB2, PIK3CA, PPM1D, RAD51, RB1CC1, SLC22A18, TP53	HP:0001425																			
-MIM:114480					AKT1, ATM, BARD1, BRCA2, BRIP1, CASP8, CHEK2, HMMR, KRAS, PALB2, PIK3CA, PPM1D, RAD51, RB1CC1, SLC22A18, TP53	HP:0003002																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:114480	BREAST CANCER				AKT1, ATM, BARD1, BRCA2, BRIP1, CASP8, CHEK2, HMMR, KRAS, PALB2, PIK3CA, PPM1D, RAD51, RB1CC1, SLC22A18, TP53	HP:0000006												IEA							17.02.2009	
+MIM:114480	BREAST CANCER				AKT1, ATM, BARD1, BRCA2, BRIP1, CASP8, CHEK2, HMMR, KRAS, PALB2, PIK3CA, PPM1D, RAD51, RB1CC1, SLC22A18, TP53	HP:0001425												ITM							17.02.2009	
+MIM:114480	BREAST CANCER				AKT1, ATM, BARD1, BRCA2, BRIP1, CASP8, CHEK2, HMMR, KRAS, PALB2, PIK3CA, PPM1D, RAD51, RB1CC1, SLC22A18, TP53	HP:0003002												IEA							17.02.2009	

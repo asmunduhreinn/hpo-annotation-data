@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:276901		MIM:608400			USH2A	HP:0000007																			
-MIM:276901		MIM:608400			USH2A	HP:0001127																			
-MIM:276901		MIM:608400			USH2A	HP:0008612																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:276901	USHER SYNDROME, TYPE IIA	MIM:608400			USH2A	HP:0000007												IEA							17.02.2009	
+MIM:276901	USHER SYNDROME, TYPE IIA	MIM:608400			USH2A	HP:0001127												IEA							17.02.2009	
+MIM:276901	USHER SYNDROME, TYPE IIA	MIM:608400			USH2A	HP:0008612												IEA							17.02.2009	

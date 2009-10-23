@@ -1,8 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:145750					APOA5, LIPI, RP1	HP:0000006																			
-MIM:145750					APOA5, LIPI, RP1	HP:0000830		GO:0046903		PATO:0000911															
-MIM:145750					APOA5, LIPI, RP1	HP:0001039																			
-MIM:145750					APOA5, LIPI, RP1	HP:0001952																			
-MIM:145750					APOA5, LIPI, RP1	HP:0002155																			
-MIM:145750					APOA5, LIPI, RP1	HP:0003362																			
-MIM:145750					APOA5, LIPI, RP1	HP:0004416																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:145750	HYPERTRIGLYCERIDEMIA, FAMILIAL				APOA5, LIPI, RP1	HP:0000006												IEA							17.02.2009	
+MIM:145750	HYPERTRIGLYCERIDEMIA, FAMILIAL				APOA5, LIPI, RP1	HP:0000830		GO:0046903		PATO:0000911								ITM							17.02.2009	
+MIM:145750	HYPERTRIGLYCERIDEMIA, FAMILIAL				APOA5, LIPI, RP1	HP:0001039												IEA							17.02.2009	
+MIM:145750	HYPERTRIGLYCERIDEMIA, FAMILIAL				APOA5, LIPI, RP1	HP:0001952												IEA							17.02.2009	
+MIM:145750	HYPERTRIGLYCERIDEMIA, FAMILIAL				APOA5, LIPI, RP1	HP:0002155												IEA							17.02.2009	
+MIM:145750	HYPERTRIGLYCERIDEMIA, FAMILIAL				APOA5, LIPI, RP1	HP:0003362												IEA							17.02.2009	
+MIM:145750	HYPERTRIGLYCERIDEMIA, FAMILIAL				APOA5, LIPI, RP1	HP:0004416												IEA							17.02.2009	

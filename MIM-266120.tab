@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:266120		MIM:606224			NT5C3	HP:0000007																			
-MIM:266120		MIM:606224			NT5C3	HP:0001878																			
-MIM:266120		MIM:606224			NT5C3	HP:0003641		FMA:12274		PATO:0002002		CHEBI:35143													
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:266120	URIDINE 5-PRIME MONOPHOSPHATE HYDROLASE DEFICIENCY, HEMOLYTIC ANEMIADUE TO	MIM:606224			NT5C3	HP:0000007												IEA							17.02.2009	
+MIM:266120	URIDINE 5-PRIME MONOPHOSPHATE HYDROLASE DEFICIENCY, HEMOLYTIC ANEMIADUE TO	MIM:606224			NT5C3	HP:0001878												IEA							17.02.2009	
+MIM:266120	URIDINE 5-PRIME MONOPHOSPHATE HYDROLASE DEFICIENCY, HEMOLYTIC ANEMIADUE TO	MIM:606224			NT5C3	HP:0003641		FMA:12274		PATO:0002002		CHEBI:35143						IEA							17.02.2009	

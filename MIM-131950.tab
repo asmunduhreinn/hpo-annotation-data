@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:131950		MIM:601282			PLEC1	HP:0000006																			
-MIM:131950		MIM:601282			PLEC1	HP:0000987																			
-MIM:131950		MIM:601282			PLEC1	HP:0001479																			
-MIM:131950		MIM:601282			PLEC1	HP:0007472																			
-MIM:131950		MIM:601282			PLEC1	HP:0007585																			
-MIM:131950		MIM:601282			PLEC1	HP:0008395																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:131950	EPIDERMOLYSIS BULLOSA SIMPLEX, OGNA TYPE	MIM:601282			PLEC1	HP:0000006												IEA							17.02.2009	
+MIM:131950	EPIDERMOLYSIS BULLOSA SIMPLEX, OGNA TYPE	MIM:601282			PLEC1	HP:0000987												ITM							17.02.2009	
+MIM:131950	EPIDERMOLYSIS BULLOSA SIMPLEX, OGNA TYPE	MIM:601282			PLEC1	HP:0001479												IEA							17.02.2009	
+MIM:131950	EPIDERMOLYSIS BULLOSA SIMPLEX, OGNA TYPE	MIM:601282			PLEC1	HP:0007472												IEA							17.02.2009	
+MIM:131950	EPIDERMOLYSIS BULLOSA SIMPLEX, OGNA TYPE	MIM:601282			PLEC1	HP:0007585												IEA							17.02.2009	
+MIM:131950	EPIDERMOLYSIS BULLOSA SIMPLEX, OGNA TYPE	MIM:601282			PLEC1	HP:0008395												IEA							17.02.2009	

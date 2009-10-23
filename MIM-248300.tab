@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:248300		MIM:606119			SLURP1	HP:0000007																			
-MIM:248300		MIM:606119			SLURP1	HP:0000153				PATO:0000001									PATO:0000460						
-MIM:248300		MIM:606119			SLURP1	HP:0000955																			
-MIM:248300		MIM:606119			SLURP1	HP:0000975																			
-MIM:248300		MIM:606119			SLURP1	HP:0001156																			
-MIM:248300		MIM:606119			SLURP1	HP:0001808		FMA:54326		PATO:0001362															
-MIM:248300		MIM:606119			SLURP1	HP:0003591																			
-MIM:248300		MIM:606119			SLURP1	HP:0007553																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:248300	MAL DE MELEDA	MIM:606119			SLURP1	HP:0000007												IEA							17.02.2009	
+MIM:248300	MAL DE MELEDA	MIM:606119			SLURP1	HP:0000153				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:248300	MAL DE MELEDA	MIM:606119			SLURP1	HP:0000955												IEA							17.02.2009	
+MIM:248300	MAL DE MELEDA	MIM:606119			SLURP1	HP:0000975												IEA							17.02.2009	
+MIM:248300	MAL DE MELEDA	MIM:606119			SLURP1	HP:0001156												IEA							17.02.2009	
+MIM:248300	MAL DE MELEDA	MIM:606119			SLURP1	HP:0001808		FMA:54326		PATO:0001362								ITM							17.02.2009	
+MIM:248300	MAL DE MELEDA	MIM:606119			SLURP1	HP:0003591												IEA							17.02.2009	
+MIM:248300	MAL DE MELEDA	MIM:606119			SLURP1	HP:0007553												IEA							17.02.2009	

@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:178500					SFTPA1B, SFTPA2, TERT	HP:0000006																			
-MIM:178500					SFTPA1B, SFTPA2, TERT	HP:0001217		FMA:85518		HP:0001217															
-MIM:178500					SFTPA1B, SFTPA2, TERT	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
-MIM:178500					SFTPA1B, SFTPA2, TERT	HP:0002206		MPATH:181		PATO:0000912															
-MIM:178500					SFTPA1B, SFTPA2, TERT	HP:0004314				PATO:0001162		FMA:62871													
-MIM:178500					SFTPA1B, SFTPA2, TERT	HP:0006757																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:178500	PULMONARY FIBROSIS, IDIOPATHIC				SFTPA1B, SFTPA2, TERT	HP:0000006												IEA							17.02.2009	
+MIM:178500	PULMONARY FIBROSIS, IDIOPATHIC				SFTPA1B, SFTPA2, TERT	HP:0001217		FMA:85518		HP:0001217								IEA							17.02.2009	
+MIM:178500	PULMONARY FIBROSIS, IDIOPATHIC				SFTPA1B, SFTPA2, TERT	HP:0001939		GO:0008152		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:178500	PULMONARY FIBROSIS, IDIOPATHIC				SFTPA1B, SFTPA2, TERT	HP:0002206		MPATH:181		PATO:0000912								ITM							17.02.2009	
+MIM:178500	PULMONARY FIBROSIS, IDIOPATHIC				SFTPA1B, SFTPA2, TERT	HP:0004314				PATO:0001162		FMA:62871						IEA							17.02.2009	
+MIM:178500	PULMONARY FIBROSIS, IDIOPATHIC				SFTPA1B, SFTPA2, TERT	HP:0006757												IEA							17.02.2009	

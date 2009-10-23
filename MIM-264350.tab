@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:264350					SCNN1A, SCNN1B, SCNN1G	HP:0000007																			
-MIM:264350					SCNN1A, SCNN1B, SCNN1G	HP:0000127																			
-MIM:264350					SCNN1A, SCNN1B, SCNN1G	HP:0001448																			
-MIM:264350					SCNN1A, SCNN1B, SCNN1G	HP:0002013																			
-MIM:264350					SCNN1A, SCNN1B, SCNN1G	HP:0002022																			
-MIM:264350					SCNN1A, SCNN1B, SCNN1G	HP:0002153																			
-MIM:264350					SCNN1A, SCNN1B, SCNN1G	HP:0002902																			
-MIM:264350					SCNN1A, SCNN1B, SCNN1G	HP:0008242																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:264350	PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL RECESSIVE				SCNN1A, SCNN1B, SCNN1G	HP:0000007												IEA							17.02.2009	
+MIM:264350	PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL RECESSIVE				SCNN1A, SCNN1B, SCNN1G	HP:0000127												ITM							17.02.2009	
+MIM:264350	PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL RECESSIVE				SCNN1A, SCNN1B, SCNN1G	HP:0001448												IEA							17.02.2009	
+MIM:264350	PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL RECESSIVE				SCNN1A, SCNN1B, SCNN1G	HP:0002013												IEA							17.02.2009	
+MIM:264350	PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL RECESSIVE				SCNN1A, SCNN1B, SCNN1G	HP:0002022												ITM							17.02.2009	
+MIM:264350	PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL RECESSIVE				SCNN1A, SCNN1B, SCNN1G	HP:0002153												IEA							17.02.2009	
+MIM:264350	PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL RECESSIVE				SCNN1A, SCNN1B, SCNN1G	HP:0002902												IEA							17.02.2009	
+MIM:264350	PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL RECESSIVE				SCNN1A, SCNN1B, SCNN1G	HP:0008242												IEA							17.02.2009	

@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:601868		MIM:120290			COL11A2	HP:0000006																			
-MIM:601868		MIM:120290			COL11A2	HP:0000404		GO:0007605		PATO:0000462															
-MIM:601868		MIM:120290			COL11A2	HP:0004457																			
-MIM:601868		MIM:120290			COL11A2	HP:0008513																			
-MIM:601868		MIM:120290			COL11A2	HP:0008527																			
-MIM:601868		MIM:120290			COL11A2	HP:0008530																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:601868	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 13	MIM:120290			COL11A2	HP:0000006												IEA							17.02.2009	
+MIM:601868	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 13	MIM:120290			COL11A2	HP:0000404		GO:0007605		PATO:0000462								ITM							17.02.2009	
+MIM:601868	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 13	MIM:120290			COL11A2	HP:0004457												IEA							17.02.2009	
+MIM:601868	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 13	MIM:120290			COL11A2	HP:0008513												ITM							17.02.2009	
+MIM:601868	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 13	MIM:120290			COL11A2	HP:0008527												ITM							17.02.2009	
+MIM:601868	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 13	MIM:120290			COL11A2	HP:0008530												ITM							17.02.2009	

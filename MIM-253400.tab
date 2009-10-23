@@ -1,8 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:253400		MIM:600354			SMN1	HP:0000007																			
-MIM:253400		MIM:600354			SMN1	HP:0002378		FMA:9712		HP:0001337															
-MIM:253400		MIM:600354			SMN1	HP:0002398		FMA:83617		PATO:0000639															
-MIM:253400		MIM:600354			SMN1	HP:0003202		FMA:5022		PATO:0001623															
-MIM:253400		MIM:600354			SMN1	HP:0003457																			
-MIM:253400		MIM:600354			SMN1	HP:0003727																			
-MIM:253400		MIM:600354			SMN1	HP:0007289		FMA:7182		HP:0002380															
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:253400	SPINAL MUSCULAR ATROPHY, TYPE III	MIM:600354			SMN1	HP:0000007												IEA							17.02.2009	
+MIM:253400	SPINAL MUSCULAR ATROPHY, TYPE III	MIM:600354			SMN1	HP:0002378		FMA:9712		HP:0001337								IEA							17.02.2009	
+MIM:253400	SPINAL MUSCULAR ATROPHY, TYPE III	MIM:600354			SMN1	HP:0002398		FMA:83617		PATO:0000639								IEA							17.02.2009	
+MIM:253400	SPINAL MUSCULAR ATROPHY, TYPE III	MIM:600354			SMN1	HP:0003202		FMA:5022		PATO:0001623								IEA							17.02.2009	
+MIM:253400	SPINAL MUSCULAR ATROPHY, TYPE III	MIM:600354			SMN1	HP:0003457												IEA							17.02.2009	
+MIM:253400	SPINAL MUSCULAR ATROPHY, TYPE III	MIM:600354			SMN1	HP:0003727												IEA							17.02.2009	
+MIM:253400	SPINAL MUSCULAR ATROPHY, TYPE III	MIM:600354			SMN1	HP:0007289		FMA:7182		HP:0002380								IEA							17.02.2009	

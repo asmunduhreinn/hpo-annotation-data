@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:131440		MIM:173410			PDGFRB	HP:0000006																			
-MIM:131440		MIM:173410			PDGFRB	HP:0005547																			
-MIM:131440		MIM:173410			PDGFRB	HP:0006782																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:131440	MYELOPROLIFERATIVE DISORDER, CHRONIC, WITH EOSINOPHILIA	MIM:173410			PDGFRB	HP:0000006												IEA							17.02.2009	
+MIM:131440	MYELOPROLIFERATIVE DISORDER, CHRONIC, WITH EOSINOPHILIA	MIM:173410			PDGFRB	HP:0005547												ITM							17.02.2009	
+MIM:131440	MYELOPROLIFERATIVE DISORDER, CHRONIC, WITH EOSINOPHILIA	MIM:173410			PDGFRB	HP:0006782												IEA							17.02.2009	

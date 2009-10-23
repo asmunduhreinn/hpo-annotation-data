@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:314250		MIM:313650			TAF1	HP:0000478				PATO:0000001									PATO:0000460						
-MIM:314250		MIM:313650			TAF1	HP:0001300																			
-MIM:314250		MIM:313650			TAF1	HP:0001304																			
-MIM:314250		MIM:313650			TAF1	HP:0001336																			
-MIM:314250		MIM:313650			TAF1	HP:0001419																			
-MIM:314250		MIM:313650			TAF1	HP:0002072																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:314250	DYSTONIA 3, TORSION, X-LINKED	MIM:313650			TAF1	HP:0000478				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:314250	DYSTONIA 3, TORSION, X-LINKED	MIM:313650			TAF1	HP:0001300												ITM							17.02.2009	
+MIM:314250	DYSTONIA 3, TORSION, X-LINKED	MIM:313650			TAF1	HP:0001304												IEA							17.02.2009	
+MIM:314250	DYSTONIA 3, TORSION, X-LINKED	MIM:313650			TAF1	HP:0001336												IEA							17.02.2009	
+MIM:314250	DYSTONIA 3, TORSION, X-LINKED	MIM:313650			TAF1	HP:0001419												IEA							17.02.2009	
+MIM:314250	DYSTONIA 3, TORSION, X-LINKED	MIM:313650			TAF1	HP:0002072												IEA							17.02.2009	

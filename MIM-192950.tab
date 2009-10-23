@@ -1,6 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:192950		MIM:142984			HOXD10	HP:0000006																			
-MIM:192950		MIM:142984			HOXD10	HP:0008120																			
-MIM:192950		MIM:142984			HOXD10	HP:0008138																			
-MIM:192950		MIM:142984			HOXD10	HP:0010218																			
-MIM:192950		MIM:142984			HOXD10	HP:0010218																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:192950	VERTICAL TALUS, CONGENITAL	MIM:142984			HOXD10	HP:0000006												IEA							17.02.2009	
+MIM:192950	VERTICAL TALUS, CONGENITAL	MIM:142984			HOXD10	HP:0008120												IEA							17.02.2009	
+MIM:192950	VERTICAL TALUS, CONGENITAL	MIM:142984			HOXD10	HP:0008138												IEA							17.02.2009	
+MIM:192950	VERTICAL TALUS, CONGENITAL	MIM:142984			HOXD10	HP:0010218												IEA							17.02.2009	

@@ -1,14 +1,14 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:276900		MIM:276903			MYO7A	HP:0000007																			
-MIM:276900		MIM:276903			MYO7A	HP:0000550																			
-MIM:276900		MIM:276903			MYO7A	HP:0000572																			
-MIM:276900		MIM:276903			MYO7A	HP:0001127																			
-MIM:276900		MIM:276903			MYO7A	HP:0001270																			
-MIM:276900		MIM:276903			MYO7A	HP:0001425																			
-MIM:276900		MIM:276903			MYO7A	HP:0003674																			
-MIM:276900		MIM:276903			MYO7A	HP:0007816																			
-MIM:276900		MIM:276903			MYO7A	HP:0008525																			
-MIM:276900		MIM:276903			MYO7A	HP:0008555		FMA:7193		PATO:0001511															
-MIM:276900		MIM:276903			MYO7A	HP:0008563																			
-MIM:276900		MIM:276903			MYO7A	HP:0008565																			
-MIM:276900		MIM:276903			MYO7A	HP:0008620																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0000007												IEA							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0000550												IEA							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0000572												IEA							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0001127												ITM							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0001270												IEA							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0001425												IEA							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0003674												ITM							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0007816												ITM							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0008525												ITM							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0008555		FMA:7193		PATO:0001511								IEA							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0008563												ITM							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0008565												IEA							17.02.2009	
+MIM:276900	USHER SYNDROME, TYPE I	MIM:276903			MYO7A	HP:0008620												ITM							17.02.2009	

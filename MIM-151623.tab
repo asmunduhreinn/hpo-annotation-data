@@ -1,10 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:151623					CDKN2A, TP53	HP:0000006																			
-MIM:151623					CDKN2A, TP53	HP:0002488																			
-MIM:151623					CDKN2A, TP53	HP:0002667																			
-MIM:151623					CDKN2A, TP53	HP:0002669																			
-MIM:151623					CDKN2A, TP53	HP:0002894																			
-MIM:151623					CDKN2A, TP53	HP:0003002																			
-MIM:151623					CDKN2A, TP53	HP:0003003																			
-MIM:151623					CDKN2A, TP53	HP:0003593																			
-MIM:151623					CDKN2A, TP53	HP:0006744																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:151623	LI-FRAUMENI SYNDROME 1				CDKN2A, TP53	HP:0000006												IEA							17.02.2009	
+MIM:151623	LI-FRAUMENI SYNDROME 1				CDKN2A, TP53	HP:0002488												IEA							17.02.2009	
+MIM:151623	LI-FRAUMENI SYNDROME 1				CDKN2A, TP53	HP:0002667												IEA							17.02.2009	
+MIM:151623	LI-FRAUMENI SYNDROME 1				CDKN2A, TP53	HP:0002669												ITM							17.02.2009	
+MIM:151623	LI-FRAUMENI SYNDROME 1				CDKN2A, TP53	HP:0002894												IEA							17.02.2009	
+MIM:151623	LI-FRAUMENI SYNDROME 1				CDKN2A, TP53	HP:0003002												IEA							17.02.2009	
+MIM:151623	LI-FRAUMENI SYNDROME 1				CDKN2A, TP53	HP:0003003												IEA							17.02.2009	
+MIM:151623	LI-FRAUMENI SYNDROME 1				CDKN2A, TP53	HP:0003593												IEA							17.02.2009	
+MIM:151623	LI-FRAUMENI SYNDROME 1				CDKN2A, TP53	HP:0006744												IEA							17.02.2009	

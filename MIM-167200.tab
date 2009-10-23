@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:167200					KRT16, KRT6A	HP:0000006																			
-MIM:167200					KRT16, KRT6A	HP:0000153				PATO:0000001									PATO:0000460						
-MIM:167200					KRT16, KRT6A	HP:0000972																			
-MIM:167200					KRT16, KRT6A	HP:0001425																			
-MIM:167200					KRT16, KRT6A	HP:0001819																			
-MIM:167200					KRT16, KRT6A	HP:0007502																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:167200	PACHYONYCHIA CONGENITA, TYPE 1				KRT16, KRT6A	HP:0000006												IEA							17.02.2009	
+MIM:167200	PACHYONYCHIA CONGENITA, TYPE 1				KRT16, KRT6A	HP:0000153				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:167200	PACHYONYCHIA CONGENITA, TYPE 1				KRT16, KRT6A	HP:0000972												IEA							17.02.2009	
+MIM:167200	PACHYONYCHIA CONGENITA, TYPE 1				KRT16, KRT6A	HP:0001425												IEA							17.02.2009	
+MIM:167200	PACHYONYCHIA CONGENITA, TYPE 1				KRT16, KRT6A	HP:0001819												IEA							17.02.2009	
+MIM:167200	PACHYONYCHIA CONGENITA, TYPE 1				KRT16, KRT6A	HP:0007502												IEA							17.02.2009	

@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:608807		MIM:188840			TTN	HP:0000007																			
-MIM:608807		MIM:188840			TTN	HP:0001626				PATO:0000001									PATO:0000460						
-MIM:608807		MIM:188840			TTN	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
-MIM:608807		MIM:188840			TTN	HP:0003322																			
-MIM:608807		MIM:188840			TTN	HP:0003544																			
-MIM:608807		MIM:188840			TTN	HP:0003578																			
-MIM:608807		MIM:188840			TTN	HP:0003701		_:proximal_muscle		PATO:0001779															
-MIM:608807		MIM:188840			TTN	HP:0009008				HP:0002460									PATO:0000394						
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:608807	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J	MIM:188840			TTN	HP:0000007												IEA							17.02.2009	
+MIM:608807	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J	MIM:188840			TTN	HP:0001626				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:608807	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J	MIM:188840			TTN	HP:0001939		GO:0008152		PATO:0000001								ITM		PATO:0000460					17.02.2009	
+MIM:608807	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J	MIM:188840			TTN	HP:0003322												IEA							17.02.2009	
+MIM:608807	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J	MIM:188840			TTN	HP:0003544												IEA							17.02.2009	
+MIM:608807	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J	MIM:188840			TTN	HP:0003578												ITM							17.02.2009	
+MIM:608807	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J	MIM:188840			TTN	HP:0003701		_:proximal_muscle		PATO:0001779								IEA							17.02.2009	
+MIM:608807	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J	MIM:188840			TTN	HP:0009008				HP:0002460								IEA		PATO:0000394					17.02.2009	

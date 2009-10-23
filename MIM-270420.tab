@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:270420		MIM:605124			SPINT2	HP:0000007																			
-MIM:270420		MIM:605124			SPINT2	HP:0001561																			
-MIM:270420		MIM:605124			SPINT2	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
-MIM:270420		MIM:605124			SPINT2	HP:0003270		FMA:9577		PATO:0001602															
-MIM:270420		MIM:605124			SPINT2	HP:0005208																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:270420	DIARRHEA 3, SECRETORY SODIUM, CONGENITAL	MIM:605124			SPINT2	HP:0000007												IEA							17.02.2009	
+MIM:270420	DIARRHEA 3, SECRETORY SODIUM, CONGENITAL	MIM:605124			SPINT2	HP:0001561												IEA							17.02.2009	
+MIM:270420	DIARRHEA 3, SECRETORY SODIUM, CONGENITAL	MIM:605124			SPINT2	HP:0001939		GO:0008152		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:270420	DIARRHEA 3, SECRETORY SODIUM, CONGENITAL	MIM:605124			SPINT2	HP:0003270		FMA:9577		PATO:0001602								IEA							17.02.2009	
+MIM:270420	DIARRHEA 3, SECRETORY SODIUM, CONGENITAL	MIM:605124			SPINT2	HP:0005208												IEA							17.02.2009	

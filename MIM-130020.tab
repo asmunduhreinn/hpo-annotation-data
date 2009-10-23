@@ -1,8 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:130020					COL3A1, TNXB	HP:0000006																			
-MIM:130020					COL3A1, TNXB	HP:0000974																			
-MIM:130020					COL3A1, TNXB	HP:0000977		FMA:7163		PATO:0000387															
-MIM:130020					COL3A1, TNXB	HP:0001382																			
-MIM:130020					COL3A1, TNXB	HP:0001634		FMA:7235		PATO:0000623															
-MIM:130020					COL3A1, TNXB	HP:0002758																			
-MIM:130020					COL3A1, TNXB	HP:0002772		FMA:7490		HP:0001373															
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:130020	EHLERS-DANLOS SYNDROME, TYPE III				COL3A1, TNXB	HP:0000006												IEA							17.02.2009	
+MIM:130020	EHLERS-DANLOS SYNDROME, TYPE III				COL3A1, TNXB	HP:0000974												IEA							17.02.2009	
+MIM:130020	EHLERS-DANLOS SYNDROME, TYPE III				COL3A1, TNXB	HP:0000977		FMA:7163		PATO:0000387								IEA							17.02.2009	
+MIM:130020	EHLERS-DANLOS SYNDROME, TYPE III				COL3A1, TNXB	HP:0001373		FMA:7490		PATO:0001852								IEA							17.02.2009	
+MIM:130020	EHLERS-DANLOS SYNDROME, TYPE III				COL3A1, TNXB	HP:0001382												IEA							17.02.2009	
+MIM:130020	EHLERS-DANLOS SYNDROME, TYPE III				COL3A1, TNXB	HP:0001634		FMA:7235		PATO:0000623								IEA							17.02.2009	
+MIM:130020	EHLERS-DANLOS SYNDROME, TYPE III				COL3A1, TNXB	HP:0002758												IEA							17.02.2009	

@@ -1,21 +1,16 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:193300					CCND1, VHL	HP:0000006																			
-MIM:193300					CCND1, VHL	HP:0000822																			
-MIM:193300					CCND1, VHL	HP:0001392				PATO:0000001									PATO:0000460						
-MIM:193300					CCND1, VHL	HP:0001737		FMA:7198		PATO:0002002		MPATH:62													
-MIM:193300					CCND1, VHL	HP:0001737		FMA:7198		PATO:0002002		MPATH:62													
-MIM:193300					CCND1, VHL	HP:0001901																			
-MIM:193300					CCND1, VHL	HP:0002666																			
-MIM:193300					CCND1, VHL	HP:0002666																			
-MIM:193300					CCND1, VHL	HP:0002894																			
-MIM:193300					CCND1, VHL	HP:0005562																			
-MIM:193300					CCND1, VHL	HP:0005562																			
-MIM:193300					CCND1, VHL	HP:0005584		FMA:7203		MPATH:268															
-MIM:193300					CCND1, VHL	HP:0005584		FMA:7203		MPATH:268															
-MIM:193300					CCND1, VHL	HP:0005954		FMA:14121		HP:0007461															
-MIM:193300					CCND1, VHL	HP:0006761																			
-MIM:193300					CCND1, VHL	HP:0006880																			
-MIM:193300					CCND1, VHL	HP:0006880																			
-MIM:193300					CCND1, VHL	HP:0009711																			
-MIM:193300					CCND1, VHL	HP:0009713																			
-MIM:193300					CCND1, VHL	HP:0009715																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0000006												IEA							17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0000822												IEA							17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0001392				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0001737		FMA:7198		PATO:0002002		MPATH:62						IEA	40.0000 %						17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0001901												IEA							17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0002666												IEA	13.0000 %						17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0002894												IEA							17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0005562												IEA	28.0000 %						17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0005584		FMA:7203		MPATH:268								IEA	28.0000 %						17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0005954		FMA:14121		HP:0007461								IEA							17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0006761												IEA							17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0006880												IEA	59.0000 %						17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0009711												IEA	59.0000 %						17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0009713												IEA	13.0000 %						17.02.2009	
+MIM:193300	VON HIPPEL-LINDAU SYNDROME				CCND1, VHL	HP:0009715												IEA	26.0000 %						17.02.2009	

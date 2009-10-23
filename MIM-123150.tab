@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:123150					FGFR1, FGFR2	HP:0000006																			
-MIM:123150					FGFR1, FGFR2	HP:0000272		FMA:52747		PATO:0000645															
-MIM:123150					FGFR1, FGFR2	HP:0001363																			
-MIM:123150					FGFR1, FGFR2	HP:0001865																			
-MIM:123150					FGFR1, FGFR2	HP:0004691																			
-MIM:123150					FGFR1, FGFR2	HP:0004710																			
-MIM:123150					FGFR1, FGFR2	HP:0008122																			
-MIM:123150					FGFR1, FGFR2	HP:0010554																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:123150	JACKSON-WEISS SYNDROME				FGFR1, FGFR2	HP:0000006												IEA							17.02.2009	
+MIM:123150	JACKSON-WEISS SYNDROME				FGFR1, FGFR2	HP:0000272		FMA:52747		PATO:0000645								IEA							17.02.2009	
+MIM:123150	JACKSON-WEISS SYNDROME				FGFR1, FGFR2	HP:0001363												IEA							17.02.2009	
+MIM:123150	JACKSON-WEISS SYNDROME				FGFR1, FGFR2	HP:0001865												IEA							17.02.2009	
+MIM:123150	JACKSON-WEISS SYNDROME				FGFR1, FGFR2	HP:0004691												IEA							17.02.2009	
+MIM:123150	JACKSON-WEISS SYNDROME				FGFR1, FGFR2	HP:0004710												IEA							17.02.2009	
+MIM:123150	JACKSON-WEISS SYNDROME				FGFR1, FGFR2	HP:0008122												IEA							17.02.2009	
+MIM:123150	JACKSON-WEISS SYNDROME				FGFR1, FGFR2	HP:0010554												ITM							17.02.2009	

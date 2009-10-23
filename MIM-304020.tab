@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:304020		MIM:312610			RPGR	HP:0000505		GO:0007601		PATO:0000762															
-MIM:304020		MIM:312610			RPGR	HP:0000545																			
-MIM:304020		MIM:312610			RPGR	HP:0000613																			
-MIM:304020		MIM:312610			RPGR	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
-MIM:304020		MIM:312610			RPGR	HP:0007949																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:304020	CONE-ROD DYSTROPHY, X-LINKED, 1	MIM:312610			RPGR	HP:0000505		GO:0007601		PATO:0000762								IEA							17.02.2009	
+MIM:304020	CONE-ROD DYSTROPHY, X-LINKED, 1	MIM:312610			RPGR	HP:0000545												IEA							17.02.2009	
+MIM:304020	CONE-ROD DYSTROPHY, X-LINKED, 1	MIM:312610			RPGR	HP:0000613												IEA							17.02.2009	
+MIM:304020	CONE-ROD DYSTROPHY, X-LINKED, 1	MIM:312610			RPGR	HP:0001939		GO:0008152		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:304020	CONE-ROD DYSTROPHY, X-LINKED, 1	MIM:312610			RPGR	HP:0007949												IEA							17.02.2009	

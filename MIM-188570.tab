@@ -1,8 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:188570		MIM:190160			THRB	HP:0000853																			
-MIM:188570		MIM:190160			THRB	HP:0001455																			
-MIM:188570		MIM:190160			THRB	HP:0001939		GO:0008152		PATO:0000001									PATO:0000460						
-MIM:188570		MIM:190160			THRB	HP:0002117																			
-MIM:188570		MIM:190160			THRB	HP:0007018																			
-MIM:188570		MIM:190160			THRB	HP:0008237																			
-MIM:188570		MIM:190160			THRB	HP:0008262																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:188570	THYROID HORMONE RESISTANCE, GENERALIZED, AUTOSOMAL DOMINANT	MIM:190160			THRB	HP:0000853												IEA							17.02.2009	
+MIM:188570	THYROID HORMONE RESISTANCE, GENERALIZED, AUTOSOMAL DOMINANT	MIM:190160			THRB	HP:0001455												ITM							17.02.2009	
+MIM:188570	THYROID HORMONE RESISTANCE, GENERALIZED, AUTOSOMAL DOMINANT	MIM:190160			THRB	HP:0001939		GO:0008152		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:188570	THYROID HORMONE RESISTANCE, GENERALIZED, AUTOSOMAL DOMINANT	MIM:190160			THRB	HP:0002117												IEA							17.02.2009	
+MIM:188570	THYROID HORMONE RESISTANCE, GENERALIZED, AUTOSOMAL DOMINANT	MIM:190160			THRB	HP:0007018												IEA							17.02.2009	
+MIM:188570	THYROID HORMONE RESISTANCE, GENERALIZED, AUTOSOMAL DOMINANT	MIM:190160			THRB	HP:0008237												ITM							17.02.2009	
+MIM:188570	THYROID HORMONE RESISTANCE, GENERALIZED, AUTOSOMAL DOMINANT	MIM:190160			THRB	HP:0008262												IEA							17.02.2009	

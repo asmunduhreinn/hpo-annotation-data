@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:276904		MIM:605242			USH1C	HP:0000007																			
-MIM:276904		MIM:605242			USH1C	HP:0000271				PATO:0000001									PATO:0000460						
-MIM:276904		MIM:605242			USH1C	HP:0000404		GO:0007605		PATO:0000462															
-MIM:276904		MIM:605242			USH1C	HP:0001127																			
-MIM:276904		MIM:605242			USH1C	HP:0001756		FMA:7193		PATO:0001624															
-MIM:276904		MIM:605242			USH1C	HP:0008513																			
-MIM:276904		MIM:605242			USH1C	HP:0008520																			
-MIM:276904		MIM:605242			USH1C	HP:0008530																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:276904	USHER SYNDROME, TYPE IC	MIM:605242			USH1C	HP:0000007												IEA							17.02.2009	
+MIM:276904	USHER SYNDROME, TYPE IC	MIM:605242			USH1C	HP:0000271				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:276904	USHER SYNDROME, TYPE IC	MIM:605242			USH1C	HP:0000404		GO:0007605		PATO:0000462								ITM							17.02.2009	
+MIM:276904	USHER SYNDROME, TYPE IC	MIM:605242			USH1C	HP:0001127												IEA							17.02.2009	
+MIM:276904	USHER SYNDROME, TYPE IC	MIM:605242			USH1C	HP:0001756		FMA:7193		PATO:0001624								IEA							17.02.2009	
+MIM:276904	USHER SYNDROME, TYPE IC	MIM:605242			USH1C	HP:0008513												ITM							17.02.2009	
+MIM:276904	USHER SYNDROME, TYPE IC	MIM:605242			USH1C	HP:0008520												IEA							17.02.2009	
+MIM:276904	USHER SYNDROME, TYPE IC	MIM:605242			USH1C	HP:0008530												ITM							17.02.2009	

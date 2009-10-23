@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:607450		MIM:125647			DSP	HP:0000006																			
-MIM:607450		MIM:125647			DSP	HP:0001425																			
-MIM:607450		MIM:125647			DSP	HP:0001635		GO:0060047		PATO:0001641															
-MIM:607450		MIM:125647			DSP	HP:0001638																			
-MIM:607450		MIM:125647			DSP	HP:0001645																			
-MIM:607450		MIM:125647			DSP	HP:0006682																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607450	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8	MIM:125647			DSP	HP:0000006												IEA							17.02.2009	
+MIM:607450	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8	MIM:125647			DSP	HP:0001425												IEA							17.02.2009	
+MIM:607450	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8	MIM:125647			DSP	HP:0001635		GO:0060047		PATO:0001641								IEA							17.02.2009	
+MIM:607450	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8	MIM:125647			DSP	HP:0001638												ITM							17.02.2009	
+MIM:607450	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8	MIM:125647			DSP	HP:0001645												IEA							17.02.2009	
+MIM:607450	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8	MIM:125647			DSP	HP:0006682												ITM							17.02.2009	

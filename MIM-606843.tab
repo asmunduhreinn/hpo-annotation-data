@@ -1,10 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:606843		MIM:109535			CD40	HP:0000007																			
-MIM:606843		MIM:109535			CD40	HP:0000752																			
-MIM:606843		MIM:109535			CD40	HP:0001875																			
-MIM:606843		MIM:109535			CD40	HP:0002487		GO:0042465		PATO:0000470															
-MIM:606843		MIM:109535			CD40	HP:0002721																			
-MIM:606843		MIM:109535			CD40	HP:0002847																			
-MIM:606843		MIM:109535			CD40	HP:0002849																			
-MIM:606843		MIM:109535			CD40	HP:0002854																			
-MIM:606843		MIM:109535			CD40	HP:0002962																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:606843	IMMUNODEFICIENCY WITH HYPER-IGM, TYPE 3	MIM:109535			CD40	HP:0000007												IEA							17.02.2009	
+MIM:606843	IMMUNODEFICIENCY WITH HYPER-IGM, TYPE 3	MIM:109535			CD40	HP:0000752												ITM							17.02.2009	
+MIM:606843	IMMUNODEFICIENCY WITH HYPER-IGM, TYPE 3	MIM:109535			CD40	HP:0001875												IEA							17.02.2009	
+MIM:606843	IMMUNODEFICIENCY WITH HYPER-IGM, TYPE 3	MIM:109535			CD40	HP:0002487		GO:0042465		PATO:0000470								ITM							17.02.2009	
+MIM:606843	IMMUNODEFICIENCY WITH HYPER-IGM, TYPE 3	MIM:109535			CD40	HP:0002721												ITM							17.02.2009	
+MIM:606843	IMMUNODEFICIENCY WITH HYPER-IGM, TYPE 3	MIM:109535			CD40	HP:0002847												IEA							17.02.2009	
+MIM:606843	IMMUNODEFICIENCY WITH HYPER-IGM, TYPE 3	MIM:109535			CD40	HP:0002849												IEA							17.02.2009	
+MIM:606843	IMMUNODEFICIENCY WITH HYPER-IGM, TYPE 3	MIM:109535			CD40	HP:0002854												IEA							17.02.2009	
+MIM:606843	IMMUNODEFICIENCY WITH HYPER-IGM, TYPE 3	MIM:109535			CD40	HP:0002962												IEA							17.02.2009	

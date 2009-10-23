@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:172870		MIM:604210			CRB1	HP:0000540																			
-MIM:172870		MIM:604210			CRB1	HP:0000565																			
-MIM:172870		MIM:604210			CRB1	HP:0000655																			
-MIM:172870		MIM:604210			CRB1	HP:0007823																			
-MIM:172870		MIM:604210			CRB1	HP:0007903																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:172870	PIGMENTED PARAVENOUS CHORIORETINAL ATROPHY	MIM:604210			CRB1	HP:0000540												IEA							17.02.2009	
+MIM:172870	PIGMENTED PARAVENOUS CHORIORETINAL ATROPHY	MIM:604210			CRB1	HP:0000565												IEA							17.02.2009	
+MIM:172870	PIGMENTED PARAVENOUS CHORIORETINAL ATROPHY	MIM:604210			CRB1	HP:0000655												IEA							17.02.2009	
+MIM:172870	PIGMENTED PARAVENOUS CHORIORETINAL ATROPHY	MIM:604210			CRB1	HP:0007823												IEA							17.02.2009	
+MIM:172870	PIGMENTED PARAVENOUS CHORIORETINAL ATROPHY	MIM:604210			CRB1	HP:0007903												IEA							17.02.2009	

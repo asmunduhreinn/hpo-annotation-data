@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:601005		MIM:114205			CACNA1C	HP:0001159		FMA:85518		PATO:0000642		FMA:85518													
-MIM:601005		MIM:114205			CACNA1C	HP:0001657																			
-MIM:601005		MIM:114205			CACNA1C	HP:0001699																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:601005	TIMOTHY SYNDROME	MIM:114205			CACNA1C	HP:0001159		FMA:85518		PATO:0000642		FMA:85518						IEA							17.02.2009	
+MIM:601005	TIMOTHY SYNDROME	MIM:114205			CACNA1C	HP:0001657												IEA							17.02.2009	
+MIM:601005	TIMOTHY SYNDROME	MIM:114205			CACNA1C	HP:0001699												IEA							17.02.2009	

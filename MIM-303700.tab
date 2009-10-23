@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:303700					OPN1LW, OPN1MW	HP:0001417																			
-MIM:303700					OPN1LW, OPN1MW	HP:0007939																			
-MIM:303700					OPN1LW, OPN1MW	HP:0007949																			
-MIM:303700					OPN1LW, OPN1MW	HP:0007954																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:303700	COLORBLINDNESS, BLUE-MONO-CONE-MONOCHROMATIC TYPE				OPN1LW, OPN1MW	HP:0001417												IEA							17.02.2009	
+MIM:303700	COLORBLINDNESS, BLUE-MONO-CONE-MONOCHROMATIC TYPE				OPN1LW, OPN1MW	HP:0007939												IEA							17.02.2009	
+MIM:303700	COLORBLINDNESS, BLUE-MONO-CONE-MONOCHROMATIC TYPE				OPN1LW, OPN1MW	HP:0007949												IEA							17.02.2009	
+MIM:303700	COLORBLINDNESS, BLUE-MONO-CONE-MONOCHROMATIC TYPE				OPN1LW, OPN1MW	HP:0007954												IEA							17.02.2009	

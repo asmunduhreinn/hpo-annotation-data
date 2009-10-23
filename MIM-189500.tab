@@ -1,11 +1,11 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:189500		MIM:142983			MSX1	HP:0000006																			
-MIM:189500		MIM:142983			MSX1	HP:0000691																			
-MIM:189500		MIM:142983			MSX1	HP:0000951		FMA:7163		PATO:0000001									PATO:0000460						
-MIM:189500		MIM:142983			MSX1	HP:0001598																			
-MIM:189500		MIM:142983			MSX1	HP:0001801																			
-MIM:189500		MIM:142983			MSX1	HP:0001803																			
-MIM:189500		MIM:142983			MSX1	HP:0001813		FMA:54326		PATO:0000587															
-MIM:189500		MIM:142983			MSX1	HP:0002237		FMA:53667		PATO:0000592															
-MIM:189500		MIM:142983			MSX1	HP:0002291																			
-MIM:189500		MIM:142983			MSX1	HP:0006287																			
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:189500	WITKOP SYNDROME	MIM:142983			MSX1	HP:0000006												IEA							17.02.2009	
+MIM:189500	WITKOP SYNDROME	MIM:142983			MSX1	HP:0000691												ITM							17.02.2009	
+MIM:189500	WITKOP SYNDROME	MIM:142983			MSX1	HP:0000951		FMA:7163		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:189500	WITKOP SYNDROME	MIM:142983			MSX1	HP:0001598												IEA							17.02.2009	
+MIM:189500	WITKOP SYNDROME	MIM:142983			MSX1	HP:0001801												IEA							17.02.2009	
+MIM:189500	WITKOP SYNDROME	MIM:142983			MSX1	HP:0001803												IEA							17.02.2009	
+MIM:189500	WITKOP SYNDROME	MIM:142983			MSX1	HP:0001813		FMA:54326		PATO:0000587								ITM							17.02.2009	
+MIM:189500	WITKOP SYNDROME	MIM:142983			MSX1	HP:0002237		FMA:53667		PATO:0000592								ITM							17.02.2009	
+MIM:189500	WITKOP SYNDROME	MIM:142983			MSX1	HP:0002291												ITM							17.02.2009	
+MIM:189500	WITKOP SYNDROME	MIM:142983			MSX1	HP:0006287												IEA							17.02.2009	
