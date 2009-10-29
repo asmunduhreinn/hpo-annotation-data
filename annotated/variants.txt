@@ -1,0 +1,1 @@
+Region	Seq	Start (origin = 1)	End	Pub	Type (SO)	Affects	NotesMIM:605522-intron5-ZRS				PMID:12837695	enhancer	Shh	
