@@ -1,1 +1,5 @@
-Region	Seq	Start (origin = 1)	End	Pub	Type (SO)	Affects	NotesMIM:605522-intron5-ZRS				PMID:12837695	enhancer	Shh	MIM:165240-NM_000168.2_c.1998-3481	GenBank:NM_000168.2	1998	3481		biological_region		
+Region	Seq	Start (origin = 1)	End	Pub	Type (SO)	Affects	Notes
+MIM:605522-intron5-ZRS				PMID:12837695	enhancer	Shh	
+MIM:165240-NM_000168.2_c.1998-3481	GenBank:NM_000168.2	1998	3481		biological_region		
+MIM:165240-NM_000168.2_c.1-1998_c.3481-5054	GenBank:NM_000168.2	1	1998	PMID:15739154	biological_region		
+MIM:165240-NM_000168.2_c.1-1998_c.3481-5054	GenBank:NM_000168.2	3481	5054	PMID:15739154	biological_region		
