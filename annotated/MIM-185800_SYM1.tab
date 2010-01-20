@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of onset ID	Age of onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:185800	SYMPHALANGISM, PROXIMAL CUSHING SYMPHALANGISM				GDF5, NOG	HP:0000006	Autosomal dominant inheritance											PCS						PMID:10080184; MIM:185800	17.02.2009	
+MIM:185800	SYMPHALANGISM, PROXIMAL CUSHING SYMPHALANGISM				GDF5, NOG	HP:0000381	Stapes ankylosis											PCS	typical					PMID:10080184; MIM:185800	17.02.2009	
+MIM:185800	SYMPHALANGISM, PROXIMAL CUSHING SYMPHALANGISM				GDF5, NOG	HP:0000405	Hearing loss, conductive											PCS	typical					PMID:10080184; MIM:185800	17.02.2009	
+MIM:185800	SYMPHALANGISM, PROXIMAL CUSHING SYMPHALANGISM				GDF5, NOG	HP:0006152	Proximal symphalangism											PCS	hallmark					PMID:10080184; MIM:185800	17.02.2009	
+MIM:185800	SYMPHALANGISM, PROXIMAL CUSHING SYMPHALANGISM				GDF5, NOG	HP:0008368	Synostosis involving tarsal bones											PCS	common					PMID:10080184; MIM:185800	17.02.2009	
+MIM:185800	SYMPHALANGISM, PROXIMAL CUSHING SYMPHALANGISM				GDF5, NOG	HP:0009702	Synostosis involving the carpal bones											PCS	common					PMID:10080184; MIM:185800	17.02.2009	
+MIM:185800	SYMPHALANGISM, PROXIMAL CUSHING SYMPHALANGISM				GDF5, NOG	HP:0001204	Distal symphalangism											PCS	rare					PMID:10080184; MIM:185800	20.01.2010	
+MIM:185800	SYMPHALANGISM, PROXIMAL CUSHING SYMPHALANGISM				GDF5, NOG	HP:0005880	Metacarpophalangeal synostoses											PCS	very rare					PMID:10080184; MIM:185800	20.01.2010	
+MIM:185800	SYMPHALANGISM, PROXIMAL CUSHING SYMPHALANGISM				GDF5, NOG	HP:0009843	Aplasia/Hypoplasia of the middle phalanges of the hand											HPO:sdoelken	occasional						20.01.2010	
+MIM:185800	SYMPHALANGISM, PROXIMAL CUSHING SYMPHALANGISM				GDF5, NOG	HP:0010194	Aplasia/Hypoplasia of the middle phalanges of the toes											HPO:sdoelken	occasional						20.01.2010	
