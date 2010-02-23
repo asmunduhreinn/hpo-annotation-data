@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Mode of Inheritance ID	Mode of Inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:142945	HOLOPROSENCEPHALY 3	MIM:600725	SONIC HEDGEHOG	Heterozygous	SHH									HP:0001451	Autosomal dominant with reduced penetrance										Feb 3, 2010	
+MIM:142945	HOLOPROSENCEPHALY 3	MIM:600725	SONIC HEDGEHOG	Heterozygous	SHH	HP:0001360	Holoprosencephaly							HP:0001451	Autosomal dominant with reduced penetrance										Feb 3, 2010	
+MIM:142945	HOLOPROSENCEPHALY 3	MIM:600725	SONIC HEDGEHOG	Heterozygous	SHH	HP:0000601	Hypotelorism							HP:0001451	Autosomal dominant with reduced penetrance										Feb 3, 2010	
+MIM:142945	HOLOPROSENCEPHALY 3	MIM:600725	SONIC HEDGEHOG	Heterozygous	SHH	HP:0009914	Cyclopia							HP:0001451	Autosomal dominant with reduced penetrance										Feb 3, 2010	
+MIM:142945	HOLOPROSENCEPHALY 3	MIM:600725	SONIC HEDGEHOG	Heterozygous	SHH	HP:0000126	Hydronephrosis							HP:0001451	Autosomal dominant with reduced penetrance										Feb 3, 2010	
+MIM:142945	HOLOPROSENCEPHALY 3	MIM:600725	SONIC HEDGEHOG	Heterozygous	SHH	HP:0000272	Malar hypoplasia							HP:0001451	Autosomal dominant with reduced penetrance										Feb 3, 2010	
+MIM:142945	HOLOPROSENCEPHALY 3	MIM:600725	SONIC HEDGEHOG	Heterozygous	SHH	MP:0006290	proboscis							HP:0001451	Autosomal dominant with reduced penetrance										Feb 3, 2010	
