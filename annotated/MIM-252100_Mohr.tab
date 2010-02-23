@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of onset ID	Age of onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Mode of Inheritance ID	Mode of Inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000007	Autosomal recessive inheritance											PCS						ISBN-13:978-0721606156	17.02.2009	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000156	High-arched palate											PCS	occasional					http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ofd1	17.02.2009	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000161	Median cleft lip											PCS	typical					http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ofd1; ISBN-13:978-0721606156	17.02.2009	
@@ -7,7 +7,7 @@ MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:00
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000199	Tongue nodules											PCS	typical					http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ofd1; ISBN-13:978-0721606156	17.02.2009	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000238	Hydrocephalus											PCS	rare					http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ofd1	17.02.2009	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000327	Maxillary hypoplasia											PCS	typical					ISBN-13:978-0721606156	17.02.2009	
-MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000405	Hearing loss, conductive											PCS	common					ISBN-13:978-0721606156	17.02.2009	
+MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000405	Hearing loss, conductive											PCS	typical					ISBN-13:978-0721606156	17.02.2009	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000428	Low nasal bridge											PCS	typical					ISBN-13:978-0721606156	17.02.2009	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000455	Broad nasal tip											PCS	typical					ISBN-13:978-0721606156	17.02.2009	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000456	Bifid nasal tip											PCS	typical					http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ofd1; ISBN-13:978-0721606156	17.02.2009	
@@ -28,6 +28,6 @@ MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:00
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0001162	Postaxial polydactyly (hands)											PCS	common					http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ofd1; ISBN-13:978-0721606156	19.01.2010	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0001156	Brachydactyly											PCS	common					http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ofd1; ISBN-13:978-0721606156	19.01.2010	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0004209	Clinodactyly of the 5th finger											PCS	common					http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ofd1; ISBN-13:978-0721606156	19.01.2010	
-MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000191	Oral frenula											PCS	frequent					ISBN-13:978-0721606156	19.01.2010	
+MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000191	Oral frenula											PCS	typical					ISBN-13:978-0721606156	19.01.2010	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0010297	Bifid tongue											PCS	typical					ISBN-13:978-0721606156	19.01.2010	
 MIM:252100	MOHR SYNDROME OFDS II ORAL-FACIAL-DIGITAL SYNDROME, TYPE II					HP:0000347	Mandibular hypoplasia											PCS	typical					ISBN-13:978-0721606156	19.01.2010	
