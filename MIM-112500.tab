@@ -1,17 +1,18 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0000006												IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0000951		FMA:7163		PATO:0000001								IEA		PATO:0000460					17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001032												IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001157		FMA:9666		PATO:0000140								IEA		PATO:0000460					17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001174												IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001204		FMA:30327		HP:0001159								IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001425												IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0001509		FMA:20394		PATO:0000569								IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0006073												IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0006146												IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0006165												IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0006213												IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0009370												ITM							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0009882		FMA:75818		PATO:0000645								IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0010107												IEA							17.02.2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1				BDA1B, IHH	HP:0010241												ITM							17.02.2009	
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Mode of Inheritance ID	Mode of Inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0000006	Autosomal dominant inheritance											PCS						MIM:112500		
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0001032	Absent distal interphalangeal creases											PCS	occasional					MIM:112500		
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0001204	Distal symphalangism											PCS	occasional					MIM:112500		
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0001425	Heterogeneous											PCS						MIM:112500		
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0001509	Short stature											PCS	frequent					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0010049	Hypoplastic/short metacarpal bones											PCS	occasional					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0005194	Flattened metatarsal and metacarpal heads											PCS	occasional					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009638	Hypoplastic/small proximal phalanx of the thumb											PCS	common					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0010107	Hypoplastic/small proximal phalanx of the hallux											PCS	common					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009843	Aplasia/Hypoplasia of the middle phalanges of the hand											PCS	obligate					ISBN-13: 978-3437214301		
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0004209	Clinodactyly of the 5th finger											PCS	typical					MIM:112500	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009467	Radial deviation of the 2nd finger											PCS	frequent					MIM:112500	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009279	Radial deviation of the 4th finger											PCS	frequent					MIM:112500	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009462	Radial deviation of the 3rd finger											PCS	occasional					MIM:112500	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0010049	Hypoplastic/short metacarpal bones											PCS	occasional					ISBN-13: 978-3437214301	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009194	Small epiphyses of the metacarpals											PCS	occasional					ISBN-13: 978-3437214301	20.10.2009	
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0010194	Aplasia/Hypoplasia of the middle phalanges of the toes											PCS	occasional					ISBN-13: 978-3437214301	20.10.2009	

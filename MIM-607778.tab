@@ -1,25 +1,37 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0000007												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0000707				PATO:0000001								IEA		PATO:0000460					17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0000767												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0000768												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0000774		FMA:9576		PATO:0000599								IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0000887												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0001165		FMA:9712		PATO:0000587								IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0001216												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0001523												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0001760				PATO:0000001								IEA		PATO:0000460					17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0001821		FMA:54326		PATO:0000600								IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0002812												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0002938		FMA:75791		PATO:0002017								IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0002970												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0003032		FMA:42385		PATO:0000574								IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0003181												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0003300		FMA:71515		PATO:0001891								IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0003498												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0004482												IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0006059		FMA:9612		HP:0000937								ITM							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0006438		FMA:32844		PATO:0000586								IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0009370												ITM							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0009826		FMA:7182		PATO:0000574								IEA							17.02.2009	
-MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726			IHH	HP:0010230		FMA:24012		PATO:0002021								IEA							17.02.2009	
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Mode of Inheritance ID	Mode of Inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0000007	Autosomal recessive inheritance																			
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0000768	Pectus carinatum											PCS	1/4					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0000774	Narrow chest											PCS	3/4					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0000887	Cupped ribs											PCS	2/4					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0001216	Delayed maturation/delayed ossification of carpal bones											PCS	5/5					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0001821	Broad nails											PCS	2/4					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0002812	Coxa vara											PCS	4/5					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0002938	Lumbar hyperlordosis											PCS	3/4					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0002970	Genu varum											PCS	2/5					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0003032	Short femoral neck											PCS	5/5					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0003181	Small, flared iliac wings											PCS	2/5					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0003300	Ovoid vertebral bodies											PCS	4/4					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0003498	Short stature, disproportionate									HP:0003578	Onset in childhood	PCS	5/5					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0004482	Relative macrocephaly											PCS	5/5					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0006059	Cone-shaped metacarpal epiphyses											PCS	3/5					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0006438	Large distal femoral epiphyses											PCS	3/4					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0010230	Cone-shaped epiphyses of the phalanges of the hand											PCS	5/5					PMID:12624140		
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0000767	Pectus excavatum											PCS	1/4					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0010017	Cone-shaped epiphysis of the 1st metacarpal											PCS	2/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0002984	Hypoplasia of the radius											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0000773	Short ribs											PCS	1/4					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0002650	Scoliosis											PCS	1/4					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0010575	Dysplastic femoral head											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0008789	Cone-shaped capital femoral epiphyses											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0010240	Hypoplasia of the middle phalanges of the hand											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0009882	Hypoplasia of the distal phalanges of the hand											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0009638	Hypoplastic/small proximal phalanx of the thumb											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0010049	Hypoplastic/short metacarpal bones											PCS	common					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0010241	Hypoplasia of the proximal phalanges of the hand											PCS	common					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0003099	Fibular overgrowth											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0002970	Genu varum											PCS	3/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0005792	Humeral hypoplasia											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0005736	Hypoplastic tibia											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0003022	Hypoplasia of the ulna											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0003097	Short femur											PCS	5/5					PMID:12624140	21.10.2009	
+MIM:607778	ACROCAPITOFEMORAL DYSPLASIA	MIM:600726	INDIAN HEDGEHOG	MIM:600726 (distal N- and C-terminal regions) / MIM:600726 (distal N- and C-terminal regions) 	IHH	HP:0006078	Ivory and cone-shaped epiphyses											PCS	5/5					PMID:12624140	21.10.2009	
