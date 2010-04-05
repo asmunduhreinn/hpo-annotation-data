@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:602023	CHLORIDE CHANNEL, KIDNEY, B					HP:0000007												IEA							17.02.2009	
+MIM:602023	CHLORIDE CHANNEL, KIDNEY, B					HP:0000103		GO:0060073		PATO:0000912								IEA							17.02.2009	
+MIM:602023	CHLORIDE CHANNEL, KIDNEY, B					HP:0000127												IEA							17.02.2009	
+MIM:602023	CHLORIDE CHANNEL, KIDNEY, B					HP:0000818				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:602023	CHLORIDE CHANNEL, KIDNEY, B					HP:0001949												IEA							17.02.2009	
+MIM:602023	CHLORIDE CHANNEL, KIDNEY, B					HP:0002150		FMA:12274		PATO:0001162		CHEBI:22984						IEA							17.02.2009	
+MIM:602023	CHLORIDE CHANNEL, KIDNEY, B					HP:0002615												IEA							17.02.2009	

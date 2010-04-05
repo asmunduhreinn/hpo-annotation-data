@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0000006												IEA							17.02.2009	
+MIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0001462												IEA							17.02.2009	
+MIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0001540		FMA:9620		PATO:0001505		FMA:9620						IEA							17.02.2009	
+MIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0002019		GO:0030421		PATO:0000381								IEA							17.02.2009	
+MIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0002309												ITM							17.02.2009	
+MIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0003324		FMA:72954		PATO:0001779								ITM							17.02.2009	
