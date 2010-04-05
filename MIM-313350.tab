@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:313350	SPLIT-HAND/FOOT MALFORMATION 2					HP:0001417												IEA							17.02.2009	
+MIM:313350	SPLIT-HAND/FOOT MALFORMATION 2					HP:0001839												IEA							17.02.2009	
+MIM:313350	SPLIT-HAND/FOOT MALFORMATION 2					HP:0003050												IEA							17.02.2009	
+MIM:313350	SPLIT-HAND/FOOT MALFORMATION 2					HP:0006101		FMA:9666		HP:0001159								IEA							17.02.2009	
+MIM:313350	SPLIT-HAND/FOOT MALFORMATION 2					HP:0009803		FMA:23914		PATO:0000645								IEA							17.02.2009	
+MIM:313350	SPLIT-HAND/FOOT MALFORMATION 2					HP:0010049				PATO:0000001								IEA							17.02.2009	

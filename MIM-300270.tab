@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:300270	ADRENOMYODYSTROPHY					HP:0000119				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:300270	ADRENOMYODYSTROPHY					HP:0000485												IEA							17.02.2009	
+MIM:300270	ADRENOMYODYSTROPHY					HP:0001277												IEA							17.02.2009	
+MIM:300270	ADRENOMYODYSTROPHY					HP:0001417												IEA							17.02.2009	
+MIM:300270	ADRENOMYODYSTROPHY					HP:0002241		GO:0030421		PATO:0000381								IEA							17.02.2009	
+MIM:300270	ADRENOMYODYSTROPHY					HP:0002252												IEA							17.02.2009	
+MIM:300270	ADRENOMYODYSTROPHY					HP:0003011				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:300270	ADRENOMYODYSTROPHY					HP:0008207												IEA							17.02.2009	
+MIM:300270	ADRENOMYODYSTROPHY					HP:0008291												IEA							17.02.2009	
