@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:160010	MYOGLOBINURIA, AUTOSOMAL DOMINANT					HP:0001919												IEA							17.02.2009	
+MIM:160010	MYOGLOBINURIA, AUTOSOMAL DOMINANT					HP:0001945												ITM							17.02.2009	
+MIM:160010	MYOGLOBINURIA, AUTOSOMAL DOMINANT					HP:0002913		FMA:12274		PATO:0002002		CHEBI:7044						IEA							17.02.2009	
+MIM:160010	MYOGLOBINURIA, AUTOSOMAL DOMINANT					HP:0003078												ITM							17.02.2009	
+MIM:160010	MYOGLOBINURIA, AUTOSOMAL DOMINANT					HP:0003712		FMA:5022		PATO:0000584								ITM							17.02.2009	

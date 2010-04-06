@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:194380	DEHYDRATED HEREDITARY STOMATOCYTOSIS					HP:0000006												IEA							17.02.2009	
+MIM:194380	DEHYDRATED HEREDITARY STOMATOCYTOSIS					HP:0000952												IEA							17.02.2009	
+MIM:194380	DEHYDRATED HEREDITARY STOMATOCYTOSIS					HP:0000980		FMA:7163		PATO:0000328								IEA							17.02.2009	
+MIM:194380	DEHYDRATED HEREDITARY STOMATOCYTOSIS					HP:0003641		FMA:12274		PATO:0002002		CHEBI:35143						IEA							17.02.2009	
+MIM:194380	DEHYDRATED HEREDITARY STOMATOCYTOSIS					HP:0005535												IEA							17.02.2009	
+MIM:194380	DEHYDRATED HEREDITARY STOMATOCYTOSIS					HP:0008269												IEA							17.02.2009	

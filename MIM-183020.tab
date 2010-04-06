@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:183020	SPINAL MUSCULAR ATROPHY, SEGMENTAL					HP:0006802												IEA							17.02.2009	
+MIM:183020	SPINAL MUSCULAR ATROPHY, SEGMENTAL					HP:0009037												IEA							17.02.2009	
+MIM:183020	SPINAL MUSCULAR ATROPHY, SEGMENTAL					HP:0009130		FMA:42368		PATO:0001623								IEA							17.02.2009	

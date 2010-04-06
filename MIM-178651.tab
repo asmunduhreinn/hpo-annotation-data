@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:178651	PULMONIC STENOSIS AND DEAFNESS					HP:0000006												IEA							17.02.2009	
+MIM:178651	PULMONIC STENOSIS AND DEAFNESS					HP:0001642		FMA:8615		PATO:0000599								ITM							17.02.2009	
+MIM:178651	PULMONIC STENOSIS AND DEAFNESS					HP:0001714		FMA:82553		PATO:0000584								ITM							17.02.2009	
+MIM:178651	PULMONIC STENOSIS AND DEAFNESS					HP:0001728												IEA							17.02.2009	

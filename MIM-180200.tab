@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:180200	RETINOBLASTOMA					HP:0000006												IEA							17.02.2009	
+MIM:180200	RETINOBLASTOMA					HP:0000175		FMA:54549		PATO:0000403								IEA							17.02.2009	
+MIM:180200	RETINOBLASTOMA					HP:0000555												IEA							17.02.2009	
+MIM:180200	RETINOBLASTOMA					HP:0001420												IEA							17.02.2009	
+MIM:180200	RETINOBLASTOMA					HP:0001428												ITM							17.02.2009	
+MIM:180200	RETINOBLASTOMA					HP:0001909		MPATH:336		PATO:0000912								IEA							17.02.2009	
+MIM:180200	RETINOBLASTOMA					HP:0002665		MPATH:343		PATO:0000912								IEA							17.02.2009	
+MIM:180200	RETINOBLASTOMA					HP:0002669												IEA							17.02.2009	
+MIM:180200	RETINOBLASTOMA					HP:0007862		FMA:58301		PATO:0001447								IEA							17.02.2009	
+MIM:180200	RETINOBLASTOMA					HP:0007902												IEA							17.02.2009	

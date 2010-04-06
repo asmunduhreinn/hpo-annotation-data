@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:163850	NODULI CUTANEI, MULTIPLE, WITH URINARY TRACT ABNORMALITIES					HP:0000006												IEA							17.02.2009	
+MIM:163850	NODULI CUTANEI, MULTIPLE, WITH URINARY TRACT ABNORMALITIES					HP:0000081												IEA							17.02.2009	
+MIM:163850	NODULI CUTANEI, MULTIPLE, WITH URINARY TRACT ABNORMALITIES					HP:0000126		FMA:15575		PATO:0001571								IEA							17.02.2009	
+MIM:163850	NODULI CUTANEI, MULTIPLE, WITH URINARY TRACT ABNORMALITIES					HP:0000951		FMA:7163		PATO:0000001								IEA		PATO:0000460					17.02.2009	

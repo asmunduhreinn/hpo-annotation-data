@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:172400	GLUCOSE-6-PHOSPHATE ISOMERASE					HP:0000006												IEA							17.02.2009	
+MIM:172400	GLUCOSE-6-PHOSPHATE ISOMERASE					HP:0000952												IEA							17.02.2009	
+MIM:172400	GLUCOSE-6-PHOSPHATE ISOMERASE					HP:0001082												IEA							17.02.2009	
+MIM:172400	GLUCOSE-6-PHOSPHATE ISOMERASE					HP:0001249												IEA							17.02.2009	
+MIM:172400	GLUCOSE-6-PHOSPHATE ISOMERASE					HP:0001324		FMA:5022		PATO:0001779								IEA							17.02.2009	
+MIM:172400	GLUCOSE-6-PHOSPHATE ISOMERASE					HP:0001624												ITM							17.02.2009	
+MIM:172400	GLUCOSE-6-PHOSPHATE ISOMERASE					HP:0001744		FMA:7196		PATO:0000586								IEA							17.02.2009	
+MIM:172400	GLUCOSE-6-PHOSPHATE ISOMERASE					HP:0001930												IEA							17.02.2009	
+MIM:172400	GLUCOSE-6-PHOSPHATE ISOMERASE					HP:0003568												IEA							17.02.2009	
+MIM:172400	GLUCOSE-6-PHOSPHATE ISOMERASE					HP:0005525												IEA							17.02.2009	

@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:112350	BOWING OF LEGS, ANTERIOR, WITH DWARFISM					HP:0000006												IEA							17.02.2009	
+MIM:112350	BOWING OF LEGS, ANTERIOR, WITH DWARFISM					HP:0001249												IEA							17.02.2009	
+MIM:112350	BOWING OF LEGS, ANTERIOR, WITH DWARFISM					HP:0001507		GO:0040007		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:112350	BOWING OF LEGS, ANTERIOR, WITH DWARFISM					HP:0002970												ITM							17.02.2009	
+MIM:112350	BOWING OF LEGS, ANTERIOR, WITH DWARFISM					HP:0002979		FMA:24979		PATO:0000406								ITM							17.02.2009	
+MIM:112350	BOWING OF LEGS, ANTERIOR, WITH DWARFISM					HP:0003052												ITM							17.02.2009	
+MIM:112350	BOWING OF LEGS, ANTERIOR, WITH DWARFISM					HP:0003177												IEA							17.02.2009	
+MIM:112350	BOWING OF LEGS, ANTERIOR, WITH DWARFISM					HP:0005908												IEA							17.02.2009	

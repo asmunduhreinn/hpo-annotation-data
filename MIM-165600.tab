@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:165600	ORBITAL MARGIN, HYPOPLASIA OF					HP:0000006												IEA							17.02.2009	
+MIM:165600	ORBITAL MARGIN, HYPOPLASIA OF					HP:0000564		FMA:61063		PATO:0001819								IEA							17.02.2009	
+MIM:165600	ORBITAL MARGIN, HYPOPLASIA OF					HP:0000652		FMA:54442		HP:0000589								IEA							17.02.2009	
+MIM:165600	ORBITAL MARGIN, HYPOPLASIA OF					HP:0007647												IEA							17.02.2009	

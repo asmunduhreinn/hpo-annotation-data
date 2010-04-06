@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:150220	LACTOSE INTOLERANCE, CONGENITAL					HP:0000006												IEA							17.02.2009	
+MIM:150220	LACTOSE INTOLERANCE, CONGENITAL					HP:0000518												IEA							17.02.2009	
+MIM:150220	LACTOSE INTOLERANCE, CONGENITAL					HP:0001508												IEA							17.02.2009	
+MIM:150220	LACTOSE INTOLERANCE, CONGENITAL					HP:0001944												IEA							17.02.2009	
+MIM:150220	LACTOSE INTOLERANCE, CONGENITAL					HP:0001947												IEA							17.02.2009	
+MIM:150220	LACTOSE INTOLERANCE, CONGENITAL					HP:0002013												IEA							17.02.2009	
+MIM:150220	LACTOSE INTOLERANCE, CONGENITAL					HP:0002903		FMA:12274		PATO:0002002		CHEBI:33709						IEA							17.02.2009	
+MIM:150220	LACTOSE INTOLERANCE, CONGENITAL					HP:0004789												ITM							17.02.2009	
