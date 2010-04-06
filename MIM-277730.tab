@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:277730	WERNICKE-KORSAKOFF SYNDROME					HP:0000007												IEA							17.02.2009	
+MIM:277730	WERNICKE-KORSAKOFF SYNDROME					HP:0000508												IEA							17.02.2009	
+MIM:277730	WERNICKE-KORSAKOFF SYNDROME					HP:0000602		FMA:49033		PATO:0000763								IEA							17.02.2009	
+MIM:277730	WERNICKE-KORSAKOFF SYNDROME					HP:0000666		FMA:74527		HP:0000639								IEA							17.02.2009	
+MIM:277730	WERNICKE-KORSAKOFF SYNDROME					HP:0001251		GO:0050881		PATO:0000770								IEA							17.02.2009	
+MIM:277730	WERNICKE-KORSAKOFF SYNDROME					HP:0001259												ITM							17.02.2009	
+MIM:277730	WERNICKE-KORSAKOFF SYNDROME					HP:0001271												IEA							17.02.2009	
+MIM:277730	WERNICKE-KORSAKOFF SYNDROME					HP:0001289												IEA							17.02.2009	
+MIM:277730	WERNICKE-KORSAKOFF SYNDROME					HP:0002354												ITM							17.02.2009	

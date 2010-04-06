@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:233270	GOMBO SYNDROME					HP:0000007												IEA							17.02.2009	
+MIM:233270	GOMBO SYNDROME					HP:0000252		FMA:46565		PATO:0000587								IEA							17.02.2009	
+MIM:233270	GOMBO SYNDROME					HP:0000568												IEA							17.02.2009	
+MIM:233270	GOMBO SYNDROME					HP:0001156												IEA							17.02.2009	
+MIM:233270	GOMBO SYNDROME					HP:0001157		FMA:9666		PATO:0000140								IEA		PATO:0000460					17.02.2009	
+MIM:233270	GOMBO SYNDROME					HP:0002564				PATO:0000646								IEA							17.02.2009	
+MIM:233270	GOMBO SYNDROME					HP:0006887												IEA							17.02.2009	
+MIM:233270	GOMBO SYNDROME					HP:0008859												IEA							17.02.2009	

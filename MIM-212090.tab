@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0000007												IEA							17.02.2009	
+MIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0001671												ITM							17.02.2009	
+MIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0001680		FMA:3734		PATO:0001847								IEA							17.02.2009	

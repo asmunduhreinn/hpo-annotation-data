@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:229120	FOUNTAIN SYNDROME					HP:0000007												IEA							17.02.2009	
+MIM:229120	FOUNTAIN SYNDROME					HP:0000280		FMA:24728		PATO:0000700								IEA							17.02.2009	
+MIM:229120	FOUNTAIN SYNDROME					HP:0000282		FMA:24728		PATO:0001450								IEA							17.02.2009	
+MIM:229120	FOUNTAIN SYNDROME					HP:0000374		FMA:65132		HP:0000404								IEA							17.02.2009	
+MIM:229120	FOUNTAIN SYNDROME					HP:0001165		FMA:9712		PATO:0000587								ITM							17.02.2009	
+MIM:229120	FOUNTAIN SYNDROME					HP:0001246												ITM							17.02.2009	
+MIM:229120	FOUNTAIN SYNDROME					HP:0001249												IEA							17.02.2009	
+MIM:229120	FOUNTAIN SYNDROME					HP:0002684		FMA:52800		PATO:0000591								IEA							17.02.2009	
+MIM:229120	FOUNTAIN SYNDROME					HP:0009836		FMA:75818		PATO:0000600								IEA							17.02.2009	

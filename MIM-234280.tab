@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:234280	HALLUX VARUS AND PREAXIAL POLYSYNDACTYLY					HP:0000007												IEA							17.02.2009	
+MIM:234280	HALLUX VARUS AND PREAXIAL POLYSYNDACTYLY					HP:0001177		FMA:24938		HP:0001161								IEA							17.02.2009	
+MIM:234280	HALLUX VARUS AND PREAXIAL POLYSYNDACTYLY					HP:0003094		FMA:25047		PATO:0000600								IEA							17.02.2009	

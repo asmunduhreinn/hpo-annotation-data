@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0000007												IEA							17.02.2009	
+MIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0000464				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0000765				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0001392				PATO:0000001								IEA		PATO:0000460					17.02.2009	
+MIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0005200		MPATH:181		PATO:0000470								IEA							17.02.2009	
+MIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0010563												IEA							17.02.2009	

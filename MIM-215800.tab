@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:215800	CLEFT LARYNX, POSTERIORSTRIDOR, CONGENITAL, INCLUDED					HP:0000961		FMA:7163		PATO:0000319								IEA							17.02.2009	
+MIM:215800	CLEFT LARYNX, POSTERIORSTRIDOR, CONGENITAL, INCLUDED					HP:0001608												IEA							17.02.2009	
+MIM:215800	CLEFT LARYNX, POSTERIORSTRIDOR, CONGENITAL, INCLUDED					HP:0002835												IEA							17.02.2009	
+MIM:215800	CLEFT LARYNX, POSTERIORSTRIDOR, CONGENITAL, INCLUDED					HP:0006511		FMA:55097		HP:0010307								IEA							17.02.2009	

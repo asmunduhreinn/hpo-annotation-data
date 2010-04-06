@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
+MIM:254960	MYOPATHY DUE TO MALATE-ASPARTATE SHUTTLE DEFECT					HP:0000007												IEA							17.02.2009	
+MIM:254960	MYOPATHY DUE TO MALATE-ASPARTATE SHUTTLE DEFECT					HP:0003078												IEA							17.02.2009	
+MIM:254960	MYOPATHY DUE TO MALATE-ASPARTATE SHUTTLE DEFECT					HP:0003198												IEA							17.02.2009	
+MIM:254960	MYOPATHY DUE TO MALATE-ASPARTATE SHUTTLE DEFECT					HP:0003738				EFO_0000483								IEA							17.02.2009	
