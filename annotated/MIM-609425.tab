@@ -1,0 +1,15 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0000318	Long, narrow facies									IEA									17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0000322	Short philtrum									IEA									17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0000442	High nasal bridge									IEA									17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0000717	Autism									IEA									17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0000767	Pectus excavatum									IEA									17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0000768	Pectus carinatum									IEA									17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0003745	Sporadic									TEA								MIM:609425	17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0001939	Metabolism abnormality									IEA									17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0002066	Gait ataxia									IEA									17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0002122	Mental retardation, mild to moderate									IEA									17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0006125	Long tapered fingers									IEA									17.02.2009	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0000006	Autosomal dominant inheritance									TEA								MIM:609425	13.09.2010	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0001255	Psychomotor developmental delay							HP:0003576	Onset in infancy	TEA	7/7							PMID:15918153	13.09.2010	
+MIM:609425	CHROMOSOME 3q29 MICRODELETION SYNDROME			del3q29		HP:0001249	Mental retardation									TEA	7/7							PMID:15918153	13.09.2010	
