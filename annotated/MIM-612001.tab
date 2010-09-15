@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
+MIM:612001	CHROMOSOME 15q13.3 MICRODELETION SYNDROME					HP:0001249	Mental retardation									PCS	9/9							PMID:18278044	15.09.2010	
+MIM:612001	CHROMOSOME 15q13.3 MICRODELETION SYNDROME					HP:0000316	Hypertelorism									PCS	2/9							PMID:18278044	15.09.2010	
+MIM:612001	CHROMOSOME 15q13.3 MICRODELETION SYNDROME					HP:0001250	Seizures									PCS	5/9							PMID:18278044	15.09.2010	
+MIM:612001	CHROMOSOME 15q13.3 MICRODELETION SYNDROME					HP:0000717	Autism									PCS	6/14							PMID:19289393	15.09.2010	
+MIM:612001	CHROMOSOME 15q13.3 MICRODELETION SYNDROME					HP:0000322	Short philtrum									PCS	common							PMID:19289393	15.09.2010	
+MIM:612001	CHROMOSOME 15q13.3 MICRODELETION SYNDROME					HP:0000215	Thick upper lip vermilion									PCS	common							PMID:19289393	15.09.2010	
