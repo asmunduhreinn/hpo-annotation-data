@@ -1,10 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000007												IEA							17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000651												IEA							17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000988												ITM							17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001113												IEA							17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001251		GO:0050881		PATO:0000770								IEA							17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001260												IEA							17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001263												IEA							17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001289												IEA							17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001939		GO:0008152		PATO:0000001								IEA		PATO:0000460					17.02.2009	
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000007	Autosomal recessive inheritance									IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000651	Diplopia									IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000988	Skin rash									ITM									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000518	Cataract									PCS								OMIM:260650	Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001251	Ataxia	GO:0050881		PATO:0000770	uncoordinated					IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001260	Dysarthria									IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001263	Developmental retardation									IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001289	Confusion									IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001939	Metabolism abnormality	GO:0008152		PATO:0000001	quality					IEA		PATO:0000460	abnormal						Feb 17, 2009	
