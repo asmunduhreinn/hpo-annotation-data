@@ -1,0 +1,71 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0003745	Sporadic									PCS									ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0200046	Cat cry									PCS	96%								PMID:1695388		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0001518	Low birth weight									PCS	72%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000252	Microcephaly									PCS	100%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000311	Round face							HP:0003577	Congenital onset	PCS	common						Smith's says 68% and the publication says 83.5% (Italian Registry).		ISBN-13:978-0721606156; PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p				FMA:52745	Nasal bone	PATO:0000586	increased size					PCS	87%	PATO:0000460	abnormal				They use the term large nasal bridge. Wasn't sure if that could be translated as broad or prominent.		PMID:1695388		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0008893	Growth retardation, prenatal and postnatal									PCS	100%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0001267	Mental deficiency									PCS	100%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0001319	Neonatal hypotonia									PCS	78%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000316	Hypertelorism									PCS	94%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000286	Epicanthus									PCS	85%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000494	Downward slanting palpebral fissures									PCS	81%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000486	Strabismus									PCS	61%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000369	Low-set ears									PCS	58%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0008562	Poorly formed pinnae									PCS	58%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000324	Facial asymmetry									PCS	typical								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0002564	Cardiac malformation									PCS	30%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000954	Transverse palmar creases									PCS	81%								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0001042	High axial triradius									PCS	40%						I think this is equivalent to distal axial triradius but it should be confirmed.		ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0010049	Hypoplastic/short metacarpal bones									PCS	83%								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0002714	Downturned corners of mouth									PCS	81%								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000308	Microretrognathia									PCS	97%								PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0005437	Recurrent infections in infancy and early childhood									PCS	occasional								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000077	Abnormality of the kidney									PCS	rare								PMID:16953888; PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000047	Hypospadias									PCS	occasional								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000028	Cryptorchidism									PCS	occasional								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000384	Preauricular skin tag									PCS	occasional								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0001159	Syndactyly									PCS	occasional								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0008872	Feeding problems in infancy									PCS	frequent								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0002020	Gastroesophageal reflux									PCS	frequent								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000318	Long, narrow facies							HP:0003621	Juvenile onset	PCS	71%								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000336	Prominent supraorbital ridges							HP:0003621	Juvenile onset	PCS	31%								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000322	Short philtrum							HP:0003621	Juvenile onset	PCS	88%								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000179	Thick lower lip vermilion							HP:0003621	Juvenile onset	PCS	45%								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0009102	Anterior open-bite malocclusion							HP:0003621	Juvenile onset	PCS	75%								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p				FMA:59110	Palpebral fissure	PATO:0001855	horizontal			HP:0003621	Juvenile onset	PCS	70%								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0010743	Hypoplasia of the metatarsal bones							HP:0003621	Juvenile onset	PCS	75%								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0002216	Premature graying of hair									PCS	30%								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000545	Myopia									PCS	occasional								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000648	Optic atrophy									PCS	occasional								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000202	Cleft lip/palate									PCS	5%								PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000193	Bifid uvula									PCS	occasional								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000470	Short neck									PCS	occasional								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0002650	Scoliosis									PCS	occasional								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0001763	Pes planus									PCS	occasional								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000023	Inguinal hernia									PCS	occasional								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0001840	Metatarsus varus									PCS	occasional								ISBN-13:978-0721606156		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0001540	Diastasis recti									PCS	frequent								PMID:16953888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0002795	Functional respiratory abnormality							HP:0003623	Neonatal onset	PCS	frequent								PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000402	Stenotic external auditory canal									PCS	occasional								PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0010780	Hyperacusis									PCS	occasional								PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000404	Deafness									PCS	occasional								PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000364	Hearing abnormality									PCS	frequent						Referred to hypersensibility to sounds and auditive discomfort.		PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000518	Cataract									PCS	occasional								PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0001276	Hypertonia							HP:0003621	Juvenile onset	PCS	frequent								PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000218	High palate									PCS	50%								PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000752	Hyperactivity									PCS	50%								PMID:16953888; PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000736	Short attention span									PCS	common								PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000739	Anxiety									PCS	common						Used the term uneasiness.		PMID:20038906		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000718	Aggressive behavior									PCS	88%								PMID:11869383		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000742	Self-mutilation									PCS	19/27								PMID: 8957962		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0002399	Speech and language difficulties									PCS	hallmark								PMID:10355811		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000733	Stereotyped, repetitive behaviour									PCS	82%								PMID:11869383		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000717	Autism									PCS	9/23								PMID:18564888		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0002355	Difficulty walking									PCS	22/27								PMID:8957962		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0100025	Overfriendliness									PCS	13/27								PMID:8957962		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0000273	Facial grimacing									PCS	9/27								PMID:8957962		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0010529	Echolalia									PCS	14/27								PMID:8957962		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0100024	Conspicuously happy disposition									PCS	18/27								PMID:8957962		
+MIM:123450	CRI-DU-CHAT SYNDROME			del5p		HP:0010865	Oppositional defiant disorder									PCS	9/27								PMID:8957962		
