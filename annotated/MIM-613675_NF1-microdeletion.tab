@@ -1,0 +1,40 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0003745	Sporadic									PCS											
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0001999	Facial dysmorphism									PCS	26/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000316	Hypertelorism									PCS	25/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000324	Facial asymmetry									PCS	8/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000280	Coarse facial features									PCS	17/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000098	Tall stature									PCS	13/28								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000256	Macrocephaly									PCS	9/23								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000475	Broad neck									PCS	9/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0002820	Large hands and feet									PCS	13/28								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0001761	Pes cavus									PCS	5/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000957	Cafe-au-lait spots									PCS	27/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000997	Axillary freckling									PCS	28/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0009737	Lisch nodules									PCS	27/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0006867	Delayed cognitive development									PCS	14/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0001328	Learning disability									PCS	13/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0100543	Cognitive impairment									PCS	27/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0007018	Attention deficit hyperactivity disorder									PCS	8/24								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000924	Abnormality of the musculoskeletal system									PCS	22/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0002650	Scoliosis									PCS	12/28								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000767	Pectus excavatum									PCS	9/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0001159	Syndactyly									PCS	12/24						Would this be the correct interpretation of "Excess soft tissue in hands and feet"?		PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0002565	Complex cardiac malformations									PCS	8/28								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0001275	Epilepsy									PCS	2/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0001252	Muscular hypotonia									PCS	13/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0006936	Speech difficulties									PCS	14/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0009732	Plexiform neurofibroma									PCS	22/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0009735	Spinal neurofibromas									PCS	9/14								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0001067	Neurofibromas									PCS	25/29						Using this term for cutaneous specifically.		PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0001001	Abnormality of subcutaneous fat tissue	MPATH:435	neurofibroma							PCS	22/29						Term used was subcutaneous neurofibroma.		PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2				MPATH:437	neurofibrosarcoma	PATO:0000467	present					PCS	6/29	PATO:0000460	abnormal				Term used was malignant peripheral nerve sheath tumor.		PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0009734	Optic glioma									PCS	5/27								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0007319	Malformation of the central nervous system									PCS	5/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0007183	Hyperintense lesions in the basal ganglia on MRI									PCS	13/29						This should be updated to a less specific term. They annotated T2 hyperintensities but they did not limit this to basal ganglia. I was unable to get the specifics because I only have access to the supplemental tables, not the publication itself.		PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2				FMA:30317	Bone	PATO:0001673	cystic					PCS	8/16								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000486	Strabismus									PCS	4/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000365	Hearing impairment									PCS	3/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000736	Short attention span									PCS	16/22						Not sure if short/poor attention span is accurate. Supplemental table 9 shows 16/22 abnormal results using TOVA.		PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0000369	Low-set ears									PCS	4/29								PMID:20543202		
+MIM:613675	CHROMOSOME 17q11.2 DELETION SYNDROME, 1.4-Mb			del17q11.2		HP:0002564	Cardiac malformation									PCS	6/28						Distinguished these 6 as congenital heart defects. The cardiovascular anomalies frequency was inclusive at 8/28.		PMID:20543202		
