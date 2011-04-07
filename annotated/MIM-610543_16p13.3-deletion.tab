@@ -1,0 +1,35 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0001452	Autosomal dominant contiguous gene syndrome									PCS							Reported as a contiguous gene syndrome. The critical region is limited to the 5' end of CREBBP. OMIM lists CREBBP, DNASE1 and TRAP1 but PMID:17855048 shows that not all severe RSTS patients have deletions that contain those genes. It could be limited to CREBBP or extend in the other direction to impact ADCY9, etc. I didn't add genes to this phenote file but we can update this to report what you think is accurate.		PMID:16783566		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0001442	Somatic mosaicism									PCS	3/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0001522	Death in infancy									PCS	3/8								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0001508	Failure to thrive									PCS	8/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0008872	Feeding problems in infancy									PCS	6/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0001999	Facial dysmorphism									PCS	9/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0000444	Beaked nose									PCS	7/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0000448	Prominent nose									PCS	7/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0009765	Columella, low hanging									PCS	7/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0000494	Downward slanting palpebral fissures									PCS	5/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0000277	Abnormality of the mandible									PCS	6/9						I grouped the terms micrognathia and receding chin together. Each was used by one publication. These could represent the same thing or one could be size and the other position. Not sure if the more specific terms micrognathia and retrognathia should be annotated, as well.		PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0002219	Facial hypertrichosis									PCS	5/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0009553	Abnormality of the hairline									PCS	2/6								PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0001249	Mental retardation									PCS	5/5								PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0001255	Psychomotor developmental delay									PCS	6/6								PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0000252	Microcephaly									PCS	6/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0005883	Broad thumbs and broad great toes									PCS	9/9						The term used in both papers is Broad thumbs OR halluces, so this term may not be accurate.		PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0000156	High-arched palate									PCS	4/8								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0002650	Scoliosis									PCS	2/6								PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3				FMA:85518	Digit	PATO:0002177	deviation towards the medial side					PCS	3/6						Term used was clinodactyly but they didn't specify fingers vs toes.		PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0001252	Muscular hypotonia									PCS	5/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0000329	Facial hemangioma	FMA:63864	Forehead							PCS	2/6						Forehead hemangioma		PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3												PCS	1/6						Laryngeal synechia		PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0000486	Strabismus									PCS	3/6								PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0000545	Myopia									PCS	3/6								PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0001513	Obesity									PCS	2/6								PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0000077	Abnormality of the kidney									PCS	3/9								PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0002564	Cardiac malformation									PCS	2/9						I didn't create a separate annotation for hypoplastic heart because it seemed redundant, although more specific. We can add it (1/9) if you think it's helpful.		PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0002719	Recurrent infections									PCS	3/9						Terms used: intractable infections, critical infections, serious infections. These are the three from PMID:16783566 that died in infancy.		PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3												PCS	1/6						Laryngeal synechia		PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0010815	Nevus sebaceous									PCS	1/6						Term used: sebacee cysts		PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0002360	Sleep disturbances									PCS	1/6								PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0002391	Infantile seizures									PCS	1/9						Term used: Severe neonatal convulsions, multifocal hypsarrhythmia		PMID:16783566; PMID:17855048		
+MIM:610543	CHROMOSOME 16p13.3 DELETION SYNDROME			del16p13.3		HP:0001748	Polysplenia									PCS	1/9								PMID:16783566; PMID:17855048		
