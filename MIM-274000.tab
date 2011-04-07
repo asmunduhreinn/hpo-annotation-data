@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
-MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000210	Micrognathia									TAS	occsaional								ISBN-13:978-3-7945-2657-4	17.02.2009	
+MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0100694	Tibial torsion									TAS	occsaional								ISBN-13:978-3-7945-2657-4	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000486	Strabismus									TAS	occasional								ISBN-13:978-3-7945-2657-4	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000508	Ptosis									TAS	occasional								ISBN-13:978-3-7945-2657-4	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001263	Developmental retardation									TAS	occasional								ISBN-13:978-3-7945-2657-4	17.02.2009	
@@ -34,7 +34,7 @@ MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0009829	P
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000891	Cervical ribs									TAS	rare								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002949	Fused cervical vertebrae									TAS	rare								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001671	Abnormality of the cardiac septa									TAS	15-22%								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
-MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000077	Abnormality of the kidneys									TAS	23%								MIM:274000	01.10.2010	
+MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000077	Abnormality of the kidney									TAS	23%								MIM:274000	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000151	Aplasia of the uterus									TAS	rare								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000151	Aplasia of the uterus									TAS	rare								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001522	Death in infancy									TAS	40%								ISBN-13:978-3-7945-2657-4; MIM:274000	01.10.2010	
