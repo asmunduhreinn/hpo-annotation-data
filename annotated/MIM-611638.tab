@@ -1,11 +1,11 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Mode of Inheritance ID	Mode of Inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-		MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000006	Autosomal dominant inheritance											PCS							17.02.2009	
-MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000612	Iris coloboma											PCS	hallmark					MIM:611638	17.02.2009	
-MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0003830	Reduced penetrance											PCS							17.02.2009	
-MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000568	Microphthalmos											PCS	hallmark					MIM:611638	17.02.2009	
-MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0007748	Coloboma of iris, choroid and retina											PCS	hallmark					MIM:611638	30.11.2009	
-MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0003828	Variable expressivity											PCS							30.11.2009	
-MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0001360	Holoprosencephaly											PCS	rare					http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=anophthalmia-ov	30.11.2009	
-MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000202	Cleft lip/palate											PCS	rare					http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=anophthalmia-ov	30.11.2009	
-MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000504	Abnormality of vision											PCS	common					PMID:12503095	30.11.2009	
-MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000528	Anophthalmia											PCS	rare					PMID:12503095	30.11.2009	
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
+MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000006	Autosomal dominant inheritance									PCS									MIM:611638	17.02.2009	
+MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000612	Iris coloboma									PCS	hallmark								MIM:611638	17.02.2009	
+MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0003830	Reduced penetrance									PCS									MIM:611638	17.02.2009	
+MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000568	Microphthalmos									PCS	hallmark								MIM:611638	17.02.2009	
+MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0007748	Coloboma of iris, choroid and retina									PCS	hallmark								MIM:611638	30.11.2009	
+MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0003828	Variable expressivity									PCS									MIM:611638	30.11.2009	
+MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0001360	Holoprosencephaly									PCS	rare								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=anophthalmia-ov	30.11.2009	
+MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000202	Cleft lip/palate									PCS	rare								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=anophthalmia-ov	30.11.2009	
+MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000504	Abnormality of vision									PCS	common								PMID:12503095	30.11.2009	
+MIM:611638	MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 5	MIM:600725	SONIC HEDGEHOG	MIM:600725 / wt	SHH	HP:0000528	Anophthalmia									PCS	rare								PMID:12503095	30.11.2009	
