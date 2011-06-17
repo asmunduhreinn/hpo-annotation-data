@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
-MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0100694	Tibial torsion									TAS	occsaional								ISBN-13:978-3-7945-2657-4	17.02.2009	
+MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0100694	Tibial torsion									TAS	occasional								ISBN-13:978-3-7945-2657-4	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000486	Strabismus									TAS	occasional								ISBN-13:978-3-7945-2657-4	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000508	Ptosis									TAS	occasional								ISBN-13:978-3-7945-2657-4	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001263	Developmental retardation									TAS	occasional								ISBN-13:978-3-7945-2657-4	17.02.2009	
@@ -14,7 +14,7 @@ MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002188	D
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002389	Cavum septum pellucidum									TAS	occasional								ISBN-13:978-3-7945-2657-4	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002673	Coxa valga									TAS	common								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002827	Dislocated hips									TAS	common								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	17.02.2009	
-MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002999	Dislocation of patella									TAS	occsaional								ISBN-13:978-3-7945-2657-4	17.02.2009	
+MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002999	Dislocation of patella									TAS	occasional								ISBN-13:978-3-7945-2657-4	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0004717	Axial malrotation of the kidney									TAS	rare								MIM:274000	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0004977	bilateral absence of radius									TAS	obligate								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	17.02.2009	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0006495	Aplasia/Hypoplasia of the ulna									TAS	hallmark								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	17.02.2009	
@@ -30,7 +30,7 @@ MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0006101	F
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0004209	Clinodactyly of the 5th finger									TAS	common								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002970	Genu varum									TAS	common								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0006443	Patellar aplasia									TAS	common								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
-MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0009829	Phocomelia									TAS	occsional								ISBN-13:978-3-7945-2657-4; http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
+MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0009829	Phocomelia									TAS	occasional								ISBN-13:978-3-7945-2657-4; http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000891	Cervical ribs									TAS	rare								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002949	Fused cervical vertebrae									TAS	rare								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001671	Abnormality of the cardiac septa									TAS	15-22%								http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=tar	01.10.2010	
@@ -41,9 +41,9 @@ MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001522	D
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001880	Eosinophilia									TAS	common								ISBN-13:978-3-7945-2657-4	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001974	Leukocytosis									TAS	62%								ISBN-13:978-3-7945-2657-4	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001433	Hepatosplenomegaly									TAS	occasional								ISBN-13:978-3-7945-2657-4	01.10.2010	
-MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000272	Malar hypoplasia									TAS	occsaional								ISBN-13:978-3-7945-2657-4	01.10.2010	
-MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002992	Abnormality of the tibia									TAS	occsaional						add term for "tibial torsion" HP:0100694		ISBN-13:978-3-7945-2657-4	01.10.2010	
-MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001762	Talipes equinovarus									TAS	occsaional								ISBN-13:978-3-7945-2657-4	01.10.2010	
+MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000272	Malar hypoplasia									TAS	occasional								ISBN-13:978-3-7945-2657-4	01.10.2010	
+MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002992	Abnormality of the tibia									TAS	occasional						add term for "tibial torsion" HP:0100694		ISBN-13:978-3-7945-2657-4	01.10.2010	
+MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0001762	Talipes equinovarus									TAS	occasional								ISBN-13:978-3-7945-2657-4	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0002990	Fibular aplasia									TAS	rare								ISBN-13:978-3-7945-2657-4	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0007514	Edema of the dorsum of hands and feet									TAE	occasional								ISBN-13:978-3-7945-2657-4	01.10.2010	
 MIM:274000	CHROMOSOME 1q21.1 DELETION SYNDROME, 200-KB			del1q21.1		HP:0000895	Hooked clavicles									TAS	occasional								ISBN-13:978-3-7945-2657-4	01.10.2010	
