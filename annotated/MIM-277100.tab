@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
+MIM:277100	VALINEMIA HYPERVALINEMIA					HP:0000007	Autosomal recessive inheritance									IEA										17.02.2009	
+MIM:277100	VALINEMIA HYPERVALINEMIA					HP:0001324	Muscle weakness	FMA:5022	Muscle organ	PATO:0001779	decreased strength					IEA										17.02.2009	
+MIM:277100	VALINEMIA HYPERVALINEMIA					HP:0001508	Failure to thrive									IEA										17.02.2009	
+MIM:277100	VALINEMIA HYPERVALINEMIA					HP:0001939	Metabolism abnormality	GO:0008152	metabolic process	PATO:0000001	quality					IEA		PATO:0000460	abnormal							17.02.2009	
+MIM:277100	VALINEMIA HYPERVALINEMIA					HP:0002013	Vomiting									IEA										17.02.2009	
+MIM:277100	VALINEMIA HYPERVALINEMIA					HP:0002329	Drowsiness									IEA										17.02.2009	
+MIM:277100	VALINEMIA HYPERVALINEMIA					HP:0002487	Hyperkinesis	GO:0042465	kinesis	PATO:0000470	present in greater numbers in organism					IEA										17.02.2009	

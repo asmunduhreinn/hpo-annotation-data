@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
+MIM:251950	MITOCHONDRIAL MYOPATHY WITH LACTIC ACIDOSIS					HP:0000007	Autosomal recessive inheritance									IEA										17.02.2009	
+MIM:251950	MITOCHONDRIAL MYOPATHY WITH LACTIC ACIDOSIS					HP:0001250	Seizures									IEA										17.02.2009	
+MIM:251950	MITOCHONDRIAL MYOPATHY WITH LACTIC ACIDOSIS					HP:0001269	Hemiparesis									IEA										17.02.2009	
+MIM:251950	MITOCHONDRIAL MYOPATHY WITH LACTIC ACIDOSIS					HP:0001517	Growth failure	GO:0040007	growth	PATO:0001511	non-functional					IEA										17.02.2009	
+MIM:251950	MITOCHONDRIAL MYOPATHY WITH LACTIC ACIDOSIS					HP:0002572	Episodic vomiting									IEA										17.02.2009	
+MIM:251950	MITOCHONDRIAL MYOPATHY WITH LACTIC ACIDOSIS					HP:0003255										IEA										17.02.2009	
+MIM:251950	MITOCHONDRIAL MYOPATHY WITH LACTIC ACIDOSIS					HP:0003348	Hyperalaninemia									PCS									OMIM:251950	17.02.2009	
+MIM:251950	MITOCHONDRIAL MYOPATHY WITH LACTIC ACIDOSIS					HP:0008504	Moderate neural deafness									IEA										17.02.2009	
+MIM:251950	MITOCHONDRIAL MYOPATHY WITH LACTIC ACIDOSIS					HP:0008979	Muscle weakness, severe	FMA:5022	Muscle organ	PATO:0001779	decreased strength					IEA		PATO:0000396								17.02.2009	

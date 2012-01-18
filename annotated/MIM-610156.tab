@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
+MIM:610156	MENTAL RETARDATION, TRUNCAL OBESITY, RETINAL DYSTROPHY, AND MICROPENIS					HP:0000007	Autosomal recessive inheritance									PCS								pmid:16493448	Feb 17, 2009	
+MIM:610156	MENTAL RETARDATION, TRUNCAL OBESITY, RETINAL DYSTROPHY, AND MICROPENIS					HP:0000054	Micropenis	FMA:9707		PATO:0000587	decreased size					IEA									Feb 17, 2009	
+MIM:610156	MENTAL RETARDATION, TRUNCAL OBESITY, RETINAL DYSTROPHY, AND MICROPENIS					HP:0002342	Mental retardation, moderate									IEA									Feb 17, 2009	
+MIM:610156	MENTAL RETARDATION, TRUNCAL OBESITY, RETINAL DYSTROPHY, AND MICROPENIS					HP:0000518	Cataract									PCS								pmid:16493448	Feb 17, 2009	
+MIM:610156	MENTAL RETARDATION, TRUNCAL OBESITY, RETINAL DYSTROPHY, AND MICROPENIS					HP:0007910	Retinal dystrophy, congenital, nonprogressive									IEA									Feb 17, 2009	
+MIM:610156	MENTAL RETARDATION, TRUNCAL OBESITY, RETINAL DYSTROPHY, AND MICROPENIS					HP:0007983	Reduced visual acuity by age 3 years									IEA									Feb 17, 2009	
+MIM:610156	MENTAL RETARDATION, TRUNCAL OBESITY, RETINAL DYSTROPHY, AND MICROPENIS					HP:0001956	Truncal obesity							HP:0003578	Onset in childhood	PCS								pmid:16493448	Feb 17, 2009	
