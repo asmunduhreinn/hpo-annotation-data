@@ -1,10 +1,11 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:313700	ANDROGEN RECEPTOR					HP:0000023												IEA							17.02.2009	
-MIM:313700	ANDROGEN RECEPTOR					HP:0000051												IEA							17.02.2009	
-MIM:313700	ANDROGEN RECEPTOR					HP:0000151				PATO:0001557		FMA:17558						ITM							17.02.2009	
-MIM:313700	ANDROGEN RECEPTOR					HP:0000765				PATO:0000001								IEA		PATO:0000460					17.02.2009	
-MIM:313700	ANDROGEN RECEPTOR					HP:0001417												IEA							17.02.2009	
-MIM:313700	ANDROGEN RECEPTOR					HP:0001608												IEA							17.02.2009	
-MIM:313700	ANDROGEN RECEPTOR					HP:0001939		GO:0008152		PATO:0000001								IEA		PATO:0000460					17.02.2009	
-MIM:313700	ANDROGEN RECEPTOR					HP:0004556												IEA							17.02.2009	
-MIM:313700	ANDROGEN RECEPTOR					HP:0008730												IEA							17.02.2009	
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:313700	ANDROGEN RECEPTOR					HP:0000023	Inguinal hernia			IEA	IEA									17.02.2009	
+MIM:313700	ANDROGEN RECEPTOR					HP:0000051	Perineal hypospadias			IEA	IEA									17.02.2009	
+MIM:313700	ANDROGEN RECEPTOR					HP:0000151	Aplasia of the uterus			ITM	ITM									17.02.2009	
+MIM:313700	ANDROGEN RECEPTOR					HP:0000765	Abnormality of the thorax			IEA	IEA									17.02.2009	
+MIM:313700	ANDROGEN RECEPTOR					HP:0001417	X-linked inheritance			IEA	IEA									17.02.2009	
+MIM:313700	ANDROGEN RECEPTOR					HP:0001608	Abnormality of the voice			IEA	IEA									17.02.2009	
+MIM:313700	ANDROGEN RECEPTOR					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA									17.02.2009	
+MIM:313700	ANDROGEN RECEPTOR					HP:0002555	Absent pubic hair			PCS	PCS							OMIM:313700		17.02.2009	
+MIM:313700	ANDROGEN RECEPTOR					HP:0008730	Female external genitalia in males			IEA	IEA									17.02.2009	
+MIM:313700	ANDROGEN RECEPTOR					HP:0002221	Absent axillary hair			PCS	PCS							OMIM:313700		20.02.2012	
