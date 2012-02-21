@@ -1,0 +1,17 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0000007	Autosomal recessive inheritance			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0000510	Retinitis pigmentosa			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0000670	Carious teeth			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0006349	Agenesis of permanent teeth			PCS	PCS							MIM:257960		17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0000958	Dry skin			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0001808	Fragile nails			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0002164	Nail dysplasia			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0002552	Trichodysplasia			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0002209	Sparse scalp hair			PCS	PCS							MIM:257960		17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0004528	Generalized hypotrichosis			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0006313	Widely spaced primary teeth			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0006347	Microdontia of primary teeth			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0007853	Scant eyelashes			IEA	IEA									17.02.2009	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0002215	Sparse axillary hair			PCS	PCS							MIM:257960		20.02.2012	
+MIM:257960	OCULOTRICHODYSPLASIA					HP:0002225	Sparse pubic hair			PCS	PCS							MIM:257960		20.02.2012	
