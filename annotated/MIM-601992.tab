@@ -1,0 +1,29 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0000007	Autosomal recessive inheritance			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0000639	Nystagmus			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001260	Dysarthria			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001427	Mitochondrial inheritance			ITM	ITM									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001635	Congestive heart failure			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001672	Symmetric, concentric, hypertrophic cardiomyopathy			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001691	Muscular subvalvular aortic stenosis			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001761	Pes cavus			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001765	Hammertoe			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001953	Diabetic ketoacidosis			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0002276	Limb incoordination			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0002375	Hypokinesia			ITM	ITM									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0002495	Impaired vibratory sensation			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0002650	Scoliosis			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003115	Abnormal EKG			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003116	Abnormal echocardiogram			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003209	Decreased pyruvate carboxylase activity			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003232	Mitochondrial malic enzyme reduced			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003487	Babinski sign			IEA	IEA									17.02.2009	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001251	Ataxia			PCS	PCS							MIM:601992	probinson	18.03.2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001315	Reduced reflexes			PCS	PCS							MIM:601992	probinson	18.03.2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003621	Juvenile onset			PCS	PCS							MIM:601992	probinson	18.03.2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003133	Abnormality of the spinocerebellar tracts			PCS	PCS							MIM:601992	probinson	18.03.2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0011397	Abnormality of the dorsal column of the spinal cord			PCS	PCS							MIM:601992	probinson	18.03.2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0002062	Abnormality of the pyramidal tracts			PCS	PCS							MIM:601992	probinson	18.03.2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0011441	Abnormality of the medulla oblongata			PCS	PCS							MIM:601992	probinson	18.03.2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003431	Decreased motor nerve conduction velocity			PCS	PCS							MIM:601992	probinson	18.03.2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003448	Decreased sensory nerve conduction velocity			PCS	PCS							MIM:601992	probinson	18.03.2012	
