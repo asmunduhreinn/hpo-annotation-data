@@ -1,23 +1,22 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:176300	TRANSTHYRETIN					HP:0000006												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0000100												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0000478				PATO:0000001								IEA		PATO:0000460					17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0000966												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0000979												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0001278												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0001635		GO:0060047		PATO:0001641								IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0001638												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0001668												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0001681												ITM							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0001917												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0002014		FMA:64183		PATO:0001548								ITM							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0002019		GO:0030421		PATO:0000381								IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0002039												ITM							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0003216												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0003407												ITM							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0003584												ITM							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0005293												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0006683												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0006865												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0007310												IEA							17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0008247												IEA							17.02.2009	
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:176300	TRANSTHYRETIN					HP:0000006	Autosomal dominant inheritance			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0000100	Nephrotic syndrome			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0000478	Abnormality of the eye			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0000966	Hypohidrosis			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0000979	Purpura			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0001278	Orthostatic hypotension			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0001635	Congestive heart failure			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0001638	Cardiomyopathy			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0001668	Heart block			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0001681	Angina pectoris			ITM	ITM									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0001917	Renal amyloidosis			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0002014	Diarrhea			ITM	ITM									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0002019	Constipation			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0002039	Anorexia			ITM	ITM									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0003216	Generalized amyloid deposition			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0003584	Late onset			ITM	ITM									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0005293	Venous insufficiency			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0006683	Ventricular filling abnormal			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0006865	Sensorimotor polyneuropathy affecting arms more than legs			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0002459	Dysautonomia			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0008247	Euthyroid hyperthyroxinemia			IEA	IEA									17.02.2009	
