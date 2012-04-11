@@ -7,7 +7,6 @@ MIM:176300	TRANSTHYRETIN					HP:0000979	Purpura			IEA	IEA									17.02.2009
 MIM:176300	TRANSTHYRETIN					HP:0001278	Orthostatic hypotension			IEA	IEA									17.02.2009	
 MIM:176300	TRANSTHYRETIN					HP:0001635	Congestive heart failure			IEA	IEA									17.02.2009	
 MIM:176300	TRANSTHYRETIN					HP:0001638	Cardiomyopathy			IEA	IEA									17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0001668	Heart block			IEA	IEA									17.02.2009	
 MIM:176300	TRANSTHYRETIN					HP:0001681	Angina pectoris			ITM	ITM									17.02.2009	
 MIM:176300	TRANSTHYRETIN					HP:0001917	Renal amyloidosis			IEA	IEA									17.02.2009	
 MIM:176300	TRANSTHYRETIN					HP:0002014	Diarrhea			ITM	ITM									17.02.2009	
@@ -16,7 +15,7 @@ MIM:176300	TRANSTHYRETIN					HP:0002039	Anorexia			ITM	ITM									17.02.2009
 MIM:176300	TRANSTHYRETIN					HP:0003216	Generalized amyloid deposition			IEA	IEA									17.02.2009	
 MIM:176300	TRANSTHYRETIN					HP:0003584	Late onset			ITM	ITM									17.02.2009	
 MIM:176300	TRANSTHYRETIN					HP:0005293	Venous insufficiency			IEA	IEA									17.02.2009	
-MIM:176300	TRANSTHYRETIN					HP:0006683	Ventricular filling abnormal			IEA	IEA									17.02.2009	
+MIM:176300	TRANSTHYRETIN					HP:0006683	Abnormal ventricular filling			IEA	IEA									17.02.2009	
 MIM:176300	TRANSTHYRETIN					HP:0006865	Sensorimotor polyneuropathy affecting arms more than legs			IEA	IEA									17.02.2009	
 MIM:176300	TRANSTHYRETIN					HP:0002459	Dysautonomia			IEA	IEA									17.02.2009	
 MIM:176300	TRANSTHYRETIN					HP:0008247	Euthyroid hyperthyroxinemia			IEA	IEA									17.02.2009	
