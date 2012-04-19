@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:234000	FACTOR XII DEFICIENCY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:234000	HPO	2009.02.17
+OMIM:234000	FACTOR XII DEFICIENCY					HP:0003645	Prolonged partial thromboplastin time			IEA	IEA							OMIM:234000	HPO	2009.02.17
+OMIM:234000	FACTOR XII DEFICIENCY					HP:0004841	Factor XII deficiency			IEA	IEA							OMIM:234000	HPO	2009.02.17
+OMIM:234000	FACTOR XII DEFICIENCY					HP:0005542	Prolonged whole-blood clotting time			IEA	IEA							OMIM:234000	HPO	2009.02.17

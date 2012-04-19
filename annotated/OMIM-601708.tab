@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:601708	SUPERIOR TRANSVERSE SCAPULAR LIGAMENT, CALCIFICATION OF, FAMILIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:601708	HPO	2009.02.17
+OMIM:601708	SUPERIOR TRANSVERSE SCAPULAR LIGAMENT, CALCIFICATION OF, FAMILIAL					HP:0003324	Generalized muscle weakness			ITM	ITM							OMIM:601708	HPO	2009.02.17
+OMIM:601708	SUPERIOR TRANSVERSE SCAPULAR LIGAMENT, CALCIFICATION OF, FAMILIAL					HP:0009830	Peripheral neuropathy			IEA	IEA							OMIM:601708	SKOEHLER	2010.06.20

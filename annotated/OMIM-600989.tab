@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:600989	INFUNDIBULOPELVIC DYSGENESIS					HP:0000003	Multicystic kidney dysplasia			IEA	IEA							OMIM:600989	HPO	2009.02.17
+OMIM:600989	INFUNDIBULOPELVIC DYSGENESIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:600989	HPO	2009.02.17
+OMIM:600989	INFUNDIBULOPELVIC DYSGENESIS					HP:0002027	Abdominal pain			IEA	IEA							OMIM:600989	HPO	2009.02.17
+OMIM:600989	INFUNDIBULOPELVIC DYSGENESIS					HP:0002907	Microhematuria			IEA	IEA							OMIM:600989	HPO	2009.02.17

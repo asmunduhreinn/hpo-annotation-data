@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:612290	MICROTIA, HEARING IMPAIRMENT, AND CLEFT PALATE					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:612290	HPO	2009.02.17
+OMIM:612290	MICROTIA, HEARING IMPAIRMENT, AND CLEFT PALATE					HP:0000175	Cleft palate			ITM	ITM							OMIM:612290	HPO	2009.02.17
+OMIM:612290	MICROTIA, HEARING IMPAIRMENT, AND CLEFT PALATE					HP:0000407	Sensorineural hearing impairment			ITM	ITM							OMIM:612290	HPO	2009.02.17
+OMIM:612290	MICROTIA, HEARING IMPAIRMENT, AND CLEFT PALATE					HP:0008551	Microtia			IEA	IEA							OMIM:612290	HPO	2009.02.17

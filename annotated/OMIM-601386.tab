@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:601386	DEAFNESS, AUTOSOMAL RECESSIVE 12					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:601386	HPO	2009.02.17
+OMIM:601386	DEAFNESS, AUTOSOMAL RECESSIVE 12					HP:0000399	Prelingual sensorineural hearing impairment			IEA	IEA							OMIM:601386	HPO	2009.02.17
+OMIM:601386	DEAFNESS, AUTOSOMAL RECESSIVE 12					HP:0000478	Abnormality of the eye			IEA	IEA							OMIM:601386	HPO	2009.02.17
+OMIM:601386	DEAFNESS, AUTOSOMAL RECESSIVE 12					HP:0000510	Retinitis pigmentosa			IEA	IEA				NOT	NOT		OMIM:601386	SKOEHLER	2010.06.18

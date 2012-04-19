@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:155600	MELANOMA, CUTANEOUS MALIGNANT					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:155600	HPO	2009.02.17
+OMIM:155600	MELANOMA, CUTANEOUS MALIGNANT					HP:0000478	Abnormality of the eye			IEA	IEA							OMIM:155600	HPO	2009.02.17
+OMIM:155600	MELANOMA, CUTANEOUS MALIGNANT					HP:0001054	Numerous nevi			IEA	IEA							OMIM:155600	HPO	2009.02.17
+OMIM:155600	MELANOMA, CUTANEOUS MALIGNANT					HP:0001062	Atypical nevi (>5mm with irregular edge and pigmentation)			IEA	IEA							OMIM:155600	HPO	2009.02.17
+OMIM:155600	MELANOMA, CUTANEOUS MALIGNANT					HP:0001074	Atypical nevi in non-sun exposed areas			IEA	IEA							OMIM:155600	HPO	2009.02.17
+OMIM:155600	MELANOMA, CUTANEOUS MALIGNANT					HP:0002861	Malignant melanoma			IEA	IEA							OMIM:155600	SKOEHLER	2010.06.18
+OMIM:155600	MELANOMA, CUTANEOUS MALIGNANT					HP:0007716	Malignant intraocular melanoma			ITM	ITM							OMIM:155600	HPO	2009.02.17

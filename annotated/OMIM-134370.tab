@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:134370	COMPLEMENT FACTOR H					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:134370	HPO	2009.02.17
+OMIM:134370	COMPLEMENT FACTOR H					HP:0000083	Renal failure			IEA	IEA							OMIM:134370	HPO	2009.02.17
+OMIM:134370	COMPLEMENT FACTOR H					HP:0000093	Proteinuria			IEA	IEA							OMIM:134370	HPO	2009.02.17
+OMIM:134370	COMPLEMENT FACTOR H					HP:0000716	Depression			ITM	ITM							OMIM:134370	HPO	2009.02.17
+OMIM:134370	COMPLEMENT FACTOR H					HP:0000794	IgA nephropathy			IEA	IEA							OMIM:134370	HPO	2009.02.17
+OMIM:134370	COMPLEMENT FACTOR H					HP:0001873	Thrombocytopenia			IEA	IEA							OMIM:134370	HPO	2009.02.17
+OMIM:134370	COMPLEMENT FACTOR H					HP:0002633	Vasculitis			IEA	IEA							OMIM:134370	HPO	2009.02.17
+OMIM:134370	COMPLEMENT FACTOR H					HP:0005381	Recurrent meningococcal disease			IEA	IEA							OMIM:134370	HPO	2009.02.17
+OMIM:134370	COMPLEMENT FACTOR H					HP:0008290	Partial complement factor h deficiency			IEA	IEA							OMIM:134370	HPO	2009.02.17

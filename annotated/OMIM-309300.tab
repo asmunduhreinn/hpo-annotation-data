@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:309300	MEGALOCORNEA					HP:0000485	Megalocornea			ITM	ITM							OMIM:309300	HPO	2009.02.17
+OMIM:309300	MEGALOCORNEA					HP:0000518	Cataract			IEA	IEA							OMIM:309300	HPO	2009.02.17
+OMIM:309300	MEGALOCORNEA					HP:0001119	Keratoglobus			ITM	ITM							OMIM:309300	HPO	2009.02.17
+OMIM:309300	MEGALOCORNEA					HP:0001419	X-linked recessive inheritance			IEA	IEA							OMIM:309300	HPO	2009.02.17
+OMIM:309300	MEGALOCORNEA					HP:0007836	Mosaic corneal dystrophy			IEA	IEA							OMIM:309300	HPO	2009.02.17

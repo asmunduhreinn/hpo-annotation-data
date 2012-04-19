@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:268700	SACCHAROPINURIA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:268700	HPO	2009.02.17
+OMIM:268700	SACCHAROPINURIA					HP:0001249	Intellectual disability			IEA	IEA							OMIM:268700	HPO	2009.02.17
+OMIM:268700	SACCHAROPINURIA					HP:0001264	Spastic diplegia			IEA	IEA							OMIM:268700	HPO	2009.02.17
+OMIM:268700	SACCHAROPINURIA					HP:0002353	EEG abnormality			IEA	IEA							OMIM:268700	HPO	2009.02.17
+OMIM:268700	SACCHAROPINURIA					HP:0002927	Histidinuria			IEA	IEA							OMIM:268700	HPO	2009.02.17
+OMIM:268700	SACCHAROPINURIA					HP:0003297	Hyperlysinuria			IEA	IEA							OMIM:268700	HPO	2009.02.17
+OMIM:268700	SACCHAROPINURIA					HP:0004322	Short stature			IEA	IEA							OMIM:268700	HPO	2009.02.17

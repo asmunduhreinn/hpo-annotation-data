@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:210500	BILIARY ATRESIA, EXTRAHEPATIC					HP:0000079	Abnormality of the urinary system			IEA	IEA							OMIM:210500	HPO	2009.02.17
+OMIM:210500	BILIARY ATRESIA, EXTRAHEPATIC					HP:0000082	Abnormality of renal physiology			ICE	ICE							OMIM:210500	SKOEHLER	2009.09.17
+OMIM:210500	BILIARY ATRESIA, EXTRAHEPATIC					HP:0001629	Ventricular septal defect			ITM	ITM							OMIM:210500	HPO	2009.02.17
+OMIM:210500	BILIARY ATRESIA, EXTRAHEPATIC					HP:0001643	Patent ductus arteriosus			ITM	ITM							OMIM:210500	HPO	2009.02.17
+OMIM:210500	BILIARY ATRESIA, EXTRAHEPATIC					HP:0001667	Right ventricular hypertrophy			IEA	IEA							OMIM:210500	HPO	2009.02.17
+OMIM:210500	BILIARY ATRESIA, EXTRAHEPATIC					HP:0005242	Extrahepatic biliary duct atresia			IEA	IEA							OMIM:210500	HPO	2009.02.17

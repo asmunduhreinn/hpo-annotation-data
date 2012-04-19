@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:181250	SCALP DEFECTS AND POSTAXIAL POLYDACTYLY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:181250	HPO	2009.02.17
+OMIM:181250	SCALP DEFECTS AND POSTAXIAL POLYDACTYLY					HP:0000234	Abnormality of the head			IEA	IEA							OMIM:181250	HPO	2009.02.17
+OMIM:181250	SCALP DEFECTS AND POSTAXIAL POLYDACTYLY					HP:0005696	Postaxial polydactyly type a			IEA	IEA							OMIM:181250	HPO	2009.02.17
+OMIM:181250	SCALP DEFECTS AND POSTAXIAL POLYDACTYLY					HP:0007385	Aplasia cutis congenita of scalp			ITM	ITM							OMIM:181250	HPO	2009.02.17

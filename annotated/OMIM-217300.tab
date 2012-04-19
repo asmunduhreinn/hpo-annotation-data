@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:217300	CORNEA PLANA 2					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:217300	HPO	2009.02.17
+OMIM:217300	CORNEA PLANA 2					HP:0000540	Hypermetropia			IEA	IEA							OMIM:217300	SKOEHLER	2010.06.20
+OMIM:217300	CORNEA PLANA 2					HP:0001084	Corneal arcus			IEA	IEA							OMIM:217300	SKOEHLER	2010.06.20

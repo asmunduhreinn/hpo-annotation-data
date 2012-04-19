@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:203750	ALPHA-METHYLACETOACETIC ACIDURIA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:203750	HPO	2009.02.17
+OMIM:203750	ALPHA-METHYLACETOACETIC ACIDURIA					HP:0001249	Intellectual disability			IEA	IEA							OMIM:203750	HPO	2009.02.17
+OMIM:203750	ALPHA-METHYLACETOACETIC ACIDURIA					HP:0001944	Dehydration			IEA	IEA							OMIM:203750	HPO	2009.02.17
+OMIM:203750	ALPHA-METHYLACETOACETIC ACIDURIA					HP:0002013	Vomiting			IEA	IEA							OMIM:203750	HPO	2009.02.17
+OMIM:203750	ALPHA-METHYLACETOACETIC ACIDURIA					HP:0005974	Ketoacidosis, episodic			IEA	IEA							OMIM:203750	HPO	2009.02.17

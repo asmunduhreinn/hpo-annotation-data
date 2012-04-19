@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0001297	Stroke			IEA	IEA							OMIM:194200	SKOEHLER	2010.06.20
+OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0001638	Cardiomyopathy			IEA	IEA							OMIM:194200	SKOEHLER	2010.06.20
+OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0001645	Sudden cardiac death			IEA	IEA							OMIM:194200	SKOEHLER	2010.06.20
+OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0001962	Palpitations			IEA	IEA							OMIM:194200	HPO	2009.02.17
+OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0004757	Paroxysmal atrial fibrillation			IEA	IEA							OMIM:194200	HPO	2009.02.17
+OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0004763	Paroxysmal supraventricular tachycardia			IEA	IEA							OMIM:194200	HPO	2009.02.17
+OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0006677	Short PR interval and prolonged QRS, with slurred-up stroke of the R wave on ekg			IEA	IEA							OMIM:194200	HPO	2009.02.17
+OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0006684	Ventricular preexcitation with multiple accessory pathways			IEA	IEA							OMIM:194200	HPO	2009.02.17

@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:145260	PSEUDOHYPOALDOSTERONISM, TYPE II					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:145260	HPO	2009.02.17
+OMIM:145260	PSEUDOHYPOALDOSTERONISM, TYPE II					HP:0000822	Hypertension			IEA	IEA							OMIM:145260	HPO	2009.02.17
+OMIM:145260	PSEUDOHYPOALDOSTERONISM, TYPE II					HP:0001995	Hyperchloremic acidosis			IEA	IEA							OMIM:145260	HPO	2009.02.17
+OMIM:145260	PSEUDOHYPOALDOSTERONISM, TYPE II					HP:0002153	Hyperkalemia			IEA	IEA							OMIM:145260	HPO	2009.02.17
+OMIM:145260	PSEUDOHYPOALDOSTERONISM, TYPE II					HP:0007215	Periodic hyperkalemic paralysis			IEA	IEA							OMIM:145260	HPO	2009.02.17
+OMIM:145260	PSEUDOHYPOALDOSTERONISM, TYPE II					HP:0008228	Pseudohypoaldosteronism type ii			ITM	ITM							OMIM:145260	HPO	2009.02.17

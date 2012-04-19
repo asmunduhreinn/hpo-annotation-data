@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:109350	GASTROESOPHAGEAL REFLUX					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:109350	HPO	2009.02.17
+OMIM:109350	GASTROESOPHAGEAL REFLUX					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:109350	HPO	2009.02.17
+OMIM:109350	GASTROESOPHAGEAL REFLUX					HP:0002020	Gastroesophageal reflux			IEA	IEA							OMIM:109350	HPO	2009.02.17
+OMIM:109350	GASTROESOPHAGEAL REFLUX					HP:0002664	Neoplasm			IEA	IEA							OMIM:109350	HPO	2009.02.17

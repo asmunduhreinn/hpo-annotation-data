@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:193250	VOLVULUS OF MIDGUT					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:193250	HPO	2009.02.17
+OMIM:193250	VOLVULUS OF MIDGUT					HP:0000119	Abnormality of the genitourinary system			IEA	IEA							OMIM:193250	HPO	2009.02.17
+OMIM:193250	VOLVULUS OF MIDGUT					HP:0000348	High forehead			IEA	IEA							OMIM:193250	HPO	2009.02.17
+OMIM:193250	VOLVULUS OF MIDGUT					HP:0000506	Telecanthus			IEA	IEA							OMIM:193250	HPO	2009.02.17
+OMIM:193250	VOLVULUS OF MIDGUT					HP:0000637	Long palpebral fissure			IEA	IEA							OMIM:193250	HPO	2009.02.17
+OMIM:193250	VOLVULUS OF MIDGUT					HP:0002019	Constipation			IEA	IEA							OMIM:193250	HPO	2009.02.17
+OMIM:193250	VOLVULUS OF MIDGUT					HP:0002566	Intestinal malrotation			IEA	IEA							OMIM:193250	HPO	2009.02.17
+OMIM:193250	VOLVULUS OF MIDGUT					HP:0002580	Volvulus			ITM	ITM							OMIM:193250	HPO	2009.02.17
+OMIM:193250	VOLVULUS OF MIDGUT					HP:0003270	Abdominal distention			ITM	ITM							OMIM:193250	HPO	2009.02.17
+OMIM:193250	VOLVULUS OF MIDGUT					HP:0005234	Neonatal intestinal obstruction			IEA	IEA							OMIM:193250	HPO	2009.02.17

@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:219600	CYSTIC DISEASE OF LUNG					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:219600	HPO	2009.02.17
+OMIM:219600	CYSTIC DISEASE OF LUNG					HP:0002719	Recurrent infections			ITM	ITM							OMIM:219600	HPO	2009.02.17
+OMIM:219600	CYSTIC DISEASE OF LUNG					HP:0004876	spontaneous neonatal pneumothorax			IEA	IEA							OMIM:219600	HPO	2009.02.17
+OMIM:219600	CYSTIC DISEASE OF LUNG					HP:0005948	Cystic lung disease			IEA	IEA							OMIM:219600	HPO	2009.02.17

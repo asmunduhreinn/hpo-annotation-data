@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:116800	CATARACT, LAMELLAR					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:116800	HPO	2009.02.17
+OMIM:116800	CATARACT, LAMELLAR					HP:0000924	Abnormality of the musculoskeletal system			IEA	IEA							OMIM:116800	HPO	2009.02.17
+OMIM:116800	CATARACT, LAMELLAR					HP:0001134	Anterior polar cataract			IEA	IEA							OMIM:116800	HPO	2009.02.17
+OMIM:116800	CATARACT, LAMELLAR					HP:0007971	Lamellar cataract			ITM	ITM							OMIM:116800	HPO	2009.02.17
+OMIM:116800	CATARACT, LAMELLAR					HP:0007971	Lamellar cataract			IEA	IEA							OMIM:116800	SKOEHLER	2010.06.18
+OMIM:116800	CATARACT, LAMELLAR					HP:0100018	Nuclear cataract			IEA	IEA							OMIM:116800	SKOEHLER	2010.06.18

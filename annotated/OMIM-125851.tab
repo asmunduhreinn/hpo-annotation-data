@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:125851	MATURITY-ONSET DIABETES OF THE YOUNG, TYPE II					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:125851	HPO	2009.02.17
+OMIM:125851	MATURITY-ONSET DIABETES OF THE YOUNG, TYPE II					HP:0000819	Diabetes mellitus			IEA	IEA							OMIM:125851	SKOEHLER	2010.06.18
+OMIM:125851	MATURITY-ONSET DIABETES OF THE YOUNG, TYPE II					HP:0003593	Infantile onset			IEA	IEA							OMIM:125851	HPO	2009.02.17
+OMIM:125851	MATURITY-ONSET DIABETES OF THE YOUNG, TYPE II					HP:0004904	Insulin-dependent maturity-onset diabetes of the young			ITM	ITM							OMIM:125851	HPO	2009.02.17
+OMIM:125851	MATURITY-ONSET DIABETES OF THE YOUNG, TYPE II					HP:0005978	Type II diabetes mellitus			ITM	ITM							OMIM:125851	HPO	2009.02.17

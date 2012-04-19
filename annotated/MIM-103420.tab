@@ -1,8 +1,0 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:103420	ALACRIMA, CONGENITAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA									17.02.2009	
-MIM:103420	ALACRIMA, CONGENITAL					HP:0000584	Punctate corneal epithelial erosions			IEA	IEA									17.02.2009	
-MIM:103420	ALACRIMA, CONGENITAL					HP:0000613	Photophobia			IEA	IEA									17.02.2009	
-MIM:103420	ALACRIMA, CONGENITAL					HP:0007732	Lacrimal gland hypoplasia			IEA	IEA									17.02.2009	
-MIM:103420	ALACRIMA, CONGENITAL					HP:0007820	Atretic lacrimal puncta			IEA	IEA									17.02.2009	
-MIM:103420	ALACRIMA, CONGENITAL					HP:0000522	Alacrima			PCS	PCS							MIM:103420	probinson	01.04.2012	
-MIM:103420	ALACRIMA, CONGENITAL					HP:0000633	Decreased lacrimation			PCS	PCS							MIM:103420	probinson	01.04.2012	

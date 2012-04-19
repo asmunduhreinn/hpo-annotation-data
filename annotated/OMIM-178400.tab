@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:178400	PULMONARY EDEMA OF MOUNTAINEERS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:178400	HPO	2009.02.17
+OMIM:178400	PULMONARY EDEMA OF MOUNTAINEERS					HP:0000969	Edema			IEA	IEA							OMIM:178400	SKOEHLER	2010.06.20
+OMIM:178400	PULMONARY EDEMA OF MOUNTAINEERS					HP:0002086	Abnormality of the respiratory system			IEA	IEA							OMIM:178400	HPO	2009.02.17
+OMIM:178400	PULMONARY EDEMA OF MOUNTAINEERS					HP:0004890	Elevated pulmonary artery pressure			IEA	IEA							OMIM:178400	HPO	2009.02.17

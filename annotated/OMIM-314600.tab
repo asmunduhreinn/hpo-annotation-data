@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:314600	WILDERVANCK SYNDROME					HP:0000324	Facial asymmetry			IEA	IEA							OMIM:314600	HPO	2009.02.17
+OMIM:314600	WILDERVANCK SYNDROME					HP:0000365	Hearing impairment			IEA	IEA							OMIM:314600	HPO	2009.02.17
+OMIM:314600	WILDERVANCK SYNDROME					HP:0000384	Preauricular skin tag			IEA	IEA							OMIM:314600	HPO	2009.02.17
+OMIM:314600	WILDERVANCK SYNDROME					HP:0000465	Webbed neck			IEA	IEA							OMIM:314600	SKOEHLER	2010.06.20
+OMIM:314600	WILDERVANCK SYNDROME					HP:0000538	Pseudopapilledema			IEA	IEA							OMIM:314600	HPO	2009.02.17
+OMIM:314600	WILDERVANCK SYNDROME					HP:0002949	Fused cervical vertebrae			IEA	IEA							OMIM:314600	SKOEHLER	2010.06.20

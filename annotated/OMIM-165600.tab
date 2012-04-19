@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:165600	ORBITAL MARGIN, HYPOPLASIA OF					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:165600	HPO	2009.02.17
+OMIM:165600	ORBITAL MARGIN, HYPOPLASIA OF					HP:0000564	Lacrimal duct atresia			IEA	IEA							OMIM:165600	HPO	2009.02.17
+OMIM:165600	ORBITAL MARGIN, HYPOPLASIA OF					HP:0000652	Lower eyelid coloboma			IEA	IEA							OMIM:165600	HPO	2009.02.17
+OMIM:165600	ORBITAL MARGIN, HYPOPLASIA OF					HP:0007647	Congenital extraocular muscle anomaly			IEA	IEA							OMIM:165600	HPO	2009.02.17

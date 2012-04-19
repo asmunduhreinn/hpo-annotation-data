@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:601451	NEVO SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:601451	HPO	2009.02.17
+OMIM:601451	NEVO SYNDROME					HP:0000969	Edema			IEA	IEA							OMIM:601451	SKOEHLER	2010.06.20
+OMIM:601451	NEVO SYNDROME					HP:0001290	Generalized hypotonia			IEA	IEA							OMIM:601451	HPO	2009.02.17
+OMIM:601451	NEVO SYNDROME					HP:0001507	Growth abnormality			IEA	IEA							OMIM:601451	HPO	2009.02.17
+OMIM:601451	NEVO SYNDROME					HP:0001883	Talipes			IEA	IEA							OMIM:601451	HPO	2009.02.17
+OMIM:601451	NEVO SYNDROME					HP:0002007	Frontal bossing			IEA	IEA							OMIM:601451	HPO	2009.02.17
+OMIM:601451	NEVO SYNDROME					HP:0002808	Kyphosis			IEA	IEA							OMIM:601451	HPO	2009.02.17
+OMIM:601451	NEVO SYNDROME					HP:0002904	Hyperbilirubinemia			IEA	IEA							OMIM:601451	HPO	2009.02.17

@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:186100	SYNDACTYLY, TYPE III					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:186100	HPO	2009.02.17
+OMIM:186100	SYNDACTYLY, TYPE III					HP:0001159	Syndactyly			IEA	IEA							OMIM:186100	HPO	2009.02.17
+OMIM:186100	SYNDACTYLY, TYPE III					HP:0005813	Short 5th finger with absent/rudimentary middle phalanx			IEA	IEA							OMIM:186100	HPO	2009.02.17
+OMIM:186100	SYNDACTYLY, TYPE III					HP:0009803	Hypoplastic/small phalanges of the hand			ITM	ITM							OMIM:186100	HPO	2009.02.17

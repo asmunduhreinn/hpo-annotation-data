@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:148520	KERATOSIS PALMARIS ET PLANTARIS WITH CLINODACTYLY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:148520	HPO	2009.02.17
+OMIM:148520	KERATOSIS PALMARIS ET PLANTARIS WITH CLINODACTYLY					HP:0000951	Abnormality of the skin			IEA	IEA							OMIM:148520	HPO	2009.02.17
+OMIM:148520	KERATOSIS PALMARIS ET PLANTARIS WITH CLINODACTYLY					HP:0004209	Clinodactyly of the 5th finger			IEA	IEA							OMIM:148520	HPO	2009.02.17

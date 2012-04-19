@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:119300	VAN DER WOUDE SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:119300	HPO	2009.02.17
+OMIM:119300	VAN DER WOUDE SYNDROME					HP:0000175	Cleft palate			IEA	IEA							OMIM:119300	HPO	2009.02.17
+OMIM:119300	VAN DER WOUDE SYNDROME					HP:0000193	Bifid uvula			IEA	IEA							OMIM:119300	HPO	2009.02.17
+OMIM:119300	VAN DER WOUDE SYNDROME					HP:0000196	Lower lip pit			IEA	IEA							OMIM:119300	HPO	2009.02.17
+OMIM:119300	VAN DER WOUDE SYNDROME					HP:0000204	Cleft upper lip			IEA	IEA							OMIM:119300	HPO	2009.02.17
+OMIM:119300	VAN DER WOUDE SYNDROME					HP:0000668	Hypodontia			IEA	IEA							OMIM:119300	HPO	2009.02.17

@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:142669	HIP DYSPLASIA, BEUKES TYPE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:142669	HPO	2009.02.17
+OMIM:142669	HIP DYSPLASIA, BEUKES TYPE					HP:0001385	Hip dysplasia			ITM	ITM							OMIM:142669	HPO	2009.02.17
+OMIM:142669	HIP DYSPLASIA, BEUKES TYPE					HP:0003016	Metaphyseal widening			ITM	ITM							OMIM:142669	HPO	2009.02.17
+OMIM:142669	HIP DYSPLASIA, BEUKES TYPE					HP:0003040	Arthropathy			ITM	ITM							OMIM:142669	HPO	2009.02.17
+OMIM:142669	HIP DYSPLASIA, BEUKES TYPE					HP:0003182	Shallow acetabular fossae			IEA	IEA							OMIM:142669	HPO	2009.02.17
+OMIM:142669	HIP DYSPLASIA, BEUKES TYPE					HP:0003621	Juvenile onset			IEA	IEA							OMIM:142669	HPO	2009.02.17
+OMIM:142669	HIP DYSPLASIA, BEUKES TYPE					HP:0005743	Avascular necrosis of the capital femoral epiphysis			IEA	IEA							OMIM:142669	HPO	2009.02.17
+OMIM:142669	HIP DYSPLASIA, BEUKES TYPE					HP:0006429	Broad femoral neck			IEA	IEA							OMIM:142669	HPO	2009.02.17
+OMIM:142669	HIP DYSPLASIA, BEUKES TYPE					HP:0008790	Widened proximal femoral metaphyses			IEA	IEA							OMIM:142669	HPO	2009.02.17
+OMIM:142669	HIP DYSPLASIA, BEUKES TYPE					HP:0010582	Irregular epiphyses			ITM	ITM							OMIM:142669	HPO	2009.02.17

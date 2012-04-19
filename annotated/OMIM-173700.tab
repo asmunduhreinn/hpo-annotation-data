@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:173700	POIKILODERMA, HEREDITARY SCLEROSING					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:173700	HPO	2009.02.17
+OMIM:173700	POIKILODERMA, HEREDITARY SCLEROSING					HP:0001029	Poikiloderma			ITM	ITM							OMIM:173700	HPO	2009.02.17
+OMIM:173700	POIKILODERMA, HEREDITARY SCLEROSING					HP:0001217	Clubbing			IEA	IEA							OMIM:173700	HPO	2009.02.17
+OMIM:173700	POIKILODERMA, HEREDITARY SCLEROSING					HP:0007618	Subcutaneous calcification			IEA	IEA							OMIM:173700	HPO	2009.02.17

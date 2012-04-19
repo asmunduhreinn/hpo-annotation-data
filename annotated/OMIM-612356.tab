@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:612356	HEPARIN COFACTOR II DEFICIENCY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:612356	SKOEHLER	2010.06.19
+OMIM:612356	HEPARIN COFACTOR II DEFICIENCY					HP:0004761	Post-angioplasty coronary artery restenosis			IEA	IEA							OMIM:612356	SKOEHLER	2010.06.19
+OMIM:612356	HEPARIN COFACTOR II DEFICIENCY					HP:0004850	recurrent deep vein thrombosis			IEA	IEA							OMIM:612356	SKOEHLER	2010.06.19
+OMIM:612356	HEPARIN COFACTOR II DEFICIENCY					HP:0005521	Disseminated intravascular coagulation			IEA	IEA							OMIM:612356	SKOEHLER	2010.06.19

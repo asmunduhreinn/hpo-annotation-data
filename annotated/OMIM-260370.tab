@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:260370	PANCREATIC AGENESIS, CONGENITAL					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:260370	HPO	2009.02.17
+OMIM:260370	PANCREATIC AGENESIS, CONGENITAL					HP:0000819	Diabetes mellitus	HP:0003593	Infantile onset	IEA	IEA							OMIM:260370	HPO	2009.02.17
+OMIM:260370	PANCREATIC AGENESIS, CONGENITAL					HP:0001511	Intrauterine growth retardation			IEA	IEA							OMIM:260370	HPO	2009.02.17
+OMIM:260370	PANCREATIC AGENESIS, CONGENITAL					HP:0001738	Exocrine pancreatic insufficiency			IEA	IEA							OMIM:260370	HPO	2009.02.17
+OMIM:260370	PANCREATIC AGENESIS, CONGENITAL					HP:0002594	Pancreatic hypoplasia			IEA	IEA							OMIM:260370	HPO	2009.02.17
+OMIM:260370	PANCREATIC AGENESIS, CONGENITAL					HP:0003593	Infantile onset			ITM	ITM							OMIM:260370	HPO	2009.02.17

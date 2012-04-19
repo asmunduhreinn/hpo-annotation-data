@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:109820	BLADDER DIVERTICULUM					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:109820	HPO	2009.02.17
+OMIM:109820	BLADDER DIVERTICULUM					HP:0000019	Urinary hesitancy			ITM	ITM							OMIM:109820	HPO	2009.02.17
+OMIM:109820	BLADDER DIVERTICULUM					HP:0000094	Urinary tract infections			IEA	IEA							OMIM:109820	HPO	2009.02.17
+OMIM:109820	BLADDER DIVERTICULUM					HP:0000790	Hematuria			IEA	IEA							OMIM:109820	HPO	2009.02.17
+OMIM:109820	BLADDER DIVERTICULUM					HP:0008664	Urethral sphincter sclerosis			IEA	IEA							OMIM:109820	HPO	2009.02.17
+OMIM:109820	BLADDER DIVERTICULUM					HP:0008691	Solitary bladder diverticulum			IEA	IEA							OMIM:109820	HPO	2009.02.17
+OMIM:109820	BLADDER DIVERTICULUM					HP:0008742	Prominent prostate median bar			IEA	IEA							OMIM:109820	HPO	2009.02.17

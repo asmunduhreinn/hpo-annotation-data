@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:601331	RENAL DYSPLASIA, DIFFUSE CYSTIC					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:601331	HPO	2009.02.17
+OMIM:601331	RENAL DYSPLASIA, DIFFUSE CYSTIC					HP:0000110	Renal dysplasia			ITM	ITM							OMIM:601331	HPO	2009.02.17
+OMIM:601331	RENAL DYSPLASIA, DIFFUSE CYSTIC					HP:0002089	Pulmonary hypoplasia			IEA	IEA							OMIM:601331	HPO	2009.02.17
+OMIM:601331	RENAL DYSPLASIA, DIFFUSE CYSTIC					HP:0008660	Renotubular dysgenesis			ITM	ITM							OMIM:601331	HPO	2009.02.17
+OMIM:601331	RENAL DYSPLASIA, DIFFUSE CYSTIC					HP:0008737	Nonsyndromal diffuse cystic renal dysplasia			IEA	IEA							OMIM:601331	HPO	2009.02.17

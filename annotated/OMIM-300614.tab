@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:300614	DEAFNESS, X-LINKED 5					HP:0001419	X-linked recessive inheritance			IEA	IEA							OMIM:300614	HPO	2009.02.17
+OMIM:300614	DEAFNESS, X-LINKED 5					HP:0001963	Abnormal speech discrimination			IEA	IEA							OMIM:300614	HPO	2009.02.17
+OMIM:300614	DEAFNESS, X-LINKED 5					HP:0002936	Distal sensory impairment			IEA	IEA							OMIM:300614	HPO	2009.02.17
+OMIM:300614	DEAFNESS, X-LINKED 5					HP:0003390	Sensory axonal neuropathy			IEA	IEA							OMIM:300614	HPO	2009.02.17
+OMIM:300614	DEAFNESS, X-LINKED 5					HP:0004454	Abnormal middle ear reflexes			IEA	IEA							OMIM:300614	HPO	2009.02.17
+OMIM:300614	DEAFNESS, X-LINKED 5					HP:0004806	Chronic immune thrombocytopenia			IEA	IEA							OMIM:300614	HPO	2009.02.17
+OMIM:300614	DEAFNESS, X-LINKED 5					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:300614	HPO	2009.02.17
+OMIM:300614	DEAFNESS, X-LINKED 5					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:300614	HPO	2009.02.17

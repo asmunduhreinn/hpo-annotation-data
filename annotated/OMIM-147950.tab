@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:147950	KALLMANN SYNDROME 2					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:147950	HPO	2009.02.17
+OMIM:147950	KALLMANN SYNDROME 2					HP:0000028	Cryptorchidism			IEA	IEA							OMIM:147950	HPO	2009.02.17
+OMIM:147950	KALLMANN SYNDROME 2					HP:0000044	Hypogonadotrophic hypogonadism			IEA	IEA							OMIM:147950	HPO	2009.02.17
+OMIM:147950	KALLMANN SYNDROME 2					HP:0000407	Sensorineural hearing impairment			IEA	IEA							OMIM:147950	HPO	2009.02.17
+OMIM:147950	KALLMANN SYNDROME 2					HP:0000453	Choanal atresia			IEA	IEA							OMIM:147950	HPO	2009.02.17
+OMIM:147950	KALLMANN SYNDROME 2					HP:0000458	Anosmia			IEA	IEA							OMIM:147950	HPO	2009.02.17
+OMIM:147950	KALLMANN SYNDROME 2					HP:0001249	Intellectual disability			IEA	IEA							OMIM:147950	HPO	2009.02.17
+OMIM:147950	KALLMANN SYNDROME 2					HP:0001425	Heterogeneous			IEA	IEA							OMIM:147950	HPO	2009.02.17
+OMIM:147950	KALLMANN SYNDROME 2					HP:0002564	Malformation of the heart and great vessels			IEA	IEA							OMIM:147950	HPO	2009.02.17
+OMIM:147950	KALLMANN SYNDROME 2					HP:0004322	Short stature			IEA	IEA							OMIM:147950	HPO	2009.02.17

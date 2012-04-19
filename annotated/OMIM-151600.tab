@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:151600	LEUKONYCHIA TOTALIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:151600	HPO	2009.02.17
+OMIM:151600	LEUKONYCHIA TOTALIS					HP:0000787	Nephrolithiasis			IEA	IEA							OMIM:151600	HPO	2009.02.17
+OMIM:151600	LEUKONYCHIA TOTALIS					HP:0001598	Concave nail			IEA	IEA							OMIM:151600	HPO	2009.02.17
+OMIM:151600	LEUKONYCHIA TOTALIS					HP:0001820	Leukonychia			IEA	IEA							OMIM:151600	SKOEHLER	2010.06.20

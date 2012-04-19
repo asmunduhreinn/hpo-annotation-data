@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:125050	DEAFNESS WITH ANHIDROTIC ECTODERMAL DYSPLASIA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:125050	HPO	2009.02.17
+OMIM:125050	DEAFNESS WITH ANHIDROTIC ECTODERMAL DYSPLASIA					HP:0001730	Progressive hearing impairment			IEA	IEA							OMIM:125050	HPO	2009.02.17
+OMIM:125050	DEAFNESS WITH ANHIDROTIC ECTODERMAL DYSPLASIA					HP:0007476	Anhidrotic ectodermal dysplasia			IEA	IEA							OMIM:125050	HPO	2009.02.17
+OMIM:125050	DEAFNESS WITH ANHIDROTIC ECTODERMAL DYSPLASIA					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:125050	HPO	2009.02.17
+OMIM:125050	DEAFNESS WITH ANHIDROTIC ECTODERMAL DYSPLASIA					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:125050	HPO	2009.02.17

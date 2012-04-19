@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:234350	HALOTHANE HEPATITIS					HP:0000952	Jaundice			IEA	IEA							OMIM:234350	HPO	2009.02.17
+OMIM:234350	HALOTHANE HEPATITIS					HP:0001880	Eosinophilia			IEA	IEA							OMIM:234350	HPO	2009.02.17
+OMIM:234350	HALOTHANE HEPATITIS					HP:0001945	Fever			IEA	IEA							OMIM:234350	HPO	2009.02.17

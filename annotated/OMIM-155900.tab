@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:155900	MELKERSSON-ROSENTHAL SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:155900	HPO	2009.02.17
+OMIM:155900	MELKERSSON-ROSENTHAL SYNDROME					HP:0000221	Furrowed tongue			IEA	IEA							OMIM:155900	HPO	2009.02.17
+OMIM:155900	MELKERSSON-ROSENTHAL SYNDROME					HP:0000282	Facial edema			IEA	IEA							OMIM:155900	HPO	2009.02.17
+OMIM:155900	MELKERSSON-ROSENTHAL SYNDROME					HP:0000478	Abnormality of the eye			IEA	IEA							OMIM:155900	HPO	2009.02.17
+OMIM:155900	MELKERSSON-ROSENTHAL SYNDROME					HP:0010628	Facial palsy			IEA	IEA							OMIM:155900	SKOEHLER	2010.06.20

@@ -1,0 +1,15 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0000766	Abnormality of the sternum			IEA	IEA	7.5000 %						OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0001191	Abnormality of the carpal bones			IEA	IEA							OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0001199	Triphalangeal thumb			IEA	IEA							OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0001629	Ventricular septal defect			IEA	IEA	14.6341 %						OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0001631	Defect in the atrial septum			IEA	IEA	41.4634 %						OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0001643	Patent ductus arteriosus			IEA	IEA	7.5000 %						OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0002943	Thoracic scoliosis			IEA	IEA	7.5000 %						OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0002984	Hypoplasia of the radius			IEA	IEA	37.8049 %						OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0004383	Hypoplastic left heart			IEA	IEA							OMIM:142900	SKOEHLER	2010.06.20
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0009751	Aplasia of the pectoralis major muscle			IEA	IEA	7.5000 %						OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0009777	Absent thumb			IEA	IEA							OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0009829	Phocomelia			IEA	IEA	10.9756 %						OMIM:142900	HPO	2009.02.17
+OMIM:142900	HOLT-ORAM SYNDROME					HP:0009944	Partial duplication of the phalanges of the thumb			IEA	IEA							OMIM:142900	HPO	2009.02.17

@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:179300	RADIOULNAR SYNOSTOSIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:179300	HPO	2009.02.17
+OMIM:179300	RADIOULNAR SYNOSTOSIS					HP:0001377	Limited elbow extension			ITM	ITM							OMIM:179300	HPO	2009.02.17
+OMIM:179300	RADIOULNAR SYNOSTOSIS					HP:0002974	Radioulnar synostosis			IEA	IEA							OMIM:179300	HPO	2009.02.17
+OMIM:179300	RADIOULNAR SYNOSTOSIS					HP:0005673	Congenital radial head dislocation			ITM	ITM							OMIM:179300	HPO	2009.02.17

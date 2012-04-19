@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:193450	VULVOVAGINITIS, ALLERGIC SEMINAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:193450	HPO	2009.02.17
+OMIM:193450	VULVOVAGINITIS, ALLERGIC SEMINAL					HP:0000119	Abnormality of the genitourinary system			IEA	IEA							OMIM:193450	HPO	2009.02.17
+OMIM:193450	VULVOVAGINITIS, ALLERGIC SEMINAL					HP:0001025	Urticaria			IEA	IEA							OMIM:193450	SKOEHLER	2010.06.20

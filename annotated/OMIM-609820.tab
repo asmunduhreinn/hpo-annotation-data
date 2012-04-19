@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:609820	ERYTHROCYTOSIS, FAMILIAL, 3					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:609820	HPO	2009.02.17
+OMIM:609820	ERYTHROCYTOSIS, FAMILIAL, 3					HP:0001898	Increased red blood cell mass			IEA	IEA							OMIM:609820	HPO	2009.02.17
+OMIM:609820	ERYTHROCYTOSIS, FAMILIAL, 3					HP:0001899	Increased hematocrit			IEA	IEA							OMIM:609820	HPO	2009.02.17
+OMIM:609820	ERYTHROCYTOSIS, FAMILIAL, 3					HP:0001900	Increased hemoglobin			IEA	IEA							OMIM:609820	HPO	2009.02.17
+OMIM:609820	ERYTHROCYTOSIS, FAMILIAL, 3					HP:0001939	Abnormality of metabolism/homeostasis			ITM	ITM							OMIM:609820	HPO	2009.02.17

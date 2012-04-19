@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:184500	STEATOCYSTOMA MULTIPLEX					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:184500	HPO	2009.02.17
+OMIM:184500	STEATOCYSTOMA MULTIPLEX					HP:0000164	Abnormality of the teeth			IEA	IEA							OMIM:184500	HPO	2009.02.17
+OMIM:184500	STEATOCYSTOMA MULTIPLEX					HP:0000951	Abnormality of the skin			IEA	IEA							OMIM:184500	HPO	2009.02.17
+OMIM:184500	STEATOCYSTOMA MULTIPLEX					HP:0003621	Juvenile onset			ITM	ITM							OMIM:184500	HPO	2009.02.17
+OMIM:184500	STEATOCYSTOMA MULTIPLEX					HP:0000695	Natal tooth			IEA	IEA				NOT	NOT		OMIM:184500	SKOEHLER	2010.06.18

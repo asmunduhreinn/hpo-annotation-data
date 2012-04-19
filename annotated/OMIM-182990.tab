@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:182990	SPINAL INTRADURAL ARACHNOID CYSTS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:182990	HPO	2009.02.17
+OMIM:182990	SPINAL INTRADURAL ARACHNOID CYSTS					HP:0000925	Abnormality of the vertebral column			IEA	IEA							OMIM:182990	HPO	2009.02.17
+OMIM:182990	SPINAL INTRADURAL ARACHNOID CYSTS					HP:0010550	Paraplegia			IEA	IEA							OMIM:182990	SKOEHLER	2010.06.20

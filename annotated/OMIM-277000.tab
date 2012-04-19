@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:277000	MAYER-ROKITANSKY-KUSTER-HAUSER SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:277000	HPO	2009.02.17
+OMIM:277000	MAYER-ROKITANSKY-KUSTER-HAUSER SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:277000	HPO	2009.02.17
+OMIM:277000	MAYER-ROKITANSKY-KUSTER-HAUSER SYNDROME					HP:0000013	Hypoplasia of the uterus			IEA	IEA							OMIM:277000	HPO	2009.02.17
+OMIM:277000	MAYER-ROKITANSKY-KUSTER-HAUSER SYNDROME					HP:0000141	Amenorrhea			IEA	IEA							OMIM:277000	SKOEHLER	2010.06.20
+OMIM:277000	MAYER-ROKITANSKY-KUSTER-HAUSER SYNDROME					HP:0003250	Aplasia of the vagina			IEA	IEA							OMIM:277000	HPO	2009.02.17

@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:191390	INFLAMMATORY BOWEL DISEASE 11					HP:0001426	Multifactorial inheritance			IEA	IEA							OMIM:191390	HPO	2009.02.17
+OMIM:191390	INFLAMMATORY BOWEL DISEASE 11					HP:0001824	Weight loss			IEA	IEA							OMIM:191390	HPO	2009.02.17
+OMIM:191390	INFLAMMATORY BOWEL DISEASE 11					HP:0002014	Diarrhea			IEA	IEA							OMIM:191390	HPO	2009.02.17
+OMIM:191390	INFLAMMATORY BOWEL DISEASE 11					HP:0002027	Abdominal pain			IEA	IEA							OMIM:191390	HPO	2009.02.17
+OMIM:191390	INFLAMMATORY BOWEL DISEASE 11					HP:0002037	Inflammation of the large intestine			ITM	ITM							OMIM:191390	HPO	2009.02.17
+OMIM:191390	INFLAMMATORY BOWEL DISEASE 11					HP:0002255	Bloody diarrhea			IEA	IEA							OMIM:191390	HPO	2009.02.17

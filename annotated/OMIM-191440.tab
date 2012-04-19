@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:191440	ULNAR HYPOPLASIA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:191440	HPO	2009.02.17
+OMIM:191440	ULNAR HYPOPLASIA					HP:0001193	Ulnar deviation of the hand or of fingers of the hand			IEA	IEA							OMIM:191440	HPO	2009.02.17
+OMIM:191440	ULNAR HYPOPLASIA					HP:0002984	Hypoplasia of the radius			ITM	ITM							OMIM:191440	HPO	2009.02.17
+OMIM:191440	ULNAR HYPOPLASIA					HP:0002986	Radial bowing			IEA	IEA							OMIM:191440	HPO	2009.02.17
+OMIM:191440	ULNAR HYPOPLASIA					HP:0003022	Hypoplasia of the ulna			ITM	ITM							OMIM:191440	HPO	2009.02.17
+OMIM:191440	ULNAR HYPOPLASIA					HP:0003027	Mesomelia			ITM	ITM							OMIM:191440	HPO	2009.02.17
+OMIM:191440	ULNAR HYPOPLASIA					HP:0005033	ulnar hypoplasia, distal			IEA	IEA							OMIM:191440	HPO	2009.02.17
+OMIM:191440	ULNAR HYPOPLASIA					HP:0006433	Short, dysplastic radii			IEA	IEA							OMIM:191440	HPO	2009.02.17

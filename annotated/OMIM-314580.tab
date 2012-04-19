@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:314580	WIEACKER SYNDROME					HP:0001256	Intellectual disability, mild			IEA	IEA							OMIM:314580	HPO	2009.02.17
+OMIM:314580	WIEACKER SYNDROME					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:314580	HPO	2009.02.17
+OMIM:314580	WIEACKER SYNDROME					HP:0002186	Apraxia			ITM	ITM							OMIM:314580	HPO	2009.02.17
+OMIM:314580	WIEACKER SYNDROME					HP:0002803	Congenital contractures			ITM	ITM							OMIM:314580	HPO	2009.02.17
+OMIM:314580	WIEACKER SYNDROME					HP:0003677	Slow progression			ITM	ITM							OMIM:314580	HPO	2009.02.17
+OMIM:314580	WIEACKER SYNDROME					HP:0003693	Distal amyotrophy			IEA	IEA							OMIM:314580	SKOEHLER	2010.06.20
+OMIM:314580	WIEACKER SYNDROME					HP:0005745	Congenital foot contractures			IEA	IEA							OMIM:314580	HPO	2009.02.17

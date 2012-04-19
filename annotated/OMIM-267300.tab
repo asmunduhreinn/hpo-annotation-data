@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:267300	RENAL TUBULAR ACIDOSIS, DISTAL, WITH PROGRESSIVE NERVE DEAFNESS					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:267300	HPO	2009.02.17
+OMIM:267300	RENAL TUBULAR ACIDOSIS, DISTAL, WITH PROGRESSIVE NERVE DEAFNESS					HP:0000407	Sensorineural hearing impairment			IEA	IEA							OMIM:267300	HPO	2009.02.17
+OMIM:267300	RENAL TUBULAR ACIDOSIS, DISTAL, WITH PROGRESSIVE NERVE DEAFNESS					HP:0000787	Nephrolithiasis			IEA	IEA							OMIM:267300	HPO	2009.02.17
+OMIM:267300	RENAL TUBULAR ACIDOSIS, DISTAL, WITH PROGRESSIVE NERVE DEAFNESS					HP:0001947	Renal tubular acidosis			IEA	IEA							OMIM:267300	HPO	2009.02.17

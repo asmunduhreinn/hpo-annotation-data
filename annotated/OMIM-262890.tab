@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:262890	SCOTT SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:262890	HPO	2009.02.17
+OMIM:262890	SCOTT SYNDROME					HP:0008321	Factor X deficiency			ITM	ITM							OMIM:262890	HPO	2009.02.17
+OMIM:262890	SCOTT SYNDROME					HP:0008354	Factor X activation deficiency			IEA	IEA							OMIM:262890	HPO	2009.02.17

@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:133690	EXOSTOSES WITH ANETODERMIA AND BRACHYDACTYLY, TYPE E					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:133690	HPO	2009.02.17
+OMIM:133690	EXOSTOSES WITH ANETODERMIA AND BRACHYDACTYLY, TYPE E					HP:0002762	Multiple exostoses			IEA	IEA							OMIM:133690	HPO	2009.02.17
+OMIM:133690	EXOSTOSES WITH ANETODERMIA AND BRACHYDACTYLY, TYPE E					HP:0004334	Dermal atrophy			IEA	IEA							OMIM:133690	SKOEHLER	2010.06.20
+OMIM:133690	EXOSTOSES WITH ANETODERMIA AND BRACHYDACTYLY, TYPE E					HP:0005863	Type E brachydactyly			IEA	IEA							OMIM:133690	HPO	2009.02.17

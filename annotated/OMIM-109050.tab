@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:109050	AUROCEPHALOSYNDACTYLY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:109050	HPO	2009.02.17
+OMIM:109050	AUROCEPHALOSYNDACTYLY					HP:0000365	Hearing impairment			IEA	IEA							OMIM:109050	HPO	2009.02.17
+OMIM:109050	AUROCEPHALOSYNDACTYLY					HP:0001159	Syndactyly			ITM	ITM							OMIM:109050	HPO	2009.02.17
+OMIM:109050	AUROCEPHALOSYNDACTYLY					HP:0001256	Intellectual disability, mild			IEA	IEA							OMIM:109050	HPO	2009.02.17
+OMIM:109050	AUROCEPHALOSYNDACTYLY					HP:0001363	Craniosynostosis			IEA	IEA							OMIM:109050	HPO	2009.02.17
+OMIM:109050	AUROCEPHALOSYNDACTYLY					HP:0002000	Short columella			IEA	IEA							OMIM:109050	HPO	2009.02.17
+OMIM:109050	AUROCEPHALOSYNDACTYLY					HP:0002564	Malformation of the heart and great vessels			IEA	IEA							OMIM:109050	HPO	2009.02.17
+OMIM:109050	AUROCEPHALOSYNDACTYLY					HP:0004692	4-5 toe syndactyly			IEA	IEA							OMIM:109050	HPO	2009.02.17

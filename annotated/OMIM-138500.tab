@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:138500	GLYCINURIA WITH OR WITHOUT OXALATE UROLITHIASIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:138500	HPO	2009.02.17
+OMIM:138500	GLYCINURIA WITH OR WITHOUT OXALATE UROLITHIASIS					HP:0000787	Nephrolithiasis			ITM	ITM							OMIM:138500	HPO	2009.02.17
+OMIM:138500	GLYCINURIA WITH OR WITHOUT OXALATE UROLITHIASIS					HP:0003108	Hyperglycinuria			ITM	ITM							OMIM:138500	HPO	2009.02.17
+OMIM:138500	GLYCINURIA WITH OR WITHOUT OXALATE UROLITHIASIS					HP:0003108	Hyperglycinuria			IEA	IEA							OMIM:138500	HPO	2009.02.17

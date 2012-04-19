@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:611907	EPISODIC ATAXIA, TYPE 7; EA7					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:611907	SKOEHLER	2010.06.19
+OMIM:611907	EPISODIC ATAXIA, TYPE 7; EA7					HP:0001260	Dysarthria			IEA	IEA							OMIM:611907	SKOEHLER	2010.06.19
+OMIM:611907	EPISODIC ATAXIA, TYPE 7; EA7					HP:0001324	Muscle weakness			IEA	IEA							OMIM:611907	SKOEHLER	2010.06.19
+OMIM:611907	EPISODIC ATAXIA, TYPE 7; EA7					HP:0002131	Ataxia, episodic			IEA	IEA							OMIM:611907	SKOEHLER	2010.06.20
+OMIM:611907	EPISODIC ATAXIA, TYPE 7; EA7					HP:0002321	Vertigo			IEA	IEA							OMIM:611907	SKOEHLER	2010.06.19

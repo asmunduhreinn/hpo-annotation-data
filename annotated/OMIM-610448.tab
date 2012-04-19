@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:610448	CHILBLAIN LUPUS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:610448	HPO	2009.02.17
+OMIM:610448	CHILBLAIN LUPUS					HP:0000951	Abnormality of the skin			IEA	IEA							OMIM:610448	HPO	2009.02.17
+OMIM:610448	CHILBLAIN LUPUS					HP:0001597	Abnormality of the nail			IEA	IEA							OMIM:610448	HPO	2009.02.17
+OMIM:610448	CHILBLAIN LUPUS					HP:0001626	Abnormality of the cardiovascular system			IEA	IEA							OMIM:610448	HPO	2009.02.17
+OMIM:610448	CHILBLAIN LUPUS					HP:0002715	Abnormality of the immune system			IEA	IEA							OMIM:610448	HPO	2009.02.17
+OMIM:610448	CHILBLAIN LUPUS					HP:0002829	Arthralgia			IEA	IEA							OMIM:610448	HPO	2009.02.17
+OMIM:610448	CHILBLAIN LUPUS					HP:0003493	Antinuclear antibody positivity			ITM	ITM							OMIM:610448	HPO	2009.02.17
+OMIM:610448	CHILBLAIN LUPUS					HP:0003621	Juvenile onset			IEA	IEA							OMIM:610448	HPO	2009.02.17
+OMIM:610448	CHILBLAIN LUPUS					HP:0000992	Cutaneous photosensitivity			IEA	IEA				NOT	NOT		OMIM:610448	SKOEHLER	2010.06.18

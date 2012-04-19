@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:600002	EIKEN SKELETAL DYSPLASIA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:600002	HPO	2009.02.17
+OMIM:600002	EIKEN SKELETAL DYSPLASIA					HP:0002652	Skeletal dysplasia			IEA	IEA							OMIM:600002	HPO	2009.02.17
+OMIM:600002	EIKEN SKELETAL DYSPLASIA					HP:0001249	Intellectual disability			IEA	IEA				NOT	NOT		OMIM:600002	SKOEHLER	2010.06.18

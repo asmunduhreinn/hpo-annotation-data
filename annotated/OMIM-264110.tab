@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:264110	PROLACTIN DEFICIENCY, ISOLATED					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:264110	HPO	2009.02.17
+OMIM:264110	PROLACTIN DEFICIENCY, ISOLATED					HP:0000789	Infertility			IEA	IEA							OMIM:264110	SKOEHLER	2010.06.20
+OMIM:264110	PROLACTIN DEFICIENCY, ISOLATED					HP:0000858	Menstrual irregularities			ITM	ITM							OMIM:264110	HPO	2009.02.17
+OMIM:264110	PROLACTIN DEFICIENCY, ISOLATED					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:264110	HPO	2009.02.17
+OMIM:264110	PROLACTIN DEFICIENCY, ISOLATED					HP:0008202	Isolated prolactin deficiency			IEA	IEA							OMIM:264110	HPO	2009.02.17

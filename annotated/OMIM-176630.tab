@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:176630	PRIMARY RELEASE DISORDER OF PLATELETS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:176630	HPO	2009.02.17
+OMIM:176630	PRIMARY RELEASE DISORDER OF PLATELETS					HP:0000132	Menorrhagia			ITM	ITM							OMIM:176630	HPO	2009.02.17
+OMIM:176630	PRIMARY RELEASE DISORDER OF PLATELETS					HP:0000978	Bruising susceptibility			IEA	IEA							OMIM:176630	HPO	2009.02.17
+OMIM:176630	PRIMARY RELEASE DISORDER OF PLATELETS					HP:0001892	Bleeding diathesis			ITM	ITM							OMIM:176630	HPO	2009.02.17
+OMIM:176630	PRIMARY RELEASE DISORDER OF PLATELETS					HP:0004406	Spontaneous, recurrent epistaxis			IEA	IEA							OMIM:176630	HPO	2009.02.17

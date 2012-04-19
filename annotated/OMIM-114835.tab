@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:114835	CARBOXYLESTERASE 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:114835	HPO	2009.02.17
+OMIM:114835	CARBOXYLESTERASE 1					HP:0001370	Rheumatoid arthritis			IEA	IEA							OMIM:114835	SKOEHLER	2010.06.20
+OMIM:114835	CARBOXYLESTERASE 1					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:114835	HPO	2009.02.17
+OMIM:114835	CARBOXYLESTERASE 1					HP:0002665	Lymphoma			IEA	IEA							OMIM:114835	SKOEHLER	2010.06.20
+OMIM:114835	CARBOXYLESTERASE 1					HP:0005550	Chronic lymphatic leukemia			IEA	IEA							OMIM:114835	SKOEHLER	2010.06.20

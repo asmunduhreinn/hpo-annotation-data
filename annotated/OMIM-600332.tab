@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:600332	RIPPLING MUSCLE DISEASE 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:600332	HPO	2009.02.17
+OMIM:600332	RIPPLING MUSCLE DISEASE 1					HP:0003457	EMG abnormality			IEA	IEA							OMIM:600332	HPO	2009.02.17
+OMIM:600332	RIPPLING MUSCLE DISEASE 1					HP:0003559	Muscle hyperirritability			IEA	IEA							OMIM:600332	HPO	2009.02.17
+OMIM:600332	RIPPLING MUSCLE DISEASE 1					HP:0003710	Exercise-induced muscle cramps			IEA	IEA							OMIM:600332	HPO	2009.02.17
+OMIM:600332	RIPPLING MUSCLE DISEASE 1					HP:0003712	Muscle hypertrophy			IEA	IEA							OMIM:600332	HPO	2009.02.17
+OMIM:600332	RIPPLING MUSCLE DISEASE 1					HP:0003719	Muscle mounding			IEA	IEA							OMIM:600332	HPO	2009.02.17
+OMIM:600332	RIPPLING MUSCLE DISEASE 1					HP:0003738	Exercise-induced myalgia			IEA	IEA							OMIM:600332	HPO	2009.02.17
+OMIM:600332	RIPPLING MUSCLE DISEASE 1					HP:0003760	Percussion-induced rapid rolling muscle contractions (PIRC)			IEA	IEA							OMIM:600332	HPO	2009.02.17
+OMIM:600332	RIPPLING MUSCLE DISEASE 1					HP:0008967	Exercise-induced muscle stiffness			IEA	IEA							OMIM:600332	HPO	2009.02.17

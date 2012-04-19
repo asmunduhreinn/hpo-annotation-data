@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:127750	DEMENTIA, LEWY BODY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:127750	HPO	2009.02.17
+OMIM:127750	DEMENTIA, LEWY BODY					HP:0000726	Dementia			IEA	IEA							OMIM:127750	HPO	2009.02.17
+OMIM:127750	DEMENTIA, LEWY BODY					HP:0000746	Delusions			IEA	IEA							OMIM:127750	HPO	2009.02.17
+OMIM:127750	DEMENTIA, LEWY BODY					HP:0001300	Parkinsonism			IEA	IEA							OMIM:127750	HPO	2009.02.17
+OMIM:127750	DEMENTIA, LEWY BODY					HP:0002367	Visual hallucinations			IEA	IEA							OMIM:127750	HPO	2009.02.17
+OMIM:127750	DEMENTIA, LEWY BODY					HP:0007159	Fluctuations in consciousness			IEA	IEA							OMIM:127750	HPO	2009.02.17

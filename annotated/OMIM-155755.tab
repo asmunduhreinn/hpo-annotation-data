@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:155755	MELANOMA-ASTROCYTOMA SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:155755	HPO	2009.02.17
+OMIM:155755	MELANOMA-ASTROCYTOMA SYNDROME					HP:0002861	Malignant melanoma			IEA	IEA							OMIM:155755	HPO	2009.02.17
+OMIM:155755	MELANOMA-ASTROCYTOMA SYNDROME					HP:0009592	Astrocytoma			IEA	IEA							OMIM:155755	SKOEHLER	2010.06.20

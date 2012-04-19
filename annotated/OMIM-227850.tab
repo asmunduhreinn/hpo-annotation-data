@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:227850	FANCONI-LIKE SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:227850	HPO	2009.02.17
+OMIM:227850	FANCONI-LIKE SYNDROME					HP:0001876	Pancytopenia			IEA	IEA							OMIM:227850	HPO	2009.02.17
+OMIM:227850	FANCONI-LIKE SYNDROME					HP:0001994	Renal Fanconi syndrome			ITM	ITM							OMIM:227850	HPO	2009.02.17
+OMIM:227850	FANCONI-LIKE SYNDROME					HP:0002754	Osteomyelitis			IEA	IEA							OMIM:227850	HPO	2009.02.17
+OMIM:227850	FANCONI-LIKE SYNDROME					HP:0002783	Recurrent lower respiratory tract infections			IEA	IEA							OMIM:227850	HPO	2009.02.17
+OMIM:227850	FANCONI-LIKE SYNDROME					HP:0005939	Multiple bilateral pneumothoraces			IEA	IEA							OMIM:227850	HPO	2009.02.17
+OMIM:227850	FANCONI-LIKE SYNDROME					HP:0007606	Multiple cutaneous malignancies			IEA	IEA							OMIM:227850	HPO	2009.02.17

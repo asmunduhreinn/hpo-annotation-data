@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:209500	ATRICHIA WITH PAPULAR LESIONS					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:209500	HPO	2009.02.17
+OMIM:209500	ATRICHIA WITH PAPULAR LESIONS					HP:0001006	Hypotrichosis			IEA	IEA							OMIM:209500	HPO	2009.02.17
+OMIM:209500	ATRICHIA WITH PAPULAR LESIONS					HP:0007482	Generalized papillary lesions			IEA	IEA							OMIM:209500	HPO	2009.02.17

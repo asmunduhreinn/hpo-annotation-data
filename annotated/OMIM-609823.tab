@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:609823	DEAFNESS, AUTOSOMAL RECESSIVE 28					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:609823	HPO	2009.02.17
+OMIM:609823	DEAFNESS, AUTOSOMAL RECESSIVE 28					HP:0003593	Infantile onset			IEA	IEA							OMIM:609823	HPO	2009.02.17
+OMIM:609823	DEAFNESS, AUTOSOMAL RECESSIVE 28					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:609823	HPO	2009.02.17
+OMIM:609823	DEAFNESS, AUTOSOMAL RECESSIVE 28					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:609823	HPO	2009.02.17
+OMIM:609823	DEAFNESS, AUTOSOMAL RECESSIVE 28					HP:0008625	Severe sensorineural hearing impairment			IEA	IEA							OMIM:609823	HPO	2009.02.17

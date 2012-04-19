@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:254150	MUSK, INABILITY TO SMELL					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:254150	HPO	2009.02.17
+OMIM:254150	MUSK, INABILITY TO SMELL					HP:0000458	Anosmia			IEA	IEA							OMIM:254150	SKOEHLER	2010.06.20
+OMIM:254150	MUSK, INABILITY TO SMELL					HP:0000618	Blindness			IEA	IEA							OMIM:254150	SKOEHLER	2010.06.20

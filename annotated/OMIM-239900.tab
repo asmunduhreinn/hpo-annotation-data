@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:239900	HYPERTROPHIC NEUROPATHY AND CATARACT					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:239900	HPO	2009.02.17
+OMIM:239900	HYPERTROPHIC NEUROPATHY AND CATARACT					HP:0000518	Cataract			IEA	IEA							OMIM:239900	HPO	2009.02.17
+OMIM:239900	HYPERTROPHIC NEUROPATHY AND CATARACT					HP:0002922	Increased CSF protein			IEA	IEA							OMIM:239900	HPO	2009.02.17
+OMIM:239900	HYPERTROPHIC NEUROPATHY AND CATARACT					HP:0009830	Peripheral neuropathy			ITM	ITM							OMIM:239900	HPO	2009.02.17

@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:609821	BLEEDING DISORDER DUE TO P2RY12 DEFECT					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:609821	HPO	2009.02.17
+OMIM:609821	BLEEDING DISORDER DUE TO P2RY12 DEFECT					HP:0000421	Epistaxis			IEA	IEA							OMIM:609821	HPO	2009.02.17
+OMIM:609821	BLEEDING DISORDER DUE TO P2RY12 DEFECT					HP:0000978	Bruising susceptibility			IEA	IEA							OMIM:609821	HPO	2009.02.17
+OMIM:609821	BLEEDING DISORDER DUE TO P2RY12 DEFECT					HP:0001892	Bleeding diathesis			ITM	ITM							OMIM:609821	HPO	2009.02.17
+OMIM:609821	BLEEDING DISORDER DUE TO P2RY12 DEFECT					HP:0004866	platelets show impaired aggregation in response to adp			IEA	IEA							OMIM:609821	HPO	2009.02.17

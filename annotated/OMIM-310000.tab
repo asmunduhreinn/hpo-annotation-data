@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:310000	MUSCULAR DYSTROPHY, MABRY TYPE					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:310000	HPO	2009.02.17
+OMIM:310000	MUSCULAR DYSTROPHY, MABRY TYPE					HP:0003584	Late onset			ITM	ITM							OMIM:310000	HPO	2009.02.17
+OMIM:310000	MUSCULAR DYSTROPHY, MABRY TYPE					HP:0007081	Late-onset muscular dystrophy			IEA	IEA							OMIM:310000	HPO	2009.02.17
+OMIM:310000	MUSCULAR DYSTROPHY, MABRY TYPE					HP:0011007	Age of onset			IEA	IEA							OMIM:310000	HPO	2009.02.17

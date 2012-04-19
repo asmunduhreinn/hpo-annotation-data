@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:276000	PROTEASE, SERINE, 1					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:276000	HPO	2009.02.17
+OMIM:276000	PROTEASE, SERINE, 1					HP:0000969	Edema			IEA	IEA							OMIM:276000	SKOEHLER	2010.06.20
+OMIM:276000	PROTEASE, SERINE, 1					HP:0001508	Failure to thrive			IEA	IEA							OMIM:276000	HPO	2009.02.17
+OMIM:276000	PROTEASE, SERINE, 1					HP:0002023	Anal atresia			IEA	IEA							OMIM:276000	HPO	2009.02.17
+OMIM:276000	PROTEASE, SERINE, 1					HP:0003075	Hypoproteinemia			IEA	IEA							OMIM:276000	HPO	2009.02.17

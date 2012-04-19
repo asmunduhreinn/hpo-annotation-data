@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:131200	ENDOMETRIOSIS, SUSCEPTIBILITY TO, 1					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:131200	HPO	2009.02.17
+OMIM:131200	ENDOMETRIOSIS, SUSCEPTIBILITY TO, 1					HP:0000144	Decreased fertility			IEA	IEA							OMIM:131200	HPO	2009.02.17
+OMIM:131200	ENDOMETRIOSIS, SUSCEPTIBILITY TO, 1					HP:0001426	Multifactorial inheritance			IEA	IEA							OMIM:131200	HPO	2009.02.17

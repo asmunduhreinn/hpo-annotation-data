@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:150600	LEGG-CALVE-PERTHES DISEASE					HP:0002750	Delayed skeletal maturation			IEA	IEA							OMIM:150600	HPO	2009.02.17
+OMIM:150600	LEGG-CALVE-PERTHES DISEASE					HP:0004322	Short stature			IEA	IEA							OMIM:150600	HPO	2009.02.17
+OMIM:150600	LEGG-CALVE-PERTHES DISEASE					HP:0005743	Avascular necrosis of the capital femoral epiphysis			ITM	ITM							OMIM:150600	HPO	2009.02.17

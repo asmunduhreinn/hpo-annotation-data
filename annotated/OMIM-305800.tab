@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:305800	MEMBRANOPROLIFERATIVE GLOMERULONEPHRITIS, X-LINKED					HP:0000793	Membranoproliferative glomerulonephritis			IEA	IEA							OMIM:305800	HPO	2009.02.17
+OMIM:305800	MEMBRANOPROLIFERATIVE GLOMERULONEPHRITIS, X-LINKED					HP:0001693	Cardiac shunt			IEA	IEA							OMIM:305800	SKOEHLER	2010.06.20
+OMIM:305800	MEMBRANOPROLIFERATIVE GLOMERULONEPHRITIS, X-LINKED					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:305800	HPO	2009.02.17
+OMIM:305800	MEMBRANOPROLIFERATIVE GLOMERULONEPHRITIS, X-LINKED					HP:0009125	Lipodystrophy			IEA	IEA							OMIM:305800	SKOEHLER	2010.06.20

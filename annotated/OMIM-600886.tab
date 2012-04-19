@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:600886	HYPERFERRITINEMIA-CATARACT SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:600886	HPO	2009.02.17
+OMIM:600886	HYPERFERRITINEMIA-CATARACT SYNDROME					HP:0003281	Increased serum ferritin			IEA	IEA							OMIM:600886	HPO	2009.02.17
+OMIM:600886	HYPERFERRITINEMIA-CATARACT SYNDROME					HP:0008024	Congenital nuclear cataract			IEA	IEA							OMIM:600886	HPO	2009.02.17

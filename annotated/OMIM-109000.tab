@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:109000	AURICULOOSTEODYSPLASIA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:109000	HPO	2009.02.17
+OMIM:109000	AURICULOOSTEODYSPLASIA					HP:0000598	Abnormality of the ear			IEA	IEA							OMIM:109000	HPO	2009.02.17
+OMIM:109000	AURICULOOSTEODYSPLASIA					HP:0001385	Hip dysplasia			IEA	IEA							OMIM:109000	HPO	2009.02.17
+OMIM:109000	AURICULOOSTEODYSPLASIA					HP:0003083	Dislocated radial head			ITM	ITM							OMIM:109000	HPO	2009.02.17
+OMIM:109000	AURICULOOSTEODYSPLASIA					HP:0004322	Short stature			IEA	IEA							OMIM:109000	HPO	2009.02.17

@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:247640	LYMPHOBLASTIC LEUKEMIA, ACUTE, WITH LYMPHOMATOUS FEATURES					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:247640	HPO	2009.02.17
+OMIM:247640	LYMPHOBLASTIC LEUKEMIA, ACUTE, WITH LYMPHOMATOUS FEATURES					HP:0002665	Lymphoma			ITM	ITM							OMIM:247640	HPO	2009.02.17
+OMIM:247640	LYMPHOBLASTIC LEUKEMIA, ACUTE, WITH LYMPHOMATOUS FEATURES					HP:0006727	T-cell acute lymphoblastic leukemias			ITM	ITM							OMIM:247640	HPO	2009.02.17

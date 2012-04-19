@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:161950	IGA NEPHROPATHY 1					HP:0000123	Nephritis			IEA	IEA							OMIM:161950	SKOEHLER	2010.06.20
+OMIM:161950	IGA NEPHROPATHY 1					HP:0000979	Purpura			IEA	IEA							OMIM:161950	SKOEHLER	2010.06.20
+OMIM:161950	IGA NEPHROPATHY 1					HP:0001425	Heterogeneous			IEA	IEA							OMIM:161950	HPO	2009.02.17

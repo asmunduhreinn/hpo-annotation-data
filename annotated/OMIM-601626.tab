@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:601626	LEUKEMIA, ACUTE MYELOID					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:601626	HPO	2009.02.17
+OMIM:601626	LEUKEMIA, ACUTE MYELOID					HP:0003593	Infantile onset			ITM	ITM							OMIM:601626	HPO	2009.02.17
+OMIM:601626	LEUKEMIA, ACUTE MYELOID					HP:0004808	Acute myeloid leukemia			IEA	IEA							OMIM:601626	SKOEHLER	2010.06.20
+OMIM:601626	LEUKEMIA, ACUTE MYELOID					HP:0004843	Familial acute myelogenous leukemia			IEA	IEA							OMIM:601626	HPO	2009.02.17

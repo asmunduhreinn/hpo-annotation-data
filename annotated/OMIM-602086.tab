@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:602086	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 3					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:602086	HPO	2009.02.17
+OMIM:602086	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 3					HP:0001425	Heterogeneous			IEA	IEA							OMIM:602086	HPO	2009.02.17
+OMIM:602086	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 3					HP:0003140	T-wave inversion in the right precordial leads and late potentials in signal-averaging ECG			IEA	IEA							OMIM:602086	HPO	2009.02.17
+OMIM:602086	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 3					HP:0003338	Focal necrosis of right ventricular muscle cells			IEA	IEA							OMIM:602086	HPO	2009.02.17
+OMIM:602086	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 3					HP:0004308	Ventricular arrhythmia			ITM	ITM							OMIM:602086	HPO	2009.02.17

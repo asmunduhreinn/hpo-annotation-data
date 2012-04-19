@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:605419	SCHIZOPHRENIA 10					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:605419	HPO	2009.02.17
+OMIM:605419	SCHIZOPHRENIA 10					HP:0000298	Mask-like facies			IEA	IEA							OMIM:605419	HPO	2009.02.17
+OMIM:605419	SCHIZOPHRENIA 10					HP:0000725	Psychotic episodes			IEA	IEA							OMIM:605419	HPO	2009.02.17
+OMIM:605419	SCHIZOPHRENIA 10					HP:0000738	Hallucinations			IEA	IEA							OMIM:605419	HPO	2009.02.17
+OMIM:605419	SCHIZOPHRENIA 10					HP:0000746	Delusions			IEA	IEA							OMIM:605419	HPO	2009.02.17
+OMIM:605419	SCHIZOPHRENIA 10					HP:0005324	Disturbance of facial expression			IEA	IEA							OMIM:605419	HPO	2009.02.17

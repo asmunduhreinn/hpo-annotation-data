@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:613353	MONONEUROPATHY OF THE MEDIAN NERVE, MILD; MNMN					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:613353	SKOEHLER	2010.06.19
+OMIM:613353	MONONEUROPATHY OF THE MEDIAN NERVE, MILD; MNMN					HP:0001271	Polyneuropathy			IEA	IEA							OMIM:613353	SKOEHLER	2010.06.20
+OMIM:613353	MONONEUROPATHY OF THE MEDIAN NERVE, MILD; MNMN					HP:0003477	Peripheral axonal neuropathy			IEA	IEA							OMIM:613353	SKOEHLER	2010.06.20
+OMIM:613353	MONONEUROPATHY OF THE MEDIAN NERVE, MILD; MNMN					HP:0009831	Mononeuropathy			IEA	IEA							OMIM:613353	SKOEHLER	2010.06.20

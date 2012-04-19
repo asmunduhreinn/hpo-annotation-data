@@ -1,0 +1,15 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0001159	Syndactyly			ITM	ITM							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0001162	Postaxial polydactyly (hands)			IEA	IEA							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0001177	Preaxial polydactyly (hands)			ITM	ITM							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0001501	6 metacarpals			IEA	IEA							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0001830	Postaxial polydactyly of foot			IEA	IEA							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0001841	Preaxial polydactyly of foot			IEA	IEA							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0004220	Hypoplastic/small middle phalanx of the 5th finger			IEA	IEA							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0004692	4-5 toe syndactyly			IEA	IEA							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0006042	Y-shaped metacarpals			IEA	IEA							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0006062	5th finger clino-camptodactyly			IEA	IEA							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0006101	Finger syndactyly			IEA	IEA							OMIM:186000	SKOEHLER	2010.06.20
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0006159	Central polydactyly (hands)			IEA	IEA							OMIM:186000	HPO	2009.02.17
+OMIM:186000	SYNPOLYDACTYLY 1					HP:0008083	2nd-5th toe middle phalangeal hypoplasia			IEA	IEA							OMIM:186000	HPO	2009.02.17

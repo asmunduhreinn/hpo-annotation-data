@@ -1,0 +1,12 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:609814	HPO	2009.02.17
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:609814	HPO	2009.02.17
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0000106	Progressive renal insufficiency			IEA	IEA							OMIM:609814	HPO	2009.02.17
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0000790	Hematuria			IEA	IEA							OMIM:609814	HPO	2009.02.17
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0002718	Recurrent bacterial infections			IEA	IEA							OMIM:609814	HPO	2009.02.17
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0003621	Juvenile onset			IEA	IEA							OMIM:609814	HPO	2009.02.17
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0003812	Phenotypic variability			IEA	IEA							OMIM:609814	HPO	2009.02.17
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0004722	Thickening of the glomerular basement membrane			IEA	IEA							OMIM:609814	HPO	2009.02.17
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0004746	membranoproliferative glomerulonephritis type ii			IEA	IEA							OMIM:609814	HPO	2009.02.17
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0005369	Decreased serum complement factor H			IEA	IEA							OMIM:609814	HPO	2009.02.17
+OMIM:609814	COMPLEMENT FACTOR H DEFICIENCY					HP:0005389	Depletion of components of the alternative complement pathway			IEA	IEA							OMIM:609814	HPO	2009.02.17

@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:150550	LAZY LEUKOCYTE SYNDROME					HP:0001875	Neutropenia			IEA	IEA							OMIM:150550	SKOEHLER	2010.06.20
+OMIM:150550	LAZY LEUKOCYTE SYNDROME					HP:0002719	Recurrent infections			ITM	ITM							OMIM:150550	HPO	2009.02.17
+OMIM:150550	LAZY LEUKOCYTE SYNDROME					HP:0003769	All cases sporadic			IEA	IEA							OMIM:150550	HPO	2009.02.17

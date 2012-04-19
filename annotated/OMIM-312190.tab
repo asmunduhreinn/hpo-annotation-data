@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:312190	RADIAL APLASIA, X-LINKED					HP:0000238	Hydrocephalus			IEA	IEA							OMIM:312190	HPO	2009.02.17
+OMIM:312190	RADIAL APLASIA, X-LINKED					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:312190	HPO	2009.02.17
+OMIM:312190	RADIAL APLASIA, X-LINKED					HP:0002023	Anal atresia			IEA	IEA							OMIM:312190	HPO	2009.02.17
+OMIM:312190	RADIAL APLASIA, X-LINKED					HP:0003244	Penile hypospadias			IEA	IEA							OMIM:312190	HPO	2009.02.17
+OMIM:312190	RADIAL APLASIA, X-LINKED					HP:0003974	Absent ossification/absence of radius			IEA	IEA							OMIM:312190	HPO	2009.02.17

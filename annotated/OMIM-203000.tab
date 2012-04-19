@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:203000	FRONTONASAL DYSPLASIA WITH ALAR CLEFTS					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:203000	HPO	2009.02.17
+OMIM:203000	FRONTONASAL DYSPLASIA WITH ALAR CLEFTS					HP:0000430	Hypoplastic nasal alae			IEA	IEA							OMIM:203000	HPO	2009.02.17
+OMIM:203000	FRONTONASAL DYSPLASIA WITH ALAR CLEFTS					HP:0000506	Telecanthus			IEA	IEA							OMIM:203000	HPO	2009.02.17
+OMIM:203000	FRONTONASAL DYSPLASIA WITH ALAR CLEFTS					HP:0004412	Cleft ala nasi			IEA	IEA							OMIM:203000	HPO	2009.02.17

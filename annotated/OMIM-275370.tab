@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:275370	TRICARBOXYLIC ACID CYCLE, DEFECT OF					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:275370	HPO	2009.02.17
+OMIM:275370	TRICARBOXYLIC ACID CYCLE, DEFECT OF					HP:0000707	Abnormality of the nervous system			IEA	IEA							OMIM:275370	HPO	2009.02.17
+OMIM:275370	TRICARBOXYLIC ACID CYCLE, DEFECT OF					HP:0002928	Decreased activity of the pyruvate dehydrogenase (PDH) complex			IEA	IEA							OMIM:275370	HPO	2009.02.17
+OMIM:275370	TRICARBOXYLIC ACID CYCLE, DEFECT OF					HP:0004898	Persistent lactic acidosis			IEA	IEA							OMIM:275370	HPO	2009.02.17

@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:601222	CRANIOSYNOSTOSIS, PHILADELPHIA TYPE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:601222	HPO	2009.02.17
+OMIM:601222	CRANIOSYNOSTOSIS, PHILADELPHIA TYPE					HP:0004442	Sagittal craniosynostosis			IEA	IEA							OMIM:601222	HPO	2009.02.17
+OMIM:601222	CRANIOSYNOSTOSIS, PHILADELPHIA TYPE					HP:0010554	Cutaneous syndactyly of the fingers			ITM	ITM							OMIM:601222	HPO	2009.02.17

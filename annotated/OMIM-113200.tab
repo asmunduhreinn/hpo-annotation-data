@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:113200	BRACHYDACTYLY, TYPE D					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:113200	HPO	2009.02.17
+OMIM:113200	BRACHYDACTYLY, TYPE D					HP:0001156	Brachydactyly			IEA	IEA							OMIM:113200	SKOEHLER	2010.06.18
+OMIM:113200	BRACHYDACTYLY, TYPE D					HP:0001507	Growth abnormality			IEA	IEA							OMIM:113200	HPO	2009.02.17
+OMIM:113200	BRACHYDACTYLY, TYPE D					HP:0006199	Short, broad distal phalanges			ITM	ITM							OMIM:113200	HPO	2009.02.17
+OMIM:113200	BRACHYDACTYLY, TYPE D					HP:0009370	Type A Brachydactyly			ITM	ITM							OMIM:113200	HPO	2009.02.17
+OMIM:113200	BRACHYDACTYLY, TYPE D					HP:0009836	Broad distal phalanges of the hand			ITM	ITM							OMIM:113200	HPO	2009.02.17

@@ -1,0 +1,13 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:225280	EEM SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0000535	Sparse eyebrow			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0000653	Sparse eyelashes			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0000687	Widely spaced teeth			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0000691	Microdontia			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0001159	Syndactyly			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0001171	Ectrodactyly (hands)			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0001592	Selective tooth agenesis			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0002209	Sparse scalp hair			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0007754	Macular dystrophy			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0009473	Joint contractures involving the joints of the hand			IEA	IEA							OMIM:225280	HPO	2009.02.17
+OMIM:225280	EEM SYNDROME					HP:0000975	Hyperhidrosis			IEA	IEA				NOT	NOT		OMIM:225280	SKOEHLER	2010.06.20

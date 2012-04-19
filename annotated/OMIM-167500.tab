@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:167500	PALATOPHARYNGEAL INCOMPETENCE					HP:0000175	Cleft palate			ITM	ITM							OMIM:167500	HPO	2009.02.17
+OMIM:167500	PALATOPHARYNGEAL INCOMPETENCE					HP:0000220	Velopharyngeal insufficiency			ITM	ITM							OMIM:167500	HPO	2009.02.17
+OMIM:167500	PALATOPHARYNGEAL INCOMPETENCE					HP:0001426	Multifactorial inheritance			IEA	IEA							OMIM:167500	HPO	2009.02.17
+OMIM:167500	PALATOPHARYNGEAL INCOMPETENCE					HP:0001608	Abnormality of the voice			IEA	IEA							OMIM:167500	HPO	2009.02.17

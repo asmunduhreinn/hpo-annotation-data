@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:236110	HOLZGREVE SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:236110	HPO	2009.02.17
+OMIM:236110	HOLZGREVE SYNDROME					HP:0000089	Renal hypoplasia			IEA	IEA							OMIM:236110	HPO	2009.02.17
+OMIM:236110	HOLZGREVE SYNDROME					HP:0000104	Renal agenesis			IEA	IEA							OMIM:236110	HPO	2009.02.17
+OMIM:236110	HOLZGREVE SYNDROME					HP:0000175	Cleft palate			IEA	IEA							OMIM:236110	HPO	2009.02.17
+OMIM:236110	HOLZGREVE SYNDROME					HP:0000204	Cleft upper lip			ITM	ITM							OMIM:236110	HPO	2009.02.17
+OMIM:236110	HOLZGREVE SYNDROME					HP:0001161	Polydactyly (hands)			IEA	IEA							OMIM:236110	HPO	2009.02.17
+OMIM:236110	HOLZGREVE SYNDROME					HP:0004383	Hypoplastic left heart			IEA	IEA							OMIM:236110	SKOEHLER	2010.06.20

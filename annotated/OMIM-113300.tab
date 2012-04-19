@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:113300	BRACHYDACTYLY, TYPE E					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:113300	HPO	2009.02.17
+OMIM:113300	BRACHYDACTYLY, TYPE E					HP:0000311	Round face			IEA	IEA							OMIM:113300	HPO	2009.02.17
+OMIM:113300	BRACHYDACTYLY, TYPE E					HP:0001156	Brachydactyly			IEA	IEA							OMIM:113300	SKOEHLER	2010.06.18
+OMIM:113300	BRACHYDACTYLY, TYPE E					HP:0001571	Multiple impacted teeth			IEA	IEA							OMIM:113300	HPO	2009.02.17
+OMIM:113300	BRACHYDACTYLY, TYPE E					HP:0005902	Straight and short clavicles			IEA	IEA							OMIM:113300	HPO	2009.02.17
+OMIM:113300	BRACHYDACTYLY, TYPE E					HP:0008848	Moderately short stature			IEA	IEA							OMIM:113300	HPO	2009.02.17
+OMIM:113300	BRACHYDACTYLY, TYPE E					HP:0009370	Type A Brachydactyly			ITM	ITM							OMIM:113300	HPO	2009.02.17
+OMIM:113300	BRACHYDACTYLY, TYPE E					HP:0010049	Short metacarpal			IEA	IEA							OMIM:113300	HPO	2009.02.17
+OMIM:113300	BRACHYDACTYLY, TYPE E					HP:0010743	Short metatarsal bone			IEA	IEA							OMIM:113300	HPO	2009.02.17

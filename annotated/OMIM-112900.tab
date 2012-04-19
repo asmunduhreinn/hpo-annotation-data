@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:112900	BRACHYDACTYLY, TYPE A5, WITH NAIL DYSPLASIA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:112900	HPO	2009.02.17
+OMIM:112900	BRACHYDACTYLY, TYPE A5, WITH NAIL DYSPLASIA					HP:0001507	Growth abnormality			IEA	IEA							OMIM:112900	HPO	2009.02.17
+OMIM:112900	BRACHYDACTYLY, TYPE A5, WITH NAIL DYSPLASIA					HP:0002164	Nail dysplasia			IEA	IEA							OMIM:112900	HPO	2009.02.17
+OMIM:112900	BRACHYDACTYLY, TYPE A5, WITH NAIL DYSPLASIA					HP:0009370	Type A Brachydactyly			ITM	ITM							OMIM:112900	HPO	2009.02.17
+OMIM:112900	BRACHYDACTYLY, TYPE A5, WITH NAIL DYSPLASIA					HP:0009606	duplicated distal phalanx of the thumb			IEA	IEA							OMIM:112900	HPO	2009.02.17
+OMIM:112900	BRACHYDACTYLY, TYPE A5, WITH NAIL DYSPLASIA					HP:0010239	Aplasia of the middle phalanges of the hand			IEA	IEA							OMIM:112900	HPO	2009.02.17

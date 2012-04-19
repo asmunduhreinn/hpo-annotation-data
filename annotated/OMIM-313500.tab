@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:313500	TOOTH AGENESIS, SELECTIVE, X-LINKED, 1					HP:0000668	Hypodontia			IEA	IEA							OMIM:313500	HPO	2009.02.17
+OMIM:313500	TOOTH AGENESIS, SELECTIVE, X-LINKED, 1					HP:0000677	Oligodontia			IEA	IEA							OMIM:313500	HPO	2009.02.17
+OMIM:313500	TOOTH AGENESIS, SELECTIVE, X-LINKED, 1					HP:0001423	X-linked dominant inheritance			IEA	IEA							OMIM:313500	HPO	2009.02.17

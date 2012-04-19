@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:118600	CHONDROCALCINOSIS 2					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:118600	HPO	2009.02.17
+OMIM:118600	CHONDROCALCINOSIS 2					HP:0002758	Osteoarthritis			IEA	IEA							OMIM:118600	HPO	2009.02.17
+OMIM:118600	CHONDROCALCINOSIS 2					HP:0003040	Arthropathy			IEA	IEA							OMIM:118600	HPO	2009.02.17
+OMIM:118600	CHONDROCALCINOSIS 2					HP:0003674	Onset			ITM	ITM							OMIM:118600	HPO	2009.02.17
+OMIM:118600	CHONDROCALCINOSIS 2					HP:0005017	polyarticular chondrocalcinosis			IEA	IEA							OMIM:118600	HPO	2009.02.17

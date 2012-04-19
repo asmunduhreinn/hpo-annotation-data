@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:177820	PSEUDO-VON WILLEBRAND DISEASE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:177820	HPO	2009.02.17
+OMIM:177820	PSEUDO-VON WILLEBRAND DISEASE					HP:0003010	Prolonged bleeding time			IEA	IEA							OMIM:177820	HPO	2009.02.17
+OMIM:177820	PSEUDO-VON WILLEBRAND DISEASE					HP:0004854	intermittent thrombocytopenia			IEA	IEA							OMIM:177820	HPO	2009.02.17

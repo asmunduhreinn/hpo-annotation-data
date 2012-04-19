@@ -1,5 +1,0 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:270970	SPHEROCYTOSIS, AUTOSOMAL RECESSIVE	MIM:182860			SPTA1	HP:0000007												IEA							17.02.2009	
-MIM:270970	SPHEROCYTOSIS, AUTOSOMAL RECESSIVE	MIM:182860			SPTA1	HP:0001939		GO:0008152		PATO:0000001								IEA		PATO:0000460					17.02.2009	
-MIM:270970	SPHEROCYTOSIS, AUTOSOMAL RECESSIVE	MIM:182860			SPTA1	HP:0004444		CL:0000232		PATO:0001499								IEA							17.02.2009	
-MIM:270970	SPHEROCYTOSIS, AUTOSOMAL RECESSIVE	MIM:182860			SPTA1	HP:0004868												IEA							17.02.2009	

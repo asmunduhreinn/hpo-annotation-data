@@ -1,7 +1,0 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add 'l Entity Name	Mode of inheritance ID	Mode of inheritance Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Description	Orthologs	Pub	Date Created	
-MIM:233100	RENAL GLUCOSURIA	MIM:182381			SLC5A2	HP:0000007												IEA							17.02.2009	
-MIM:233100	RENAL GLUCOSURIA	MIM:182381			SLC5A2	HP:0000103		GO:0060073		PATO:0000912								IEA							17.02.2009	
-MIM:233100	RENAL GLUCOSURIA	MIM:182381			SLC5A2	HP:0000805												ITM							17.02.2009	
-MIM:233100	RENAL GLUCOSURIA	MIM:182381			SLC5A2	HP:0001959		GO:0042756		PATO:0000912								IEA							17.02.2009	
-MIM:233100	RENAL GLUCOSURIA	MIM:182381			SLC5A2	HP:0002591		GO:0042755		PATO:0000912								IEA		PATO:0000396					17.02.2009	
-MIM:233100	RENAL GLUCOSURIA	MIM:182381			SLC5A2	HP:0003076												IEA							17.02.2009	

@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:126050	HPO	2009.02.17
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0001838	Vertical talus			IEA	IEA							OMIM:126050	HPO	2009.02.17
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0003502	Mild short stature			IEA	IEA							OMIM:126050	HPO	2009.02.17
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0004322	Short stature			ITM	ITM							OMIM:126050	HPO	2009.02.17
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0009465	Ulnar deviation of finger			IEA	IEA							OMIM:126050	HPO	2009.02.17
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0009473	Joint contractures involving the joints of the hand			ITM	ITM							OMIM:126050	HPO	2009.02.17

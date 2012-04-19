@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:227400	FACTOR V DEFICIENCY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:227400	HPO	2009.02.17
+OMIM:227400	FACTOR V DEFICIENCY					HP:0000132	Menorrhagia			ITM	ITM							OMIM:227400	HPO	2009.02.17
+OMIM:227400	FACTOR V DEFICIENCY					HP:0000421	Epistaxis			ITM	ITM							OMIM:227400	HPO	2009.02.17
+OMIM:227400	FACTOR V DEFICIENCY					HP:0001892	Bleeding diathesis			IEA	IEA							OMIM:227400	HPO	2009.02.17
+OMIM:227400	FACTOR V DEFICIENCY					HP:0003010	Prolonged bleeding time			IEA	IEA							OMIM:227400	HPO	2009.02.17
+OMIM:227400	FACTOR V DEFICIENCY					HP:0003225	Factor V deficiency			IEA	IEA							OMIM:227400	HPO	2009.02.17
+OMIM:227400	FACTOR V DEFICIENCY					HP:0003645	Prolonged partial thromboplastin time			ITM	ITM							OMIM:227400	HPO	2009.02.17
+OMIM:227400	FACTOR V DEFICIENCY					HP:0005542	Prolonged whole-blood clotting time			IEA	IEA							OMIM:227400	HPO	2009.02.17

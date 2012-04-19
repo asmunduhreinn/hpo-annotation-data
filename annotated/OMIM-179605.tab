@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:179605	PERIPHERIN 2, MOUSE, HOMOLOG OF					HP:0000505	Visual impairment			ITM	ITM							OMIM:179605	HPO	2009.02.17
+OMIM:179605	PERIPHERIN 2, MOUSE, HOMOLOG OF					HP:0000510	Retinitis pigmentosa	HP:0003581	Adult onset	IEA	IEA							OMIM:179605	HPO	2009.02.17
+OMIM:179605	PERIPHERIN 2, MOUSE, HOMOLOG OF					HP:0000512	Abnormal electroretinogram			IEA	IEA							OMIM:179605	HPO	2009.02.17
+OMIM:179605	PERIPHERIN 2, MOUSE, HOMOLOG OF					HP:0003581	Adult onset			ITM	ITM							OMIM:179605	HPO	2009.02.17
+OMIM:179605	PERIPHERIN 2, MOUSE, HOMOLOG OF					HP:0007677	Vitelliform maculopathy			IEA	IEA							OMIM:179605	HPO	2009.02.17
+OMIM:179605	PERIPHERIN 2, MOUSE, HOMOLOG OF					HP:0007698	Retinal pigment epithelial atrophy			IEA	IEA							OMIM:179605	HPO	2009.02.17
+OMIM:179605	PERIPHERIN 2, MOUSE, HOMOLOG OF					HP:0007761	Pericentral scotoma			IEA	IEA							OMIM:179605	HPO	2009.02.17
+OMIM:179605	PERIPHERIN 2, MOUSE, HOMOLOG OF					HP:0007783	Butterfly retinal pigment epithelial dystrophy			IEA	IEA							OMIM:179605	HPO	2009.02.17
+OMIM:179605	PERIPHERIN 2, MOUSE, HOMOLOG OF					HP:0007994	Peripheral visual field loss			IEA	IEA							OMIM:179605	HPO	2009.02.17
+OMIM:179605	PERIPHERIN 2, MOUSE, HOMOLOG OF					HP:0008036	Retinal pigmentary dystrophy			ITM	ITM							OMIM:179605	HPO	2009.02.17
