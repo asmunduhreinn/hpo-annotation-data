@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:140350	HAWKINSINURIA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:140350	HPO	2009.02.17
-OMIM:140350	HAWKINSINURIA					HP:0001508	Failure to thrive			IEA	IEA							OMIM:140350	HPO	2009.02.17
-OMIM:140350	HAWKINSINURIA					HP:0001942	Metabolic acidosis			IEA	IEA							OMIM:140350	HPO	2009.02.17
-OMIM:140350	HAWKINSINURIA					HP:0003161	4-Hydroxyphenylpyruvic aciduria			IEA	IEA							OMIM:140350	HPO	2009.02.17
-OMIM:140350	HAWKINSINURIA					HP:0003231	Hypertyrosinemia			IEA	IEA							OMIM:140350	HPO	2009.02.17
-OMIM:140350	HAWKINSINURIA					HP:0003607	4-Hydroxyphenylacetic aciduria			IEA	IEA							OMIM:140350	HPO	2009.02.17
+OMIM:140350	HAWKINSINURIA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:140350	HPO	17.02.2009
+OMIM:140350	HAWKINSINURIA					HP:0001508	Failure to thrive			IEA	IEA							OMIM:140350	HPO	17.02.2009
+OMIM:140350	HAWKINSINURIA					HP:0001942	Metabolic acidosis			IEA	IEA							OMIM:140350	HPO	17.02.2009
+OMIM:140350	HAWKINSINURIA					HP:0003161	4-Hydroxyphenylpyruvic aciduria			IEA	IEA							OMIM:140350	HPO	17.02.2009
+OMIM:140350	HAWKINSINURIA					HP:0003231	Hypertyrosinemia			IEA	IEA							OMIM:140350	HPO	17.02.2009
+OMIM:140350	HAWKINSINURIA					HP:0003607	4-Hydroxyphenylacetic aciduria			IEA	IEA							OMIM:140350	HPO	17.02.2009

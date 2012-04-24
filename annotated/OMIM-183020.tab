@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:183020	SPINAL MUSCULAR ATROPHY, SEGMENTAL					HP:0006802	Abnormality of the anterior horn cells			IEA	IEA							OMIM:183020	HPO	2009.02.17
-OMIM:183020	SPINAL MUSCULAR ATROPHY, SEGMENTAL					HP:0009037	Segmental spinal muscular atrophy			IEA	IEA							OMIM:183020	HPO	2009.02.17
-OMIM:183020	SPINAL MUSCULAR ATROPHY, SEGMENTAL					HP:0009130	Amyotrophy involving the musculature of the hand			IEA	IEA							OMIM:183020	HPO	2009.02.17
+OMIM:183020	SPINAL MUSCULAR ATROPHY, SEGMENTAL					HP:0006802	Abnormality of the anterior horn cells			IEA	IEA							OMIM:183020	HPO	17.02.2009
+OMIM:183020	SPINAL MUSCULAR ATROPHY, SEGMENTAL					HP:0009037	Segmental spinal muscular atrophy			IEA	IEA							OMIM:183020	HPO	17.02.2009
+OMIM:183020	SPINAL MUSCULAR ATROPHY, SEGMENTAL					HP:0009130	Amyotrophy involving the musculature of the hand			IEA	IEA							OMIM:183020	HPO	17.02.2009

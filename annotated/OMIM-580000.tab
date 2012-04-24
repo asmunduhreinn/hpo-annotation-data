@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:580000	DEAFNESS, AMINOGLYCOSIDE-INDUCED					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:580000	HPO	2009.02.17
-OMIM:580000	DEAFNESS, AMINOGLYCOSIDE-INDUCED					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:580000	HPO	2009.02.17
+OMIM:580000	DEAFNESS, AMINOGLYCOSIDE-INDUCED					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:580000	HPO	17.02.2009
+OMIM:580000	DEAFNESS, AMINOGLYCOSIDE-INDUCED					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:580000	HPO	17.02.2009

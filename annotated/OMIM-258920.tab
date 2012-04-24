@@ -1,10 +1,10 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:258920	OROTIC ACIDURIA II					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:258920	HPO	2009.02.17
-OMIM:258920	OROTIC ACIDURIA II					HP:0001249	Intellectual disability			IEA	IEA							OMIM:258920	HPO	2009.02.17
-OMIM:258920	OROTIC ACIDURIA II					HP:0002843	Abnormality of T cells			IEA	IEA							OMIM:258920	HPO	2009.02.17
-OMIM:258920	OROTIC ACIDURIA II					HP:0002957	Predisposition to severe infections			IEA	IEA							OMIM:258920	HPO	2009.02.17
-OMIM:258920	OROTIC ACIDURIA II					HP:0003218	Oroticaciduria			IEA	IEA							OMIM:258920	HPO	2009.02.17
-OMIM:258920	OROTIC ACIDURIA II					HP:0003267	Reduced orotidine 5-prime phosphate decarboxylase activity			IEA	IEA							OMIM:258920	HPO	2009.02.17
-OMIM:258920	OROTIC ACIDURIA II					HP:0003339	Anemia corrected by uridylic acid and cytidylic acid			IEA	IEA							OMIM:258920	HPO	2009.02.17
-OMIM:258920	OROTIC ACIDURIA II					HP:0003526	Orotic acid crystalluria			IEA	IEA							OMIM:258920	HPO	2009.02.17
-OMIM:258920	OROTIC ACIDURIA II					HP:0004826	megaloblastic anemia unresponsive to vitamin b12 and folate			IEA	IEA							OMIM:258920	HPO	2009.02.17
+OMIM:258920	OROTIC ACIDURIA II					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:258920	HPO	17.02.2009
+OMIM:258920	OROTIC ACIDURIA II					HP:0001249	Intellectual disability			IEA	IEA							OMIM:258920	HPO	17.02.2009
+OMIM:258920	OROTIC ACIDURIA II					HP:0002843	Abnormality of T cells			IEA	IEA							OMIM:258920	HPO	17.02.2009
+OMIM:258920	OROTIC ACIDURIA II					HP:0002957	Predisposition to severe infections			IEA	IEA							OMIM:258920	HPO	17.02.2009
+OMIM:258920	OROTIC ACIDURIA II					HP:0003218	Oroticaciduria			IEA	IEA							OMIM:258920	HPO	17.02.2009
+OMIM:258920	OROTIC ACIDURIA II					HP:0003267	Reduced orotidine 5-prime phosphate decarboxylase activity			IEA	IEA							OMIM:258920	HPO	17.02.2009
+OMIM:258920	OROTIC ACIDURIA II					HP:0003339	Anemia corrected by uridylic acid and cytidylic acid			IEA	IEA							OMIM:258920	HPO	17.02.2009
+OMIM:258920	OROTIC ACIDURIA II					HP:0003526	Orotic acid crystalluria			IEA	IEA							OMIM:258920	HPO	17.02.2009
+OMIM:258920	OROTIC ACIDURIA II					HP:0004826	megaloblastic anemia unresponsive to vitamin b12 and folate			IEA	IEA							OMIM:258920	HPO	17.02.2009

@@ -1,21 +1,21 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0000007	Autosomal recessive inheritance			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0000486	Strabismus			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0000508	Ptosis			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0000597	Ophthalmoparesis			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0001283	Bulbar palsy			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0001612	Weak cry			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002015	Dysphagia			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002033	Poor suck			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002098	Respiratory distress			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002747	Respiratory insufficiency due to muscle weakness			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002872	Apneic episodes precipitated by illness, fatigue, stress			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002882	Sudden episodic apnea			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003397	Generalized hypotonia due to defect at the neuromuscular junction			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003402	Decreased miniature endplate potentials			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003403	EMG: decremental response of compound muscle action potential (CMAP) to repetitive nerve stimulation			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003554	Type 2 muscle fiber atrophy			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003577	Congenital onset			IEA	IEA									17.02.2009	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0008872	Feeding difficulties in infancy			TAS	TAS							MIM:605809	probinson	12.04.2012	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003473	Fatigable weakness			TAS	TAS							MIM:605809	probinson	12.04.2012	
-MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0001290	Generalized hypotonia			TAS	TAS							MIM:605809	probinson	12.04.2012	
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0000007	Autosomal recessive inheritance			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0000486	Strabismus			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0000508	Ptosis			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0000597	Ophthalmoparesis			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0001283	Bulbar palsy			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0001612	Weak cry			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002015	Dysphagia			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002033	Poor suck			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002098	Respiratory distress			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002747	Respiratory insufficiency due to muscle weakness			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002872	Apneic episodes precipitated by illness, fatigue, stress			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0002882	Sudden episodic apnea			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003397	Generalized hypotonia due to defect at the neuromuscular junction			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003402	Decreased miniature endplate potentials			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003403	EMG: decremental response of compound muscle action potential (CMAP) to repetitive nerve stimulation			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003554	Type 2 muscle fiber atrophy			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003577	Congenital onset			IEA	IEA									17.02.2009
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0008872	Feeding difficulties in infancy			TAS	TAS							MIM:605809	probinson	12.04.2012
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0003473	Fatigable weakness			TAS	TAS							MIM:605809	probinson	12.04.2012
+MIM:605809	MYASTHENIA, FAMILIAL INFANTILE, 1					HP:0001290	Generalized hypotonia			TAS	TAS							MIM:605809	probinson	12.04.2012

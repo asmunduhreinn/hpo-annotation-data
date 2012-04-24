@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:145500	HYPERTENSION, ESSENTIAL					HP:0001426	Multifactorial inheritance			IEA	IEA							OMIM:145500	HPO	2009.02.17
-OMIM:145500	HYPERTENSION, ESSENTIAL					HP:0004421	Elevated systolic blood pressure			IEA	IEA							OMIM:145500	HPO	2009.02.17
-OMIM:145500	HYPERTENSION, ESSENTIAL					HP:0004972	Elevated mean arterial pressure			IEA	IEA							OMIM:145500	HPO	2009.02.17
-OMIM:145500	HYPERTENSION, ESSENTIAL					HP:0005117	Elevated diastolic blood pressure			IEA	IEA							OMIM:145500	HPO	2009.02.17
+OMIM:145500	HYPERTENSION, ESSENTIAL					HP:0001426	Multifactorial inheritance			IEA	IEA							OMIM:145500	HPO	17.02.2009
+OMIM:145500	HYPERTENSION, ESSENTIAL					HP:0004421	Elevated systolic blood pressure			IEA	IEA							OMIM:145500	HPO	17.02.2009
+OMIM:145500	HYPERTENSION, ESSENTIAL					HP:0004972	Elevated mean arterial pressure			IEA	IEA							OMIM:145500	HPO	17.02.2009
+OMIM:145500	HYPERTENSION, ESSENTIAL					HP:0005117	Elevated diastolic blood pressure			IEA	IEA							OMIM:145500	HPO	17.02.2009

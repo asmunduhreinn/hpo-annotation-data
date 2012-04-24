@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:180020	RETINAL CONE DYSTROPHY 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:180020	HPO	2009.02.17
-OMIM:180020	RETINAL CONE DYSTROPHY 1					HP:0000529	Progressive visual loss			IEA	IEA							OMIM:180020	HPO	2009.02.17
-OMIM:180020	RETINAL CONE DYSTROPHY 1					HP:0000613	Photophobia			IEA	IEA							OMIM:180020	HPO	2009.02.17
-OMIM:180020	RETINAL CONE DYSTROPHY 1					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:180020	HPO	2009.02.17
-OMIM:180020	RETINAL CONE DYSTROPHY 1					HP:0007829	Diffuse retinal cone degeneration			IEA	IEA							OMIM:180020	HPO	2009.02.17
+OMIM:180020	RETINAL CONE DYSTROPHY 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:180020	HPO	17.02.2009
+OMIM:180020	RETINAL CONE DYSTROPHY 1					HP:0000529	Progressive visual loss			IEA	IEA							OMIM:180020	HPO	17.02.2009
+OMIM:180020	RETINAL CONE DYSTROPHY 1					HP:0000613	Photophobia			IEA	IEA							OMIM:180020	HPO	17.02.2009
+OMIM:180020	RETINAL CONE DYSTROPHY 1					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:180020	HPO	17.02.2009
+OMIM:180020	RETINAL CONE DYSTROPHY 1					HP:0007829	Diffuse retinal cone degeneration			IEA	IEA							OMIM:180020	HPO	17.02.2009

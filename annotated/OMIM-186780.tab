@@ -1,8 +1,8 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:186780	CD247 ANTIGEN					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:186780	HPO	2009.02.17
-OMIM:186780	CD247 ANTIGEN					HP:0001508	Failure to thrive			IEA	IEA							OMIM:186780	HPO	2009.02.17
-OMIM:186780	CD247 ANTIGEN					HP:0001890	Autoimmune hemolytic anemia			IEA	IEA							OMIM:186780	HPO	2009.02.17
-OMIM:186780	CD247 ANTIGEN					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:186780	HPO	2009.02.17
-OMIM:186780	CD247 ANTIGEN					HP:0002024	Malabsorption			IEA	IEA							OMIM:186780	HPO	2009.02.17
-OMIM:186780	CD247 ANTIGEN					HP:0002028	Chronic diarrhea			IEA	IEA							OMIM:186780	HPO	2009.02.17
-OMIM:186780	CD247 ANTIGEN					HP:0002086	Abnormality of the respiratory system			IEA	IEA							OMIM:186780	HPO	2009.02.17
+OMIM:186780	CD247 ANTIGEN					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:186780	HPO	17.02.2009
+OMIM:186780	CD247 ANTIGEN					HP:0001508	Failure to thrive			IEA	IEA							OMIM:186780	HPO	17.02.2009
+OMIM:186780	CD247 ANTIGEN					HP:0001890	Autoimmune hemolytic anemia			IEA	IEA							OMIM:186780	HPO	17.02.2009
+OMIM:186780	CD247 ANTIGEN					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:186780	HPO	17.02.2009
+OMIM:186780	CD247 ANTIGEN					HP:0002024	Malabsorption			IEA	IEA							OMIM:186780	HPO	17.02.2009
+OMIM:186780	CD247 ANTIGEN					HP:0002028	Chronic diarrhea			IEA	IEA							OMIM:186780	HPO	17.02.2009
+OMIM:186780	CD247 ANTIGEN					HP:0002086	Abnormality of the respiratory system			IEA	IEA							OMIM:186780	HPO	17.02.2009

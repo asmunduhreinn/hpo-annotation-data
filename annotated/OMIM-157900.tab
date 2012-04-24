@@ -1,52 +1,52 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:157900	MOEBIUS SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000044	Hypogonadotrophic hypogonadism			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000156	High-arched palate			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000286	Epicanthus			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000298	Mask-like facies			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000425	Flattened nasal bridge			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000470	Short neck			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000565	Esotropia			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000568	Microphthalmos			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000577	Exotropia			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000598	Abnormality of the ear			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001159	Syndactyly			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001171	Ectrodactyly (hands)			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001188	Hand clenching			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001256	Intellectual disability, mild			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001260	Dysarthria			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001270	Motor delay			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001288	Gait disturbance			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001420	Isolated cases			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001491	Congenital fibrosis of extraocular muscles			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001597	Abnormality of the nail			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001608	Abnormality of the voice			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001739	Abnormality of the nasopharynx			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001762	Talipes equinovarus			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0001763	Pes planus			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0002015	Dysphagia			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0002075	Dysdiadochokinesis			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0002312	Clumsiness			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0002365	Hypoplasia of the brainstem			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0002370	Poor coordination			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0002644	Abnormality of the pelvis			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0002880	Respiratory difficulties			ITM	ITM									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0004784	Juvenile gastrointestinal polyposis			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0005914	Aplasia/Hypoplasia involving the metacarpal bones			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0008734	Decreased testicular size			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0008872	Feeding problems in infancy			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0008947	Infantile muscular hypotonia			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0009803	Hypoplastic/small phalanges of the hand			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0009816	Hypoplasia involving bones of the lower limbs			IEA	IEA									17.02.2009	
-MIM:157900	MOEBIUS SYNDROME					HP:0000054	Micropenis			PCS	PCS							MIM:157900	probinson	26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0000347	Micrognathia			PCS	PCS	64%						MIM:157900	probinson	26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0009466	Radial deviation of finger			PCS	PCS							MIM:157900	probinson	26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0002804	Arthrogryposis multiplex congenita			PCS	PCS	6%						MIM:157900	probinson	26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0001349	Facial diplegia			PCS	PCS							MIM:157900	probinson	26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0000932	Abnormality of the posterior cranial fossa			PCS	PCS							MIM:157900	probinson	26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0001188	Hand clenching			PCS	PCS							MIM:157900	probinson	26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0000316	Hypertelorism			PCS	PCS	25%						MIM:157900	probinson	26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0000164	Abnormality of the teeth			PCS	PCS	37%						MIM:157900	probinson	26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0000193	Bifid uvula			PCS	PCS	11%						MIM:157900	probinson	26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0005914	Aplasia/Hypoplasia involving the metacarpal bones			IEA	IEA									26.03.2012	
-MIM:157900	MOEBIUS SYNDROME					HP:0000750	Delayed speech and language development			PCS	PCS	55%						MIM:157900	probinson	26.03.2012	
+MIM:157900	MOEBIUS SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000044	Hypogonadotrophic hypogonadism			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000156	High-arched palate			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000286	Epicanthus			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000298	Mask-like facies			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000425	Flattened nasal bridge			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000470	Short neck			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000565	Esotropia			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000568	Microphthalmos			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000577	Exotropia			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000598	Abnormality of the ear			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001159	Syndactyly			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001171	Ectrodactyly (hands)			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001188	Hand clenching			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001256	Intellectual disability, mild			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001260	Dysarthria			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001270	Motor delay			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001288	Gait disturbance			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001420	Isolated cases			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001491	Congenital fibrosis of extraocular muscles			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001597	Abnormality of the nail			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001608	Abnormality of the voice			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001739	Abnormality of the nasopharynx			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001762	Talipes equinovarus			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0001763	Pes planus			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0002015	Dysphagia			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0002075	Dysdiadochokinesis			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0002312	Clumsiness			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0002365	Hypoplasia of the brainstem			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0002370	Poor coordination			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0002644	Abnormality of the pelvis			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0002880	Respiratory difficulties			ITM	ITM									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0004784	Juvenile gastrointestinal polyposis			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0005914	Aplasia/Hypoplasia involving the metacarpal bones			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0008734	Decreased testicular size			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0008872	Feeding problems in infancy			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0008947	Infantile muscular hypotonia			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0009803	Hypoplastic/small phalanges of the hand			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0009816	Hypoplasia involving bones of the lower limbs			IEA	IEA									17.02.2009
+MIM:157900	MOEBIUS SYNDROME					HP:0000054	Micropenis			PCS	PCS							MIM:157900	probinson	26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0000347	Micrognathia			PCS	PCS	64%						MIM:157900	probinson	26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0009466	Radial deviation of finger			PCS	PCS							MIM:157900	probinson	26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0002804	Arthrogryposis multiplex congenita			PCS	PCS	6%						MIM:157900	probinson	26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0001349	Facial diplegia			PCS	PCS							MIM:157900	probinson	26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0000932	Abnormality of the posterior cranial fossa			PCS	PCS							MIM:157900	probinson	26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0001188	Hand clenching			PCS	PCS							MIM:157900	probinson	26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0000316	Hypertelorism			PCS	PCS	25%						MIM:157900	probinson	26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0000164	Abnormality of the teeth			PCS	PCS	37%						MIM:157900	probinson	26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0000193	Bifid uvula			PCS	PCS	11%						MIM:157900	probinson	26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0005914	Aplasia/Hypoplasia involving the metacarpal bones			IEA	IEA									26.03.2012
+MIM:157900	MOEBIUS SYNDROME					HP:0000750	Delayed speech and language development			PCS	PCS	55%						MIM:157900	probinson	26.03.2012

@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:170700	PERIPHERAL DYSOSTOSIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:170700	HPO	2009.02.17
-OMIM:170700	PERIPHERAL DYSOSTOSIS					HP:0001379	Degenerative joint disease			ITM	ITM							OMIM:170700	HPO	2009.02.17
-OMIM:170700	PERIPHERAL DYSOSTOSIS					HP:0008843	Hip osteoarthritis			ITM	ITM							OMIM:170700	HPO	2009.02.17
-OMIM:170700	PERIPHERAL DYSOSTOSIS					HP:0009803	Hypoplastic/small phalanges of the hand			IEA	IEA							OMIM:170700	HPO	2009.02.17
-OMIM:170700	PERIPHERAL DYSOSTOSIS					HP:0010230	Cone-shaped epiphyses of the phalanges of the hand			IEA	IEA							OMIM:170700	HPO	2009.02.17
+OMIM:170700	PERIPHERAL DYSOSTOSIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:170700	HPO	17.02.2009
+OMIM:170700	PERIPHERAL DYSOSTOSIS					HP:0001379	Degenerative joint disease			ITM	ITM							OMIM:170700	HPO	17.02.2009
+OMIM:170700	PERIPHERAL DYSOSTOSIS					HP:0008843	Hip osteoarthritis			ITM	ITM							OMIM:170700	HPO	17.02.2009
+OMIM:170700	PERIPHERAL DYSOSTOSIS					HP:0009803	Hypoplastic/small phalanges of the hand			IEA	IEA							OMIM:170700	HPO	17.02.2009
+OMIM:170700	PERIPHERAL DYSOSTOSIS					HP:0010230	Cone-shaped epiphyses of the phalanges of the hand			IEA	IEA							OMIM:170700	HPO	17.02.2009

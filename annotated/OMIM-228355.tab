@@ -1,8 +1,8 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
-MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0000851	Congenital hypothyroidism									ITM										17.02.2009	
-MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001249	Mental retardation									IEA										17.02.2009	
-MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001264	Spastic diplegia									IEA										17.02.2009	
-MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0000007	Autosomal recessive inheritance									IEA										17.02.2009	
-MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001728	Congenital deafness									IEA										17.02.2009	
-MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001939	Abnormality of metabolism/homeostasis	GO:0008152	metabolic process	PATO:0000001	quality					IEA		PATO:0000460	abnormal							17.02.2009	
-MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0008251	Congenital goiter									ITM										17.02.2009	
+MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0000851	Congenital hypothyroidism									ITM										17.02.2009
+MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001249	Mental retardation									IEA										17.02.2009
+MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001264	Spastic diplegia									IEA										17.02.2009
+MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0000007	Autosomal recessive inheritance									IEA										17.02.2009
+MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001728	Congenital deafness									IEA										17.02.2009
+MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001939	Abnormality of metabolism/homeostasis	GO:0008152	metabolic process	PATO:0000001	quality					IEA		PATO:0000460	abnormal							17.02.2009
+MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0008251	Congenital goiter									ITM										17.02.2009

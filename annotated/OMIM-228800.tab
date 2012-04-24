@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:228800	HPO	2009.02.17
-OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0000464	Abnormality of the neck			IEA	IEA							OMIM:228800	HPO	2009.02.17
-OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0000765	Abnormality of the thorax			IEA	IEA							OMIM:228800	HPO	2009.02.17
-OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0001392	Abnormality of the liver			IEA	IEA							OMIM:228800	HPO	2009.02.17
-OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0005200	Retroperitoneal fibrosis			IEA	IEA							OMIM:228800	HPO	2009.02.17
-OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0009473	Joint contractures involving the joints of the hand			IEA	IEA							OMIM:228800	HPO	2009.02.17
+OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:228800	HPO	17.02.2009
+OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0000464	Abnormality of the neck			IEA	IEA							OMIM:228800	HPO	17.02.2009
+OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0000765	Abnormality of the thorax			IEA	IEA							OMIM:228800	HPO	17.02.2009
+OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0001392	Abnormality of the liver			IEA	IEA							OMIM:228800	HPO	17.02.2009
+OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0005200	Retroperitoneal fibrosis			IEA	IEA							OMIM:228800	HPO	17.02.2009
+OMIM:228800	FIBROSCLEROSIS, MULTIFOCAL					HP:0009473	Joint contractures involving the joints of the hand			IEA	IEA							OMIM:228800	HPO	17.02.2009

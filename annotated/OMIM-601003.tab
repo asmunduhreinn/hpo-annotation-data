@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:601003	BRODY MYOPATHY					HP:0001252	Muscular hypotonia			ITM	ITM							OMIM:601003	HPO	2009.02.17
-OMIM:601003	BRODY MYOPATHY					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:601003	HPO	2009.02.17
-OMIM:601003	BRODY MYOPATHY					HP:0003326	Myalgia			ITM	ITM							OMIM:601003	HPO	2009.02.17
-OMIM:601003	BRODY MYOPATHY					HP:0003394	Muscle cramps			ITM	ITM							OMIM:601003	HPO	2009.02.17
+OMIM:601003	BRODY MYOPATHY					HP:0001252	Muscular hypotonia			ITM	ITM							OMIM:601003	HPO	17.02.2009
+OMIM:601003	BRODY MYOPATHY					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:601003	HPO	17.02.2009
+OMIM:601003	BRODY MYOPATHY					HP:0003326	Myalgia			ITM	ITM							OMIM:601003	HPO	17.02.2009
+OMIM:601003	BRODY MYOPATHY					HP:0003394	Muscle cramps			ITM	ITM							OMIM:601003	HPO	17.02.2009

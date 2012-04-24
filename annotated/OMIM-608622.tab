@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:608622	HYPERTENSION, DIASTOLIC, RESISTANCE TO					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:608622	HPO	2009.02.17
-OMIM:608622	HYPERTENSION, DIASTOLIC, RESISTANCE TO					HP:0000822	Hypertension			ITM	ITM							OMIM:608622	HPO	2009.02.17
-OMIM:608622	HYPERTENSION, DIASTOLIC, RESISTANCE TO					HP:0001939	Abnormality of metabolism/homeostasis			ITM	ITM							OMIM:608622	HPO	2009.02.17
+OMIM:608622	HYPERTENSION, DIASTOLIC, RESISTANCE TO					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:608622	HPO	17.02.2009
+OMIM:608622	HYPERTENSION, DIASTOLIC, RESISTANCE TO					HP:0000822	Hypertension			ITM	ITM							OMIM:608622	HPO	17.02.2009
+OMIM:608622	HYPERTENSION, DIASTOLIC, RESISTANCE TO					HP:0001939	Abnormality of metabolism/homeostasis			ITM	ITM							OMIM:608622	HPO	17.02.2009

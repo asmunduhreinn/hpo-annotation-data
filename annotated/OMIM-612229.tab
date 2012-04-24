@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:612229	COLORECTAL CANCER, SUSCEPTIBILITY TO, 3					HP:0001425	Heterogeneous			PCS	PCS							OMIM:612229	HPO:curators	2010.07.08
-OMIM:612229	COLORECTAL CANCER, SUSCEPTIBILITY TO, 3					HP:0003003	Colon cancer			PCS	PCS							PMID:17934461; PMID:18372901; PMID:18372905	HPO:curators	2010.07.08
+OMIM:612229	COLORECTAL CANCER, SUSCEPTIBILITY TO, 3					HP:0001425	Heterogeneous			PCS	PCS							OMIM:612229	HPO:curators	08.07.2010
+OMIM:612229	COLORECTAL CANCER, SUSCEPTIBILITY TO, 3					HP:0003003	Colon cancer			PCS	PCS							PMID:17934461; PMID:18372901; PMID:18372905	HPO:curators	08.07.2010

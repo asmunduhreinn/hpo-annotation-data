@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:186960	T-CELL LEUKEMIA/LYMPHOMA 1A					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:186960	HPO	2009.02.17
-OMIM:186960	T-CELL LEUKEMIA/LYMPHOMA 1A					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:186960	HPO	2009.02.17
-OMIM:186960	T-CELL LEUKEMIA/LYMPHOMA 1A					HP:0002665	Lymphoma			ITM	ITM							OMIM:186960	HPO	2009.02.17
-OMIM:186960	T-CELL LEUKEMIA/LYMPHOMA 1A					HP:0005517	T-cell lymphoma/leukemia			ITM	ITM							OMIM:186960	HPO	2009.02.17
-OMIM:186960	T-CELL LEUKEMIA/LYMPHOMA 1A					HP:0005539	T-cell chronic lymphocytic lymphoma/leukemia			IEA	IEA							OMIM:186960	HPO	2009.02.17
+OMIM:186960	T-CELL LEUKEMIA/LYMPHOMA 1A					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:186960	HPO	17.02.2009
+OMIM:186960	T-CELL LEUKEMIA/LYMPHOMA 1A					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:186960	HPO	17.02.2009
+OMIM:186960	T-CELL LEUKEMIA/LYMPHOMA 1A					HP:0002665	Lymphoma			ITM	ITM							OMIM:186960	HPO	17.02.2009
+OMIM:186960	T-CELL LEUKEMIA/LYMPHOMA 1A					HP:0005517	T-cell lymphoma/leukemia			ITM	ITM							OMIM:186960	HPO	17.02.2009
+OMIM:186960	T-CELL LEUKEMIA/LYMPHOMA 1A					HP:0005539	T-cell chronic lymphocytic lymphoma/leukemia			IEA	IEA							OMIM:186960	HPO	17.02.2009

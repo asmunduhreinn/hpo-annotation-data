@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:143500	GILBERT SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:143500	HPO	2009.02.17
-OMIM:143500	GILBERT SYNDROME					HP:0000952	Jaundice			IEA	IEA							OMIM:143500	SKOEHLER	2010.06.20
-OMIM:143500	GILBERT SYNDROME					HP:0008282	Unconjugated hyperbilirubinemia			IEA	IEA							OMIM:143500	SKOEHLER	2010.06.20
-OMIM:143500	GILBERT SYNDROME					HP:0001399	Hepatic failure			IEA	IEA				NOT	NOT		OMIM:143500	SKOEHLER	2010.06.20
+OMIM:143500	GILBERT SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:143500	HPO	17.02.2009
+OMIM:143500	GILBERT SYNDROME					HP:0000952	Jaundice			IEA	IEA							OMIM:143500	SKOEHLER	20.06.2010
+OMIM:143500	GILBERT SYNDROME					HP:0008282	Unconjugated hyperbilirubinemia			IEA	IEA							OMIM:143500	SKOEHLER	20.06.2010
+OMIM:143500	GILBERT SYNDROME					HP:0001399	Hepatic failure			IEA	IEA				NOT	NOT		OMIM:143500	SKOEHLER	20.06.2010

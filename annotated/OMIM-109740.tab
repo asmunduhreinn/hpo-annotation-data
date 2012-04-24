@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:109740	BIFID NOSE					HP:0000028	Cryptorchidism			IEA	IEA							OMIM:109740	HPO	2009.02.17
-OMIM:109740	BIFID NOSE					HP:0000508	Ptosis			IEA	IEA							OMIM:109740	HPO	2009.02.17
-OMIM:109740	BIFID NOSE					HP:0000924	Abnormality of the musculoskeletal system			IEA	IEA							OMIM:109740	HPO	2009.02.17
-OMIM:109740	BIFID NOSE					HP:0004122	Midline defect of the nose			IEA	IEA							OMIM:109740	HPO	2009.02.17
-OMIM:109740	BIFID NOSE					HP:0000316	Hypertelorism			IEA	IEA				NOT	NOT		OMIM:109740	SKOEHLER	2010.06.18
+OMIM:109740	BIFID NOSE					HP:0000028	Cryptorchidism			IEA	IEA							OMIM:109740	HPO	17.02.2009
+OMIM:109740	BIFID NOSE					HP:0000508	Ptosis			IEA	IEA							OMIM:109740	HPO	17.02.2009
+OMIM:109740	BIFID NOSE					HP:0000924	Abnormality of the musculoskeletal system			IEA	IEA							OMIM:109740	HPO	17.02.2009
+OMIM:109740	BIFID NOSE					HP:0004122	Midline defect of the nose			IEA	IEA							OMIM:109740	HPO	17.02.2009
+OMIM:109740	BIFID NOSE					HP:0000316	Hypertelorism			IEA	IEA				NOT	NOT		OMIM:109740	SKOEHLER	18.06.2010

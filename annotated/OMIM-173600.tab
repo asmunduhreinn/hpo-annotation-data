@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:173600	PNEUMOTHORAX, PRIMARY SPONTANEOUS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:173600	HPO	2009.02.17
-OMIM:173600	PNEUMOTHORAX, PRIMARY SPONTANEOUS					HP:0002107	Pneumothorax			IEA	IEA							OMIM:173600	HPO	2009.02.17
-OMIM:173600	PNEUMOTHORAX, PRIMARY SPONTANEOUS					HP:0003829	Incomplete penetrance			IEA	IEA							OMIM:173600	HPO	2009.02.17
+OMIM:173600	PNEUMOTHORAX, PRIMARY SPONTANEOUS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:173600	HPO	17.02.2009
+OMIM:173600	PNEUMOTHORAX, PRIMARY SPONTANEOUS					HP:0002107	Pneumothorax			IEA	IEA							OMIM:173600	HPO	17.02.2009
+OMIM:173600	PNEUMOTHORAX, PRIMARY SPONTANEOUS					HP:0003829	Incomplete penetrance			IEA	IEA							OMIM:173600	HPO	17.02.2009

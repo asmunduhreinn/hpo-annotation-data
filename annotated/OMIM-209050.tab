@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:209050	ATHROMBIA, ESSENTIAL					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:209050	HPO	2009.02.17
-OMIM:209050	ATHROMBIA, ESSENTIAL					HP:0001892	Bleeding diathesis			IEA	IEA							OMIM:209050	SKOEHLER	2010.06.20
-OMIM:209050	ATHROMBIA, ESSENTIAL					HP:0003010	Prolonged bleeding time			ITM	ITM							OMIM:209050	HPO	2009.02.17
-OMIM:209050	ATHROMBIA, ESSENTIAL					HP:0008352	Platelet adhesion and aggregation decreased			IEA	IEA							OMIM:209050	HPO	2009.02.17
+OMIM:209050	ATHROMBIA, ESSENTIAL					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:209050	HPO	17.02.2009
+OMIM:209050	ATHROMBIA, ESSENTIAL					HP:0001892	Bleeding diathesis			IEA	IEA							OMIM:209050	SKOEHLER	20.06.2010
+OMIM:209050	ATHROMBIA, ESSENTIAL					HP:0003010	Prolonged bleeding time			ITM	ITM							OMIM:209050	HPO	17.02.2009
+OMIM:209050	ATHROMBIA, ESSENTIAL					HP:0008352	Platelet adhesion and aggregation decreased			IEA	IEA							OMIM:209050	HPO	17.02.2009

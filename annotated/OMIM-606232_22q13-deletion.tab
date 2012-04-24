@@ -1,60 +1,60 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
 MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0003745	Sporadic									PCS									http://www.ncbi.nlm.nih.gov/books/NBK1198/#gr_22q13_3.Genetic_Counseling	17.02.2009	
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001263	Developmental retardation									PCS	100%								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002116	Deficiency of speech development									PCS	hallmark								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001319	Neonatal hypotonia									PCS	hallmark								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0003516	Normal to tall stature									PCS	hallmark								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001176	Large hands									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001800	Hypoplastic toenails									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000527	Long eyelashes									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0007328	Decreased pain sensation									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0003763	Bruxism									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000710	Hyperorality									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000268	Dolichocephaly									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000382	Large, prominent ears									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000574	Thick eyebrows									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000293	Full cheeks									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0100540	Palpebral edema									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000490	Deeply set eye									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000272	Malar hypoplasia									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000431	Broad nasal bridge									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000414	Bulbous nose									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000307	Pointed chin									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000960	Sacral dimple									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000966	Hypohidrosis									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002046	Intolerance to heat and fever									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000486	Strabismus									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000077	Abnormality of the kidney									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002020	Gastroesophageal reflux									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000689	Dental malocclusion									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000286	Epicanthus									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000343	Long philtrum									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000156	High-arched palate									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000508	Ptosis									PCS	typical								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002572	Episodic vomiting									PCS	frequent								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0004691	2-3 toe syndactyly									PCS	frequent								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0004209	Clinodactyly of the 5th finger									PCS	frequent								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001250	Seizures									PCS	frequent								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001004	Lymphedema									PCS	frequent								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000365	Hearing impairment									PCS	20%								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0100702	Arachnoid cysts									PCS	15%								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0100658	Cellulitis									PCS	10%								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000817	Poor eye contact									PCS	common								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0008758	Stereotypical motor behaviors									PCS	common								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000735	Impaired social interactions									PCS	common								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000718	Aggressive behavior									PCS	25%								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0100703	Tongue thrusting									PCS	15%								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000708	Behavioural/Psychiatric Abnormality									PCS	hallmark								PMID:18505557		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000252	Microcephaly									PCS	< 5%								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002119	Ventriculomegaly									PCS	occasional								ISBN-13:978-0721606156		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002188	Delayed myelination									PCS	occasional								ISBN-13:978-0721606156		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002518	Abnormality of the periventricular white matter									PCS	occasional								ISBN-13:978-0721606156		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001643	Patent ductus arteriosus									PCS	occasional								ISBN-13:978-0721606156		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001629	Ventricular septal defect									PCS	occasional								ISBN-13:978-0721606156		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000076	Vesicoureteral reflux									PCS	occasional								ISBN-13:978-0721606156		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000113	Polycystic kidney dysplasia									PCS	occasional								ISBN-13:978-0721606156		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002360	Sleep disturbances									PCS	occasional								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002136	Broad-based gait									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002317	Unsteady gait									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
-MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0100704	Cortical visual impairment									PCS	6%								http://www.ncbi.nlm.nih.gov/books/NBK1198/		
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001263	Developmental retardation									PCS	100%								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002116	Deficiency of speech development									PCS	hallmark								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001319	Neonatal hypotonia									PCS	hallmark								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0003516	Normal to tall stature									PCS	hallmark								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001176	Large hands									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001800	Hypoplastic toenails									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000527	Long eyelashes									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0007328	Decreased pain sensation									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0003763	Bruxism									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000710	Hyperorality									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000268	Dolichocephaly									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000382	Large, prominent ears									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000574	Thick eyebrows									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000293	Full cheeks									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0100540	Palpebral edema									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000490	Deeply set eye									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000272	Malar hypoplasia									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000431	Broad nasal bridge									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000414	Bulbous nose									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000307	Pointed chin									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000960	Sacral dimple									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000966	Hypohidrosis									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002046	Intolerance to heat and fever									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000486	Strabismus									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000077	Abnormality of the kidney									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002020	Gastroesophageal reflux									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000689	Dental malocclusion									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000286	Epicanthus									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000343	Long philtrum									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000156	High-arched palate									PCS	frequent								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000508	Ptosis									PCS	typical								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002572	Episodic vomiting									PCS	frequent								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0004691	2-3 toe syndactyly									PCS	frequent								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0004209	Clinodactyly of the 5th finger									PCS	frequent								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001250	Seizures									PCS	frequent								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001004	Lymphedema									PCS	frequent								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000365	Hearing impairment									PCS	20%								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0100702	Arachnoid cysts									PCS	15%								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0100658	Cellulitis									PCS	10%								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000817	Poor eye contact									PCS	common								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0008758	Stereotypical motor behaviors									PCS	common								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000735	Impaired social interactions									PCS	common								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000718	Aggressive behavior									PCS	25%								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0100703	Tongue thrusting									PCS	15%								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000708	Behavioural/Psychiatric Abnormality									PCS	hallmark								PMID:18505557	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000252	Microcephaly									PCS	< 5%								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002119	Ventriculomegaly									PCS	occasional								ISBN-13:978-0721606156	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002188	Delayed myelination									PCS	occasional								ISBN-13:978-0721606156	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002518	Abnormality of the periventricular white matter									PCS	occasional								ISBN-13:978-0721606156	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001643	Patent ductus arteriosus									PCS	occasional								ISBN-13:978-0721606156	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0001629	Ventricular septal defect									PCS	occasional								ISBN-13:978-0721606156	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000076	Vesicoureteral reflux									PCS	occasional								ISBN-13:978-0721606156	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000113	Polycystic kidney dysplasia									PCS	occasional								ISBN-13:978-0721606156	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002360	Sleep disturbances									PCS	occasional								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002136	Broad-based gait									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0002317	Unsteady gait									PCS	typical								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
+MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0100704	Cortical visual impairment									PCS	6%								http://www.ncbi.nlm.nih.gov/books/NBK1198/	24.04.2012	
 MIM:606232	CHROMOSOME 22q13.3 DELETION SYNDROME			del22q13.3		HP:0000717	Autism									PCS	common								http://www.ncbi.nlm.nih.gov/books/NBK1198/	03.04.2011	

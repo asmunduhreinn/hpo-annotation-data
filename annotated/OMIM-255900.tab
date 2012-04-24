@@ -1,11 +1,11 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:255900	MYXEDEMA					HP:0000821	Hypothyroidism			IEA	IEA									17.02.2009	
-MIM:255900	MYXEDEMA					HP:0000966	Hypohidrosis			IEA	IEA									17.02.2009	
-MIM:255900	MYXEDEMA					HP:0001608	Abnormality of the voice			IEA	IEA									17.02.2009	
-MIM:255900	MYXEDEMA					HP:0002019	Constipation			IEA	IEA									17.02.2009	
-MIM:255900	MYXEDEMA					HP:0002925	Increased serum thyroid-stimulating hormone (TSH)			IEA	IEA									17.02.2009	
-MIM:255900	MYXEDEMA					HP:0003394	Muscle cramps			IEA	IEA									17.02.2009	
-MIM:255900	MYXEDEMA					HP:0003401	Paresthesia			IEA	IEA									17.02.2009	
-MIM:255900	MYXEDEMA					HP:0001609	Hoarse voice			IEA	IEA									11.04.2012	
-MIM:255900	MYXEDEMA					HP:0002354	Memory impairment			IEA	IEA									11.04.2012	
-MIM:255900	MYXEDEMA					HP:0003388	Easy fatigability			IEA	IEA									11.04.2012	
+MIM:255900	MYXEDEMA					HP:0000821	Hypothyroidism			IEA	IEA									17.02.2009
+MIM:255900	MYXEDEMA					HP:0000966	Hypohidrosis			IEA	IEA									17.02.2009
+MIM:255900	MYXEDEMA					HP:0001608	Abnormality of the voice			IEA	IEA									17.02.2009
+MIM:255900	MYXEDEMA					HP:0002019	Constipation			IEA	IEA									17.02.2009
+MIM:255900	MYXEDEMA					HP:0002925	Increased serum thyroid-stimulating hormone (TSH)			IEA	IEA									17.02.2009
+MIM:255900	MYXEDEMA					HP:0003394	Muscle cramps			IEA	IEA									17.02.2009
+MIM:255900	MYXEDEMA					HP:0003401	Paresthesia			IEA	IEA									17.02.2009
+MIM:255900	MYXEDEMA					HP:0001609	Hoarse voice			IEA	IEA									11.04.2012
+MIM:255900	MYXEDEMA					HP:0002354	Memory impairment			IEA	IEA									11.04.2012
+MIM:255900	MYXEDEMA					HP:0003388	Easy fatigability			IEA	IEA									11.04.2012

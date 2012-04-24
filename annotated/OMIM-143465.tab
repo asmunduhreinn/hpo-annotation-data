@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:143465	ATTENTION DEFICIT-HYPERACTIVITY DISORDER					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:143465	HPO	2009.02.17
-OMIM:143465	ATTENTION DEFICIT-HYPERACTIVITY DISORDER					HP:0000752	Hyperactivity			IEA	IEA							OMIM:143465	HPO	2009.02.17
-OMIM:143465	ATTENTION DEFICIT-HYPERACTIVITY DISORDER					HP:0007018	Attention deficit hyperactivity disorder			ITM	ITM							OMIM:143465	HPO	2009.02.17
+OMIM:143465	ATTENTION DEFICIT-HYPERACTIVITY DISORDER					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:143465	HPO	17.02.2009
+OMIM:143465	ATTENTION DEFICIT-HYPERACTIVITY DISORDER					HP:0000752	Hyperactivity			IEA	IEA							OMIM:143465	HPO	17.02.2009
+OMIM:143465	ATTENTION DEFICIT-HYPERACTIVITY DISORDER					HP:0007018	Attention deficit hyperactivity disorder			ITM	ITM							OMIM:143465	HPO	17.02.2009

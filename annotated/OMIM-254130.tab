@@ -1,9 +1,9 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:254130	MIYOSHI MYOPATHY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:254130	HPO	2009.02.17
-OMIM:254130	MIYOSHI MYOPATHY					HP:0001425	Heterogeneous			IEA	IEA							OMIM:254130	SKOEHLER	2010.06.19
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003236	Elevated serum creatine phosphokinase			IEA	IEA							OMIM:254130	HPO	2009.02.17
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003438	Absent Achilles reflex			IEA	IEA							OMIM:254130	HPO	2009.02.17
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003551	Difficulty climbing stairs			IEA	IEA							OMIM:254130	HPO	2009.02.17
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003560	Muscular dystrophy			IEA	IEA							OMIM:254130	HPO	2009.02.17
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003746	Amyotrophy involving the lower limbs			IEA	IEA							OMIM:254130	HPO	2009.02.17
-OMIM:254130	MIYOSHI MYOPATHY					HP:0007340	Lower limb muscle weakness			IEA	IEA							OMIM:254130	HPO	2009.02.17
+OMIM:254130	MIYOSHI MYOPATHY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:254130	HPO	17.02.2009
+OMIM:254130	MIYOSHI MYOPATHY					HP:0001425	Heterogeneous			IEA	IEA							OMIM:254130	SKOEHLER	19.06.2010
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003236	Elevated serum creatine phosphokinase			IEA	IEA							OMIM:254130	HPO	17.02.2009
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003438	Absent Achilles reflex			IEA	IEA							OMIM:254130	HPO	17.02.2009
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003551	Difficulty climbing stairs			IEA	IEA							OMIM:254130	HPO	17.02.2009
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003560	Muscular dystrophy			IEA	IEA							OMIM:254130	HPO	17.02.2009
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003746	Amyotrophy involving the lower limbs			IEA	IEA							OMIM:254130	HPO	17.02.2009
+OMIM:254130	MIYOSHI MYOPATHY					HP:0007340	Lower limb muscle weakness			IEA	IEA							OMIM:254130	HPO	17.02.2009

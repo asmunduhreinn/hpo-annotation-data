@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:604229	PETERS ANOMALY					HP:0000007	Autosomal recessive inheritance			PCS	PCS							PMID:10051017	HPO:curators	2009.02.17
-OMIM:604229	PETERS ANOMALY					HP:0000486	Strabismus			PCS	PCS	16%						PMID:14711722	HPO:curators	2012.04.19
-OMIM:604229	PETERS ANOMALY					HP:0000639	Nystagmus			PCS	PCS	32%						PMID:14711722	HPO:curators	2012.04.19
-OMIM:604229	PETERS ANOMALY					HP:0001087	Congenital glaucoma			PCS	PCS	common						PMID:11403040; PMID:14711722	HPO:curators	2012.04.19
-OMIM:604229	PETERS ANOMALY					HP:0003745	Sporadic			PCS	PCS							PMID:8162071; PMID:10051017	HPO:curators	2012.04.19
-OMIM:604229	PETERS ANOMALY					HP:0007957	Reduction of corneal clarity			PCS	PCS	hallmark						PMID:8162071; PMID:10051017	HPO:curators	2012.04.19
+OMIM:604229	PETERS ANOMALY					HP:0000007	Autosomal recessive inheritance			PCS	PCS							PMID:10051017	HPO:curators	17.02.2009
+OMIM:604229	PETERS ANOMALY					HP:0000486	Strabismus			PCS	PCS	16%						PMID:14711722	HPO:curators	19.04.2012
+OMIM:604229	PETERS ANOMALY					HP:0000639	Nystagmus			PCS	PCS	32%						PMID:14711722	HPO:curators	19.04.2012
+OMIM:604229	PETERS ANOMALY					HP:0001087	Congenital glaucoma			PCS	PCS	common						PMID:11403040; PMID:14711722	HPO:curators	19.04.2012
+OMIM:604229	PETERS ANOMALY					HP:0003745	Sporadic			PCS	PCS							PMID:8162071; PMID:10051017	HPO:curators	19.04.2012
+OMIM:604229	PETERS ANOMALY					HP:0007957	Reduction of corneal clarity			PCS	PCS	hallmark						PMID:8162071; PMID:10051017	HPO:curators	19.04.2012

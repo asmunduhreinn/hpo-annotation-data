@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:133180	ERYTHROLEUKEMIA, FAMILIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:133180	HPO	2009.02.17
-OMIM:133180	ERYTHROLEUKEMIA, FAMILIAL					HP:0001909	Leukemia			IEA	IEA							OMIM:133180	SKOEHLER	2010.06.20
-OMIM:133180	ERYTHROLEUKEMIA, FAMILIAL					HP:0002916	Abnormality of chromosome segregation			ITM	ITM							OMIM:133180	HPO	2009.02.17
-OMIM:133180	ERYTHROLEUKEMIA, FAMILIAL					HP:0004828	myelodysplasia with sideroblastosis			IEA	IEA							OMIM:133180	HPO	2009.02.17
-OMIM:133180	ERYTHROLEUKEMIA, FAMILIAL					HP:0010972	Anemia of inadequate production			ITM	ITM							OMIM:133180	HPO	2009.02.17
+OMIM:133180	ERYTHROLEUKEMIA, FAMILIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:133180	HPO	17.02.2009
+OMIM:133180	ERYTHROLEUKEMIA, FAMILIAL					HP:0001909	Leukemia			IEA	IEA							OMIM:133180	SKOEHLER	20.06.2010
+OMIM:133180	ERYTHROLEUKEMIA, FAMILIAL					HP:0002916	Abnormality of chromosome segregation			ITM	ITM							OMIM:133180	HPO	17.02.2009
+OMIM:133180	ERYTHROLEUKEMIA, FAMILIAL					HP:0004828	myelodysplasia with sideroblastosis			IEA	IEA							OMIM:133180	HPO	17.02.2009
+OMIM:133180	ERYTHROLEUKEMIA, FAMILIAL					HP:0010972	Anemia of inadequate production			ITM	ITM							OMIM:133180	HPO	17.02.2009

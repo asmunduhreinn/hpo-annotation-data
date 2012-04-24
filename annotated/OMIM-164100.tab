@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:164100	NYSTAGMUS 2, CONGENITAL, AUTOSOMAL DOMINANT					HP:0000006	Autosomal dominant inheritance			IEA	IEA									17.02.2009	
-MIM:164100	NYSTAGMUS 2, CONGENITAL, AUTOSOMAL DOMINANT					HP:0000486	Strabismus			PCS	PCS							MIM:164100	probinson	01.04.2012	
-MIM:164100	NYSTAGMUS 2, CONGENITAL, AUTOSOMAL DOMINANT					HP:0000505	Impaired vision			PCS	PCS						Mild	MIM:164100	probinson	01.04.2012	
-MIM:164100	NYSTAGMUS 2, CONGENITAL, AUTOSOMAL DOMINANT					HP:0000666	Nystagmus, horizontal			PCS	PCS						Mild	MIM:164100	probinson	01.04.2012	
+MIM:164100	NYSTAGMUS 2, CONGENITAL, AUTOSOMAL DOMINANT					HP:0000006	Autosomal dominant inheritance			IEA	IEA									17.02.2009
+MIM:164100	NYSTAGMUS 2, CONGENITAL, AUTOSOMAL DOMINANT					HP:0000486	Strabismus			PCS	PCS							MIM:164100	probinson	01.04.2012
+MIM:164100	NYSTAGMUS 2, CONGENITAL, AUTOSOMAL DOMINANT					HP:0000505	Impaired vision			PCS	PCS						Mild	MIM:164100	probinson	01.04.2012
+MIM:164100	NYSTAGMUS 2, CONGENITAL, AUTOSOMAL DOMINANT					HP:0000666	Nystagmus, horizontal			PCS	PCS						Mild	MIM:164100	probinson	01.04.2012

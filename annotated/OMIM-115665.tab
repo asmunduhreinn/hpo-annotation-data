@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
-MIM:115665	CATARACT, CONGENITAL, VOLKMANN TYPE					HP:0000006	Autosomal dominant inheritance									PCS									OMIM:115665	Feb 17, 2009	
-MIM:115665	CATARACT, CONGENITAL, VOLKMANN TYPE					HP:0100018	Nuclear cataract							HP:0003577	Onset at birth	PCS	41/41								pmid:7607651	Feb 17, 2009	
-MIM:115665	CATARACT, CONGENITAL, VOLKMANN TYPE					HP:0000529	Progressive visual loss									PCS									pmid:7607651	Feb 17, 2009	
+MIM:115665	CATARACT, CONGENITAL, VOLKMANN TYPE					HP:0000006	Autosomal dominant inheritance									PCS									OMIM:115665	17.02.2009
+MIM:115665	CATARACT, CONGENITAL, VOLKMANN TYPE					HP:0100018	Nuclear cataract							HP:0003577	Onset at birth	PCS	41/41								pmid:7607651	17.02.2009
+MIM:115665	CATARACT, CONGENITAL, VOLKMANN TYPE					HP:0000529	Progressive visual loss									PCS									pmid:7607651	17.02.2009

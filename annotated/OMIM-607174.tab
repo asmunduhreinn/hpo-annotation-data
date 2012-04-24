@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:607174	MENINGIOMA, FAMILIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:607174	HPO	2009.02.17
-OMIM:607174	MENINGIOMA, FAMILIAL					HP:0002858	Meningioma			IEA	IEA							OMIM:607174	HPO	2009.02.17
-OMIM:607174	MENINGIOMA, FAMILIAL					HP:0002916	Abnormality of chromosome segregation			ITM	ITM							OMIM:607174	HPO	2009.02.17
+OMIM:607174	MENINGIOMA, FAMILIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:607174	HPO	17.02.2009
+OMIM:607174	MENINGIOMA, FAMILIAL					HP:0002858	Meningioma			IEA	IEA							OMIM:607174	HPO	17.02.2009
+OMIM:607174	MENINGIOMA, FAMILIAL					HP:0002916	Abnormality of chromosome segregation			ITM	ITM							OMIM:607174	HPO	17.02.2009

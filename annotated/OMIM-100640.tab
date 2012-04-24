@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:100640	ALDEHYDE DEHYDROGENASE 1 FAMILY, MEMBER A1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:100640	HPO	2009.02.17
-OMIM:100640	ALDEHYDE DEHYDROGENASE 1 FAMILY, MEMBER A1					HP:0001033	Facial flushing after alcohol intake			IEA	IEA							OMIM:100640	HPO	2009.02.17
-OMIM:100640	ALDEHYDE DEHYDROGENASE 1 FAMILY, MEMBER A1					HP:0003533	Delayed oxidation of acetaldehyde			IEA	IEA							OMIM:100640	HPO	2009.02.17
+OMIM:100640	ALDEHYDE DEHYDROGENASE 1 FAMILY, MEMBER A1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:100640	HPO	17.02.2009
+OMIM:100640	ALDEHYDE DEHYDROGENASE 1 FAMILY, MEMBER A1					HP:0001033	Facial flushing after alcohol intake			IEA	IEA							OMIM:100640	HPO	17.02.2009
+OMIM:100640	ALDEHYDE DEHYDROGENASE 1 FAMILY, MEMBER A1					HP:0003533	Delayed oxidation of acetaldehyde			IEA	IEA							OMIM:100640	HPO	17.02.2009
