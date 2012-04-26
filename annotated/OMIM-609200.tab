@@ -1,17 +1,17 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:609200	MYOTILINOPATHY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0001271	Polyneuropathy			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0001284	Areflexia			ITM	ITM							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0001638	Cardiomyopathy			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0001771	Achilles tendon contracture			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0002600	Hyporeflexia of lower limbs			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0003236	Elevated serum creatine phosphokinase			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0003581	Adult onset			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0003677	Slow progression			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0003693	Distal amyotrophy			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0003701	Proximal muscle weakness			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0003715	Myofibrillar myopathy			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0003790	Abnormal muscle fibers with amorphous, granular, or hyaline deposits			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0006785	Limb-girdle muscular dystrophy			ITM	ITM							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0009014	Muscle stiffness or aching			IEA	IEA							OMIM:609200	HPO	17.02.2009
-OMIM:609200	MYOTILINOPATHY					HP:0009063	Progressive distal muscle weakness			IEA	IEA							OMIM:609200	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609200	MYOTILINOPATHY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0001271	Polyneuropathy			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0001638	Cardiomyopathy			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0001771	Achilles tendon contracture			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0002600	Hyporeflexia of lower limbs			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0003236	Elevated serum creatine phosphokinase			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0003581	Adult onset			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0003677	Slow progression			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0003693	Distal amyotrophy			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0003701	Proximal muscle weakness			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0003715	Myofibrillar myopathy			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0003790	Abnormal muscle fibers with amorphous, granular, or hyaline deposits			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0009063	Progressive distal muscle weakness			IEA	IEA							OMIM:609200	HPO	17.02.2009	
+OMIM:609200	MYOTILINOPATHY					HP:0001284	Areflexia			TAS	TAS							OMIM:609200	probinson	26.04.2012	
+OMIM:609200	MYOTILINOPATHY					HP:0003552	Muscle stiffness			TAS	TAS							OMIM:609200	probinson	26.04.2012	
+OMIM:609200	MYOTILINOPATHY					HP:0003326	Myalgia			TAS	TAS							OMIM:609200	probinson	26.04.2012	
