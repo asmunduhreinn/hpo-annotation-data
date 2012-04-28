@@ -1,11 +1,11 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003560	Muscular dystrophy			IEA	IEA							OMIM:254130	HPO	Feb 17, 2009	
-OMIM:254130	MIYOSHI MYOPATHY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:254130	probinson	Apr 26, 2012	
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003551	Difficulty climbing stairs			TAS	TAS							OMIM:254130	probinson	Apr 26, 2012	
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003693	Distal amyotrophy			TAS	TAS							OMIM:254130	probinson	Apr 26, 2012	
-OMIM:254130	MIYOSHI MYOPATHY					HP:0002460	Distal muscle weakness			TAS	TAS							OMIM:254130	probinson	Apr 26, 2012	
-OMIM:254130	MIYOSHI MYOPATHY					HP:0009072	Decreased Achilles reflex			TAS	TAS							OMIM:254130	probinson	Apr 26, 2012	
-OMIM:254130	MIYOSHI MYOPATHY					HP:0010546	Muscle fibrillation			TAS	TAS							OMIM:254130	probinson	Apr 26, 2012	
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003236	Elevated serum creatine phosphokinase			TAS	TAS							OMIM:254130	probinson	Apr 26, 2012	
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003791	Deposits immunoreactive to beta-amyloid protein			TAS	TAS	Rare						OMIM:254130	probinson	Apr 26, 2012	
-OMIM:254130	MIYOSHI MYOPATHY					HP:0003581	Adult onset			TAS	TAS	Common						OMIM:254130	probinson	Apr 26, 2012	
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003560	Muscular dystrophy			IEA	IEA							OMIM:254130	HPO		
+OMIM:254130	MIYOSHI MYOPATHY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:254130	probinson		
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003551	Difficulty climbing stairs			TAS	TAS							OMIM:254130	probinson		
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003693	Distal amyotrophy			TAS	TAS							OMIM:254130	probinson		
+OMIM:254130	MIYOSHI MYOPATHY					HP:0002460	Distal muscle weakness			TAS	TAS							OMIM:254130	probinson		
+OMIM:254130	MIYOSHI MYOPATHY					HP:0009072	Decreased Achilles reflex			TAS	TAS							OMIM:254130	probinson		
+OMIM:254130	MIYOSHI MYOPATHY					HP:0010546	Muscle fibrillation			TAS	TAS							OMIM:254130	probinson		
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003236	Elevated serum creatine phosphokinase			TAS	TAS							OMIM:254130	probinson		
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003791	Deposits immunoreactive to beta-amyloid protein			TAS	TAS	Rare						OMIM:254130	probinson		
+OMIM:254130	MIYOSHI MYOPATHY					HP:0003581	Adult onset			TAS	TAS	Common						OMIM:254130	probinson		
