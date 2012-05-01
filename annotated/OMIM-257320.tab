@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:257320	LISSENCEPHALY 2					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:257320	HPO	17.02.2009
-OMIM:257320	LISSENCEPHALY 2					HP:0000252	Microcephaly			IEA	IEA							OMIM:257320	HPO	17.02.2009
-OMIM:257320	LISSENCEPHALY 2					HP:0000426	Prominent nasal bridge			IEA	IEA							OMIM:257320	HPO	17.02.2009
-OMIM:257320	LISSENCEPHALY 2					HP:0006818	Type I lissencephaly			IEA	IEA							OMIM:257320	HPO	17.02.2009
-OMIM:257320	LISSENCEPHALY 2					HP:0006891	Thick cerebral cortex			IEA	IEA							OMIM:257320	HPO	17.02.2009
-OMIM:257320	LISSENCEPHALY 2					HP:0008493	Low, sloping forehead			IEA	IEA							OMIM:257320	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:257320	LISSENCEPHALY 2					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:257320	HPO	17.02.2009	
+OMIM:257320	LISSENCEPHALY 2					HP:0000252	Microcephaly			IEA	IEA							OMIM:257320	HPO	17.02.2009	
+OMIM:257320	LISSENCEPHALY 2					HP:0000426	Prominent nasal bridge			IEA	IEA							OMIM:257320	HPO	17.02.2009	
+OMIM:257320	LISSENCEPHALY 2					HP:0006818	Type I lissencephaly			IEA	IEA							OMIM:257320	HPO	17.02.2009	
+OMIM:257320	LISSENCEPHALY 2					HP:0006891	Thick cerebral cortex			IEA	IEA							OMIM:257320	HPO	17.02.2009	
+OMIM:257320	LISSENCEPHALY 2					HP:0000340	Sloping forehead			TAS	TAS							OMIM:257320	probinson	01.05.2012	
