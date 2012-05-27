@@ -1,12 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:121070	HPO	17.02.2009
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0000160	Narrow mouth			IEA	IEA							OMIM:121070	HPO	17.02.2009
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0000252	Microcephaly			IEA	IEA							OMIM:121070	SKOEHLER	20.06.2010
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0000347	Micrognathia			IEA	IEA							OMIM:121070	HPO	17.02.2009
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0000598	Abnormality of the ear			IEA	IEA							OMIM:121070	HPO	17.02.2009
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0000716	Depression			ITM	ITM							OMIM:121070	HPO	17.02.2009
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0001762	Talipes equinovarus			IEA	IEA							OMIM:121070	HPO	17.02.2009
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0002804	Arthrogryposis multiplex congenita			ITM	ITM							OMIM:121070	HPO	17.02.2009
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0004571	widening of cervical spinal canal			ITM	ITM							OMIM:121070	HPO	17.02.2009
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0005814	Severe flexion contractures of hands and feet			IEA	IEA							OMIM:121070	HPO	17.02.2009
-OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0100015	Stahl ear			IEA	IEA				NOT	NOT		OMIM:121070	SKOEHLER	20.06.2010
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:121070	HPO	17.02.2009	
+OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0000160	Narrow mouth			IEA	IEA							OMIM:121070	HPO	17.02.2009	
+OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0000252	Microcephaly			TAS	TAS						Mild	OMIM:121070	probinson	20.06.2010	
+OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0000347	Micrognathia			IEA	IEA							OMIM:121070	HPO	17.02.2009	
+OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0011234	Absent antihelix			TAS	TAS							OMIM:121070	probinson	17.02.2009	
+OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0001762	Talipes equinovarus			IEA	IEA							OMIM:121070	HPO	17.02.2009	
+OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0005684	Distal arthrogryposis			TAS	TAS							OMIM:121070	probinson	17.02.2009	
+OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0009473	Joint contractures involving the joints of the hand			TAS	TAS						Severe	OMIM:121070	probinson	27.05.2012	
+OMIM:121070	ARTHROGRYPOSIS, DISTAL, TYPE 2E					HP:0100492	Joint contractures involving the joints of the feet			TAS	TAS						Severe	OMIM:121070	probinson	27.05.2012	
