@@ -1,10 +1,11 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:227600	FACTOR X DEFICIENCY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:227600	HPO	17.02.2009
-OMIM:227600	FACTOR X DEFICIENCY					HP:0000132	Menorrhagia			IEA	IEA							OMIM:227600	HPO	17.02.2009
-OMIM:227600	FACTOR X DEFICIENCY					HP:0000225	Gingival bleeding			ITM	ITM							OMIM:227600	HPO	17.02.2009
-OMIM:227600	FACTOR X DEFICIENCY					HP:0000421	Epistaxis			IEA	IEA							OMIM:227600	HPO	17.02.2009
-OMIM:227600	FACTOR X DEFICIENCY					HP:0002170	Intracranial hemorrhage			IEA	IEA							OMIM:227600	HPO	17.02.2009
-OMIM:227600	FACTOR X DEFICIENCY					HP:0003011	Abnormality of musculature			IEA	IEA							OMIM:227600	HPO	17.02.2009
-OMIM:227600	FACTOR X DEFICIENCY					HP:0005261	Joint hemorrhage			IEA	IEA							OMIM:227600	HPO	17.02.2009
-OMIM:227600	FACTOR X DEFICIENCY					HP:0008151	Prolonged prothrombin and partial thromboplastin times			IEA	IEA							OMIM:227600	HPO	17.02.2009
-OMIM:227600	FACTOR X DEFICIENCY					HP:0008321	Factor X deficiency			IEA	IEA							OMIM:227600	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:227600	FACTOR X DEFICIENCY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:227600	HPO	17.02.2009	
+OMIM:227600	FACTOR X DEFICIENCY					HP:0000132	Menorrhagia			IEA	IEA							OMIM:227600	HPO	17.02.2009	
+OMIM:227600	FACTOR X DEFICIENCY					HP:0000225	Gingival bleeding			TAS	TAS							OMIM:227600	probinson	17.02.2009	
+OMIM:227600	FACTOR X DEFICIENCY					HP:0000421	Epistaxis			IEA	IEA							OMIM:227600	HPO	17.02.2009	
+OMIM:227600	FACTOR X DEFICIENCY					HP:0002170	Intracranial hemorrhage			IEA	IEA							OMIM:227600	HPO	17.02.2009	
+OMIM:227600	FACTOR X DEFICIENCY					HP:0003011	Abnormality of the musculature			IEA	IEA							OMIM:227600	HPO	17.02.2009	
+OMIM:227600	FACTOR X DEFICIENCY					HP:0005261	Joint hemorrhage			IEA	IEA							OMIM:227600	HPO	17.02.2009	
+OMIM:227600	FACTOR X DEFICIENCY					HP:0008151	Prolonged prothrombin and partial thromboplastin times			TAS	TAS							OMIM:227600	probinson	17.02.2009	
+OMIM:227600	FACTOR X DEFICIENCY					HP:0008321	Reduced factor X activity			IEA	IEA							OMIM:227600	HPO	17.02.2009	
+OMIM:227600	FACTOR X DEFICIENCY					HP:0003645	Prolonged partial thromboplastin time			TAS	TAS							OMIM:227600	probinson	02.06.2012	
