@@ -1,6 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:252270	MONOSOMY 7 OF BONE MARROW					HP:0001873	Thrombocytopenia			IEA	IEA							OMIM:252270	HPO	17.02.2009
-OMIM:252270	MONOSOMY 7 OF BONE MARROW					HP:0002863	Myelodysplasia			IEA	IEA							OMIM:252270	SKOEHLER	20.06.2010
-OMIM:252270	MONOSOMY 7 OF BONE MARROW					HP:0004808	Acute myeloid leukemia			IEA	IEA							OMIM:252270	SKOEHLER	20.06.2010
-OMIM:252270	MONOSOMY 7 OF BONE MARROW					HP:0005516	Myelodysplasia and acute myelogenous leukemia			IEA	IEA							OMIM:252270	HPO	17.02.2009
-OMIM:252270	MONOSOMY 7 OF BONE MARROW					HP:0005518	Erythrocyte macrocytosis			IEA	IEA							OMIM:252270	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:252270	MONOSOMY 7 OF BONE MARROW					HP:0001873	Thrombocytopenia			IEA	IEA							OMIM:252270	HPO	17.02.2009	
+OMIM:252270	MONOSOMY 7 OF BONE MARROW					HP:0002863	Myelodysplasia			IEA	IEA							OMIM:252270	SKOEHLER	20.06.2010	
+OMIM:252270	MONOSOMY 7 OF BONE MARROW					HP:0004808	Acute myeloid leukemia			IEA	IEA							OMIM:252270	SKOEHLER	20.06.2010	
+OMIM:252270	MONOSOMY 7 OF BONE MARROW					HP:0005518	Erythrocyte macrocytosis			IEA	IEA							OMIM:252270	HPO	17.02.2009	

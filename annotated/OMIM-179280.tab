@@ -1,8 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:179280	RADIAL-RENAL SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:179280	HPO	17.02.2009
-OMIM:179280	RADIAL-RENAL SYNDROME					HP:0000086	Ectopic kidney			IEA	IEA							OMIM:179280	SKOEHLER	20.06.2010
-OMIM:179280	RADIAL-RENAL SYNDROME					HP:0000104	Renal agenesis			IEA	IEA							OMIM:179280	HPO	17.02.2009
-OMIM:179280	RADIAL-RENAL SYNDROME					HP:0003220	Abnormality of chromosome stability			IEA	IEA							OMIM:179280	HPO	17.02.2009
-OMIM:179280	RADIAL-RENAL SYNDROME					HP:0004322	Short stature			IEA	IEA							OMIM:179280	HPO	17.02.2009
-OMIM:179280	RADIAL-RENAL SYNDROME					HP:0005870	Bilateral absent thumb and radius			IEA	IEA							OMIM:179280	HPO	17.02.2009
-OMIM:179280	RADIAL-RENAL SYNDROME					HP:0008572	External ear malformation			IEA	IEA							OMIM:179280	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:179280	RADIAL-RENAL SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:179280	HPO	17.02.2009	
+OMIM:179280	RADIAL-RENAL SYNDROME					HP:0000086	Ectopic kidney			IEA	IEA							OMIM:179280	SKOEHLER	20.06.2010	
+OMIM:179280	RADIAL-RENAL SYNDROME					HP:0000104	Renal agenesis			IEA	IEA							OMIM:179280	HPO	17.02.2009	
+OMIM:179280	RADIAL-RENAL SYNDROME					HP:0004322	Short stature			IEA	IEA							OMIM:179280	HPO	17.02.2009	
+OMIM:179280	RADIAL-RENAL SYNDROME					HP:0008572	External ear malformation			IEA	IEA							OMIM:179280	HPO	17.02.2009	
+OMIM:179280	RADIAL-RENAL SYNDROME					HP:0009777	Absent thumb			TAS	TAS						Bilateral	OMIM:179280	probinson	03.06.2012	
+OMIM:179280	RADIAL-RENAL SYNDROME					HP:0003974	Absent ossification/absence of radius			TAS	TAS						Bilateral	OMIM:179280	probinson	03.06.2012	
+OMIM:179280	RADIAL-RENAL SYNDROME					HP:0003220	Abnormality of chromosome stability			TAS	TAS						Bilateral	OMIM:179280	probinson	03.06.2012	
