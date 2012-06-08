@@ -33,7 +33,7 @@ MIM:300258	ROIFMAN SYNDROME					HP:0004209	Clinodactyly of the 5th finger			IEA	
 MIM:300258	ROIFMAN SYNDROME					HP:0004704	Short fifth metatarsal			IEA	IEA									17.02.2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0006580	Portal fibrosis			TAS	TAS						Mild	MIM:300258	probinson	17.02.2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0006889	Intellectual disability, borderline			TAS	TAS							MIM:300258	probinson	17.02.2009	
-MIM:300258	ROIFMAN SYNDROME					HP:0008804	Broad femoral heads and necks			IEA	IEA									17.02.2009	
+MIM:300258	ROIFMAN SYNDROME					HP:0008804	Broad femoral heads and necks			TAS	TAS							MIM:300258	probinson	17.02.2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0008806	Small, irregular proximal femoral epiphyses			IEA	IEA									17.02.2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0011406	Infancy onset short-trunk short stature			IEA	IEA									17.02.2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0010240	Hypoplasia of the middle phalanges of the hand			IEA	IEA									17.02.2009	
@@ -47,3 +47,4 @@ MIM:300258	ROIFMAN SYNDROME					HP:0004689	Short fourth metatarsal			IEA	IEA				
 MIM:300258	ROIFMAN SYNDROME					HP:0011231	Prominent eyelashes			TAS	TAS							MIM:300258	probinson	03.06.2012	
 MIM:300258	ROIFMAN SYNDROME					HP:0010041	Short 3rd metacarpal			TAS	TAS							MIM:300258	probinson	03.06.2012	
 MIM:300258	ROIFMAN SYNDROME					HP:0010044	Short 4th metacarpal			TAS	TAS							MIM:300258	probinson	03.06.2012	
+MIM:300258	ROIFMAN SYNDROME					HP:0006429	Broad femoral neck			TAS	TAS							MIM:300258	probinson	08.06.2012	
