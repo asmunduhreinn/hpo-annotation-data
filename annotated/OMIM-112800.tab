@@ -1,8 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:112800	HPO	17.02.2009
-OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0001507	Growth abnormality			IEA	IEA							OMIM:112800	HPO	17.02.2009
-OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0005706	Short middle phalanx of fingers 2 and 5			IEA	IEA							OMIM:112800	HPO	17.02.2009
-OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0005850	Congenital talipes calcaneovalgus			IEA	IEA							OMIM:112800	HPO	17.02.2009
-OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0009370	Type A Brachydactyly			ITM	ITM							OMIM:112800	HPO	17.02.2009
-OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0010239	Aplasia of the middle phalanges of the hand			ITM	ITM							OMIM:112800	HPO	17.02.2009
-OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0010240	Hypoplasia of the middle phalanges of the hand			ITM	ITM							OMIM:112800	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:112800	HPO	17.02.2009	
+OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0001507	Growth abnormality			IEA	IEA							OMIM:112800	HPO	17.02.2009	
+OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0005850	Congenital talipes calcaneovalgus			IEA	IEA							OMIM:112800	HPO	17.02.2009	
+OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0009370	Type A Brachydactyly			TAS	TAS							OMIM:112800	HPO	17.02.2009	
+OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0100387	Aplasia of the middle phalanges of the toes			TAS	TAS							OMIM:112800	HPO	17.02.2009	
+OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0009577	Short middle phalanx of the 2nd finger			TAS	TAS							OMIM:112800	probinson	09.06.2012	
+OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0004220	Short middle phalanx of the 5th finger			TAS	TAS							OMIM:112800	probinson	09.06.2012	
+OMIM:112800	BRACHYDACTYLY, TYPE A4					HP:0001884	Talipes calcaneovalgus	HP:0003577	Congenital onset	TAS	TAS							OMIM:112800	probinson	09.06.2012	
