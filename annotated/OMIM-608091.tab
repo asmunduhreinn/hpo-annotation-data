@@ -24,7 +24,6 @@ MIM:608091	JOUBERT SYNDROME 2					HP:0001252	Muscular hypotonia			IEA	IEA							
 MIM:608091	JOUBERT SYNDROME 2					HP:0001273	Abnormality of the corpus callosum			IEA	IEA									17.02.2009	
 MIM:608091	JOUBERT SYNDROME 2					HP:0001760	Abnormality of the foot			IEA	IEA									17.02.2009	
 MIM:608091	JOUBERT SYNDROME 2					HP:0002084	Encephalocele			IEA	IEA									17.02.2009	
-MIM:608091	JOUBERT SYNDROME 2					HP:0002195	Dysgenesis or agenesis of the cerebellar vermis			IEA	IEA									17.02.2009	
 MIM:608091	JOUBERT SYNDROME 2					HP:0002365	Hypoplasia of the brainstem			IEA	IEA									17.02.2009	
 MIM:608091	JOUBERT SYNDROME 2					HP:0002419	Molar tooth sign on MRI			IEA	IEA									17.02.2009	
 MIM:608091	JOUBERT SYNDROME 2					HP:0002508	Malformation of brainstem structures			IEA	IEA									17.02.2009	
@@ -34,5 +33,7 @@ MIM:608091	JOUBERT SYNDROME 2					HP:0002876	Tachypnea, episodic			IEA	IEA						
 MIM:608091	JOUBERT SYNDROME 2					HP:0001263	Global developmental delay			PCS	PCS							MIM:608091	probinson	01.04.2012	
 MIM:608091	JOUBERT SYNDROME 2					HP:0100951	Enlarged fossa interpeduncularis			PCS	PCS							MIM:608091	probinson	01.04.2012	
 MIM:608091	JOUBERT SYNDROME 2					HP:0000657	Oculomotor apraxia			PCS	PCS							MIM:608091	probinson	01.04.2012	
-MIM:608091	JOUBERT SYNDROME 2					HP:0002404	Thickened superior cerebellar peduncles			TAS	TAS							MIM:608091	probinson	10.06.2012	
+MIM:608091	JOUBERT SYNDROME 2					HP:0002404	Thickened superior cerebellar peduncle			TAS	TAS							MIM:608091	probinson	10.06.2012	
 MIM:608091	JOUBERT SYNDROME 2					HP:0011933	Elongated superior cerebellar peduncle			TAS	TAS							MIM:608091	probinson	10.06.2012	
+MIM:608091	JOUBERT SYNDROME 2					HP:0002195	Dysgenesis of the cerebellar vermis			TAS	TAS						Or agenesis	MIM:608091	probinson	10.06.2012	
+MIM:608091	JOUBERT SYNDROME 2					HP:0002335	Agenesis of cerebellar vermis			TAS	TAS						Or dysgenesis	MIM:608091	probinson	10.06.2012	

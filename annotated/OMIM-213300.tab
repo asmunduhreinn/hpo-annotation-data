@@ -21,7 +21,6 @@ MIM:213300	JOUBERT SYNDROME					HP:0001252	Muscular hypotonia			IEA	IEA									
 MIM:213300	JOUBERT SYNDROME					HP:0001320	Cerebellar vermis hypoplasia			IEA	IEA									17.02.2009	
 MIM:213300	JOUBERT SYNDROME					HP:0001395	Hepatic fibrosis			IEA	IEA									17.02.2009	
 MIM:213300	JOUBERT SYNDROME					HP:0001760	Abnormality of the foot			IEA	IEA									17.02.2009	
-MIM:213300	JOUBERT SYNDROME					HP:0002195	Dysgenesis or agenesis of the cerebellar vermis			IEA	IEA									17.02.2009	
 MIM:213300	JOUBERT SYNDROME					HP:0002365	Hypoplasia of the brainstem			IEA	IEA									17.02.2009	
 MIM:213300	JOUBERT SYNDROME					HP:0002419	Molar tooth sign on MRI			IEA	IEA									17.02.2009	
 MIM:213300	JOUBERT SYNDROME					HP:0002508	Malformation of brainstem structures			IEA	IEA									17.02.2009	
@@ -37,3 +36,5 @@ MIM:213300	JOUBERT SYNDROME					HP:0007271	Occipital myelomeningocele			PCS	PCS	
 MIM:213300	JOUBERT SYNDROME					HP:0000107	Renal cysts			PCS	PCS	Rare						MIM:213300	probinson	01.04.2012	
 MIM:213300	JOUBERT SYNDROME					HP:0007973	Retinal dysplasia			PCS	PCS	Rare						MIM:213300	probinson	01.04.2012	
 MIM:213300	JOUBERT SYNDROME					HP:0011933	Elongated superior cerebellar peduncle			TAS	TAS							MIM:213300	probinson	10.06.2012	
+MIM:213300	JOUBERT SYNDROME					HP:0002335	Agenesis of cerebellar vermis			TAS	TAS						Or Dysgenesis of the cerebellar vermis	MIM:213300	probinson	10.06.2012	
+MIM:213300	JOUBERT SYNDROME					HP:0002195	Dysgenesis of the cerebellar vermis			TAS	TAS						Or Agenesis of cerebellar vermis	MIM:213300	probinson	10.06.2012	
