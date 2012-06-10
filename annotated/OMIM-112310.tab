@@ -1,11 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:112310	BOOMERANG DYSPLASIA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:112310	HPO	17.02.2009
-OMIM:112310	BOOMERANG DYSPLASIA					HP:0000424	Broad nasal root			IEA	IEA							OMIM:112310	HPO	17.02.2009
-OMIM:112310	BOOMERANG DYSPLASIA					HP:0002063	Rigidity			ITM	ITM							OMIM:112310	HPO	17.02.2009
-OMIM:112310	BOOMERANG DYSPLASIA					HP:0002970	Genu varum			ITM	ITM							OMIM:112310	HPO	17.02.2009
-OMIM:112310	BOOMERANG DYSPLASIA					HP:0003510	Severe short stature			ITM	ITM							OMIM:112310	HPO	17.02.2009
-OMIM:112310	BOOMERANG DYSPLASIA					HP:0003811	Neonatal death			IEA	IEA							OMIM:112310	HPO	17.02.2009
-OMIM:112310	BOOMERANG DYSPLASIA					HP:0003974	Absent ossification/absence of radius			ITM	ITM							OMIM:112310	HPO	17.02.2009
-OMIM:112310	BOOMERANG DYSPLASIA					HP:0004497	Hypoplastic nostrils			ITM	ITM							OMIM:112310	HPO	17.02.2009
-OMIM:112310	BOOMERANG DYSPLASIA					HP:0004507	Hypoplastic nares and septum			IEA	IEA							OMIM:112310	HPO	17.02.2009
-OMIM:112310	BOOMERANG DYSPLASIA					HP:0005740	Small iliac bodies			IEA	IEA							OMIM:112310	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:112310	BOOMERANG DYSPLASIA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:112310	HPO	17.02.2009	
+OMIM:112310	BOOMERANG DYSPLASIA					HP:0000424	Broad nasal root			IEA	IEA							OMIM:112310	HPO	17.02.2009	
+OMIM:112310	BOOMERANG DYSPLASIA					HP:0003510	Severe short stature			TAS	TAS							OMIM:112310	probinson	17.02.2009	
+OMIM:112310	BOOMERANG DYSPLASIA					HP:0003811	Neonatal death			TAS	TAS							OMIM:112310	probinson	17.02.2009	
+OMIM:112310	BOOMERANG DYSPLASIA					HP:0003974	Absent radius			TAS	TAS							OMIM:112310	probinson	17.02.2009	
+OMIM:112310	BOOMERANG DYSPLASIA					HP:0005740	Small iliac bodies			IEA	IEA							OMIM:112310	HPO	17.02.2009	
+OMIM:112310	BOOMERANG DYSPLASIA					HP:0004497	Hypoplastic nostrils			TAS	TAS							OMIM:112310	probinson	10.06.2012	
+OMIM:112310	BOOMERANG DYSPLASIA					HP:0005104	Hypoplastic nasal septum			TAS	TAS							OMIM:112310	probinson	10.06.2012	
+OMIM:112310	BOOMERANG DYSPLASIA					HP:0002990	Fibular aplasia			TAS	TAS							OMIM:112310	probinson	10.06.2012	

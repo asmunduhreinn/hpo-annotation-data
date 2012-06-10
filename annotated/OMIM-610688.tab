@@ -1,15 +1,16 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:610688	JOUBERT SYNDROME 6					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0000079	Abnormality of the urinary system			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0000657	Oculomotor apraxia			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0001249	Intellectual disability			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0001251	Ataxia			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0001252	Muscular hypotonia			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0001263	Global developmental delay			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0001320	Cerebellar vermis hypoplasia			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0001395	Hepatic fibrosis			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0001408	Bile duct proliferation			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0002404	Thick and elongated superior cerebellar peduncles			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0002419	Molar tooth sign on MRI			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0005957	Breathing dysregulation			IEA	IEA							OMIM:610688	HPO	17.02.2009
-OMIM:610688	JOUBERT SYNDROME 6					HP:0100951	Enlarged fossa interpeduncularis			IEA	IEA							OMIM:610688	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0000657	Oculomotor apraxia			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0001249	Intellectual disability			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0001251	Ataxia			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0001252	Muscular hypotonia			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0001263	Global developmental delay			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0001320	Cerebellar vermis hypoplasia			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0001395	Hepatic fibrosis			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0001408	Bile duct proliferation			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0002419	Molar tooth sign on MRI			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0005957	Breathing dysregulation			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0100951	Enlarged fossa interpeduncularis			IEA	IEA							OMIM:610688	HPO	17.02.2009	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0002404	Thickened superior cerebellar peduncles			TAS	TAS							OMIM:610688	probinson	10.06.2012	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0011933	Elongated superior cerebellar peduncle			TAS	TAS							OMIM:610688	probinson	10.06.2012	
+OMIM:610688	JOUBERT SYNDROME 6					HP:0000090	Nephronophthisis			TAS	TAS							OMIM:610688	probinson	10.06.2012	
