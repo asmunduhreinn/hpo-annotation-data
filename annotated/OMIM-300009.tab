@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:300009	DENT DISEASE 1					HP:0000084	Renal failure in adulthood			IEA	IEA							OMIM:300009	HPO	17.02.2009	
+OMIM:300009	DENT DISEASE 1					HP:0000083	Renal failure	HP:0003581	Adult onset	TAS	TAS							OMIM:300009	probinson	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0000106	Progressive renal insufficiency			IEA	IEA							OMIM:300009	HPO	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0000114	Proximal tubulopathy			IEA	IEA							OMIM:300009	HPO	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0000117	Decreased renal tubular phosphate reabsorption			IEA	IEA							OMIM:300009	HPO	17.02.2009	
@@ -9,7 +9,7 @@ OMIM:300009	DENT DISEASE 1					HP:0001419	X-linked recessive inheritance			IEA	I
 OMIM:300009	DENT DISEASE 1					HP:0002148	Hypophosphatemia			IEA	IEA							OMIM:300009	HPO	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0002150	Hypercalciuria			IEA	IEA							OMIM:300009	HPO	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0002653	Bone pain			IEA	IEA							OMIM:300009	HPO	17.02.2009	
-OMIM:300009	DENT DISEASE 1					HP:0002663	Late ossifying epiphyses			IEA	IEA							OMIM:300009	HPO	17.02.2009	
+OMIM:300009	DENT DISEASE 1					HP:0002663	Delayed epiphyseal ossification			IEA	IEA							OMIM:300009	HPO	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0002748	Rickets			IEA	IEA							OMIM:300009	HPO	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0002749	Osteomalacia			IEA	IEA							OMIM:300009	HPO	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0002752	Sparse bone trabeculae			IEA	IEA							OMIM:300009	HPO	17.02.2009	
@@ -26,7 +26,6 @@ OMIM:300009	DENT DISEASE 1					HP:0003109	Hyperphosphaturia			IEA	IEA							OMIM
 OMIM:300009	DENT DISEASE 1					HP:0003126	Low-molecular-weight proteinuria			IEA	IEA							OMIM:300009	HPO	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0003152	Increased serum 1,25-dihydroxyvitamin D3			IEA	IEA							OMIM:300009	SKOEHLER	20.06.2010	
 OMIM:300009	DENT DISEASE 1					HP:0003355	Aminoaciduria			IEA	IEA							OMIM:300009	HPO	17.02.2009	
-OMIM:300009	DENT DISEASE 1					HP:0003812	Phenotypic variability			IEA	IEA							OMIM:300009	HPO	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0004322	Short stature			IEA	IEA							OMIM:300009	HPO	17.02.2009	
 OMIM:300009	DENT DISEASE 1					HP:0002980	Femoral bowing			TAS	TAS							OMIM:300009	probinson	01.05.2012	
 OMIM:300009	DENT DISEASE 1					HP:0002982	Tibial bowing			TAS	TAS							OMIM:300009	probinson	01.05.2012	
