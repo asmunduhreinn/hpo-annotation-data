@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:108985	SVEINSSON CHORIORETINAL ATROPHY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:108985	HPO	17.02.2009
-OMIM:108985	SVEINSSON CHORIORETINAL ATROPHY					HP:0000483	Astigmatism			IEA	IEA							OMIM:108985	SKOEHLER	20.06.2010
-OMIM:108985	SVEINSSON CHORIORETINAL ATROPHY					HP:0000545	Myopia			ITM	ITM							OMIM:108985	HPO	17.02.2009
-OMIM:108985	SVEINSSON CHORIORETINAL ATROPHY					HP:0003677	Slow progression			IEA	IEA							OMIM:108985	HPO	17.02.2009
-OMIM:108985	SVEINSSON CHORIORETINAL ATROPHY					HP:0007950	Peripapillary chorioretinal atrophy			IEA	IEA							OMIM:108985	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:108985	SVEINSSON CHORIORETINAL ATROPHY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:108985	HPO	17.02.2009	
+OMIM:108985	SVEINSSON CHORIORETINAL ATROPHY					HP:0000483	Astigmatism			IEA	IEA							OMIM:108985	SKOEHLER	20.06.2010	
+OMIM:108985	SVEINSSON CHORIORETINAL ATROPHY					HP:0000545	Myopia			TAS	TAS							OMIM:108985	probinson	17.02.2009	
+OMIM:108985	SVEINSSON CHORIORETINAL ATROPHY					HP:0003677	Slow progression			IEA	IEA							OMIM:108985	HPO	17.02.2009	
+OMIM:108985	SVEINSSON CHORIORETINAL ATROPHY					HP:0007950	Peripapillary chorioretinal atrophy			IEA	IEA							OMIM:108985	HPO	17.02.2009	

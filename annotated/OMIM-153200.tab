@@ -1,9 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:153200	HPO	17.02.2009
-OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0000175	Cleft palate			ITM	ITM							OMIM:153200	HPO	17.02.2009
-OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0000508	Ptosis			ITM	ITM							OMIM:153200	HPO	17.02.2009
-OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0001597	Abnormality of the nail			IEA	IEA							OMIM:153200	HPO	17.02.2009
-OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0003011	Abnormality of musculature			IEA	IEA							OMIM:153200	HPO	17.02.2009
-OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0003550	Lymphedema, predominantly in the lower limbs			IEA	IEA							OMIM:153200	HPO	17.02.2009
-OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0003759	Hypoplasia of lymphatic vessels			IEA	IEA							OMIM:153200	HPO	17.02.2009
-OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0011007	Age of onset			ITM	ITM							OMIM:153200	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:153200	probinson	17.02.2009	
+OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0000175	Cleft palate			TAS	TAS	Occasional						OMIM:153200	probinson	17.02.2009	
+OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0003550	Predominantly lower limb lymphedema			TAS	TAS							OMIM:153200	probinson	17.02.2009	
+OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0003759	Hypoplasia of lymphatic vessels			TAS	TAS							OMIM:153200	probinson	17.02.2009	
+OMIM:153200	LYMPHEDEMA, HEREDITARY, II					HP:0011367	Yellow nails			TAS	TAS	Occasional						OMIM:153200	probinson	16.07.2012	
