@@ -1,9 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:109130	AXIAL OSTEOMALACIA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:109130	HPO	17.02.2009
-OMIM:109130	AXIAL OSTEOMALACIA					HP:0000108	Renal corticomedullary cysts			ITM	ITM							OMIM:109130	HPO	17.02.2009
-OMIM:109130	AXIAL OSTEOMALACIA					HP:0000113	Polycystic kidney dysplasia			ITM	ITM							OMIM:109130	HPO	17.02.2009
-OMIM:109130	AXIAL OSTEOMALACIA					HP:0002749	Osteomalacia			ITM	ITM							OMIM:109130	HPO	17.02.2009
-OMIM:109130	AXIAL OSTEOMALACIA					HP:0003198	Myopathy			IEA	IEA							OMIM:109130	HPO	17.02.2009
-OMIM:109130	AXIAL OSTEOMALACIA					HP:0003236	Elevated serum creatine phosphokinase			IEA	IEA							OMIM:109130	HPO	17.02.2009
-OMIM:109130	AXIAL OSTEOMALACIA					HP:0003701	Proximal muscle weakness			IEA	IEA							OMIM:109130	HPO	17.02.2009
-OMIM:109130	AXIAL OSTEOMALACIA					HP:0011001	Increased bone mineral density			IEA	IEA							OMIM:109130	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:109130	AXIAL OSTEOMALACIA					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:109130	probinson	17.02.2009	
+OMIM:109130	AXIAL OSTEOMALACIA					HP:0002749	Osteomalacia			TAS	TAS							OMIM:109130	probinson	17.02.2009	
+OMIM:109130	AXIAL OSTEOMALACIA					HP:0003198	Myopathy			TAS	TAS							OMIM:109130	probinson	17.02.2009	
+OMIM:109130	AXIAL OSTEOMALACIA					HP:0003236	Elevated serum creatine phosphokinase			TAS	TAS							OMIM:109130	probinson	17.02.2009	
+OMIM:109130	AXIAL OSTEOMALACIA					HP:0003701	Proximal muscle weakness			TAS	TAS							OMIM:109130	probinson	17.02.2009	
+OMIM:109130	AXIAL OSTEOMALACIA					HP:0011001	Increased bone mineral density			TAS	TAS							OMIM:109130	probinson	17.02.2009	
