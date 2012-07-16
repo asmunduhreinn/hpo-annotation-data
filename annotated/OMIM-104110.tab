@@ -1,4 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:104110	ALOPECIA, FAMILIAL FOCAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:104110	HPO	17.02.2009
-OMIM:104110	ALOPECIA, FAMILIAL FOCAL					HP:0001596	Alopecia			ITM	ITM							OMIM:104110	HPO	17.02.2009
-OMIM:104110	ALOPECIA, FAMILIAL FOCAL					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:104110	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:104110	ALOPECIA, FAMILIAL FOCAL					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:104110	HPO	17.02.2009	
+OMIM:104110	ALOPECIA, FAMILIAL FOCAL					HP:0002232	Patchy alopecia			TAS	TAS							OMIM:104110	probinson	17.02.2009	

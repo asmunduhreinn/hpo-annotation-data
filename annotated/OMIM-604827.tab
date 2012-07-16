@@ -1,3 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:604827	MYOCLONIC EPILEPSY, JUVENILE, 2					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:604827	HPO	17.02.2009
-OMIM:604827	MYOCLONIC EPILEPSY, JUVENILE, 2					HP:0002123	Generalized myoclonic seizures			ITM	ITM							OMIM:604827	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:604827	MYOCLONIC EPILEPSY, JUVENILE, 2					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:604827	HPO	17.02.2009	
+OMIM:604827	MYOCLONIC EPILEPSY, JUVENILE, 2					HP:0002069	Generalized tonic-clonic seizures			TAS	TAS							OMIM:604827	probinson	17.02.2009	
+OMIM:604827	MYOCLONIC EPILEPSY, JUVENILE, 2					HP:0001336	Myoclonus			TAS	TAS							OMIM:604827	probinson	16.07.2012	
