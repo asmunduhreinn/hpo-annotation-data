@@ -1,7 +1,0 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:131370	ENOLASE 3					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:131370	HPO	17.02.2009
-OMIM:131370	ENOLASE 3					HP:0001324	Muscle weakness			IEA	IEA							OMIM:131370	HPO	17.02.2009
-OMIM:131370	ENOLASE 3					HP:0003236	Elevated serum creatine phosphokinase			ITM	ITM							OMIM:131370	HPO	17.02.2009
-OMIM:131370	ENOLASE 3					HP:0003326	Myalgia			ITM	ITM							OMIM:131370	HPO	17.02.2009
-OMIM:131370	ENOLASE 3					HP:0003581	Adult onset			IEA	IEA							OMIM:131370	HPO	17.02.2009
-OMIM:131370	ENOLASE 3					HP:0008331	Elevated creatine kinase after exercise			IEA	IEA							OMIM:131370	HPO	17.02.2009
