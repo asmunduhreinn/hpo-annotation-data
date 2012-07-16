@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:206800	ANONYCHIA CONGENITA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:206800	HPO	17.02.2009
-OMIM:206800	ANONYCHIA CONGENITA					HP:0001507	Growth abnormality			IEA	IEA							OMIM:206800	HPO	17.02.2009
-OMIM:206800	ANONYCHIA CONGENITA					HP:0001798	Anonychia			ITM	ITM							OMIM:206800	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:206800	ANONYCHIA CONGENITA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:206800	HPO	17.02.2009	
+OMIM:206800	ANONYCHIA CONGENITA					HP:0001507	Growth abnormality			IEA	IEA				NOT	NOT		OMIM:206800	HPO	17.02.2009	
+OMIM:206800	ANONYCHIA CONGENITA					HP:0001798	Anonychia	HP:0003577	Congenital onset	TAS	TAS							OMIM:206800	probinson	16.07.2012	
