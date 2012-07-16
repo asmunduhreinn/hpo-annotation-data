@@ -1,5 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:605814	HPO	17.02.2009
-OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0001406	Intrahepatic cholestasis			IEA	IEA							OMIM:605814	HPO	17.02.2009
-OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0003235	Hypermethioninemia			IEA	IEA							OMIM:605814	SKOEHLER	20.06.2010
-OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0003573	Increased total bilirubin			ITM	ITM							OMIM:605814	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:605814	probinson	17.02.2009	
+OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0001508	Failure to thrive			TAS	TAS							OMIM:605814	probinson	16.07.2012	
+OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0001510	Growth delay			TAS	TAS							OMIM:605814	probinson	16.07.2012	
+OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0001406	Intrahepatic cholestasis			TAS	TAS							OMIM:605814	probinson	16.07.2012	
+OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0002904	Hyperbilirubinemia			TAS	TAS							OMIM:605814	probinson	16.07.2012	
+OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0003124	Hypercholesterolemia			TAS	TAS							OMIM:605814	probinson	16.07.2012	
+OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0003233	Decreased circulating high-density lipoprotein cholesterol			TAS	TAS							OMIM:605814	probinson	16.07.2012	
+OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0002155	Hypertriglyceridemia			TAS	TAS							OMIM:605814	probinson	16.07.2012	
+OMIM:605814	CITRULLINEMIA, TYPE II, NEONATAL-ONSET					HP:0003235	Hypermethioninemia			TAS	TAS							OMIM:605814	probinson	16.07.2012	
