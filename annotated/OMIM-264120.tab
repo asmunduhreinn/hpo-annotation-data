@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:264120	PROLACTIN DEFICIENCY WITH OBESITY AND ENLARGED TESTES					HP:0000119	Abnormality of the genitourinary system			IEA	IEA							OMIM:264120	HPO	17.02.2009
-OMIM:264120	PROLACTIN DEFICIENCY WITH OBESITY AND ENLARGED TESTES					HP:0001513	Obesity			IEA	IEA							OMIM:264120	HPO	17.02.2009
-OMIM:264120	PROLACTIN DEFICIENCY WITH OBESITY AND ENLARGED TESTES					HP:0006887	Intellectual disability, progressive			IEA	IEA							OMIM:264120	HPO	17.02.2009
-OMIM:264120	PROLACTIN DEFICIENCY WITH OBESITY AND ENLARGED TESTES					HP:0008202	Isolated prolactin deficiency			ITM	ITM							OMIM:264120	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:264120	PROLACTIN DEFICIENCY WITH OBESITY AND ENLARGED TESTES					HP:0000053	Macroorchidism			TAS	TAS							OMIM:264120	probinson	17.02.2009	
+OMIM:264120	PROLACTIN DEFICIENCY WITH OBESITY AND ENLARGED TESTES					HP:0001513	Obesity			TAS	TAS							OMIM:264120	probinson	17.02.2009	
+OMIM:264120	PROLACTIN DEFICIENCY WITH OBESITY AND ENLARGED TESTES					HP:0008202	Prolactin deficiency			TAS	TAS							OMIM:264120	probinson	17.02.2009	
+OMIM:264120	PROLACTIN DEFICIENCY WITH OBESITY AND ENLARGED TESTES					HP:0006889	Intellectual disability, borderline			TAS	TAS							OMIM:264120	probinson	17.07.2012	

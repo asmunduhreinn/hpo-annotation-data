@@ -1,5 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:139000	GRANULOSIS RUBRA NASI					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:139000	HPO	17.02.2009
-OMIM:139000	GRANULOSIS RUBRA NASI					HP:0000975	Hyperhidrosis			ITM	ITM							OMIM:139000	HPO	17.02.2009
-OMIM:139000	GRANULOSIS RUBRA NASI					HP:0001064	Diaphoresis			ITM	ITM							OMIM:139000	HPO	17.02.2009
-OMIM:139000	GRANULOSIS RUBRA NASI					HP:0003621	Juvenile onset			ITM	ITM							OMIM:139000	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:139000	GRANULOSIS RUBRA NASI					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:139000	probinson	17.02.2009	
+OMIM:139000	GRANULOSIS RUBRA NASI					HP:0001064	Diaphoresis			TAS	TAS						Of nose and facial area	OMIM:139000	probinson	17.02.2009	
+OMIM:139000	GRANULOSIS RUBRA NASI					HP:0011463	Childhood onset			TAS	TAS							OMIM:139000	probinson	17.07.2012	

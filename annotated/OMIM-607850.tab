@@ -1,8 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:607850	HAND OSTEOARTHRITIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:607850	HPO	17.02.2009
-OMIM:607850	HAND OSTEOARTHRITIS					HP:0001379	Degenerative joint disease			ITM	ITM							OMIM:607850	HPO	17.02.2009
-OMIM:607850	HAND OSTEOARTHRITIS					HP:0001387	Joint stiffness			IEA	IEA							OMIM:607850	HPO	17.02.2009
-OMIM:607850	HAND OSTEOARTHRITIS					HP:0002758	Osteoarthritis			ITM	ITM							OMIM:607850	HPO	17.02.2009
-OMIM:607850	HAND OSTEOARTHRITIS					HP:0002829	Arthralgia			IEA	IEA							OMIM:607850	HPO	17.02.2009
-OMIM:607850	HAND OSTEOARTHRITIS					HP:0006226	Osteoarthritis of the first carpometacarpal joint			IEA	IEA							OMIM:607850	HPO	17.02.2009
-OMIM:607850	HAND OSTEOARTHRITIS					HP:0006233	Osteoarthritis of the distal interphalangeal joint			IEA	IEA							OMIM:607850	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:607850	HAND OSTEOARTHRITIS					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:607850	probinson	17.02.2009	
+OMIM:607850	HAND OSTEOARTHRITIS					HP:0001387	Joint stiffness			TAS	TAS							OMIM:607850	probinson	17.02.2009	
+OMIM:607850	HAND OSTEOARTHRITIS					HP:0002758	Osteoarthritis			TAS	TAS							OMIM:607850	probinson	17.02.2009	
+OMIM:607850	HAND OSTEOARTHRITIS					HP:0002829	Arthralgia			TAS	TAS							OMIM:607850	probinson	17.02.2009	
+OMIM:607850	HAND OSTEOARTHRITIS					HP:0006226	Osteoarthritis of the first carpometacarpal joint			TAS	TAS							OMIM:607850	probinson	17.02.2009	
+OMIM:607850	HAND OSTEOARTHRITIS					HP:0006233	Osteoarthritis of the distal interphalangeal joint			TAS	TAS							OMIM:607850	probinson	17.02.2009	
