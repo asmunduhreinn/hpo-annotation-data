@@ -1,9 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:144600	HPO	17.02.2009
-OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0000830	Hypopituitarism			ITM	ITM							OMIM:144600	HPO	17.02.2009
-OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0001039	Atheroeruptive xanthoma			IEA	IEA							OMIM:144600	HPO	17.02.2009
-OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0001425	Heterogeneous			IEA	IEA							OMIM:144600	HPO	17.02.2009
-OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0001952	Abnormal glucose tolerance			IEA	IEA							OMIM:144600	HPO	17.02.2009
-OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0002155	Hypertriglyceridemia			IEA	IEA							OMIM:144600	HPO	17.02.2009
-OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0003362	Increased circulating very-low-density lipoprotein cholesterol			IEA	IEA							OMIM:144600	HPO	17.02.2009
-OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0004416	Precocious atherosclerosis			IEA	IEA							OMIM:144600	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:144600	HPO	17.02.2009	
+OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0001039	Atheroeruptive xanthoma			IEA	IEA							OMIM:144600	HPO	17.02.2009	
+OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0001425	Heterogeneous			IEA	IEA							OMIM:144600	HPO	17.02.2009	
+OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0001952	Abnormal glucose tolerance			IEA	IEA							OMIM:144600	HPO	17.02.2009	
+OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0002155	Hypertriglyceridemia			IEA	IEA							OMIM:144600	HPO	17.02.2009	
+OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0003362	Increased circulating very-low-density lipoprotein cholesterol			IEA	IEA							OMIM:144600	HPO	17.02.2009	
+OMIM:144600	HYPERLIPOPROTEINEMIA, TYPE IV					HP:0004416	Precocious atherosclerosis			IEA	IEA							OMIM:144600	HPO	17.02.2009	
