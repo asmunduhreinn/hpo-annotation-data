@@ -1,9 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:609039	NARCOLEPSY 3					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:609039	HPO	17.02.2009
-OMIM:609039	NARCOLEPSY 3					HP:0002189	Excessive daytime sleepiness			IEA	IEA							OMIM:609039	HPO	17.02.2009
-OMIM:609039	NARCOLEPSY 3					HP:0002330	Paroxysmal drowsiness			IEA	IEA							OMIM:609039	HPO	17.02.2009
-OMIM:609039	NARCOLEPSY 3					HP:0002494	Abnormal rapid eye movement (REM) sleep			IEA	IEA							OMIM:609039	HPO	17.02.2009
-OMIM:609039	NARCOLEPSY 3					HP:0002519	Hypnagogic hallucinations			IEA	IEA							OMIM:609039	HPO	17.02.2009
-OMIM:609039	NARCOLEPSY 3					HP:0002524	Cataplexy			IEA	IEA							OMIM:609039	HPO	17.02.2009
-OMIM:609039	NARCOLEPSY 3					HP:0003324	Generalized muscle weakness			ITM	ITM							OMIM:609039	HPO	17.02.2009
-OMIM:609039	NARCOLEPSY 3					HP:0003621	Juvenile onset			ITM	ITM							OMIM:609039	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609039	NARCOLEPSY 3					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:609039	HPO	17.02.2009	
+OMIM:609039	NARCOLEPSY 3					HP:0002189	Excessive daytime sleepiness			IEA	IEA							OMIM:609039	HPO	17.02.2009	
+OMIM:609039	NARCOLEPSY 3					HP:0002330	Paroxysmal drowsiness			IEA	IEA							OMIM:609039	HPO	17.02.2009	
+OMIM:609039	NARCOLEPSY 3					HP:0002494	Abnormal rapid eye movement (REM) sleep			IEA	IEA							OMIM:609039	HPO	17.02.2009	
+OMIM:609039	NARCOLEPSY 3					HP:0002519	Hypnagogic hallucinations			IEA	IEA							OMIM:609039	HPO	17.02.2009	
+OMIM:609039	NARCOLEPSY 3					HP:0002524	Cataplexy			IEA	IEA							OMIM:609039	HPO	17.02.2009	
