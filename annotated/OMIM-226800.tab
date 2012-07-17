@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:226800	EPILEPSY, PHOTOGENIC, WITH SPASTIC DIPLEGIA AND MENTAL RETARDATION					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:226800	HPO	17.02.2009
-OMIM:226800	EPILEPSY, PHOTOGENIC, WITH SPASTIC DIPLEGIA AND MENTAL RETARDATION					HP:0001249	Intellectual disability			IEA	IEA							OMIM:226800	HPO	17.02.2009
-OMIM:226800	EPILEPSY, PHOTOGENIC, WITH SPASTIC DIPLEGIA AND MENTAL RETARDATION					HP:0001250	Seizures			ITM	ITM							OMIM:226800	HPO	17.02.2009
-OMIM:226800	EPILEPSY, PHOTOGENIC, WITH SPASTIC DIPLEGIA AND MENTAL RETARDATION					HP:0001264	Spastic diplegia			IEA	IEA							OMIM:226800	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:226800	EPILEPSY, PHOTOGENIC, WITH SPASTIC DIPLEGIA AND MENTAL RETARDATION					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:226800	probinson	17.02.2009	
+OMIM:226800	EPILEPSY, PHOTOGENIC, WITH SPASTIC DIPLEGIA AND MENTAL RETARDATION					HP:0001249	Intellectual disability			TAS	TAS							OMIM:226800	probinson	17.02.2009	
+OMIM:226800	EPILEPSY, PHOTOGENIC, WITH SPASTIC DIPLEGIA AND MENTAL RETARDATION					HP:0001264	Spastic diplegia			TAS	TAS							OMIM:226800	probinson	17.02.2009	
+OMIM:226800	EPILEPSY, PHOTOGENIC, WITH SPASTIC DIPLEGIA AND MENTAL RETARDATION					HP:0007207	Photosensitive tonic-clonic seizures			TAS	TAS							OMIM:226800	probinson	17.07.2012	
