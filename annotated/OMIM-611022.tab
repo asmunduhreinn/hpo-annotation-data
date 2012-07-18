@@ -1,5 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:611022	DEAFNESS, AUTOSOMAL RECESSIVE, 24					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:611022	HPO	17.02.2009
-OMIM:611022	DEAFNESS, AUTOSOMAL RECESSIVE, 24					HP:0003593	Infantile onset			IEA	IEA							OMIM:611022	HPO	17.02.2009
-OMIM:611022	DEAFNESS, AUTOSOMAL RECESSIVE, 24					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:611022	HPO	17.02.2009
-OMIM:611022	DEAFNESS, AUTOSOMAL RECESSIVE, 24					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:611022	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611022	DEAFNESS, AUTOSOMAL RECESSIVE, 24					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:611022	probinson	17.02.2009	
+OMIM:611022	DEAFNESS, AUTOSOMAL RECESSIVE, 24					HP:0003593	Infantile onset			TAS	TAS							OMIM:611022	probinson	17.02.2009	
+OMIM:611022	DEAFNESS, AUTOSOMAL RECESSIVE, 24					HP:0011476	Profound sensorineural hearing impairment			TAS	TAS							OMIM:611022	probinson	18.07.2012	
