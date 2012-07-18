@@ -1,6 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:235900	HPO	17.02.2009
-OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0001367	Abnormality of the joints			IEA	IEA							OMIM:235900	HPO	17.02.2009
-OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0002113	Pulmonary infiltrates			ITM	ITM							OMIM:235900	HPO	17.02.2009
-OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0002964	Susceptibility to infection			IEA	IEA							OMIM:235900	HPO	17.02.2009
-OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0005413	Increased alpha-globulin			IEA	IEA							OMIM:235900	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:235900	probinson	17.02.2009	
+OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0005764	Polyarticular arthritis			TAS	TAS						Transient	OMIM:235900	probinson	17.02.2009	
+OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0002113	Pulmonary infiltrates			TAS	TAS							OMIM:235900	probinson	17.02.2009	
+OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0002964	Susceptibility to infection			TAS	TAS							OMIM:235900	probinson	17.02.2009	
+OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0005413	Increased alpha-globulin			TAS	TAS							OMIM:235900	probinson	17.02.2009	
+OMIM:235900	HISTIOCYTOSIS, FAMILIAL LIPOCHROME					HP:0010702	Hypergammaglobulinemia			TAS	TAS							OMIM:235900	probinson	18.07.2012	

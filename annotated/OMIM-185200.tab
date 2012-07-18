@@ -1,4 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:185200	STRIAE DISTENSAE, FAMILIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:185200	HPO	17.02.2009
-OMIM:185200	STRIAE DISTENSAE, FAMILIAL					HP:0001065	Striae distensae			ITM	ITM							OMIM:185200	HPO	17.02.2009
-OMIM:185200	STRIAE DISTENSAE, FAMILIAL					HP:0011007	Age of onset			IEA	IEA							OMIM:185200	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:185200	STRIAE DISTENSAE, FAMILIAL					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:185200	probinson	17.02.2009	
+OMIM:185200	STRIAE DISTENSAE, FAMILIAL					HP:0001065	Striae distensae			TAS	TAS							OMIM:185200	probinson	17.02.2009	
