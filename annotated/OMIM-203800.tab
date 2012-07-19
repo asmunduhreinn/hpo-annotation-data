@@ -1,7 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:203800	ALSTROM SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:203800	HPO	17.02.2009	
 OMIM:203800	ALSTROM SYNDROME					HP:0000083	Renal insufficiency			IEA	IEA							OMIM:203800	HPO	17.02.2009	
-OMIM:203800	ALSTROM SYNDROME					HP:0000123	Nephritis			TAS	TAS						Chronic nephritis	OMIM:203800	probinson	17.02.2009	
 OMIM:203800	ALSTROM SYNDROME					HP:0000164	Abnormality of the teeth			IEA	IEA							OMIM:203800	HPO	17.02.2009	
 OMIM:203800	ALSTROM SYNDROME					HP:0000230	Gingivitis			IEA	IEA							OMIM:203800	HPO	17.02.2009	
 OMIM:203800	ALSTROM SYNDROME					HP:0000388	Otitis media			IEA	IEA							OMIM:203800	HPO	17.02.2009	
@@ -45,3 +44,4 @@ OMIM:203800	ALSTROM SYNDROME					HP:0005616	Accelerated skeletal maturation			IE
 OMIM:203800	ALSTROM SYNDROME					HP:0005987	Multinodular goiter			IEA	IEA							OMIM:203800	HPO	17.02.2009	
 OMIM:203800	ALSTROM SYNDROME					HP:0006532	Recurrent pneumonia			IEA	IEA							OMIM:203800	HPO	17.02.2009	
 OMIM:203800	ALSTROM SYNDROME					HP:0010442	Polydactyly			IEA	IEA				NOT	NOT		OMIM:203800	SKOEHLER	18.06.2010	
+OMIM:203800	ALSTROM SYNDROME					HP:0001970	Tubulointerstitial nephritis			PCS	PCS							pmid:21358663	probinson	19.07.2012	
