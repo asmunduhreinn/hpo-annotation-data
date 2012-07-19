@@ -1,11 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:607004	HPO	17.02.2009
-OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0001425	Heterogeneous			IEA	IEA							OMIM:607004	SKOEHLER	19.06.2010
-OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0004322	Short stature			IEA	IEA							OMIM:607004	HPO	17.02.2009
-OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0008111	Broad distal hallux			ITM	ITM							OMIM:607004	HPO	17.02.2009
-OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0009370	Type A Brachydactyly			ITM	ITM							OMIM:607004	HPO	17.02.2009
-OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0009466	Radial deviation of finger			IEA	IEA							OMIM:607004	HPO	17.02.2009
-OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0009882	Short distal phalanx of finger			IEA	IEA							OMIM:607004	HPO	17.02.2009
-OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0010047	Hypoplastic/short 5th metacarpal			IEA	IEA							OMIM:607004	HPO	17.02.2009
-OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0010230	Cone-shaped epiphyses of the phalanges of the hand			IEA	IEA							OMIM:607004	HPO	17.02.2009
-OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0010240	Hypoplasia of the middle phalanges of the hand			IEA	IEA							OMIM:607004	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:607004	HPO	17.02.2009	
+OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0004322	Short stature			IEA	IEA							OMIM:607004	HPO	17.02.2009	
+OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0008111	Broad distal hallux			TAS	TAS							OMIM:607004	probinson	17.02.2009	
+OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0009370	Type A Brachydactyly			TAS	TAS							OMIM:607004	probinson	17.02.2009	
+OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0009466	Radial deviation of finger			IEA	IEA							OMIM:607004	HPO	17.02.2009	
+OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0009882	Short distal phalanx of finger			IEA	IEA							OMIM:607004	HPO	17.02.2009	
+OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0010047	Short 5th metacarpal			IEA	IEA							OMIM:607004	HPO	17.02.2009	
+OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0010230	Cone-shaped epiphyses of the phalanges of the hand			IEA	IEA							OMIM:607004	HPO	17.02.2009	
+OMIM:607004	BRACHYDACTYLY, TYPE A1, B					HP:0010240	Hypoplasia of the middle phalanges of the hand			IEA	IEA							OMIM:607004	HPO	17.02.2009	

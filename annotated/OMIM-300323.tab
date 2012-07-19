@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:300323	GOUT, HPRT-RELATED					HP:0000083	Renal failure			IEA	IEA							OMIM:300323	HPO	17.02.2009
-OMIM:300323	GOUT, HPRT-RELATED					HP:0000787	Nephrolithiasis			IEA	IEA							OMIM:300323	HPO	17.02.2009
-OMIM:300323	GOUT, HPRT-RELATED					HP:0001419	X-linked recessive inheritance			IEA	IEA							OMIM:300323	HPO	17.02.2009
-OMIM:300323	GOUT, HPRT-RELATED					HP:0001854	Gout (feet)			IEA	IEA							OMIM:300323	HPO	17.02.2009
-OMIM:300323	GOUT, HPRT-RELATED					HP:0001997	Gout			ITM	ITM							OMIM:300323	HPO	17.02.2009
-OMIM:300323	GOUT, HPRT-RELATED					HP:0003149	Hyperuricosuria			IEA	IEA							OMIM:300323	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:300323	GOUT, HPRT-RELATED					HP:0000083	Renal insufficiency			TAS	TAS							OMIM:300323	probinson	17.02.2009	
+OMIM:300323	GOUT, HPRT-RELATED					HP:0000787	Nephrolithiasis			TAS	TAS							OMIM:300323	probinson	17.02.2009	
+OMIM:300323	GOUT, HPRT-RELATED					HP:0001419	X-linked recessive inheritance			TAS	TAS							OMIM:300323	probinson	17.02.2009	
+OMIM:300323	GOUT, HPRT-RELATED					HP:0001854	Gout (feet)			TAS	TAS							OMIM:300323	probinson	17.02.2009	
+OMIM:300323	GOUT, HPRT-RELATED					HP:0003149	Hyperuricosuria			TAS	TAS							OMIM:300323	probinson	17.02.2009	
+OMIM:300323	GOUT, HPRT-RELATED					HP:0002149	Hyperuricemia			TAS	TAS							OMIM:300323	probinson	19.07.2012	

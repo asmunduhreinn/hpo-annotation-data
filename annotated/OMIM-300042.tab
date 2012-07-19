@@ -1,4 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:300042	ALOPECIA, CONGENITAL					HP:0001006	Hypotrichosis			IEA	IEA							OMIM:300042	HPO	17.02.2009
-OMIM:300042	ALOPECIA, CONGENITAL					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:300042	HPO	17.02.2009
-OMIM:300042	ALOPECIA, CONGENITAL					HP:0001596	Alopecia			ITM	ITM							OMIM:300042	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:300042	ALOPECIA, CONGENITAL					HP:0001006	Hypotrichosis			TAS	TAS							OMIM:300042	probinson	17.02.2009	
+OMIM:300042	ALOPECIA, CONGENITAL					HP:0001417	X-linked inheritance			TAS	TAS							OMIM:300042	probinson	17.02.2009	
+OMIM:300042	ALOPECIA, CONGENITAL					HP:0001596	Alopecia			TAS	TAS							OMIM:300042	probinson	17.02.2009	
+OMIM:300042	ALOPECIA, CONGENITAL					HP:0000499	Abnormality of the eyelashes			TAS	TAS				NOT	NOT		OMIM:300042	probinson	19.07.2012	
+OMIM:300042	ALOPECIA, CONGENITAL					HP:0000534	Abnormality of the eyebrow			TAS	TAS				NOT	NOT		OMIM:300042	probinson	19.07.2012	
