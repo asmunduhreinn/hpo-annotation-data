@@ -1,6 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:127600	DYSKERATOSIS, HEREDITARY BENIGN INTRAEPITHELIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:127600	HPO	17.02.2009
-OMIM:127600	DYSKERATOSIS, HEREDITARY BENIGN INTRAEPITHELIAL					HP:0000505	Visual impairment			IEA	IEA							OMIM:127600	HPO	17.02.2009
-OMIM:127600	DYSKERATOSIS, HEREDITARY BENIGN INTRAEPITHELIAL					HP:0001059	Pterygia			ITM	ITM							OMIM:127600	HPO	17.02.2009
-OMIM:127600	DYSKERATOSIS, HEREDITARY BENIGN INTRAEPITHELIAL					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:127600	HPO	17.02.2009
-OMIM:127600	DYSKERATOSIS, HEREDITARY BENIGN INTRAEPITHELIAL					HP:0002745	Oral leukoplakia			ITM	ITM							OMIM:127600	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:127600	DYSKERATOSIS, HEREDITARY BENIGN INTRAEPITHELIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:127600	HPO	17.02.2009	
+OMIM:127600	DYSKERATOSIS, HEREDITARY BENIGN INTRAEPITHELIAL					HP:0000505	Visual impairment			IEA	IEA							OMIM:127600	HPO	17.02.2009	
+OMIM:127600	DYSKERATOSIS, HEREDITARY BENIGN INTRAEPITHELIAL					HP:0002745	Oral leukoplakia			IEA	IEA							OMIM:127600	HPO	17.02.2009	
