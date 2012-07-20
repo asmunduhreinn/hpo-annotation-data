@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:173580	PLATELET RESPONSIVENESS TO ADRENALINE, DEPRESSED					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:173580	HPO	17.02.2009
-OMIM:173580	PLATELET RESPONSIVENESS TO ADRENALINE, DEPRESSED					HP:0001892	Bleeding diathesis			IEA	IEA							OMIM:173580	SKOEHLER	20.06.2010
-OMIM:173580	PLATELET RESPONSIVENESS TO ADRENALINE, DEPRESSED					HP:0003540	Abnormal platelet aggregation			ITM	ITM							OMIM:173580	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:173580	PLATELET RESPONSIVENESS TO ADRENALINE, DEPRESSED					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:173580	probinson	17.02.2009	
+OMIM:173580	PLATELET RESPONSIVENESS TO ADRENALINE, DEPRESSED					HP:0001892	Abnormal bleeding			TAS	TAS				NOT	NOT		OMIM:173580	SKOEHLER	20.06.2010	
+OMIM:173580	PLATELET RESPONSIVENESS TO ADRENALINE, DEPRESSED					HP:0008148	Impaired epinephrine-induced platelet aggregation			TAS	TAS							OMIM:173580	probinson	20.07.2012	

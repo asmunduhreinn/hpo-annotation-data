@@ -1,8 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:179000	PURPURA SIMPLEX					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:179000	HPO	17.02.2009
-OMIM:179000	PURPURA SIMPLEX					HP:0000132	Menorrhagia			IEA	IEA							OMIM:179000	HPO	17.02.2009
-OMIM:179000	PURPURA SIMPLEX					HP:0000421	Epistaxis			IEA	IEA							OMIM:179000	HPO	17.02.2009
-OMIM:179000	PURPURA SIMPLEX					HP:0000508	Ptosis			IEA	IEA							OMIM:179000	HPO	17.02.2009
-OMIM:179000	PURPURA SIMPLEX					HP:0000978	Bruising susceptibility			ITM	ITM							OMIM:179000	HPO	17.02.2009
-OMIM:179000	PURPURA SIMPLEX					HP:0000979	Purpura			ITM	ITM							OMIM:179000	HPO	17.02.2009
-OMIM:179000	PURPURA SIMPLEX					HP:0003256	Abnormality of the coagulation cascade			ITM	ITM							OMIM:179000	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:179000	PURPURA SIMPLEX					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:179000	HPO	17.02.2009	
+OMIM:179000	PURPURA SIMPLEX					HP:0000132	Menorrhagia			IEA	IEA							OMIM:179000	HPO	17.02.2009	
+OMIM:179000	PURPURA SIMPLEX					HP:0000421	Epistaxis			IEA	IEA							OMIM:179000	HPO	17.02.2009	
+OMIM:179000	PURPURA SIMPLEX					HP:0000508	Ptosis			IEA	IEA							OMIM:179000	HPO	17.02.2009	
+OMIM:179000	PURPURA SIMPLEX					HP:0000978	Bruising susceptibility			TAS	TAS							OMIM:179000	probinson	17.02.2009	
+OMIM:179000	PURPURA SIMPLEX					HP:0000979	Purpura			TAS	TAS							OMIM:179000	probinson	17.02.2009	
+OMIM:179000	PURPURA SIMPLEX					HP:0003256	Abnormality of the coagulation cascade			TAS	TAS				NOT	NOT		OMIM:179000	probinson	17.02.2009	
