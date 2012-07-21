@@ -1,6 +1,0 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:275360	TREHALASE					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:275360	HPO	17.02.2009
-OMIM:275360	TREHALASE					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:275360	HPO	17.02.2009
-OMIM:275360	TREHALASE					HP:0002013	Vomiting			IEA	IEA							OMIM:275360	HPO	17.02.2009
-OMIM:275360	TREHALASE					HP:0002014	Diarrhea			IEA	IEA							OMIM:275360	HPO	17.02.2009
-OMIM:275360	TREHALASE					HP:0002024	Malabsorption			ITM	ITM							OMIM:275360	HPO	17.02.2009
