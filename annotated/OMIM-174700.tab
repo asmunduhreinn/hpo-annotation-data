@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:174700	HPO	17.02.2009
-OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0000363	Abnormality of earlobe			IEA	IEA							OMIM:174700	HPO	17.02.2009
-OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0001159	Syndactyly			ITM	ITM							OMIM:174700	HPO	17.02.2009
-OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0001177	Preaxial polydactyly (hands)			IEA	IEA							OMIM:174700	HPO	17.02.2009
-OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0005688	Dysplastic distal thumb phalanges with a central hole			IEA	IEA							OMIM:174700	HPO	17.02.2009
-OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0010713	1-5 toe syndactyly			IEA	IEA							OMIM:174700	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:174700	probinson	17.02.2009	
+OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0000363	Abnormality of earlobe			TAS	TAS							OMIM:174700	probinson	17.02.2009	
+OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0100258	Preaxial polydactyly			TAS	TAS							OMIM:174700	probinson	17.02.2009	
+OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0005688	Dysplastic distal thumb phalanges with a central hole			TAS	TAS							OMIM:174700	probinson	17.02.2009	
+OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0010713	1-5 toe syndactyly			TAS	TAS							OMIM:174700	probinson	17.02.2009	
+OMIM:174700	POLYDACTYLY, PREAXIAL IV					HP:0006097	3-4 finger syndactyly			TAS	TAS							OMIM:174700	probinson	21.07.2012	

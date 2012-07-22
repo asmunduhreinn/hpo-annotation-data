@@ -1,5 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:606798	BLEPHAROSPASM, BENIGN ESSENTIAL					HP:0000643	Blepharospasm			ITM	ITM							OMIM:606798	HPO	17.02.2009
-OMIM:606798	BLEPHAROSPASM, BENIGN ESSENTIAL					HP:0001332	Dystonia			ITM	ITM							OMIM:606798	HPO	17.02.2009
-OMIM:606798	BLEPHAROSPASM, BENIGN ESSENTIAL					HP:0001420	Isolated cases			IEA	IEA							OMIM:606798	HPO	17.02.2009
-OMIM:606798	BLEPHAROSPASM, BENIGN ESSENTIAL					HP:0011007	Age of onset			ITM	ITM							OMIM:606798	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:606798	BLEPHAROSPASM, BENIGN ESSENTIAL					HP:0000643	Blepharospasm			TAS	TAS							OMIM:606798	probinson	17.02.2009	
+OMIM:606798	BLEPHAROSPASM, BENIGN ESSENTIAL					HP:0001420	Isolated cases			TAS	TAS							OMIM:606798	probinson	17.02.2009	
+OMIM:606798	BLEPHAROSPASM, BENIGN ESSENTIAL					HP:0003596	Middle age onset			TAS	TAS							OMIM:606798	probinson	17.02.2009	
