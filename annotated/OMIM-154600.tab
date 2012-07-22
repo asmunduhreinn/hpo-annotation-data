@@ -1,5 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:154600	MARCUS GUNN PHENOMENON					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:154600	HPO	17.02.2009
-OMIM:154600	MARCUS GUNN PHENOMENON					HP:0000508	Ptosis			ITM	ITM							OMIM:154600	HPO	17.02.2009
-OMIM:154600	MARCUS GUNN PHENOMENON					HP:0000707	Abnormality of the nervous system			IEA	IEA							OMIM:154600	HPO	17.02.2009
-OMIM:154600	MARCUS GUNN PHENOMENON					HP:0007970	Congenital ptosis			IEA	IEA							OMIM:154600	SKOEHLER	20.06.2010
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:154600	MARCUS GUNN PHENOMENON					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:154600	HPO:probinson	17.02.2009	
+OMIM:154600	MARCUS GUNN PHENOMENON					HP:0007687	Unilateral ptosis			TAS	TAS							OMIM:154600	HPO:probinson	17.02.2009	
+OMIM:154600	MARCUS GUNN PHENOMENON					HP:0007970	Congenital ptosis			TAS	TAS						Unilateral	OMIM:154600	SKOEHLER	20.06.2010	
