@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
-MIM:136800	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 1	MIM:120252	COLLAGEN, TYPE VIII, ALPHA-2		COL8A2	HP:0000006	Autosomal dominant inheritance									IEA										17.02.2009
-MIM:136800	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 1	MIM:120252	COLLAGEN, TYPE VIII, ALPHA-2		COL8A2	HP:0001131	Corneal dystrophy	FMA:58238		PATO:0001780	dystrophic					ITM										17.02.2009
-MIM:136800	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 1	MIM:120252	COLLAGEN, TYPE VIII, ALPHA-2		COL8A2	HP:0003593	Early onset									ITM										17.02.2009
-MIM:136800	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 1	MIM:120252	COLLAGEN, TYPE VIII, ALPHA-2		COL8A2	HP:0007705	Corneal degeneration									TAS									OMIM:136800	10.02.2011
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:136800	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 1	MIM:120252	COLLAGEN, TYPE VIII, ALPHA-2		COL8A2	HP:0000006	Autosomal dominant inheritance			TAS	TAS							MIM:136800	HPO	17.02.2009	
+MIM:136800	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 1	MIM:120252	COLLAGEN, TYPE VIII, ALPHA-2		COL8A2	HP:0001131	Corneal dystrophy			TAS	TAS							MIM:136800	HPO	17.02.2009	
+MIM:136800	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 1	MIM:120252	COLLAGEN, TYPE VIII, ALPHA-2		COL8A2	HP:0007705	Corneal degeneration			TAS	TAS							OMIM:136800	HPO	10.02.2011	
+MIM:136800	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 1	MIM:120252	COLLAGEN, TYPE VIII, ALPHA-2		COL8A2	HP:0011488	Abnormality of corneal endothelium			TAS	TAS							MIM:136800	HPO	22.07.2012	

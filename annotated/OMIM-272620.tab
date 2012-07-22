@@ -1,3 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Entity ID	Entity Name	Quality ID	Quality Name	Add'l Entity ID	Add'l Entity Name	Age of Onset ID	Age of Onset Name	Evidence	Frequency	Abnormal ID	Abnormal Name	Sex	Negation ID	Negation Name	Description	Orthologs	Pub	Date Created	
-MIM:272620	TARDIVE DYSKINESIA					HP:0000707	Neurological abnormality			PATO:0000001	quality					IEA		PATO:0000460	abnormal							17.02.2009
-MIM:272620	TARDIVE DYSKINESIA					HP:0000007	Autosomal recessive inheritance									IEA										17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MIM:272620	TARDIVE DYSKINESIA					HP:0000707	Neurological abnormality			IEA	IEA							MIM:272620	HPO	17.02.2009
+MIM:272620	TARDIVE DYSKINESIA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							MIM:272620	HPO	17.02.2009
