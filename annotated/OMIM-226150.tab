@@ -1,6 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:226150	ENTEROCOLITIS					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:226150	HPO	17.02.2009
-OMIM:226150	ENTEROCOLITIS					HP:0000969	Edema			ITM	ITM							OMIM:226150	HPO	17.02.2009
-OMIM:226150	ENTEROCOLITIS					HP:0002255	Bloody diarrhea			IEA	IEA							OMIM:226150	HPO	17.02.2009
-OMIM:226150	ENTEROCOLITIS					HP:0003270	Abdominal distention			IEA	IEA							OMIM:226150	HPO	17.02.2009
-OMIM:226150	ENTEROCOLITIS					HP:0004387	Enterocolitis			IEA	IEA							OMIM:226150	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:226150	ENTEROCOLITIS					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:226150	HPO	17.02.2009	
+OMIM:226150	ENTEROCOLITIS					HP:0002255	Bloody diarrhea			IEA	IEA							OMIM:226150	HPO	17.02.2009	
+OMIM:226150	ENTEROCOLITIS					HP:0003270	Abdominal distention			IEA	IEA							OMIM:226150	HPO	17.02.2009	
+OMIM:226150	ENTEROCOLITIS					HP:0004387	Enterocolitis			IEA	IEA							OMIM:226150	HPO	17.02.2009	

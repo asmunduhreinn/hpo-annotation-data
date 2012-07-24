@@ -1,3 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:600117	DYSPHASIA, FAMILIAL DEVELOPMENTAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:600117	HPO	17.02.2009
-OMIM:600117	DYSPHASIA, FAMILIAL DEVELOPMENTAL					HP:0002357	Dysphasia			ITM	ITM							OMIM:600117	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:600117	DYSPHASIA, FAMILIAL DEVELOPMENTAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:600117	HPO	17.02.2009	
+OMIM:600117	DYSPHASIA, FAMILIAL DEVELOPMENTAL					HP:0002357	Dysphasia			TAS	TAS							OMIM:600117	HPO:probinson	17.02.2009	
+OMIM:600117	DYSPHASIA, FAMILIAL DEVELOPMENTAL					HP:0002474	Expressive language delay			TAS	TAS							OMIM:600117	HPO:probinson	24.07.2012	
