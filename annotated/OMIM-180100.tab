@@ -1,7 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0000510	Retinitis pigmentosa			IEA	IEA							OMIM:180100	HPO	17.02.2009
-OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0000662	Night blindness			IEA	IEA							OMIM:180100	HPO	17.02.2009
-OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0001133	Constricted visual fields			IEA	IEA							OMIM:180100	HPO	17.02.2009
-OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0007688	Absent rod-and cone-mediated responses on ERG			IEA	IEA							OMIM:180100	HPO	17.02.2009
-OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0007737	Bony spicule pigmentary retinopathy			IEA	IEA							OMIM:180100	HPO	17.02.2009
-OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0007801	Fishnet retinal pigmentation			ITM	ITM							OMIM:180100	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0000510	Retinitis pigmentosa			IEA	IEA							OMIM:180100	HPO	17.02.2009	
+OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0000662	Night blindness			IEA	IEA							OMIM:180100	HPO	17.02.2009	
+OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0001133	Constricted visual fields			IEA	IEA							OMIM:180100	HPO	17.02.2009	
+OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0007688	Absent rod-and cone-mediated responses on ERG			IEA	IEA							OMIM:180100	HPO	17.02.2009	
+OMIM:180100	RETINITIS PIGMENTOSA 1					HP:0007737	Bony spicule pigmentary retinopathy			TAS	TAS							OMIM:180100	HPO:probinson	17.02.2009	
