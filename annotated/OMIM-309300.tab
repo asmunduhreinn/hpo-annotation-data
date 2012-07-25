@@ -1,6 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:309300	MEGALOCORNEA					HP:0000485	Megalocornea			ITM	ITM							OMIM:309300	HPO	17.02.2009
-OMIM:309300	MEGALOCORNEA					HP:0000518	Cataract			IEA	IEA							OMIM:309300	HPO	17.02.2009
-OMIM:309300	MEGALOCORNEA					HP:0001119	Keratoglobus			ITM	ITM							OMIM:309300	HPO	17.02.2009
-OMIM:309300	MEGALOCORNEA					HP:0001419	X-linked recessive inheritance			IEA	IEA							OMIM:309300	HPO	17.02.2009
-OMIM:309300	MEGALOCORNEA					HP:0007836	Mosaic corneal dystrophy			IEA	IEA							OMIM:309300	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:309300	MEGALOCORNEA					HP:0000485	Megalocornea			TAS	TAS							OMIM:309300	HPO:probinson	17.02.2009	
+OMIM:309300	MEGALOCORNEA					HP:0000518	Cataract			TAS	TAS							OMIM:309300	HPO:probinson	17.02.2009	
+OMIM:309300	MEGALOCORNEA					HP:0001419	X-linked recessive inheritance			TAS	TAS							OMIM:309300	HPO:probinson	17.02.2009	
+OMIM:309300	MEGALOCORNEA					HP:0007836	Mosaic corneal dystrophy			TAS	TAS							OMIM:309300	HPO:probinson	17.02.2009	
+OMIM:309300	MEGALOCORNEA					HP:0011487	Increased corneal thickness			TAS	TAS							OMIM:309300	HPO:probinson	25.07.2012	
+OMIM:309300	MEGALOCORNEA					HP:0000483	Astigmatism			TAS	TAS							OMIM:309300	HPO:probinson	25.07.2012	
+OMIM:309300	MEGALOCORNEA					HP:0001084	Corneal arcus			TAS	TAS							OMIM:309300	HPO:probinson	25.07.2012	
+OMIM:309300	MEGALOCORNEA					HP:0100693	Iridodonesis			TAS	TAS							OMIM:309300	HPO:probinson	25.07.2012	
+OMIM:309300	MEGALOCORNEA					HP:0001132	Lens subluxation			TAS	TAS							OMIM:309300	HPO:probinson	25.07.2012	
