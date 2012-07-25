@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:611571	OTOSCLEROSIS 4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:611571	HPO	17.02.2009
-OMIM:611571	OTOSCLEROSIS 4					HP:0000362	Otosclerosis			IEA	IEA							OMIM:611571	HPO	17.02.2009
-OMIM:611571	OTOSCLEROSIS 4					HP:0000407	Sensorineural hearing impairment			ITM	ITM							OMIM:611571	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611571	OTOSCLEROSIS 4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:611571	HPO	17.02.2009	
+OMIM:611571	OTOSCLEROSIS 4					HP:0000362	Otosclerosis			IEA	IEA							OMIM:611571	HPO	17.02.2009	
+OMIM:611571	OTOSCLEROSIS 4					HP:0000410	Mixed hearing impairment			TAS	TAS							OMIM:611571	HPO:probinson	25.07.2012	

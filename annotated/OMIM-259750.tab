@@ -1,3 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:259750	OSTEOPOROSIS, JUVENILE					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:259750	HPO	17.02.2009
-OMIM:259750	OSTEOPOROSIS, JUVENILE					HP:0000939	Osteoporosis			ITM	ITM							OMIM:259750	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:259750	OSTEOPOROSIS, JUVENILE					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:259750	HPO	17.02.2009	
+OMIM:259750	OSTEOPOROSIS, JUVENILE					HP:0000939	Osteoporosis			TAS	TAS							OMIM:259750	HPO	17.02.2009	
+OMIM:259750	OSTEOPOROSIS, JUVENILE					HP:0000591	Abnormality of the sclera			TAS	TAS				NOT	NOT		OMIM:259750	HPO	25.07.2012	
+OMIM:259750	OSTEOPOROSIS, JUVENILE					HP:0000082	Abnormality of renal physiology			TAS	TAS				NOT	NOT		OMIM:259750	HPO	25.07.2012	
