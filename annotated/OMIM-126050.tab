@@ -1,7 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:126050	HPO	17.02.2009
-OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0001838	Vertical talus			IEA	IEA							OMIM:126050	HPO	17.02.2009
-OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0003502	Mild short stature			IEA	IEA							OMIM:126050	HPO	17.02.2009
-OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0004322	Short stature			ITM	ITM							OMIM:126050	HPO	17.02.2009
-OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0009465	Ulnar deviation of finger			IEA	IEA							OMIM:126050	HPO	17.02.2009
-OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0009473	Joint contractures involving the joints of the hand			ITM	ITM							OMIM:126050	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:126050	HPO:probinson	17.02.2009	
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0001838	Vertical talus			TAS	TAS							OMIM:126050	HPO:probinson	17.02.2009	
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0003502	Mild short stature			TAS	TAS							OMIM:126050	HPO:probinson	17.02.2009	
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0009465	Ulnar deviation of finger			TAS	TAS							OMIM:126050	HPO:probinson	17.02.2009	
+OMIM:126050	DIGITOTALAR DYSMORPHISM					HP:0005651	Flexion contracture of finger			TAS	TAS							OMIM:126050	HPO:probinson	26.07.2012	

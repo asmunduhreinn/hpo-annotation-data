@@ -1,3 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:191850	URTICARIA, AQUAGENIC					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:191850	HPO	17.02.2009
-OMIM:191850	URTICARIA, AQUAGENIC					HP:0001025	Urticaria			ITM	ITM							OMIM:191850	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:191850	URTICARIA, AQUAGENIC					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:191850	HPO	17.02.2009	
+OMIM:191850	URTICARIA, AQUAGENIC					HP:0001025	Urticaria			TAS	TAS						on contact with water	OMIM:191850	HPO:skoehler	17.02.2009	

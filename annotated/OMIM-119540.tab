@@ -1,3 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:119540	CLEFT PALATE, ISOLATED					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:119540	HPO	17.02.2009
-OMIM:119540	CLEFT PALATE, ISOLATED					HP:0000175	Cleft palate			ITM	ITM							OMIM:119540	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:119540	CLEFT PALATE, ISOLATED					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:119540	HPO	17.02.2009	
+OMIM:119540	CLEFT PALATE, ISOLATED					HP:0000175	Cleft palate			TAS	TAS							OMIM:119540	HPO:skoehler	17.02.2009	
+OMIM:119540	CLEFT PALATE, ISOLATED					HP:0000212	Gingival overgrowth			TAS	TAS							OMIM:119540	HPO:skoehler	26.07.2012	
+OMIM:119540	CLEFT PALATE, ISOLATED					HP:0009102	Anterior open-bite malocclusion			TAS	TAS							OMIM:119540	HPO:skoehler	26.07.2012	
+OMIM:119540	CLEFT PALATE, ISOLATED					HP:0000347	Micrognathia			TAS	TAS							OMIM:119540	HPO:skoehler	26.07.2012	
