@@ -1,5 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:601466	PATENT DUCTUS VENOSUS					HP:0001397	Hepatic steatosis			TAS	TAS							OMIM:601466	HPO	17.02.2009	
-OMIM:601466	PATENT DUCTUS VENOSUS					HP:0001410	Decreased liver function			TAS	TAS							OMIM:601466	HPO	17.02.2009	
-OMIM:601466	PATENT DUCTUS VENOSUS					HP:0001987	Hyperammonemia			TAS	TAS							OMIM:601466	HPO	17.02.2009	
-OMIM:601466	PATENT DUCTUS VENOSUS					HP:0002480	Hepatic encephalopathy			TAS	TAS							OMIM:601466	HPO	17.02.2009	
+OMIM:601466	PATENT DUCTUS VENOSUS					HP:0001397	Hepatic steatosis			TAS	TAS							OMIM:601466	HPO:skoehler	17.02.2009	
+OMIM:601466	PATENT DUCTUS VENOSUS					HP:0001410	Decreased liver function			TAS	TAS							OMIM:601466	HPO:skoehler	17.02.2009	
+OMIM:601466	PATENT DUCTUS VENOSUS					HP:0001987	Hyperammonemia			TAS	TAS							OMIM:601466	HPO:skoehler	17.02.2009	
+OMIM:601466	PATENT DUCTUS VENOSUS					HP:0002480	Hepatic encephalopathy			TAS	TAS							OMIM:601466	HPO:skoehler	17.02.2009	
+OMIM:601466	PATENT DUCTUS VENOSUS					HP:0012021	Persistent patent ductus venosus			TAS	TAS							OMIM:601466	HPO:probinson	26.07.2012	
+OMIM:601466	PATENT DUCTUS VENOSUS					HP:0012022	Congenital portosystemic venous shunt			TAS	TAS							OMIM:601466	HPO:probinson	26.07.2012	
