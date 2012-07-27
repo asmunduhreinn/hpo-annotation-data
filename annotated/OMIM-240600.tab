@@ -1,8 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:240600	HPO	17.02.2009
-OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0001250	Seizures			IEA	IEA							OMIM:240600	HPO	17.02.2009
-OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0001998	Neonatal hypoglycemia			IEA	IEA							OMIM:240600	HPO	17.02.2009
-OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0002151	Increased serum lactate			ITM	ITM							OMIM:240600	HPO	17.02.2009
-OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0003074	Hyperglycemia			ITM	ITM							OMIM:240600	HPO	17.02.2009
-OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0003162	Fasting hypoglycemia			IEA	IEA							OMIM:240600	HPO	17.02.2009
-OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0003543	Ketonemia			IEA	IEA							OMIM:240600	SKOEHLER	20.06.2010
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:240600	HPO	17.02.2009	
+OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0001250	Seizures			IEA	IEA							OMIM:240600	HPO	17.02.2009	
+OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0001998	Neonatal hypoglycemia			IEA	IEA							OMIM:240600	HPO	17.02.2009	
+OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0002151	Increased serum lactate			TAS	TAS						Postprandial	OMIM:240600	HPO:probinson	17.02.2009	
+OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0011998	Postprandial hyperglycemia			TAS	TAS							OMIM:240600	HPO:probinson	17.02.2009	
+OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0003162	Fasting hypoglycemia			IEA	IEA							OMIM:240600	HPO	17.02.2009	
+OMIM:240600	GLYCOGEN STORAGE DISEASE 0, LIVER					HP:0003543	Ketonemia			IEA	IEA							OMIM:240600	HPO:skoehler	20.06.2010	
