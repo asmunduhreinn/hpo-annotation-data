@@ -1,6 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:212090	HPO	17.02.2009
-OMIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0001629	Ventricular septal defect			IEA	IEA							OMIM:212090	SKOEHLER	20.06.2010
-OMIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0001631	Defect in the atrial septum			IEA	IEA							OMIM:212090	SKOEHLER	20.06.2010
-OMIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0001671	Abnormality of the cardiac septa			ITM	ITM							OMIM:212090	HPO	17.02.2009
-OMIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0001680	Coarctation of aorta			IEA	IEA							OMIM:212090	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:212090	HPO:skoehler	17.02.2009	
+OMIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0001684	Secundum atrial septal defect			TAS	TAS							OMIM:212090	HPO:skoehler	20.06.2010	
+OMIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0001680	Coarctation of aorta			TAS	TAS							OMIM:212090	HPO:skoehler	17.02.2009	
+OMIM:212090	CARDIAC SEPTAL DEFECTS WITH COARCTATION OF THE AORTA					HP:0011682	Perimembranous ventricular septal defect			TAS	TAS							OMIM:212090	HPO:skoehler	28.07.2012	
