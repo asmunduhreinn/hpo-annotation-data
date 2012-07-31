@@ -1,5 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:114000	CAFFEY DISEASE					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:114000	HPO	17.02.2009	
-OMIM:114000	CAFFEY DISEASE					HP:0006465	Periosteal thickening of long tubular bones			TAS	TAS							OMIM:114000	HPO	17.02.2009	
-OMIM:114000	CAFFEY DISEASE					HP:0001945	Fever			TAS	TAS							OMIM:114000	HPO	17.02.2009	
-OMIM:114000	CAFFEY DISEASE					HP:0002982	Tibial bowing			TAS	TAS							OMIM:114000	HPO	16.07.2012	
+OMIM:114000	CAFFEY DISEASE					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:114000	HPO:probinson	17.02.2009	
+OMIM:114000	CAFFEY DISEASE					HP:0006465	Periosteal thickening of long tubular bones			TAS	TAS							OMIM:114000	HPO:probinson	17.02.2009	
+OMIM:114000	CAFFEY DISEASE					HP:0001945	Fever			TAS	TAS							OMIM:114000	HPO:probinson	17.02.2009	
+OMIM:114000	CAFFEY DISEASE					HP:0002982	Tibial bowing			TAS	TAS							OMIM:114000	HPO:probinson	16.07.2012	
+OMIM:114000	CAFFEY DISEASE					HP:0004490	Calvarial hyperostosis			TAS	TAS							OMIM:114000	HPO:probinson	30.07.2012	
+OMIM:114000	CAFFEY DISEASE					HP:0002979	Bowing of the legs	HP:0003577	Congenital onset	TAS	TAS						Mild	OMIM:114000	HPO:probinson	30.07.2012	
