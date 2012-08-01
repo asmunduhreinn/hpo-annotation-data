@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:604393	LEBER CONGENITAL AMAUROSIS 4					HP:0000007	Autosomal recessive inheritance			TAS	TAS							MIM:604393	HPO:probinson	01.08.2012	
+MIM:604393	LEBER CONGENITAL AMAUROSIS 4					HP:0007663	Decreased central vision			TAS	TAS							MIM:604393	HPO:probinson	01.08.2012	
+MIM:604393	LEBER CONGENITAL AMAUROSIS 4					HP:0012043	Pendular nystagmus			TAS	TAS							MIM:604393	HPO:probinson	01.08.2012	
+MIM:604393	LEBER CONGENITAL AMAUROSIS 4					HP:0007843	Attenuation of retinal blood vessels			TAS	TAS						Severe	MIM:604393	HPO:probinson	01.08.2012	
+MIM:604393	LEBER CONGENITAL AMAUROSIS 4					HP:0007401	Noninflammatory macular atrophy			TAS	TAS							MIM:604393	HPO:probinson	01.08.2012	
+MIM:604393	LEBER CONGENITAL AMAUROSIS 4					HP:0000543	Optic disc pallor			TAS	TAS							MIM:604393	HPO:probinson	01.08.2012	
+MIM:604393	LEBER CONGENITAL AMAUROSIS 4					HP:0007688	Absent rod-and cone-mediated responses on ERG			TAS	TAS							MIM:604393	HPO:probinson	01.08.2012	
