@@ -3,5 +3,6 @@ OMIM:114000	CAFFEY DISEASE					HP:0000006	Autosomal dominant inheritance			TAS	T
 OMIM:114000	CAFFEY DISEASE					HP:0006465	Periosteal thickening of long tubular bones			TAS	TAS							OMIM:114000	HPO:probinson	17.02.2009	
 OMIM:114000	CAFFEY DISEASE					HP:0001945	Fever			TAS	TAS							OMIM:114000	HPO:probinson	17.02.2009	
 OMIM:114000	CAFFEY DISEASE					HP:0002982	Tibial bowing			TAS	TAS							OMIM:114000	HPO:probinson	16.07.2012	
-OMIM:114000	CAFFEY DISEASE					HP:0004490	Calvarial hyperostosis			TAS	TAS							OMIM:114000	HPO:probinson	30.07.2012	
+OMIM:114000	CAFFEY DISEASE					HP:0004490	Calvarial hyperostosis	HP:0003593	Infantile onset	TAS	TAS							OMIM:114000	HPO:probinson	30.07.2012	
 OMIM:114000	CAFFEY DISEASE					HP:0002979	Bowing of the legs	HP:0003577	Congenital onset	TAS	TAS						Mild	OMIM:114000	HPO:probinson	30.07.2012	
+OMIM:114000	CAFFEY DISEASE					HP:0005731	Cortical irregularity			TAS	TAS							OMIM:114000	HPO:probinson	03.08.2012	
