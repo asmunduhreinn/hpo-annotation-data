@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:146830	IMMUNE DEFICIENCY, FAMILIAL VARIABLE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:146830	HPO	17.02.2009
-OMIM:146830	IMMUNE DEFICIENCY, FAMILIAL VARIABLE					HP:0002719	Recurrent infections			ITM	ITM							OMIM:146830	HPO	17.02.2009
-OMIM:146830	IMMUNE DEFICIENCY, FAMILIAL VARIABLE					HP:0002720	Decreased IgA			IEA	IEA							OMIM:146830	HPO	17.02.2009
-OMIM:146830	IMMUNE DEFICIENCY, FAMILIAL VARIABLE					HP:0002721	Immunodeficiency			IEA	IEA							OMIM:146830	HPO	17.02.2009
-OMIM:146830	IMMUNE DEFICIENCY, FAMILIAL VARIABLE					HP:0004315	Decreased IgG level			IEA	IEA							OMIM:146830	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:146830	IMMUNE DEFICIENCY, FAMILIAL VARIABLE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:146830	HPO	17.02.2009	
+OMIM:146830	IMMUNE DEFICIENCY, FAMILIAL VARIABLE					HP:0002719	Recurrent infections			TAS	TAS							OMIM:146830	HPO:skoehler	17.02.2009	
+OMIM:146830	IMMUNE DEFICIENCY, FAMILIAL VARIABLE					HP:0002720	IgA deficiency			IEA	IEA							OMIM:146830	HPO	17.02.2009	
+OMIM:146830	IMMUNE DEFICIENCY, FAMILIAL VARIABLE					HP:0002721	Immunodeficiency			IEA	IEA							OMIM:146830	HPO	17.02.2009	
+OMIM:146830	IMMUNE DEFICIENCY, FAMILIAL VARIABLE					HP:0004315	IgG deficiency			IEA	IEA							OMIM:146830	HPO	17.02.2009	

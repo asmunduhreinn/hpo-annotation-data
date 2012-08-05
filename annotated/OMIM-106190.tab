@@ -1,5 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:106190	ANHIDROSIS, FAMILIAL GENERALIZED, WITH NORMAL SWEAT GLANDS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:106190	HPO	17.02.2009
-OMIM:106190	ANHIDROSIS, FAMILIAL GENERALIZED, WITH NORMAL SWEAT GLANDS					HP:0000970	Anhidrosis			ITM	ITM							OMIM:106190	HPO	17.02.2009
-OMIM:106190	ANHIDROSIS, FAMILIAL GENERALIZED, WITH NORMAL SWEAT GLANDS					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:106190	HPO	17.02.2009
-OMIM:106190	ANHIDROSIS, FAMILIAL GENERALIZED, WITH NORMAL SWEAT GLANDS					HP:0007459	Generalized anhidrosis			IEA	IEA							OMIM:106190	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:106190	ANHIDROSIS, FAMILIAL GENERALIZED, WITH NORMAL SWEAT GLANDS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:106190	HPO	17.02.2009	
+OMIM:106190	ANHIDROSIS, FAMILIAL GENERALIZED, WITH NORMAL SWEAT GLANDS					HP:0007459	Generalized anhidrosis			TAS	TAS							OMIM:106190	HPO:skoehler	17.02.2009	
+OMIM:106190	ANHIDROSIS, FAMILIAL GENERALIZED, WITH NORMAL SWEAT GLANDS					HP:0002046	Heat intolerance			TAS	TAS							OMIM:106190	HPO:skoehler	05.08.2012	
