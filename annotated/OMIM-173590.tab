@@ -1,6 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:173590	HPO	17.02.2009
-OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0000421	Epistaxis			IEA	IEA							OMIM:173590	HPO	17.02.2009
-OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0001873	Thrombocytopenia			IEA	IEA							OMIM:173590	HPO	17.02.2009
-OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0001892	Bleeding diathesis			IEA	IEA							OMIM:173590	HPO	17.02.2009
-OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0003540	Abnormal platelet aggregation			ITM	ITM							OMIM:173590	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:173590	HPO:probinson	Feb 17, 2009	
+OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0000421	Epistaxis			TAS	TAS							OMIM:173590	HPO:probinson	Feb 17, 2009	
+OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0001873	Thrombocytopenia			TAS	TAS							OMIM:173590	HPO:probinson	Feb 17, 2009	
+OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0001892	Abnormal bleeding			TAS	TAS							OMIM:173590	HPO:probinson	Feb 17, 2009	
+OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0004866	Impaired ADP-induced platelet aggregation			TAS	TAS							OMIM:173590	HPO:probinson	Sep 10, 2012	
+OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0008148	Impaired epinephrine-induced platelet aggregation			TAS	TAS							OMIM:173590	HPO:probinson	Sep 10, 2012	
+OMIM:173590	PLATELET SIGNAL PROCESSING DEFECT					HP:0008320	Impaired collagen-induced platelet aggregation			TAS	TAS							OMIM:173590	HPO:probinson	Sep 10, 2012	
