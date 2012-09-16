@@ -1,3 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:136880	FUNDUS ALBIPUNCTATUSRETINITIS PUNCTATA ALBESCENS, INCLUDED					HP:0000662	Night blindness			IEA	IEA							OMIM:136880	HPO	17.02.2009
-OMIM:136880	FUNDUS ALBIPUNCTATUSRETINITIS PUNCTATA ALBESCENS, INCLUDED					HP:0008036	Retinal pigmentary dystrophy			ITM	ITM							OMIM:136880	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:136880	FUNDUS ALBIPUNCTATUSRETINITIS PUNCTATA ALBESCENS, INCLUDED					HP:0000662	Night blindness			TAS	TAS							OMIM:136880	HPO:probinson	Feb 17, 2009	
+OMIM:136880	FUNDUS ALBIPUNCTATUSRETINITIS PUNCTATA ALBESCENS, INCLUDED					HP:0012045	Retinal flecks			TAS	TAS							OMIM:136880	HPO:probinson	Sep 16, 2012	
+OMIM:136880	FUNDUS ALBIPUNCTATUSRETINITIS PUNCTATA ALBESCENS, INCLUDED					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:136880	HPO:probinson	Sep 16, 2012	

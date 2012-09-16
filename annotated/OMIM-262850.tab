@@ -1,5 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:262850	PLASMIN INHIBITOR DEFICIENCY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:262850	HPO	17.02.2009	
-OMIM:262850	PLASMIN INHIBITOR DEFICIENCY					HP:0000978	Bruising susceptibility			TAS	TAS							OMIM:262850	HPO	17.02.2009	
-OMIM:262850	PLASMIN INHIBITOR DEFICIENCY					HP:0001934	Persistent bleeding after trauma			IEA	IEA							OMIM:262850	HPO	17.02.2009	
-OMIM:262850	PLASMIN INHIBITOR DEFICIENCY					HP:0005196	Spontaneous joint hemorrhage			IEA	IEA							OMIM:262850	HPO	17.02.2009	
+OMIM:262850	PLASMIN INHIBITOR DEFICIENCY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:262850	HPO:probinson	Feb 17, 2009	
+OMIM:262850	PLASMIN INHIBITOR DEFICIENCY					HP:0000978	Bruising susceptibility			TAS	TAS							OMIM:262850	HPO:probinson	Feb 17, 2009	
+OMIM:262850	PLASMIN INHIBITOR DEFICIENCY					HP:0001934	Persistent bleeding after trauma			TAS	TAS							OMIM:262850	HPO:probinson	Feb 17, 2009	
+OMIM:262850	PLASMIN INHIBITOR DEFICIENCY					HP:0005196	Spontaneous joint hemorrhage			TAS	TAS							OMIM:262850	HPO:probinson	Feb 17, 2009	
+OMIM:262850	PLASMIN INHIBITOR DEFICIENCY					HP:0012151	Hemothorax			TAS	TAS							OMIM:262850	HPO:probinson	Sep 16, 2012	
