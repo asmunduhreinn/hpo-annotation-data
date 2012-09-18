@@ -1,4 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:110000	BLEPHAROCHALASIS, SUPERIOR					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:110000	HPO	17.02.2009
-OMIM:110000	BLEPHAROCHALASIS, SUPERIOR					HP:0000478	Abnormality of the eye			IEA	IEA							OMIM:110000	HPO	17.02.2009
-OMIM:110000	BLEPHAROCHALASIS, SUPERIOR					HP:0000973	Cutis laxa			ITM	ITM							OMIM:110000	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:110000	BLEPHAROCHALASIS, SUPERIOR					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:110000	HPO:probinson	Feb 17, 2009	
+OMIM:110000	BLEPHAROCHALASIS, SUPERIOR					HP:0010749	Blepharochalasis			TAS	TAS							OMIM:110000	HPO:probinson	Feb 17, 2009	
