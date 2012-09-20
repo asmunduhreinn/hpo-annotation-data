@@ -1,2 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:259200	OSTEOCHONDROSIS DEFORMANS TIBIAE, FAMILIAL INFANTILE TYPE					HP:0002970	Genu varum			ITM	ITM							OMIM:259200	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:259200	BLOUNT DISEASE, ADOLESCENT					HP:0002970	Genu varum			TAS	TAS							OMIM:259200	HPO	Feb 17, 2009	
+MIM:259200	BLOUNT DISEASE, ADOLESCENT					HP:0010886	Osteochondrosis dissecans			TAS	TAS						Of the knees	OMIM:259200	HPO:probinson	Sep 20, 2012	
