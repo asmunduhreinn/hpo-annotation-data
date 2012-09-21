@@ -30,7 +30,7 @@ load-external:
 	# in external_ontologies. We also ignore lines starting with #
 	cd $(EXTERNAL_ORPHANET) ; cat ../external_orphanet.txt | sed "/^#.*$$/d" | wget --retry-connrefused -N -i -
 	# loads the mapping between orphanet's signs-and-symptoms and HPO
-	svn export https://compbio.charite.de/svn/hpo/trunk/src/mappings/ $(ORPHANET_MAPPING)
+	svn export http://compbio.charite.de/svn/hpo/trunk/src/mappings/ $(ORPHANET_MAPPING)
 
 
 # takes the manual-annotations (stored at berkeley) and the orpha-data files and generates a big integrated file of HPO-annotated diseases
