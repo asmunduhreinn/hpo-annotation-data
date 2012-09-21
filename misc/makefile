@@ -36,7 +36,8 @@ load-external:
 # takes the manual-annotations (stored at berkeley) and the orpha-data files and generates a big integrated file of HPO-annotated diseases
 .PHONY: generate-annotation-file
 generate-annotation-file:
-	$(UPDATEFROMBERKELEY) --ncbidata "$(EXTERNAL_NCBI)" --orphadata "$(EXTERNAL_ORPHANET)" --sign-mapping "$(ORPHANET_MAPPING)/onet_hpo.tsv" --out-file "new_annot.txt" --hpo_ontology "../" --berkeley-annotated $(BERKELEY_ANNOT_REFORMAT)
+	echo "To be implemented..."
+	#$(GENERATE_ANNOTATIONFILE) --ncbidata "$(EXTERNAL_NCBI)" --orphadata "$(EXTERNAL_ORPHANET)" --sign-mapping "$(ORPHANET_MAPPING)/onet_hpo.tsv" --out-file "new_annot.txt" --hpo_ontology "../" --berkeley-annotated $(BERKELEY_ANNOT_REFORMAT)
 		
 
 .PHONY: clean
