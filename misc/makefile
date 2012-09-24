@@ -13,6 +13,7 @@ GENERATE_ANNOTATIONFILE=java -Xmx1G -jar jarFiles/generateHpoAnnotationFile.jar
 EXTERNAL_ORPHANET?=external_orphanet
 BERKELEY_ANNOT?=annotated
 ORPHANET_MAPPING?=orphanetmapping
+HPO_FOLDER?=hpo
 
 
 ##### 
@@ -31,13 +32,15 @@ load-external:
 	cd $(EXTERNAL_ORPHANET) ; cat ../external_orphanet.txt | sed "/^#.*$$/d" | wget --retry-connrefused -N -i -
 	# loads the mapping between orphanet's signs-and-symptoms and HPO
 	svn export http://compbio.charite.de/svn/hpo/trunk/src/mappings/ $(ORPHANET_MAPPING)
+	# loads the HPO
+	svn export http://compbio.charite.de/svn/hpo/trunk/src/ontology/ $(HPO_FOLDER)
+
 
 
 # takes the manual-annotations (stored at berkeley) and the orpha-data files and generates a big integrated file of HPO-annotated diseases
 .PHONY: generate-annotation-file
 generate-annotation-file:
-	echo "To be implemented..."
-	#$(GENERATE_ANNOTATIONFILE) --ncbidata "$(EXTERNAL_NCBI)" --orphadata "$(EXTERNAL_ORPHANET)" --sign-mapping "$(ORPHANET_MAPPING)/onet_hpo.tsv" --out-file "new_annot.txt" --hpo_ontology "../" --berkeley-annotated $(BERKELEY_ANNOT_REFORMAT)
+	$(GENERATE_ANNOTATIONFILE) --orphadata "$(EXTERNAL_ORPHANET)" --sign-mapping "$(ORPHANET_MAPPING)/onet_hpo.tsv" --out-folder "." --hpo_ontology "$(HPO_FOLDER)" --berkeley-annotated $(BERKELEY_ANNOT_REFORMAT)
 		
 
 .PHONY: clean
