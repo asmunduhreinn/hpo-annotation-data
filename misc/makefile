@@ -6,7 +6,7 @@
 
 
 # the programs being called
-GENERATE_ANNOTATIONFILE=java -Xmx1G -jar jarFiles/generateHpoAnnotationFile.jar
+GENERATE_ANNOTATIONFILE=java -Xmx1G -jar jarFiles/generateAnnotationFile.jar
 
 
 # the folders where external data is stored locally
