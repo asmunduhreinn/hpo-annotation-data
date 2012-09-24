@@ -8,5 +8,3 @@ http://www.orphadata.org/data/xml/en_product1.xml
 # Diseases with their clinical signs
 http://www.orphadata.org/data/xml/en_product4.xml
 
-# Diseases with their associated genes
-http://www.orphadata.org/data/xml/en_product6.xml
