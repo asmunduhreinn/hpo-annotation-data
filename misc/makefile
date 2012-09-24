@@ -39,7 +39,7 @@ load-external:
 # takes the manual-annotations (stored at berkeley) and the orpha-data files and generates a big integrated file of HPO-annotated diseases
 .PHONY: generate-annotation-file
 generate-annotation-file:
-	$(GENERATE_ANNOTATIONFILE) --orphadata "$(EXTERNAL_ORPHANET)" --sign-mapping "$(ORPHANET_MAPPING)/onet_hpo.tsv" --out-folder "." --hpo_ontology "$(HPO_FOLDER)" --berkeley-annotated "./annotated/"
+	$(GENERATE_ANNOTATIONFILE) --orphadata "$(EXTERNAL_ORPHANET)" --sign-mapping "$(ORPHANET_MAPPING)/onet_hpo.tsv" --out-folder "." --hpo_ontology "$(HPO_FOLDER)" --berkeley-annotated "../annotated/"
 		
 
 .PHONY: clean
