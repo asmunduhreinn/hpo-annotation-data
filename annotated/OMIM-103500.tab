@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:103500	TIETZ SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:103500	HPO	17.02.2009
-OMIM:103500	TIETZ SYNDROME					HP:0000635	Blue irides			IEA	IEA							OMIM:103500	HPO	17.02.2009
-OMIM:103500	TIETZ SYNDROME					HP:0001487	Hypopigmented fundi			IEA	IEA							OMIM:103500	HPO	17.02.2009
-OMIM:103500	TIETZ SYNDROME					HP:0002226	White eyebrow			IEA	IEA							OMIM:103500	HPO	17.02.2009
-OMIM:103500	TIETZ SYNDROME					HP:0002227	White eyelashes			IEA	IEA							OMIM:103500	HPO	17.02.2009
-OMIM:103500	TIETZ SYNDROME					HP:0007513	Generalized hypopigmentation			IEA	IEA							OMIM:103500	HPO	17.02.2009
-OMIM:103500	TIETZ SYNDROME					HP:0008527	Congenital sensorineural hearing impairment			IEA	IEA							OMIM:103500	HPO	17.02.2009
-OMIM:103500	TIETZ SYNDROME					HP:0001100	Heterochromia iridis			IEA	IEA				NOT	NOT		OMIM:103500	SKOEHLER	18.06.2010
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:103500	TIETZ SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:103500	HPO	Feb 17, 2009	
+OMIM:103500	TIETZ SYNDROME					HP:0000635	Blue irides			IEA	IEA							OMIM:103500	HPO	Feb 17, 2009	
+OMIM:103500	TIETZ SYNDROME					HP:0001487	Hypopigmented fundi			IEA	IEA							OMIM:103500	HPO	Feb 17, 2009	
+OMIM:103500	TIETZ SYNDROME					HP:0002226	White eyebrow			IEA	IEA							OMIM:103500	HPO	Feb 17, 2009	
+OMIM:103500	TIETZ SYNDROME					HP:0002227	White eyelashes			IEA	IEA							OMIM:103500	HPO	Feb 17, 2009	
+OMIM:103500	TIETZ SYNDROME					HP:0007513	Generalized hypopigmentation			IEA	IEA							OMIM:103500	HPO	Feb 17, 2009	
+OMIM:103500	TIETZ SYNDROME					HP:0008527	Congenital sensorineural hearing impairment			IEA	IEA							OMIM:103500	HPO	Feb 17, 2009	
+OMIM:103500	TIETZ SYNDROME					HP:0001100	Heterochromia iridis			IEA	IEA				NOT	NOT		OMIM:103500	SKOEHLER	Jun 18, 2010	
