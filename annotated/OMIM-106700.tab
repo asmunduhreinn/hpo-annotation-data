@@ -1,5 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:106700	TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:106700	HPO	17.02.2009
-OMIM:106700	TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1					HP:0000924	Abnormality of the musculoskeletal system			IEA	IEA							OMIM:106700	HPO	17.02.2009
-OMIM:106700	TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1					HP:0002092	Pulmonary hypertension			IEA	IEA							OMIM:106700	HPO	17.02.2009
-OMIM:106700	TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1					HP:0002205	Recurrent respiratory infections			IEA	IEA							OMIM:106700	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:106700	TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:106700	HPO	Feb 17, 2009	
+OMIM:106700	TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1					HP:0000924	Abnormality of the skeletal system			IEA	IEA							OMIM:106700	HPO	Feb 17, 2009	
+OMIM:106700	TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1					HP:0002092	Pulmonary hypertension			IEA	IEA							OMIM:106700	HPO	Feb 17, 2009	
+OMIM:106700	TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1					HP:0002205	Recurrent respiratory infections			IEA	IEA							OMIM:106700	HPO	Feb 17, 2009	
+OMIM:106700	TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1					HP:0009884	Tapered distal phalanges of the hand			IEA	IEA	rare						OMIM:106700	HPO:skoehler	Oct 12, 2012	
+OMIM:106700	TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1					HP:0008386	Aplasia/Hypoplasia of the nails			IEA	IEA							OMIM:106700	HPO:skoehler	Oct 12, 2012	
