@@ -1,43 +1,54 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000006	Autosomal dominant inheritance			PCS	PCS							MIM:109400		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000280	Coarse facial features			PCS	PCS							PMID:9096761		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000175	Cleft palate			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000204	Cleft upper lip			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000316	Hypertelorism			PCS	PCS							PMID:9096761		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000486	Strabismus			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000518	Cataract			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000892	Bifid ribs			PCS	PCS							PMID:9096761		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0005815	Supernumerary ribs			PCS	PCS							MIM:109400		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002130	Delayed motor milestones	HP:0003593	Infantile onset	PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010617	Cardiac fibroma			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002650	Scoliosis			PCS	PCS							MIM:109400		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002885	Medulloblastoma	HP:0011463	Childhood onset	PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002007	Frontal bossing			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		17.02.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001425	Heterogeneous			PCS	PCS							MIM:109400		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000256	Macrocephaly	HP:0003577	Congenital onset	PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001056	Milia			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001556	Sloping shoulders			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000238	Hydrocephalus			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0008422	Vertebral wedging			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002414	Spina bifida			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0005462	Calcification of falx cerebri	HP:0011462	Young adult onset	PCS	PCS						Present in 90% of individuals by age 20 years	http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010442	Polydactyly			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001144	Orbital cysts			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000568	Microphthalmos			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001144	Orbital cysts			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010603	Keratocystic odontogenic tumor	HP:0003621	Juvenile onset	PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002671	Basal cell carcinoma	HP:0011462	Young adult onset	PCS	PCS						Present usually in young adult age, but may present in childhood	http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010609	Skin tags			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		27.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0009729	Cardiac rhabdomyoma			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0009730	Rhabdomyoma			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0003828	Variable expressivity			PCS	PCS							MIM:109400		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010612	Plantar pits			PCS	PCS							PMID:9096761		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010610	Palmar pits			PCS	PCS							PMID:9096761		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002937	Hemivertebrae			PCS	PCS							PMID:9096761		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010618	Ovarian fibroma			PCS	PCS							PMID:9096761		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000766	Abnormality of the sternum			PCS	PCS							PMID:9096761		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000912	Sprengel anomaly			PCS	PCS							PMID:9096761		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002948	Vertebral fusion			PCS	PCS							PMID:9096761		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0005449	Bridged sella turcica			PCS	PCS							PMID:9096761		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0004280	Irregular ossification of hand bones			PCS	PCS							PMID:9096761		28.10.2009	
-MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000303	Mandibular prognathia			PCS	PCS						Mild	PMID:12116218	probinson	30.04.2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000006	Autosomal dominant inheritance			PCS	PCS							MIM:109400		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000280	Coarse facial features			PCS	PCS							PMID:9096761		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000175	Cleft palate			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000204	Cleft upper lip			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000316	Hypertelorism			PCS	PCS							PMID:9096761		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000486	Strabismus			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000518	Cataract			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000892	Bifid ribs			PCS	PCS							PMID:9096761		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0005815	Supernumerary ribs			PCS	PCS							MIM:109400		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002130	Delayed motor milestones	HP:0003593	Infantile onset	PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010617	Cardiac fibroma			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002650	Scoliosis			PCS	PCS							MIM:109400		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002885	Medulloblastoma	HP:0011463	Childhood onset	PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002007	Frontal bossing			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Feb 17, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001425	Heterogeneous			PCS	PCS							MIM:109400		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000256	Macrocephaly	HP:0003577	Congenital onset	PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001056	Milia			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001556	Sloping shoulders			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000238	Hydrocephalus			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0008422	Vertebral wedging			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002414	Spina bifida			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0005462	Calcification of falx cerebri	HP:0011462	Young adult onset	PCS	PCS						Present in 90% of individuals by age 20 years	http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010442	Polydactyly			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001144	Orbital cysts			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000568	Microphthalmos			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001144	Orbital cysts			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010603	Keratocystic odontogenic tumor	HP:0003621	Juvenile onset	PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002671	Basal cell carcinoma	HP:0011462	Young adult onset	PCS	PCS						Present usually in young adult age, but may present in childhood	http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010609	Skin tags			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 27, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0009729	Cardiac rhabdomyoma			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0009730	Rhabdomyoma			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=bcns		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0003828	Variable expressivity			PCS	PCS							MIM:109400		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010612	Plantar pits			PCS	PCS							PMID:9096761		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010610	Palmar pits			PCS	PCS							PMID:9096761		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002937	Hemivertebrae			PCS	PCS							PMID:9096761		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010618	Ovarian fibroma			PCS	PCS							PMID:9096761		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000766	Abnormality of the sternum			PCS	PCS							PMID:9096761		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000912	Sprengel anomaly			PCS	PCS							PMID:9096761		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002948	Vertebral fusion			PCS	PCS							PMID:9096761		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0005449	Bridged sella turcica			PCS	PCS							PMID:9096761		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0004280	Irregular ossification of hand bones			PCS	PCS							PMID:9096761		Oct 28, 2009	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000303	Mandibular prognathia			PCS	PCS						Mild	PMID:12116218	probinson	Apr 30, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0004795	Hamartomatous stomach polyps			IEA	IEA							MIM:109400	HPO:skoehler	Oct 12, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000773	Short ribs			IEA	IEA							MIM:109400	HPO:skoehler	Oct 12, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000501	Glaucoma			IEA	IEA							MIM:109400	HPO:skoehler	Oct 12, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000612	Iris coloboma			IEA	IEA							MIM:109400	HPO:skoehler	Oct 12, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002007	Frontal bossing			IEA	IEA							MIM:109400	HPO:skoehler	Oct 12, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000242	Parietal bossing			IEA	IEA							MIM:109400	HPO:skoehler	Oct 12, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0000431	Wide nasal bridge			IEA	IEA							MIM:109400	HPO:skoehler	Oct 12, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0001249	Intellectual disability			IEA	IEA	rare						MIM:109400	HPO:skoehler	Oct 12, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0010044	Short 4th metacarpal			IEA	IEA							MIM:109400	HPO:skoehler	Oct 12, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0009650	Short distal phalanx of the thumb			IEA	IEA							MIM:109400	HPO:skoehler	Oct 12, 2012	
+MIM:109400	BASAL CELL NEVUS SYNDROME			MIM:601309 / wt; MIM:603673 / wt 	PTCH1; PTCH2	HP:0002751	Kyphoscoliosis			IEA	IEA							MIM:109400	HPO:skoehler	Oct 12, 2012	
