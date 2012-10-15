@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+DECIPHER:76	12q14 microdeletion syndrome					HP:0001249	Intellectual disability			IEA	IEA							DECIPHER:76	HPO:skoehler	Sep 15, 2010	
+DECIPHER:76	12q14 microdeletion syndrome					HP:0010739	Osteopoikilosis			IEA	IEA							DECIPHER:76	HPO:skoehler	Oct 15, 2012	
+DECIPHER:76	12q14 microdeletion syndrome					HP:0003508	Proportionate short stature			IEA	IEA							DECIPHER:76	HPO:skoehler	Oct 15, 2012	
