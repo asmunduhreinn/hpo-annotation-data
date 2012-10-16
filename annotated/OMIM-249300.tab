@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:249300	249300 MEGALOCORNEA					HP:0000485	Megalocornea			IEA	IEA						OMIM-CS:HEENT > LARGE CORNEA	OMIM:249300	HPO:skoehler	Oct 16, 2012	
+OMIM:249300	249300 MEGALOCORNEA					HP:0001417	X-linked inheritance			IEA	IEA	common					OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE MUCH RARER THAN X-LINKED	OMIM:249300	HPO:skoehler	Oct 16, 2012	
+OMIM:249300	249300 MEGALOCORNEA					HP:0000007	Autosomal recessive inheritance			IEA	IEA	rare					OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE MUCH RARER THAN X-LINKED	OMIM:249300	HPO:skoehler	Oct 16, 2012	

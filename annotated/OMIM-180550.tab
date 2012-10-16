@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:180550	#180550 RING DERMOID OF CORNEA; RDC					HP:0000481	Abnormality of the cornea			IEA	IEA						OMIM-CS:EYES > ANNULAR LIMBAL DERMOIDS EXTENDING ONTO CORNEA AND CONJUNCTIVA	OMIM:180550	HPO:skoehler	Oct 16, 2012	
+OMIM:180550	#180550 RING DERMOID OF CORNEA; RDC					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:180550	HPO:skoehler	Oct 16, 2012	
+OMIM:180550	#180550 RING DERMOID OF CORNEA; RDC					HP:0000502	Abnormality of the conjunctiva			IEA	IEA						OMIM-CS:EYES > ANNULAR LIMBAL DERMOIDS EXTENDING ONTO CORNEA AND CONJUNCTIVA	OMIM:180550	HPO:skoehler	Oct 16, 2012	

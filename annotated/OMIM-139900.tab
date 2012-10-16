@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:139900	%139900 HAND SKILL, RELATIVE; HSR;;HANDEDNESS					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT VS. MULTIFACTORIAL	OMIM:139900	HPO:skoehler	Oct 16, 2012	
+OMIM:139900	%139900 HAND SKILL, RELATIVE; HSR;;HANDEDNESS									IEA	IEA						OMIM-CS:MISC > HANDEDNESS	OMIM:139900	HPO:skoehler	Oct 16, 2012	

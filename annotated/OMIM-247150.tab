@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:247150	247150 LIP PRINTS					HP:0000159	Abnormality of the lip			IEA	IEA						OMIM-CS:HEENT > LIP PRINTS	OMIM:247150	HPO:skoehler	Oct 16, 2012	
+OMIM:247150	247150 LIP PRINTS					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE NOT EXCLUDED, BUT PROBABLY MULTIFACTORIAL	OMIM:247150	HPO:skoehler	Oct 16, 2012	
+OMIM:247150	247150 LIP PRINTS					HP:0001426	Multifactorial inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE NOT EXCLUDED, BUT PROBABLY MULTIFACTORIAL	OMIM:247150	HPO:skoehler	Oct 16, 2012	
