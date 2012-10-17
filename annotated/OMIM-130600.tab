@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:130600	ELLIPTOCYTOSIS, RHESUS-UNLINKED TYPE					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:130600	probinson	17.02.2009	
 OMIM:130600	ELLIPTOCYTOSIS, RHESUS-UNLINKED TYPE					HP:0004445	Elliptocytosis			TAS	TAS							OMIM:130600	probinson	17.02.2009	
+OMIM:130600	#130600 ELLIPTOCYTOSIS 2; EL2;;ELLIPTOCYTOSIS, RHESUS-UNLINKED TYPE					HP:0001425	Heterogeneous			IEA	IEA						OMIM-CS:MISCELLANEOUS > GENETIC HETEROGENEITY	OMIM:130600	HPO:skoehler	17.10.2012

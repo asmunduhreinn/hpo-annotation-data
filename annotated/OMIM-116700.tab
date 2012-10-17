@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:116700	CATARACT, TOTAL CONGENITAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:116700	HPO	17.02.2009
 OMIM:116700	CATARACT, TOTAL CONGENITAL					HP:0010700	Total cataract			IEA	IEA							OMIM:116700	SKOEHLER	18.06.2010
+OMIM:116700	116700 CATARACT, TOTAL CONGENITAL; CC					HP:0000519	Congenital cataract			IEA	IEA						OMIM-CS:EYES > CONGENITAL CATARACT	OMIM:116700	HPO:skoehler	17.10.2012

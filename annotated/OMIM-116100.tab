@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:116100	CATARACT, MEMBRANOUS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:116100	HPO	17.02.2009
 OMIM:116100	CATARACT, MEMBRANOUS					HP:0000518	Cataract			IEA	IEA							OMIM:116100	SKOEHLER	17.02.2009
+OMIM:116100	116100 CATARACT, MEMBRANOUS					HP:0010922	Membranous cataract			IEA	IEA						OMIM-CS:EYES > MEMBRANOUS CATARACT	OMIM:116100	HPO:skoehler	17.10.2012

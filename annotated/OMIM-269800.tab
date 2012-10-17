@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:269800	SENILE PLAQUE FORMATION					HP:0000707	Abnormality of the nervous system			IEA	IEA							OMIM:269800	HPO	17.02.2009
+OMIM:269800	269800 SENILE PLAQUE FORMATION					HP:0100256	Senile plaques			IEA	IEA						OMIM-CS:NEURO > SENILE PLAQUES	OMIM:269800	HPO:skoehler	17.10.2012

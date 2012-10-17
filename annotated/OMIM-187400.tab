@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:187400	TESTICULAR TORSION					HP:0000119	Abnormality of the genitourinary system			IEA	IEA							OMIM:187400	HPO	17.02.2009
+OMIM:187400	187400 TESTICULAR TORSION;;TORSION OF TESTICULAR CORD					HP:0100813	Testicular torsion			IEA	IEA						OMIM-CS:GU > TESTICULAR TORSION	OMIM:187400	HPO:skoehler	17.10.2012

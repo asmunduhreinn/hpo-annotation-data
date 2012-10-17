@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:155950	MELORHEOSTOSISMELORHEOSTOSIS WITH OSTEOPOIKILOSIS, INCLUDED					HP:0011001	Increased bone mineral density			IEA	IEA							OMIM:155950	HPO	17.02.2009
+OMIM:155950	%155950 MELORHEOSTOSIS, ISOLATED;;MEL					HP:0003676	Progressive disorder			IEA	IEA						OMIM-CS:MISCELLANEOUS > PROGRESSIVE DISORDER	OMIM:155950	HPO:skoehler	17.10.2012

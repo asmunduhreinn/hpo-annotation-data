@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:601666	DIABETES MELLITUS, INSULIN-DEPENDENT, 15					HP:0000819	Diabetes mellitus			IEA	IEA							OMIM:601666	HPO	17.02.2009
+OMIM:601666	%601666 DIABETES MELLITUS, INSULIN-DEPENDENT, 15; IDDM15;;INSULIN-DEPENDENT DIABETES MELLITUS 15					HP:0100651	Type I diabetes mellitus			IEA	IEA						OMIM-CS:METABOLIC > INSULIN-DEPENDENT DIABETES MELLITUS	OMIM:601666	HPO:skoehler	17.10.2012

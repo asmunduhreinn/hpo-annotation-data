@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:600511	SCHIZOPHRENIA 3					HP:0000707	Abnormality of the nervous system			IEA	IEA							OMIM:600511	HPO	17.02.2009
+OMIM:600511	%600511 SCHIZOPHRENIA 3; SCZD3;;SCHIZOPHRENIA SUSCEPTIBILITY LOCUS, CHROMOSOME 6-RELATED					HP:0100753	Schizophrenia			IEA	IEA						OMIM-CS:NEURO > SCHIZOPHRENIA	OMIM:600511	HPO:skoehler	17.10.2012

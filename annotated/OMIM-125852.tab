@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:125852	DIABETES MELLITUS, INSULIN-DEPENDENT, 2					HP:0000819	Diabetes mellitus			IEA	IEA							OMIM:125852	HPO	17.02.2009
+OMIM:125852	#125852 DIABETES MELLITUS, INSULIN-DEPENDENT, 2;;INSULIN-DEPENDENT DIABETES MELLITUS 2; IDDM2					HP:0100651	Type I diabetes mellitus			IEA	IEA						OMIM-CS:ENDO > INSULIN-DEPENDENT DIABETES MELLITUS	OMIM:125852	HPO:skoehler	17.10.2012

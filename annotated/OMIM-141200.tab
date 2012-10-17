@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:141200	HEMATURIA, BENIGN FAMILIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:141200	HPO	17.02.2009
 OMIM:141200	HEMATURIA, BENIGN FAMILIAL					HP:0000790	Hematuria			IEA	IEA							OMIM:141200	HPO	17.02.2009
+OMIM:141200	#141200 HEMATURIA, BENIGN FAMILIAL; BFH;;THIN-BASEMENT-MEMBRANE NEPHROPATHY;;THIN MEMBRANE NEPHROPATHY; TMN					HP:0003680	Nonprogressive disorder			IEA	IEA						OMIM-CS:MISCELLANEOUS > NONPROGRESSIVE	OMIM:141200	HPO:skoehler	17.10.2012

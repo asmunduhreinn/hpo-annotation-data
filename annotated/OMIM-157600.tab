@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:157600	MIRROR MOVEMENTS, HEREDITARY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:157600	HPO	17.02.2009
 OMIM:157600	MIRROR MOVEMENTS, HEREDITARY					HP:0001335	Bimanual synkinesia			IEA	IEA							OMIM:157600	HPO	17.02.2009
+OMIM:157600	#157600 MIRROR MOVEMENTS 1; MRMV1;;MIRROR MOVEMENTS, CONGENITAL;;BIMANUAL SYNERGIA					HP:0003829	Incomplete penetrance			IEA	IEA						OMIM-CS:MISCELLANEOUS > INCOMPLETE PENETRANCE	OMIM:157600	HPO:skoehler	17.10.2012
