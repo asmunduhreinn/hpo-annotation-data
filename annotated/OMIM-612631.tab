@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:612631	#612631 ADENYLATE KINASE DEFICIENCY, HEMOLYTIC ANEMIA DUE TO					HP:0001878	Hemolytic anemia			IEA	IEA						OMIM-CS:HEMATOLOGY > HEMOLYTIC ANEMIA	OMIM:612631	HPO:skoehler	17.10.2012
+OMIM:612631	#612631 ADENYLATE KINASE DEFICIENCY, HEMOLYTIC ANEMIA DUE TO					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:612631	HPO:skoehler	17.10.2012

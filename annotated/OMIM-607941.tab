@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:607941	#607941 ATRIAL SEPTAL DEFECT 2; ASD2					HP:0001631	Defect in the atrial septum			IEA	IEA						OMIM-CS:CARDIOVASCULAR_HEART > ATRIAL SEPTAL DEFECT	OMIM:607941	HPO:skoehler	17.10.2012
+OMIM:607941	#607941 ATRIAL SEPTAL DEFECT 2; ASD2					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:607941	HPO:skoehler	17.10.2012

@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:604809	%604809 PANBRONCHIOLITIS, DIFFUSE;;DPB;;PBLT					HP:0003676	Progressive disorder			IEA	IEA						OMIM-CS:MISCELLANEOUS > PROGRESSIVE DISORDER	OMIM:604809	HPO:skoehler	17.10.2012
+OMIM:604809	%604809 PANBRONCHIOLITIS, DIFFUSE;;DPB;;PBLT					HP:0002110	Bronchiectasis			IEA	IEA						OMIM-CS:RESPIRATORY_LUNGS > BRONCHIECTASIS	OMIM:604809	HPO:skoehler	17.10.2012

@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:613582	#613582 RETINITIS PIGMENTOSA 57; RP57					HP:0007843	Attenuation of retinal blood vessels			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > ATTENUATION OF RETINAL BLOOD VESSELS	OMIM:613582	HPO:skoehler	17.10.2012
+OMIM:613582	#613582 RETINITIS PIGMENTOSA 57; RP57					HP:0011505	Cystoid macular edema			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > CYSTOID MACULAR EDEMA	OMIM:613582	HPO:skoehler	17.10.2012
+OMIM:613582	#613582 RETINITIS PIGMENTOSA 57; RP57					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:613582	HPO:skoehler	17.10.2012

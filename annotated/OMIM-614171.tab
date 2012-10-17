@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:614171	#614171 HERMANSKY-PUDLAK SYNDROME 9; HPS9					HP:0007894	Hypopigmentation of the fundus			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > RETINAL HYPOPIGMENTATION	OMIM:614171	HPO:skoehler	17.10.2012
+OMIM:614171	#614171 HERMANSKY-PUDLAK SYNDROME 9; HPS9					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:614171	HPO:skoehler	17.10.2012
+OMIM:614171	#614171 HERMANSKY-PUDLAK SYNDROME 9; HPS9					HP:0001010	Hypopigmentation of the skin			IEA	IEA						OMIM-CS:SKIN, NAILS, HAIR_SKIN > HYPOPIGMENTED SKIN	OMIM:614171	HPO:skoehler	17.10.2012

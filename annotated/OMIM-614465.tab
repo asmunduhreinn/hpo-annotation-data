@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:614465	#614465 JOUBERT SYNDROME 16; JBTS16					HP:0000589	Coloboma			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > COLOBOMA	OMIM:614465	HPO:skoehler	17.10.2012
+OMIM:614465	#614465 JOUBERT SYNDROME 16; JBTS16					HP:0000657	Oculomotor apraxia			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > OCULOMOTOR APRAXIA	OMIM:614465	HPO:skoehler	17.10.2012
+OMIM:614465	#614465 JOUBERT SYNDROME 16; JBTS16					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:614465	HPO:skoehler	17.10.2012
