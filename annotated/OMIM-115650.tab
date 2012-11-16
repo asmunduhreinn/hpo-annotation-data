@@ -1,4 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MIM:115650	CATARACT, ANTERIOR POLAR, 1					HP:0000006	Autosomal dominant inheritance			PCS	PCS							OMIM:115650	HPO	17.02.2009
-MIM:115650	CATARACT, ANTERIOR POLAR, 1					HP:0001134	Anterior polar cataract			PCS	PCS							OMIM:115650	HPO	17.02.2009
-OMIM:115650	%115650 CATARACT, ANTERIOR POLAR, 1; CTAA1;;CATARACT, ANTERIOR POLAR; CAP					HP:0007916	Small anterior lens surface opacities			IEA	IEA						OMIM-CS:EYES > SMALL ANTERIOR LENS SURFACE OPACITIES	OMIM:115650	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:115650	CATARACT, ANTERIOR POLAR, 1					HP:0000006	Autosomal dominant inheritance			PCS	PCS							OMIM:115650	HPO	Feb 17, 2009	
+MIM:115650	CATARACT, ANTERIOR POLAR, 1					HP:0001134	Anterior polar cataract			PCS	PCS							OMIM:115650	HPO	Feb 17, 2009	
