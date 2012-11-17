@@ -1,3 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:113700	BREASTS AND NIPPLES, ABSENCE OF					HP:0010311	Aplasia/Hypoplasia of the breasts			IEA	IEA									17.02.2009
-MIM:113700	BREASTS AND NIPPLES, ABSENCE OF					HP:0006709	Aplasia/Hypoplasia of the nipples			IEA	IEA									21.02.2012
+MIM:113700	BREASTS AND NIPPLES, ABSENCE OF					HP:0010311	Aplasia/Hypoplasia of the breasts			IEA	IEA									Feb 17, 2009	
+MIM:113700	BREASTS AND NIPPLES, ABSENCE OF					HP:0006709	Aplasia/Hypoplasia of the nipples			IEA	IEA									Feb 21, 2012	
+OMIM:113700	113700 BREASTS AND NIPPLES, ABSENCE OF;;AMASTIAATHELIA, INCLUDED;;AMAZIA, INCLUDED					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT VS. X-LINKED	OMIM:113700	HPO:skoehler	Nov 16, 2012	
+OMIM:113700	113700 BREASTS AND NIPPLES, ABSENCE OF;;AMASTIAATHELIA, INCLUDED;;AMAZIA, INCLUDED					HP:0001417	X-linked inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT VS. X-LINKED	OMIM:113700	HPO:skoehler	Nov 17, 2012	

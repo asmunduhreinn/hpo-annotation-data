@@ -1,3 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:113950	BUNDLE BRANCH BLOCK, FAMILIAL ISOLATED COMPLETE RIGHT					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:113950	HPO	17.02.2009
-OMIM:113950	BUNDLE BRANCH BLOCK, FAMILIAL ISOLATED COMPLETE RIGHT					HP:0001626	Abnormality of the cardiovascular system			IEA	IEA							OMIM:113950	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:113950	BUNDLE BRANCH BLOCK, FAMILIAL ISOLATED COMPLETE RIGHT					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:113950	HPO	Feb 17, 2009	
+OMIM:113950	BUNDLE BRANCH BLOCK, FAMILIAL ISOLATED COMPLETE RIGHT					HP:0001626	Abnormality of the cardiovascular system			IEA	IEA							OMIM:113950	HPO	Feb 17, 2009	
+OMIM:113950	%113950 BUNDLE BRANCH BLOCK, FAMILIAL ISOLATED COMPLETE RIGHT					HP:0011712	Right bundle branch block			IEA	IEA						OMIM-CS:CARDIAC > COMPLETE RIGHT BUNDLE BRANCH BLOCK	OMIM:113950	HPO:skoehler	Nov 16, 2012	

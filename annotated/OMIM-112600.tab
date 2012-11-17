@@ -1,18 +1,19 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0000006	Autosomal dominant inheritance			ICE	ICE							HPO:sdoelken		17.02.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0001509	Short stature			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0004209	Clinodactyly of the 5th finger			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0008096	Medially deviated second toe			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009161	Aplasia/Hypoplasia of the middle phalanx of the 5th finger			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009182	Triangular shaped middle phalanx of the 5th finger			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009204	Bracket epiphysis of the middle phalanx of the 5th finger			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009467	Radial deviation of the 2nd finger			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009514	Bracket epiphysis of the middle phalanx of the 2nd finger			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009536	Hypoplastic/small 2nd finger			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009568	Aplasia/Hypoplasia of the middle phalanx of the 2nd finger			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009575	Triangular shaped middle phalanx of the 2nd finger			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0010194	Aplasia/Hypoplasia of the middle phalanges of the toes			ICE	ICE							HPO:sdoelken		02.10.2009	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0010109	Hypoplastic/small hallux			TAS	TAS							MIM:112600	probinson	08.06.2012	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0010055	Broad hallux			TAS	TAS							MIM:112600	probinson	08.06.2012	
-MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0001822	Hallux valgus			TAS	TAS							MIM:112600	probinson	08.06.2012	
-OMIM:112600	#112600 BRACHYDACTYLY, TYPE A2; BDA2;;BRACHYMESOPHALANGY II;;MOHR-WRIEDT TYPE BRACHYDACTYLY					HP:0009464	Ulnar deviation of the 2nd finger			IEA	IEA						OMIM-CS:SKELETAL_HANDS > MEDIALLY DEVIATED INDEX FINGER	OMIM:112600	HPO:skoehler	17.10.2012
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0000006	Autosomal dominant inheritance			ICE	ICE							HPO:sdoelken		Feb 17, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0001509	Short stature			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0004209	Clinodactyly of the 5th finger			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0008096	Medially deviated second toe			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009161	Aplasia/Hypoplasia of the middle phalanx of the 5th finger			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009182	Triangular shaped middle phalanx of the 5th finger			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009204	Bracket epiphysis of the middle phalanx of the 5th finger			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009467	Radial deviation of the 2nd finger			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009514	Bracket epiphysis of the middle phalanx of the 2nd finger			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009536	Short 2nd finger			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009568	Aplasia/Hypoplasia of the middle phalanx of the 2nd finger			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0009575	Triangular shaped middle phalanx of the 2nd finger			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0010194	Aplasia/Hypoplasia of the middle phalanges of the toes			ICE	ICE							HPO:sdoelken		Oct 2, 2009	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0010109	Small hallux			TAS	TAS							MIM:112600	probinson	Jun 8, 2012	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0010055	Broad hallux			TAS	TAS							MIM:112600	probinson	Jun 8, 2012	
+MIM:112600	BRACHYDACTYLY, TYPE A2			MIM:603248 / wt; MIM:601146 / wt	BMPR1B, GDF5	HP:0001822	Hallux valgus			TAS	TAS							MIM:112600	probinson	Jun 8, 2012	
+OMIM:112600	#112600 BRACHYDACTYLY, TYPE A2; BDA2;;BRACHYMESOPHALANGY II;;MOHR-WRIEDT TYPE BRACHYDACTYLY					HP:0009464	Ulnar deviation of the 2nd finger			IEA	IEA						OMIM-CS:SKELETAL_HANDS > MEDIALLY DEVIATED INDEX FINGER	OMIM:112600	HPO:skoehler	Oct 17, 2012	
+OMIM:112600	#112600 BRACHYDACTYLY, TYPE A2; BDA2;;BRACHYMESOPHALANGY II;;MOHR-WRIEDT TYPE BRACHYDACTYLY					HP:0004691	2-3 toe syndactyly			IEA	IEA						OMIM-CS:SKELETAL_FEET > SYNDACTYLY (2-3)	OMIM:112600	HPO:skoehler	Nov 16, 2012	

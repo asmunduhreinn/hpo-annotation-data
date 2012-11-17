@@ -1,3 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:113475	BRACHYMETATARSUS IV					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:113475	HPO	17.02.2009
-OMIM:113475	BRACHYMETATARSUS IV					HP:0004689	Short fourth metatarsal			IEA	IEA							OMIM:113475	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:113475	BRACHYMETATARSUS IV					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:113475	HPO	Feb 17, 2009	
+OMIM:113475	BRACHYMETATARSUS IV					HP:0004689	Short fourth metatarsal			IEA	IEA							OMIM:113475	HPO	Feb 17, 2009	
+OMIM:113475	113475 BRACHYMETATARSUS IV;;METATARSUS IV, SHORT;;TOE, FOURTH, SHORT					HP:0008093	Short 4th toe			IEA	IEA						OMIM-CS:LIMBS > SHORT FOURTH TOES	OMIM:113475	HPO:skoehler	Nov 16, 2012	
