@@ -1,5 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:120440	COLONIC VARICES WITHOUT PORTAL HYPERTENSION					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:120440	HPO	17.02.2009
-OMIM:120440	COLONIC VARICES WITHOUT PORTAL HYPERTENSION					HP:0001438	Abnormality of the abdomen			IEA	IEA							OMIM:120440	HPO	17.02.2009
-OMIM:120440	COLONIC VARICES WITHOUT PORTAL HYPERTENSION					HP:0001892	Bleeding diathesis			IEA	IEA							OMIM:120440	SKOEHLER	20.06.2010
-OMIM:120440	COLONIC VARICES WITHOUT PORTAL HYPERTENSION					HP:0002619	Varicose veins			ITM	ITM							OMIM:120440	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:120440	COLONIC VARICES WITHOUT PORTAL HYPERTENSION					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:120440	HPO	Feb 17, 2009	
+OMIM:120440	COLONIC VARICES WITHOUT PORTAL HYPERTENSION					HP:0001438	Abnormality of the abdomen			IEA	IEA							OMIM:120440	HPO	Feb 17, 2009	
+OMIM:120440	COLONIC VARICES WITHOUT PORTAL HYPERTENSION					HP:0001892	Abnormal bleeding			IEA	IEA							OMIM:120440	SKOEHLER	Jun 20, 2010	
+OMIM:120440	COLONIC VARICES WITHOUT PORTAL HYPERTENSION					HP:0002619	Varicose veins			ITM	ITM							OMIM:120440	HPO	Feb 17, 2009	
+OMIM:120440	120440 COLONIC VARICES WITHOUT PORTAL HYPERTENSION					HP:0001392	Abnormality of the liver			IEA	IEA				NOT	NOT	OMIM-CS:GI > NO LIVER DISEASE	OMIM:120440	HPO:skoehler	Nov 16, 2012	
