@@ -1,4 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:119530	OROFACIAL CLEFT 1					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:119530	probinson	17.02.2009	
-OMIM:119530	OROFACIAL CLEFT 1					HP:0000175	Cleft palate			TAS	TAS							OMIM:119530	SKOEHLER	20.06.2010	
-OMIM:119530	OROFACIAL CLEFT 1					HP:0000204	Cleft upper lip			TAS	TAS						With or without cleft palate	OMIM:119530	probinson	17.02.2009	
+OMIM:119530	OROFACIAL CLEFT 1					HP:0000175	Cleft palate			TAS	TAS							OMIM:119530	HPO:skoehler	20.06.2010	
+OMIM:119530	OROFACIAL CLEFT 1					HP:0000204	Cleft upper lip			TAS	TAS						With or without cleft palate	OMIM:119530	probinson	17.02.2009
+OMIM:119530	%119530 OROFACIAL CLEFT 1; OFC1;;CLEFT LIP WITH OR WITHOUT CLEFT PALATE, NONSYNDROMIC, 1;;OROFACIAL CLEFT, NONSYNDROMIC; OFC;;CLEFT LIP/PALATE, NONSYNDROMIC					HP:0001425	Heterogeneous			IEA	IEA						OMIM-CS:MISCELLANEOUS > GENETIC HETEROGENEITY, PROBABLY DETERMINED BY MAJOR AND MINOR GENES,	OMIM:119530	HPO:skoehler	16.11.2012
+	
