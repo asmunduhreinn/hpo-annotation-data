@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:614497	#614497 MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 7; MCOPCB7					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:614497	HPO:skoehler	17.10.2012
+OMIM:614497	#614497 MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 7; MCOPCB7					HP:0000568	Microphthalmos			IEA	IEA	rare					OMIM-CS:HEAD AND NECK_EYES > MICROPHTHALMIA (IN SOME PATIENTS)	OMIM:614497	HPO:skoehler	18.11.2012
