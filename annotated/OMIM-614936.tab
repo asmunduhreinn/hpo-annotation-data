@@ -1,2 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:614936	%614936 KERATODERMA, PALMOPLANTAR, PUNCTATE TYPE IB; PPKP1B					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:614936	HPO:skoehler	20.11.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614936	%614936 KERATODERMA, PALMOPLANTAR, PUNCTATE TYPE IB; PPKP1B					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:614936	HPO:skoehler	Nov 20, 2012	
+OMIM:614936	%614936 KERATODERMA, PALMOPLANTAR, PUNCTATE TYPE IB; PPKP1B					HP:0000962	Hyperkeratosis			IEA	IEA						OMIM-CS:SKIN, NAILS, HAIR_SKIN > HYPERKERATOSIS, MARKED	OMIM:614936	HPO:skoehler	Nov 20, 2012	
