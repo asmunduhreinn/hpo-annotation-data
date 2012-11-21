@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:614152	#614152 DEAFNESS, AUTOSOMAL DOMINANT 64; DFNA64					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:614152	HPO:skoehler	17.10.2012
 OMIM:614152	#614152 DEAFNESS, AUTOSOMAL DOMINANT 64; DFNA64					HP:0003676	Progressive disorder			IEA	IEA						OMIM-CS:MISCELLANEOUS > PROGRESSIVE DISORDER	OMIM:614152	HPO:skoehler	17.10.2012
+OMIM:614152	#614152 DEAFNESS, AUTOSOMAL DOMINANT 64; DFNA64					HP:0000407	Sensorineural hearing impairment			IEA	IEA						OMIM-CS:HEAD AND NECK_EARS > HEARING LOSS, SENSORINEURAL	OMIM:614152	HPO:skoehler	21.11.2012
