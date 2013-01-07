@@ -1,3 +1,2 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:207600	TAKAYASU ARTERITIS					HP:0000924	Abnormality of the musculoskeletal system			IEA	IEA							OMIM:207600	HPO	17.02.2009
-OMIM:207600	TAKAYASU ARTERITIS					HP:0001662	Bradycardia			ITM	ITM							OMIM:207600	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:207600	TAKAYASU ARTERITIS					HP:0012089	Arteritis			TAS	TAS						Arteritis of major aortic branches	MIM:207600	HPO:probinson	Jan 7, 2013	
