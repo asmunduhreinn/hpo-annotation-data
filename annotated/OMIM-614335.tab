@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614335	#614335 ARTHROGRYPOSIS, DISTAL, TYPE 1B; DA1B					HP:0005684	Distal arthrogryposis			IEA	IEA	obligate						OMIM:614335	HPO:skoehler	Jan 9, 2013	
+OMIM:614335	#614335 ARTHROGRYPOSIS, DISTAL, TYPE 1B; DA1B					HP:0001762	Talipes equinovarus			IEA	IEA	9 of 12						OMIM:614335	HPO:skoehler	Jan 9, 2013	
+OMIM:614335	#614335 ARTHROGRYPOSIS, DISTAL, TYPE 1B; DA1B					HP:0001838	Vertical talus			IEA	IEA	3 of 12						OMIM:614335	HPO:skoehler	Jan 9, 2013	
+OMIM:614335	#614335 ARTHROGRYPOSIS, DISTAL, TYPE 1B; DA1B					HP:0008366	Contractures involving the joints of the feet			IEA	IEA	hallmark						OMIM:614335	HPO:skoehler	Jan 9, 2013	
+OMIM:614335	#614335 ARTHROGRYPOSIS, DISTAL, TYPE 1B; DA1B					HP:0009473	Joint contracture of the hand			IEA	IEA	5 of 12						OMIM:614335	HPO:skoehler	Jan 9, 2013	
