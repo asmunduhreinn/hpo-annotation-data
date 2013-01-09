@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:300807	#300807 THROMBOPHILIA, X-LINKED, DUE TO FACTOR IX DEFECT; THPH8DEEP VENOUS THROMBOSIS, PROTECTION AGAINST, INCLUDED					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:300807	HPO:skoehler	Jan 9, 2013	
+OMIM:300807	#300807 THROMBOPHILIA, X-LINKED, DUE TO FACTOR IX DEFECT; THPH8DEEP VENOUS THROMBOSIS, PROTECTION AGAINST, INCLUDED					HP:0002625	Deep venous thrombosis			IEA	IEA							OMIM:300807	HPO:skoehler	Jan 9, 2013	
+OMIM:300807	#300807 THROMBOPHILIA, X-LINKED, DUE TO FACTOR IX DEFECT; THPH8DEEP VENOUS THROMBOSIS, PROTECTION AGAINST, INCLUDED					HP:0010989	Abnormality of the intrinsic pathway			IEA	IEA							OMIM:300807	HPO:skoehler	Jan 9, 2013	

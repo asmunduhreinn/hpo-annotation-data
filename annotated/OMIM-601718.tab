@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0000510	Retinitis pigmentosa			IEA	IEA							OMIM:601718	HPO:skoehler	Jan 9, 2013	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0000980	Pallor			IEA	IEA							OMIM:601718	HPO:skoehler	Jan 9, 2013	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0007737	Bony spicule pigmentary retinopathy			IEA	IEA							OMIM:601718	HPO:skoehler	Jan 9, 2013	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0007843	Attenuation of retinal blood vessels			IEA	IEA							OMIM:601718	HPO:skoehler	Jan 9, 2013	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0007980	Absent retinal pigment epithelium			IEA	IEA							OMIM:601718	HPO:skoehler	Jan 9, 2013	
