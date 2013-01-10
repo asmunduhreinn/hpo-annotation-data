@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:604116	#604116 CONE-ROD DYSTROPHY 3; CORD3					HP:0000548	Cone-rod dystrophy			IEA	IEA							OMIM:604116	HPO:skoehler	Jan 9, 2013	
+OMIM:604116	#604116 CONE-ROD DYSTROPHY 3; CORD3					HP:0000572	Visual loss	HP:0003593	Infantile onset	IEA	IEA							OMIM:604116	HPO:skoehler	Jan 10, 2013	
+OMIM:604116	#604116 CONE-ROD DYSTROPHY 3; CORD3					HP:0000551	Abnormality of color vision	HP:0003593	Infantile onset	IEA	IEA							OMIM:604116	HPO:skoehler	Jan 10, 2013	
+OMIM:604116	#604116 CONE-ROD DYSTROPHY 3; CORD3					HP:0000603	Central scotoma	HP:0003593	Infantile onset	IEA	IEA							OMIM:604116	HPO:skoehler	Jan 10, 2013	
