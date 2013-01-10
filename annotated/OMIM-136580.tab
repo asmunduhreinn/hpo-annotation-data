@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:136580	#136580 FRAGILE SITE 16q22; FRA16A					HP:0000789	Infertility			IEA	IEA							OMIM:136580	HPO:skoehler	Jan 9, 2013	
+OMIM:136580	#136580 FRAGILE SITE 16q22; FRA16A					HP:0005268	Spontaneous abortion			IEA	IEA							OMIM:136580	HPO:skoehler	Jan 10, 2013	
+OMIM:136580	#136580 FRAGILE SITE 16q22; FRA16A					HP:0002916	Abnormality of chromosome segregation			IEA	IEA							OMIM:136580	HPO:skoehler	Jan 10, 2013	
+OMIM:136580	#136580 FRAGILE SITE 16q22; FRA16A					HP:0002733	Abnormality of the lymph nodes			IEA	IEA							OMIM:136580	HPO:skoehler	Jan 10, 2013	
