@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:300857	#300857 AMYOTROPHIC LATERAL SCLEROSIS 15, WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA;ALS15					HP:0007354	Amyotrophic lateral sclerosis			IEA	IEA	obligate						OMIM:300857	HPO:skoehler	Jan 9, 2013	
+OMIM:300857	#300857 AMYOTROPHIC LATERAL SCLEROSIS 15, WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA;ALS15					HP:0002145	Frontotemporal dementia			IEA	IEA							OMIM:300857	HPO:skoehler	Jan 11, 2013	
+OMIM:300857	#300857 AMYOTROPHIC LATERAL SCLEROSIS 15, WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA;ALS15					HP:0003581	Adult onset			IEA	IEA							OMIM:300857	HPO:skoehler	Jan 11, 2013	
