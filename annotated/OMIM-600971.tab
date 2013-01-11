@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:600971	#600971 DEAFNESS, AUTOSOMAL RECESSIVE 6; DFNB6;;NEUROSENSORY NONSYNDROMIC RECESSIVE DEAFNESS 6; NSRD6					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:600971	HPO:skoehler	Jan 9, 2013	
+OMIM:600971	#600971 DEAFNESS, AUTOSOMAL RECESSIVE 6; DFNB6;;NEUROSENSORY NONSYNDROMIC RECESSIVE DEAFNESS 6; NSRD6					HP:0000365	Hearing impairment	HP:0003577	Congenital onset	IEA	IEA	obligate						OMIM:600971	HPO:skoehler	Jan 11, 2013	
+OMIM:600971	#600971 DEAFNESS, AUTOSOMAL RECESSIVE 6; DFNB6;;NEUROSENSORY NONSYNDROMIC RECESSIVE DEAFNESS 6; NSRD6					HP:0011390	Morphological abnormality of the inner ear			IEA	IEA				NOT	NOT		OMIM:600971	HPO:skoehler	Jan 11, 2013	

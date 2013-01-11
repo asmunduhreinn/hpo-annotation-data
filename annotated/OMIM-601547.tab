@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:601547	#601547 CATARACT, CONGENITAL, CERULEAN TYPE, 2; CCA2;;CATARACT, CONGENITAL, 'BLUE DOT' TYPE, 2					HP:0007976	Cerulean cataract	HP:0003577	Congenital onset	IEA	IEA	obligate						OMIM:601547	HPO:skoehler	Jan 9, 2013	
+OMIM:601547	#601547 CATARACT, CONGENITAL, CERULEAN TYPE, 2; CCA2;;CATARACT, CONGENITAL, 'BLUE DOT' TYPE, 2					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:601547	HPO:skoehler	Jan 11, 2013	
