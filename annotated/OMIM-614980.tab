@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614980	#614980 CONGENITAL HEART DISEASE, MULTIPLE TYPES, 2; CHTD2					HP:0002564	Malformation of the heart and great vessels			IEA	IEA							OMIM:614980	HPO:skoehler	Jan 9, 2013	
+OMIM:614980	#614980 CONGENITAL HEART DISEASE, MULTIPLE TYPES, 2; CHTD2					HP:0001711	Abnormality of the left ventricle			IEA	IEA							OMIM:614980	HPO:skoehler	Jan 11, 2013	
+OMIM:614980	#614980 CONGENITAL HEART DISEASE, MULTIPLE TYPES, 2; CHTD2					HP:0001682	Subvalvular aortic stenosis			IEA	IEA							OMIM:614980	HPO:skoehler	Jan 11, 2013	
+OMIM:614980	#614980 CONGENITAL HEART DISEASE, MULTIPLE TYPES, 2; CHTD2					HP:0001647	Bicuspid aortic valve			IEA	IEA							OMIM:614980	HPO:skoehler	Jan 11, 2013	
+OMIM:614980	#614980 CONGENITAL HEART DISEASE, MULTIPLE TYPES, 2; CHTD2					HP:0001724	Aortic dilatation			IEA	IEA							OMIM:614980	HPO:skoehler	Jan 11, 2013	

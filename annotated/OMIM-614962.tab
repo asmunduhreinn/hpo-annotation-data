@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614962	#614962 LEPTIN DEFICIENCY; LEPD;;OBESITY, MORBID, NONSYNDROMIC 1					HP:0001513	Obesity	HP:0011463	Childhood onset	IEA	IEA	obligate						OMIM:614962	HPO:skoehler	Jan 11, 2013	
+OMIM:614962	#614962 LEPTIN DEFICIENCY; LEPD;;OBESITY, MORBID, NONSYNDROMIC 1					HP:0003292	Decreased serum leptin			IEA	IEA							OMIM:614962	HPO:skoehler	Jan 11, 2013	
+OMIM:614962	#614962 LEPTIN DEFICIENCY; LEPD;;OBESITY, MORBID, NONSYNDROMIC 1					HP:0100738	Abnormal eating behavior			IEA	IEA							OMIM:614962	HPO:skoehler	Jan 11, 2013	
