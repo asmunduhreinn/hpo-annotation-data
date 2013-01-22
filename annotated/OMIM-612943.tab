@@ -1,2 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:612943	#612943 RETINITIS PIGMENTOSA 42; RP42					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:612943	HPO:skoehler	17.10.2012
+OMIM:612943	#612943 RETINITIS PIGMENTOSA 42; RP42					HP:0000510	Retinitis pigmentosa			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > RETINITIS PIGMENTOSA, LATE-ONSET FORM	OMIM:612943	HPO:skoehler	22.01.2013
+OMIM:612943	#612943 RETINITIS PIGMENTOSA 42; RP42					HP:0000980	Pallor			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > WAXY OPTIC PALLOR	OMIM:612943	HPO:skoehler	22.01.2013
