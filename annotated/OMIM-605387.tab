@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:605387	#605387 CATARACT, POSTERIOR POLAR, 3; CTPP3;;CPP3				CHMP4B	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:17701905	HPO:probinson	Jan 9, 2013	
+OMIM:605387	#605387 CATARACT, POSTERIOR POLAR, 3; CTPP3;;CPP3				CHMP4B	HP:0007787	Posterior subcapsular cataract			PCS	PCS							pmid:17701905	HPO:probinson	Feb 18, 2013	
