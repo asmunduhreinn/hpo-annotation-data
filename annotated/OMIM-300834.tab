@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:300834	#300834 MACULAR DEGENERATION, X-LINKED ATROPHIC				RPGR	HP:0001419	X-linked recessive inheritance			PCS	PCS							pmid:12160730	HPO:probinson	Jan 9, 2013	
+OMIM:300834	#300834 MACULAR DEGENERATION, X-LINKED ATROPHIC				RPGR	HP:0000608	Macular degeneration			PCS	PCS							pmid:12160730	HPO:probinson	Feb 19, 2013	
+OMIM:300834	#300834 MACULAR DEGENERATION, X-LINKED ATROPHIC				RPGR	HP:0007663	Decreased central vision			PCS	PCS							pmid:12160730	HPO:probinson	Feb 19, 2013	

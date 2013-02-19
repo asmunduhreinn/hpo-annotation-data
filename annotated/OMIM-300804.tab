@@ -1,0 +1,12 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0001419	X-linked recessive inheritance			PCS	PCS							pmid:19800048	HPO:probinson	Jan 9, 2013	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0100259	Postaxial polydactyly			PCS	PCS							pmid:19800048	HPO:probinson	Feb 19, 2013	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0000510	Retinitis pigmentosa			PCS	PCS							pmid:19800048	HPO:probinson	Feb 19, 2013	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0000369	Low-set ears			PCS	PCS							pmid:19800048	HPO:probinson	Feb 19, 2013	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0000431	Wide nasal bridge			PCS	PCS							pmid:19800048	HPO:probinson	Feb 19, 2013	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0001249	Intellectual disability			PCS	PCS							pmid:19800048	HPO:probinson	Feb 19, 2013	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0002419	Molar tooth sign on MRI			PCS	PCS							pmid:19800048	HPO:probinson	Feb 19, 2013	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0001510	Growth delay			PCS	PCS							pmid:19800048	HPO:probinson	Feb 19, 2013	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0002002	Deep philtrum			PCS	PCS							pmid:19800048	HPO:probinson	Feb 19, 2013	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0008872	Feeding difficulties in infancy			PCS	PCS							pmid:19800048	HPO:probinson	Feb 19, 2013	
+OMIM:300804	#300804 JOUBERT SYNDROME 10; JBTS10				OFD1	HP:0002719	Recurrent infections			PCS	PCS							pmid:19800048	HPO:probinson	Feb 19, 2013	
