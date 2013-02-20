@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:300854	#300854 RENAL CELL CARCINOMA, Xp11-ASSOCIATED; RCCX1				TFE3	HP:0005584	Renal cell carcinoma			TAS	TAS							OMIM:300854	HPO:probinson	Jan 9, 2013	
+OMIM:300854	#300854 RENAL CELL CARCINOMA, Xp11-ASSOCIATED; RCCX1				TFE3	HP:0001428	Somatic mutation			TAS	TAS							OMIM:300854	HPO:probinson	Feb 20, 2013	

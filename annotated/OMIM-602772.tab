@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:602772	#602772 RETINITIS PIGMENTOSA 25; RP25				EYS	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:18976725	HPO:probinson	Jan 9, 2013	
+OMIM:602772	#602772 RETINITIS PIGMENTOSA 25; RP25				EYS	HP:0000510	Retinitis pigmentosa			PCS	PCS							pmid:18976725	HPO:probinson	Feb 20, 2013	
+OMIM:602772	#602772 RETINITIS PIGMENTOSA 25; RP25				EYS	HP:0007737	Bony spicule pigmentary retinopathy			PCS	PCS							pmid:18976725	HPO:probinson	Feb 20, 2013	
+OMIM:602772	#602772 RETINITIS PIGMENTOSA 25; RP25				EYS	HP:0000662	Night blindness			PCS	PCS							pmid:18976725	HPO:probinson	Feb 20, 2013	
+OMIM:602772	#602772 RETINITIS PIGMENTOSA 25; RP25				EYS	HP:0007843	Attenuation of retinal blood vessels			PCS	PCS							pmid:18976725	HPO:probinson	Feb 20, 2013	
+OMIM:602772	#602772 RETINITIS PIGMENTOSA 25; RP25				EYS	HP:0001133	Constricted visual fields			PCS	PCS							pmid:18976725	HPO:probinson	Feb 20, 2013	
+OMIM:602772	#602772 RETINITIS PIGMENTOSA 25; RP25				EYS	HP:0000550	Abolished electroretinogram (ERG)			PCS	PCS							pmid:18976725	HPO:probinson	Feb 20, 2013	

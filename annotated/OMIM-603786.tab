@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:603786	#603786 STARGARDT DISEASE 4; STGD4				PROM1	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:603786	HPO:skoehler	Jan 9, 2013	
+OMIM:603786	#603786 STARGARDT DISEASE 4; STGD4				PROM1	HP:0007663	Decreased central vision			TAS	TAS							OMIM:603786	HPO:skoehler	Feb 20, 2013	
+OMIM:603786	#603786 STARGARDT DISEASE 4; STGD4				PROM1	HP:0012045	Retinal flecks			TAS	TAS							OMIM:603786	HPO:skoehler	Feb 20, 2013	
+OMIM:603786	#603786 STARGARDT DISEASE 4; STGD4				PROM1	HP:0000608	Macular degeneration			TAS	TAS							OMIM:603786	HPO:skoehler	Feb 20, 2013	
