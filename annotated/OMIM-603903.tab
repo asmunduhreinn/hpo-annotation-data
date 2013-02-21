@@ -1,0 +1,12 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0008346	Increased red cell sickling tendency			TAS	TAS							OMIM:603903	HPO:skoehler	Jan 9, 2013	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0001878	Hemolytic anemia			TAS	TAS							OMIM:603903	HPO:skoehler	Feb 21, 2013	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:603903	HPO:skoehler	Feb 21, 2013	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0002240	Hepatomegaly			TAS	TAS							OMIM:603903	HPO:skoehler	Feb 21, 2013	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0001081	Cholelithiasis			TAS	TAS							OMIM:603903	HPO:skoehler	Feb 21, 2013	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0000952	Jaundice			TAS	TAS							OMIM:603903	HPO:skoehler	Feb 21, 2013	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0000790	Hematuria			TAS	TAS							OMIM:603903	HPO:skoehler	Feb 21, 2013	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0200023	Priapism			TAS	TAS							OMIM:603903	HPO:skoehler	Feb 21, 2013	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0001744	Splenomegaly			TAS	TAS							OMIM:603903	HPO:skoehler	Feb 21, 2013	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0001640	Cardiomegaly			TAS	TAS							OMIM:603903	HPO:skoehler	Feb 21, 2013	
+OMIM:603903	#603903 SICKLE CELL ANEMIA				HBB	HP:0000488	Retinopathy			TAS	TAS							OMIM:603903	HPO:skoehler	Feb 21, 2013	

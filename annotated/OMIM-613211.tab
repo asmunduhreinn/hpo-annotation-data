@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613211	#613211 AMELOGENESIS IMPERFECTA, HYPOMATURATION TYPE, IIA3; AI2A3					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:613211	HPO:probinson	Jan 9, 2013	
+OMIM:613211	#613211 AMELOGENESIS IMPERFECTA, HYPOMATURATION TYPE, IIA3; AI2A3					HP:0000705	Amelogenesis imperfecta			TAS	TAS							OMIM:613211	HPO:probinson	Feb 21, 2013	
+OMIM:613211	#613211 AMELOGENESIS IMPERFECTA, HYPOMATURATION TYPE, IIA3; AI2A3					HP:0011085	Hypomature dental enamel			TAS	TAS							OMIM:613211	HPO:probinson	Feb 21, 2013	
+OMIM:613211	#613211 AMELOGENESIS IMPERFECTA, HYPOMATURATION TYPE, IIA3; AI2A3					HP:0006285	Hypomineralization of enamel			TAS	TAS							OMIM:613211	HPO:probinson	Feb 21, 2013	
