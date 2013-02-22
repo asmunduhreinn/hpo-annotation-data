@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:605019	#605019 HYPOBETALIPOPROTEINEMIA, FAMILIAL, 2; FHBL2;;HYPOLIPIDEMIA, FAMILIAL, COMBINED				ANGPTL3	HP:0003563	Hypobetalipoproteinemia			IEA	IEA							pmid:20942659	HPO:probinson	Jan 9, 2013	
+OMIM:605019	#605019 HYPOBETALIPOPROTEINEMIA, FAMILIAL, 2; FHBL2;;HYPOLIPIDEMIA, FAMILIAL, COMBINED				ANGPTL3	HP:0000006	Autosomal dominant inheritance			IEA	IEA							pmid:20942659	HPO:probinson	Feb 22, 2013	
+OMIM:605019	#605019 HYPOBETALIPOPROTEINEMIA, FAMILIAL, 2; FHBL2;;HYPOLIPIDEMIA, FAMILIAL, COMBINED				ANGPTL3	HP:0012153	Hypotriglyceridemia			IEA	IEA							pmid:20942659	HPO:probinson	Feb 22, 2013	
