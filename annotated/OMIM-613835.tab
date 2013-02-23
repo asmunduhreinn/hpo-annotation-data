@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613835	#613835 LEBER CONGENITAL AMAUROSIS 8; LCA8				CRB1	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:613835	HPO:probinson	Jan 9, 2013	
+OMIM:613835	#613835 LEBER CONGENITAL AMAUROSIS 8; LCA8				CRB1	HP:0000505	Visual impairment	HP:0011463	Childhood onset	TAS	TAS						Severe	OMIM:613835	HPO:probinson	Feb 23, 2013	
+OMIM:613835	#613835 LEBER CONGENITAL AMAUROSIS 8; LCA8				CRB1	HP:0012043	Pendular nystagmus	HP:0011463	Childhood onset	TAS	TAS							OMIM:613835	HPO:probinson	Feb 23, 2013	
+OMIM:613835	#613835 LEBER CONGENITAL AMAUROSIS 8; LCA8				CRB1	HP:0000550	Abolished electroretinogram (ERG)			TAS	TAS							OMIM:613835	HPO:probinson	Feb 23, 2013	
+OMIM:613835	#613835 LEBER CONGENITAL AMAUROSIS 8; LCA8				CRB1	HP:0008499	High-grade hypermetropia			TAS	TAS							OMIM:613835	HPO:probinson	Feb 23, 2013	
+OMIM:613835	#613835 LEBER CONGENITAL AMAUROSIS 8; LCA8				CRB1	HP:0000563	Keratoconus			TAS	TAS							OMIM:613835	HPO:probinson	Feb 23, 2013	
+OMIM:613835	#613835 LEBER CONGENITAL AMAUROSIS 8; LCA8				CRB1	HP:0000518	Cataract			TAS	TAS							OMIM:613835	HPO:probinson	Feb 23, 2013	

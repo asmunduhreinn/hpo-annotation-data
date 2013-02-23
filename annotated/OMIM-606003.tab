@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:606003	#606003 TRANSALDOLASE DEFICIENCY					HP:0001394	Cirrhosis			PCS	PCS							pmid:11283793	HPO:probinson	Jan 9, 2013	
+OMIM:606003	#606003 TRANSALDOLASE DEFICIENCY					HP:0001433	Hepatosplenomegaly			PCS	PCS							pmid:11283793	HPO:probinson	Feb 23, 2013	
+OMIM:606003	#606003 TRANSALDOLASE DEFICIENCY					HP:0001680	Coarctation of aorta			PCS	PCS							pmid:11283793	HPO:probinson	Feb 23, 2013	
+OMIM:606003	#606003 TRANSALDOLASE DEFICIENCY					HP:0000057	Clitoromegaly			PCS	PCS							pmid:11283793	HPO:probinson	Feb 23, 2013	
+OMIM:606003	#606003 TRANSALDOLASE DEFICIENCY					HP:0001009	Telangiectasia			PCS	PCS							pmid:11283793	HPO:probinson	Feb 23, 2013	
+OMIM:606003	#606003 TRANSALDOLASE DEFICIENCY					HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:11283793	HPO:probinson	Feb 23, 2013	
