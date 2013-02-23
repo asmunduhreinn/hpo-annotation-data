@@ -1,2 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:614022	#614022 ATRIAL FIBRILLATION, FAMILIAL, 10; ATFB10					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:614022	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614022	#614022 ATRIAL FIBRILLATION, FAMILIAL, 10; ATFB10				SCN5A	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:614022	HPO:skoehler	Oct 17, 2012	
+OMIM:614022	#614022 ATRIAL FIBRILLATION, FAMILIAL, 10; ATFB10				SCN5A	HP:0004757	Paroxysmal atrial fibrillation			TAS	TAS							OMIM:614022	HPO:probinson	Feb 23, 2013	
+OMIM:614022	#614022 ATRIAL FIBRILLATION, FAMILIAL, 10; ATFB10				SCN5A	HP:0004749	Atrial flutter			TAS	TAS	Occasional						OMIM:614022	HPO:probinson	Feb 23, 2013	
+OMIM:614022	#614022 ATRIAL FIBRILLATION, FAMILIAL, 10; ATFB10				SCN5A	HP:0006671	Paroxysmal atrial tachycardia			TAS	TAS	Occasional						OMIM:614022	HPO:probinson	Feb 23, 2013	
+OMIM:614022	#614022 ATRIAL FIBRILLATION, FAMILIAL, 10; ATFB10				SCN5A	HP:0001712	Left ventricular hypertrophy			TAS	TAS	Occasional						OMIM:614022	HPO:probinson	Feb 23, 2013	
+OMIM:614022	#614022 ATRIAL FIBRILLATION, FAMILIAL, 10; ATFB10				SCN5A	HP:0005180	Tricuspid regurgitation			TAS	TAS	Occasional						OMIM:614022	HPO:probinson	Feb 23, 2013	
