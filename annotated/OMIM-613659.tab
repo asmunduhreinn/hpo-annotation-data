@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613659	#613659 GASTRIC CANCERGASTRIC CANCER, INTESTINAL, INCLUDED				APC	HP:0012126	Stomach cancer			TAS	TAS							OMIM:613659	HPO:skoehler	Jan 9, 2013	
+OMIM:613659	#613659 GASTRIC CANCERGASTRIC CANCER, INTESTINAL, INCLUDED				APC	HP:0001428	Somatic mutation			TAS	TAS							OMIM:613659	HPO:skoehler	Feb 23, 2013	

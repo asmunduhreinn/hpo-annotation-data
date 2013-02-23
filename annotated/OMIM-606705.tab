@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:606705	#606705 DEAFNESS, AUTOSOMAL DOMINANT 36; DFNA36					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:606705	HPO:probinson	Jan 9, 2013	
+OMIM:606705	#606705 DEAFNESS, AUTOSOMAL DOMINANT 36; DFNA36					HP:0000407	Sensorineural hearing impairment	HP:0003621	Juvenile onset	TAS	TAS							OMIM:606705	HPO:probinson	Feb 23, 2013	
