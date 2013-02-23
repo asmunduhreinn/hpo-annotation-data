@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:604537	#604537 LEBER CONGENITAL AMAUROSIS 5; LCA5				LCA5	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:17546029	HPO:skoehler	Jan 9, 2013	
+OMIM:604537	#604537 LEBER CONGENITAL AMAUROSIS 5; LCA5				LCA5	HP:0000505	Visual impairment	HP:0003577	Congenital onset	PCS	PCS							pmid:17546029	HPO:skoehler	Feb 23, 2013	
+OMIM:604537	#604537 LEBER CONGENITAL AMAUROSIS 5; LCA5				LCA5	HP:0000639	Nystagmus			PCS	PCS							pmid:17546029	HPO:skoehler	Feb 23, 2013	
+OMIM:604537	#604537 LEBER CONGENITAL AMAUROSIS 5; LCA5				LCA5	HP:0000540	Hypermetropia			PCS	PCS							pmid:17546029	HPO:skoehler	Feb 23, 2013	
+OMIM:604537	#604537 LEBER CONGENITAL AMAUROSIS 5; LCA5				LCA5	HP:0000550	Abolished electroretinogram (ERG)			PCS	PCS							pmid:17546029	HPO:skoehler	Feb 23, 2013	

@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:604356	#604356 DUANE RETRACTION SYNDROME 2; DURS2				CHN1	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:604356	HPO:probinson	Jan 9, 2013	
+OMIM:604356	#604356 DUANE RETRACTION SYNDROME 2; DURS2				CHN1	HP:0009921	Duane anomaly			TAS	TAS							OMIM:604356	HPO:probinson	Feb 23, 2013	
+OMIM:604356	#604356 DUANE RETRACTION SYNDROME 2; DURS2				CHN1	HP:0000486	Strabismus			TAS	TAS	76%						OMIM:604356	HPO:probinson	Feb 23, 2013	
+OMIM:604356	#604356 DUANE RETRACTION SYNDROME 2; DURS2				CHN1	HP:0000646	Amblyopia			TAS	TAS	48%						OMIM:604356	HPO:probinson	Feb 23, 2013	
