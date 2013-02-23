@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612997	#612997 SPERMATOGENIC FAILURE 7; SPGF7;;MALE INFERTILITY, NONSYNDROMIC, AUTOSOMAL RECESSIVE; MIAR					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:612997	HPO:probinson	Jan 9, 2013	
+OMIM:612997	#612997 SPERMATOGENIC FAILURE 7; SPGF7;;MALE INFERTILITY, NONSYNDROMIC, AUTOSOMAL RECESSIVE; MIAR					HP:0003251	Male infertility			TAS	TAS							OMIM:612997	HPO:probinson	Feb 23, 2013	
+OMIM:612997	#612997 SPERMATOGENIC FAILURE 7; SPGF7;;MALE INFERTILITY, NONSYNDROMIC, AUTOSOMAL RECESSIVE; MIAR					HP:0000798	Oligospermia			TAS	TAS							OMIM:612997	HPO:probinson	Feb 23, 2013	
