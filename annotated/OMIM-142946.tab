@@ -1,10 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:142946	HOLOPROSENCEPHALY 4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:142946	HPO	17.02.2009
-OMIM:142946	HOLOPROSENCEPHALY 4					HP:0000161	Median cleft lip			ITM	ITM							OMIM:142946	HPO	17.02.2009
-OMIM:142946	HOLOPROSENCEPHALY 4					HP:0000425	Flattened nasal bridge			IEA	IEA							OMIM:142946	HPO	17.02.2009
-OMIM:142946	HOLOPROSENCEPHALY 4					HP:0000508	Ptosis			IEA	IEA							OMIM:142946	HPO	17.02.2009
-OMIM:142946	HOLOPROSENCEPHALY 4					HP:0000601	Hypotelorism			IEA	IEA							OMIM:142946	HPO	17.02.2009
-OMIM:142946	HOLOPROSENCEPHALY 4					HP:0002507	Semilobar holoprosencephaly			IEA	IEA							OMIM:142946	HPO	17.02.2009
-OMIM:142946	HOLOPROSENCEPHALY 4					HP:0005273	Absent nasal septal cartilage			IEA	IEA							OMIM:142946	HPO	17.02.2009
-OMIM:142946	HOLOPROSENCEPHALY 4					HP:0005279	Flattened nasal tip			IEA	IEA							OMIM:142946	HPO	17.02.2009
-OMIM:142946	HOLOPROSENCEPHALY 4					HP:0008501	Median cleft lip/palate			IEA	IEA							OMIM:142946	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:142946	HOLOPROSENCEPHALY 4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:142946	HPO	Feb 17, 2009	
+OMIM:142946	HOLOPROSENCEPHALY 4					HP:0000161	Median cleft lip			TAS	TAS							OMIM:142946	HPO:skoehler	Feb 17, 2009	
+OMIM:142946	HOLOPROSENCEPHALY 4					HP:0000425	Flattened nasal bridge			IEA	IEA							OMIM:142946	HPO	Feb 17, 2009	
+OMIM:142946	HOLOPROSENCEPHALY 4					HP:0000508	Ptosis			IEA	IEA							OMIM:142946	HPO	Feb 17, 2009	
+OMIM:142946	HOLOPROSENCEPHALY 4					HP:0000601	Hypotelorism			IEA	IEA							OMIM:142946	HPO	Feb 17, 2009	
+OMIM:142946	HOLOPROSENCEPHALY 4					HP:0002507	Semilobar holoprosencephaly			IEA	IEA							OMIM:142946	HPO	Feb 17, 2009	
+OMIM:142946	HOLOPROSENCEPHALY 4					HP:0005273	Absent nasal septal cartilage			IEA	IEA							OMIM:142946	HPO	Feb 17, 2009	
+OMIM:142946	HOLOPROSENCEPHALY 4					HP:0005279	Flattened nasal tip			IEA	IEA							OMIM:142946	HPO	Feb 17, 2009	
+OMIM:142946	HOLOPROSENCEPHALY 4					HP:0008501	Median cleft lip and palate			IEA	IEA							OMIM:142946	HPO	Feb 17, 2009	

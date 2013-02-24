@@ -1,6 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:132900	HPO	17.02.2009	
-OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0001647	Bicuspid aortic valve			IEA	IEA							OMIM:132900	SKOEHLER	20.06.2010	
-OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0002622	Dissecting aortic aneurysm			IEA	IEA							OMIM:132900	HPO	17.02.2009	
-OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0004942	Aortic aneurysm			TAS	TAS							OMIM:132900	HPO:probinson	17.02.2009	
-OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0008034	Abnormal iris pigmentation			TAS	TAS							OMIM:132900	HPO:probinson	25.07.2012	
+OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:132900	HPO:probinson	Feb 17, 2009	
+OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0001647	Bicuspid aortic valve			TAS	TAS							OMIM:132900	HPO:skoehler	Jun 20, 2010	
+OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0002622	Dissecting aortic aneurysm			TAS	TAS							OMIM:132900	HPO:probinson	Feb 17, 2009	
+OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0004942	Aortic aneurysm			TAS	TAS							OMIM:132900	HPO:probinson	Feb 17, 2009	
+OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0008034	Abnormal iris pigmentation			TAS	TAS							OMIM:132900	HPO:probinson	Jul 25, 2012	
+OMIM:132900	AORTIC ANEURYSM, FAMILIAL THORACIC 4					HP:0012180	Cystic medial necrosis			TAS	TAS							OMIM:132900	HPO:probinson	Feb 24, 2013	

@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:300814	#300814 NYSTAGMUS 6, CONGENITAL, X-LINKED; NYS6				GPR143	HP:0001417	X-linked inheritance			TAS	TAS							OMIM:300814	HPO:probinson	Jan 9, 2013	
+OMIM:300814	#300814 NYSTAGMUS 6, CONGENITAL, X-LINKED; NYS6				GPR143	HP:0000666	Horizontal nystagmus			TAS	TAS							OMIM:300814	HPO:probinson	Feb 24, 2013	
+OMIM:300814	#300814 NYSTAGMUS 6, CONGENITAL, X-LINKED; NYS6				GPR143	HP:0000646	Amblyopia			TAS	TAS							OMIM:300814	HPO:probinson	Feb 24, 2013	
+OMIM:300814	#300814 NYSTAGMUS 6, CONGENITAL, X-LINKED; NYS6				GPR143	HP:0000484	Hyperopic astigmatism			TAS	TAS							OMIM:300814	HPO:probinson	Feb 24, 2013	
+OMIM:300814	#300814 NYSTAGMUS 6, CONGENITAL, X-LINKED; NYS6				GPR143	HP:0007894	Hypopigmentation of the fundus			TAS	TAS				NOT	NOT		OMIM:300814	HPO:probinson	Feb 24, 2013	

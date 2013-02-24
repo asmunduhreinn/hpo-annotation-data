@@ -1,3 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:306950	HERNIA, ANTERIOR DIAPHRAGMATIC					HP:0000776	Congenital diaphragmatic hernia			IEA	IEA							OMIM:306950	SKOEHLER	20.06.2010
-OMIM:306950	HERNIA, ANTERIOR DIAPHRAGMATIC					HP:0003811	Neonatal death			ITM	ITM							OMIM:306950	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:306950	HERNIA, ANTERIOR DIAPHRAGMATIC					HP:0000776	Congenital diaphragmatic hernia			TAS	TAS							OMIM:306950	HPO:skoehler	Jun 20, 2010	
+OMIM:306950	HERNIA, ANTERIOR DIAPHRAGMATIC					HP:0003811	Neonatal death			TAS	TAS							OMIM:306950	HPO:skoehler	Feb 17, 2009	
