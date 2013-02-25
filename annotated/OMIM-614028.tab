@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614028	#614028 HYPERALPHALIPOPROTEINEMIA 2; HALP2;;APOLIPOPROTEIN C-III DEFICIENCY				APOC3	HP:0012184	Hyperalphalipoproteinemia			IEA	IEA							pmid:19074352	HPO:probinson	Jan 9, 2013	
+OMIM:614028	#614028 HYPERALPHALIPOPROTEINEMIA 2; HALP2;;APOLIPOPROTEIN C-III DEFICIENCY				APOC3	HP:0012153	Hypotriglyceridemia			IEA	IEA							pmid:19074352	HPO:probinson	Feb 25, 2013	
+OMIM:614028	#614028 HYPERALPHALIPOPROTEINEMIA 2; HALP2;;APOLIPOPROTEIN C-III DEFICIENCY				APOC3	HP:0003563	Hypobetalipoproteinemia			IEA	IEA							pmid:19074352	HPO:probinson	Feb 25, 2013	
