@@ -1,5 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:609446	GENERALIZED EPILEPSY AND PAROXYSMAL DYSKINESIA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:609446	HPO	17.02.2009
-OMIM:609446	GENERALIZED EPILEPSY AND PAROXYSMAL DYSKINESIA					HP:0002069	Generalized tonic-clonic seizures			IEA	IEA							OMIM:609446	HPO	17.02.2009
-OMIM:609446	GENERALIZED EPILEPSY AND PAROXYSMAL DYSKINESIA					HP:0003621	Juvenile onset			ITM	ITM							OMIM:609446	HPO	17.02.2009
-OMIM:609446	GENERALIZED EPILEPSY AND PAROXYSMAL DYSKINESIA					HP:0007166	Involuntary dystonic or choreiform movements			IEA	IEA							OMIM:609446	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609446	GENERALIZED EPILEPSY AND PAROXYSMAL DYSKINESIA					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:609446	HPO:probinson	Feb 17, 2009	
+OMIM:609446	GENERALIZED EPILEPSY AND PAROXYSMAL DYSKINESIA					HP:0002069	Generalized tonic-clonic seizures			TAS	TAS							OMIM:609446	HPO:probinson	Feb 17, 2009	
+OMIM:609446	GENERALIZED EPILEPSY AND PAROXYSMAL DYSKINESIA					HP:0007166	Paroxysmal dyskinesia			TAS	TAS							OMIM:609446	HPO:probinson	Feb 17, 2009	
+OMIM:609446	GENERALIZED EPILEPSY AND PAROXYSMAL DYSKINESIA					HP:0002121	Absence seizures			TAS	TAS							OMIM:609446	HPO:probinson	Feb 25, 2013	
+OMIM:609446	GENERALIZED EPILEPSY AND PAROXYSMAL DYSKINESIA					HP:0010849	EEG with spike-wave complexes (>3.5 Hz)			TAS	TAS							OMIM:609446	HPO:probinson	Feb 25, 2013	
+OMIM:609446	GENERALIZED EPILEPSY AND PAROXYSMAL DYSKINESIA					HP:0007166	Paroxysmal dyskinesia			TAS	TAS							OMIM:609446	HPO:probinson	Feb 25, 2013	

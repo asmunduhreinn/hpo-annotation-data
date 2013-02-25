@@ -1,5 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:179850	DOWLING-DEGOS DISEASE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:179850	HPO	17.02.2009
-OMIM:179850	DOWLING-DEGOS DISEASE					HP:0007456	Progressive reticulate hyperpigmentation			IEA	IEA							OMIM:179850	HPO	17.02.2009
-OMIM:179850	DOWLING-DEGOS DISEASE					HP:0007588	Reticular hyperpigmentation			ITM	ITM							OMIM:179850	HPO	17.02.2009
-OMIM:179850	DOWLING-DEGOS DISEASE					HP:0011007	Age of onset			ITM	ITM							OMIM:179850	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:179850	DOWLING-DEGOS DISEASE					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:179850	HPO:skoehler	Feb 17, 2009	
+OMIM:179850	DOWLING-DEGOS DISEASE					HP:0007456	Progressive reticulate hyperpigmentation			TAS	TAS							OMIM:179850	HPO:skoehler	Feb 17, 2009	
