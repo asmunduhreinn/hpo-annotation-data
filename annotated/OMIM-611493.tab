@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611493	#611493 ATRIAL FIBRILLATION, FAMILIAL, 4; ATFB4				KCNE2	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:15368194	HPO:probinson	Jan 9, 2013	
+OMIM:611493	#611493 ATRIAL FIBRILLATION, FAMILIAL, 4; ATFB4				KCNE2	HP:0005110	Atrial fibrillation			PCS	PCS							pmid:15368194	HPO:probinson	Feb 26, 2013	
