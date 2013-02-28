@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610599	#610599 RETINITIS PIGMENTOSA 36; RP36				PRCD	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:610599	HPO:probinson	Feb 28, 2013	
+OMIM:610599	#610599 RETINITIS PIGMENTOSA 36; RP36				PRCD	HP:0007737	Bony spicule pigmentary retinopathy			TAS	TAS							OMIM:610599	HPO:probinson	Feb 28, 2013	
+OMIM:610599	#610599 RETINITIS PIGMENTOSA 36; RP36				PRCD	HP:0007843	Attenuation of retinal blood vessels			TAS	TAS							OMIM:610599	HPO:probinson	Feb 28, 2013	
+OMIM:610599	#610599 RETINITIS PIGMENTOSA 36; RP36				PRCD	HP:0000510	Retinitis pigmentosa			TAS	TAS							OMIM:610599	HPO:probinson	Feb 28, 2013	
+OMIM:610599	#610599 RETINITIS PIGMENTOSA 36; RP36				PRCD	HP:0000550	Abolished electroretinogram (ERG)			TAS	TAS							OMIM:610599	HPO:probinson	Feb 28, 2013	
+OMIM:610599	#610599 RETINITIS PIGMENTOSA 36; RP36				PRCD	HP:0000608	Macular degeneration			TAS	TAS							OMIM:610599	HPO:probinson	Feb 28, 2013	
+OMIM:610599	#610599 RETINITIS PIGMENTOSA 36; RP36				PRCD	HP:0000543	Optic disc pallor			TAS	TAS							OMIM:610599	HPO:probinson	Feb 28, 2013	

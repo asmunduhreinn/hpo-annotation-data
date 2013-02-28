@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610504	#610504 PRETERM PREMATURE RUPTURE OF THE MEMBRANES; PPROM				SERPINH1	HP:0001788	Premature rupture of membranes			TAS	TAS							OMIM:610504	HPO:skoehler	Jan 9, 2013	
+OMIM:610504	#610504 PRETERM PREMATURE RUPTURE OF THE MEMBRANES; PPROM				SERPINH1	HP:0010982	Polygenic inheritance			TAS	TAS							OMIM:610504	HPO:skoehler	Feb 28, 2013	
