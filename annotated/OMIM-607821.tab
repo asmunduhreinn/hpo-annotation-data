@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:607821	#607821 DEAFNESS, AUTOSOMAL RECESSIVE 37; DFNB37				MYO6	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:607821	HPO:probinson	Jan 9, 2013	
+OMIM:607821	#607821 DEAFNESS, AUTOSOMAL RECESSIVE 37; DFNB37				MYO6	HP:0000407	Sensorineural hearing impairment			TAS	TAS							OMIM:607821	HPO:probinson	Mar 4, 2013	
+OMIM:607821	#607821 DEAFNESS, AUTOSOMAL RECESSIVE 37; DFNB37				MYO6	HP:0001751	Vestibular dysfunction			TAS	TAS	1/6						OMIM:607821	HPO:probinson	Mar 4, 2013	

@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:607841	#607841 DEAFNESS, AUTOSOMAL DOMINANT 48; DFNA48				MYO1A	HP:0000006	Autosomal dominant inheritance			IEA	IEA							pmid:12736868	HPO:probinson	Jan 9, 2013	
+OMIM:607841	#607841 DEAFNESS, AUTOSOMAL DOMINANT 48; DFNA48				MYO1A	HP:0000407	Sensorineural hearing impairment			IEA	IEA							pmid:12736868	HPO:probinson	Mar 4, 2013	

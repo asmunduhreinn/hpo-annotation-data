@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:607688	#607688 PARKINSON DISEASE 11, AUTOSOMAL DOMINANT; PARK11				 GIGYF2 	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:18358451	HPO:probinson	Jan 9, 2013	
+OMIM:607688	#607688 PARKINSON DISEASE 11, AUTOSOMAL DOMINANT; PARK11				 GIGYF2 	HP:0002067	Bradykinesia			PCS	PCS							pmid:18358451	HPO:probinson	Mar 4, 2013	
+OMIM:607688	#607688 PARKINSON DISEASE 11, AUTOSOMAL DOMINANT; PARK11				 GIGYF2 	HP:0002322	Resting tremor			PCS	PCS							pmid:18358451	HPO:probinson	Mar 4, 2013	
+OMIM:607688	#607688 PARKINSON DISEASE 11, AUTOSOMAL DOMINANT; PARK11				 GIGYF2 	HP:0002063	Rigidity			PCS	PCS							pmid:18358451	HPO:probinson	Mar 4, 2013	
+OMIM:607688	#607688 PARKINSON DISEASE 11, AUTOSOMAL DOMINANT; PARK11				 GIGYF2 	HP:0002172	Postural instability			PCS	PCS							pmid:18358451	HPO:probinson	Mar 4, 2013	
+OMIM:607688	#607688 PARKINSON DISEASE 11, AUTOSOMAL DOMINANT; PARK11				 GIGYF2 	HP:0002548	Parkinsonism with favorable response to dopaminergic medication			PCS	PCS							pmid:18358451	HPO:probinson	Mar 4, 2013	

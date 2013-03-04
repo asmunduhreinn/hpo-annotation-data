@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:607921	#607921 RETINITIS PIGMENTOSA 30; RP30				FSCN2	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:11527955	HPO:probinson	Jan 9, 2013	
+OMIM:607921	#607921 RETINITIS PIGMENTOSA 30; RP30				FSCN2	HP:0000662	Night blindness	HP:0011463	Childhood onset	PCS	PCS							pmid:11527955	HPO:probinson	Mar 4, 2013	
+OMIM:607921	#607921 RETINITIS PIGMENTOSA 30; RP30				FSCN2	HP:0007737	Bony spicule pigmentary retinopathy			PCS	PCS							pmid:11527955	HPO:probinson	Mar 4, 2013	
+OMIM:607921	#607921 RETINITIS PIGMENTOSA 30; RP30				FSCN2	HP:0007843	Attenuation of retinal blood vessels			PCS	PCS							pmid:11527955	HPO:probinson	Mar 4, 2013	
+OMIM:607921	#607921 RETINITIS PIGMENTOSA 30; RP30				FSCN2	HP:0000505	Visual impairment			PCS	PCS							pmid:11527955	HPO:probinson	Mar 4, 2013	
+OMIM:607921	#607921 RETINITIS PIGMENTOSA 30; RP30				FSCN2	HP:0000648	Optic atrophy			PCS	PCS							pmid:11527955	HPO:probinson	Mar 4, 2013	
+OMIM:607921	#607921 RETINITIS PIGMENTOSA 30; RP30				FSCN2	HP:0000533	Chorioretinal atrophy			PCS	PCS							pmid:11527955	HPO:probinson	Mar 4, 2013	
+OMIM:607921	#607921 RETINITIS PIGMENTOSA 30; RP30				FSCN2	HP:0000510	Retinitis pigmentosa			PCS	PCS							pmid:11527955	HPO:probinson	Mar 4, 2013	

@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:607482	#607482 CARDIOMYOPATHY, DILATED, 1M; CMD1M				CSRP3	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:12507422	HPO:probinson	Jan 9, 2013	
+OMIM:607482	#607482 CARDIOMYOPATHY, DILATED, 1M; CMD1M				CSRP3	HP:0001644	Dilated cardiomyopathy			PCS	PCS							pmid:12507422	HPO:probinson	Mar 4, 2013	
+OMIM:607482	#607482 CARDIOMYOPATHY, DILATED, 1M; CMD1M				CSRP3	HP:0006670	Impaired myocardial contractility			PCS	PCS							pmid:12507422	HPO:probinson	Mar 4, 2013	
+OMIM:607482	#607482 CARDIOMYOPATHY, DILATED, 1M; CMD1M				CSRP3	HP:0001706	Endocardial fibroelastosis			PCS	PCS							pmid:14567970	HPO:probinson	Mar 4, 2013	
