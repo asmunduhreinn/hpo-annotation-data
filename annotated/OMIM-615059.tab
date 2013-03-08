@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615059	#615059 HYPOTRICHOSIS 11; HYPT11					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:615059	HPO:skoehler	08.03.2013
+OMIM:615059	#615059 HYPOTRICHOSIS 11; HYPT11					HP:0002221	Absent axillary hair			IEA	IEA						OMIM-CS:SKIN, NAILS, HAIR_HAIR > ABSENT AXILLARY HAIR	OMIM:615059	HPO:skoehler	08.03.2013
