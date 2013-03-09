@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:608837	#608837 CARNEY COMPLEX VARIANT					HP:0005684	Distal arthrogryposis			PCS	PCS							pmid:15282353	HPO:probinson	Jan 9, 2013	
+OMIM:608837	#608837 CARNEY COMPLEX VARIANT					HP:0011672	Cardiac myxoma			PCS	PCS							pmid:15282353	HPO:probinson	Mar 9, 2013	
+OMIM:608837	#608837 CARNEY COMPLEX VARIANT					HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:15282353	HPO:probinson	Mar 9, 2013	
+OMIM:608837	#608837 CARNEY COMPLEX VARIANT					HP:0000211	Trismus			PCS	PCS							pmid:15282353	HPO:probinson	Mar 9, 2013	
