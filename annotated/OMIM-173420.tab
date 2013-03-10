@@ -1,8 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:173420	HPO	17.02.2009
-OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0001873	Thrombocytopenia			IEA	IEA							OMIM:173420	HPO	17.02.2009
-OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0001892	Bleeding diathesis			IEA	IEA							OMIM:173420	HPO	17.02.2009
-OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0003006	Neuroblastoma			IEA	IEA							OMIM:173420	HPO	17.02.2009
-OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0003010	Prolonged bleeding time			IEA	IEA							OMIM:173420	HPO	17.02.2009
-OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0003540	Abnormal platelet aggregation			IEA	IEA							OMIM:173420	HPO	17.02.2009
-OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0004377	Hematological neoplasia			ITM	ITM							OMIM:173420	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:173420	HPO	Feb 17, 2009	
+OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0001873	Thrombocytopenia			IEA	IEA							OMIM:173420	HPO	Feb 17, 2009	
+OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0001892	Abnormal bleeding			IEA	IEA							OMIM:173420	HPO	Feb 17, 2009	
+OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0003006	Neuroblastoma			TAS	TAS							OMIM:173420	HPO:skoehler	Feb 17, 2009	
+OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0003010	Prolonged bleeding time			IEA	IEA							OMIM:173420	HPO	Feb 17, 2009	
+OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0003540	Impaired platelet aggregation			IEA	IEA							OMIM:173420	HPO	Feb 17, 2009	
+OMIM:173420	PLATELET DISORDER, UNDEFINED					HP:0004377	Hematological neoplasm			TAS	TAS							OMIM:173420	HPO:skoehler	Feb 17, 2009	
