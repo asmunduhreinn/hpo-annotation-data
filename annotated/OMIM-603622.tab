@@ -1,6 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:603622	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 17					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:603622	HPO	17.02.2009
-OMIM:603622	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 17					HP:0003621	Juvenile onset			ITM	ITM							OMIM:603622	HPO	17.02.2009
-OMIM:603622	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 17					HP:0005101	High-frequency hearing impairment			IEA	IEA							OMIM:603622	HPO	17.02.2009
-OMIM:603622	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 17					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:603622	HPO	17.02.2009
-OMIM:603622	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 17					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:603622	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:603622	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 17					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:603622	HPO:skoehler	Feb 17, 2009	
+OMIM:603622	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 17					HP:0003621	Juvenile onset			TAS	TAS							OMIM:603622	HPO:skoehler	Feb 17, 2009	
+OMIM:603622	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 17					HP:0005101	High-frequency hearing impairment			TAS	TAS							OMIM:603622	HPO:skoehler	Feb 17, 2009	
