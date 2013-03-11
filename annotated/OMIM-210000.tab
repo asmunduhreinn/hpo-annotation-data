@@ -1,14 +1,14 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:210000	BEHR SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0000639	Nystagmus			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0000648	Optic atrophy			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0001249	Intellectual disability			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0001251	Ataxia			ITM	ITM							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0001272	Cerebellar atrophy			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0001288	Gait disturbance			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0001347	Hyperreflexia			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0001771	Achilles tendon contracture			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0002191	Spasticity, progressive			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0003089	Hamstring contractures			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0003487	Babinski sign			IEA	IEA							OMIM:210000	HPO	17.02.2009
-OMIM:210000	BEHR SYNDROME					HP:0006366	Adductor longus contractures			IEA	IEA							OMIM:210000	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:210000	BEHR SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0000639	Nystagmus			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0000648	Optic atrophy			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0001249	Intellectual disability			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0001251	Ataxia			TAS	TAS							OMIM:210000	HPO:skoehler	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0001272	Cerebellar atrophy			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0001288	Gait disturbance			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0001347	Hyperreflexia			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0001771	Achilles tendon contracture			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0002191	Spasticity, progressive			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0003089	Hamstring contractures			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0003487	Babinski sign			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
+OMIM:210000	BEHR SYNDROME					HP:0006366	Adductor longus contractures			IEA	IEA							OMIM:210000	HPO	Feb 17, 2009	
