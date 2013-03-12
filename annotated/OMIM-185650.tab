@@ -1,4 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:185650	SYMPHALANGISM, C. S. LEWIS TYPE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:185650	HPO	17.02.2009
-OMIM:185650	SYMPHALANGISM, C. S. LEWIS TYPE					HP:0001159	Syndactyly			ITM	ITM							OMIM:185650	HPO	17.02.2009
-OMIM:185650	SYMPHALANGISM, C. S. LEWIS TYPE					HP:0009703	Synostosis involving the 1st metacarpal			IEA	IEA							OMIM:185650	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:185650	SYMPHALANGISM, C. S. LEWIS TYPE					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:185650	HPO:probinson	Feb 17, 2009	
+OMIM:185650	SYMPHALANGISM, C. S. LEWIS TYPE					HP:0009703	Synostosis involving the 1st metacarpal			TAS	TAS							OMIM:185650	HPO:probinson	Feb 17, 2009	
