@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614226	#614226 HOLOPROSENCEPHALY 11; HPE11				CDON	HP:0001360	Holoprosencephaly			PCS	PCS							pmid:21802063	HPO:probinson	Jan 9, 2013	
+OMIM:614226	#614226 HOLOPROSENCEPHALY 11; HPE11				CDON	HP:0001274	Agenesis of corpus callosum			PCS	PCS							pmid:21802063	HPO:probinson	Mar 12, 2013	
+OMIM:614226	#614226 HOLOPROSENCEPHALY 11; HPE11				CDON	HP:0000252	Microcephaly			PCS	PCS							pmid:21802063	HPO:probinson	Mar 12, 2013	
+OMIM:614226	#614226 HOLOPROSENCEPHALY 11; HPE11				CDON	HP:0000664	Synophrys			PCS	PCS							pmid:21802063	HPO:probinson	Mar 12, 2013	
+OMIM:614226	#614226 HOLOPROSENCEPHALY 11; HPE11				CDON	HP:0001263	Global developmental delay			PCS	PCS							pmid:21802063	HPO:probinson	Mar 12, 2013	
+OMIM:614226	#614226 HOLOPROSENCEPHALY 11; HPE11				CDON	HP:0000601	Hypotelorism			PCS	PCS							pmid:21802063	HPO:probinson	Mar 12, 2013	
+OMIM:614226	#614226 HOLOPROSENCEPHALY 11; HPE11				CDON	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:21802063	HPO:probinson	Mar 12, 2013	
