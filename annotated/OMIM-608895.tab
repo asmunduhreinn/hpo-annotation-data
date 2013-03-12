@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:608895	#608895 MACULAR DEGENERATION, AGE-RELATED, 3; ARMD3				FBLN5	HP:0011510	Drusen			IEA	IEA							pmid:15269314	HPO:probinson	Jan 9, 2013	
+OMIM:608895	#608895 MACULAR DEGENERATION, AGE-RELATED, 3; ARMD3				FBLN5	HP:0011506	Choroidal neovascularization of the macula			IEA	IEA							pmid:15269314	HPO:probinson	Mar 12, 2013	
+OMIM:608895	#608895 MACULAR DEGENERATION, AGE-RELATED, 3; ARMD3				FBLN5	HP:0000608	Macular degeneration			IEA	IEA							pmid:15269314	HPO:probinson	Mar 12, 2013	

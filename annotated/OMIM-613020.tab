@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613020	#613020 CATARACT, AGE-RELATED CORTICAL, 2; ARCC2				EPHA2	HP:0100019	Cortical cataract			PCS	PCS							pmid:19649315	HPO:probinson	Jan 9, 2013	
+OMIM:613020	#613020 CATARACT, AGE-RELATED CORTICAL, 2; ARCC2				EPHA2	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:19005574	HPO:probinson	Mar 12, 2013	
+OMIM:613020	#613020 CATARACT, AGE-RELATED CORTICAL, 2; ARCC2				EPHA2	HP:0001115	Posterior polar cataract			PCS	PCS							pmid:19005574	HPO:probinson	Mar 12, 2013	
