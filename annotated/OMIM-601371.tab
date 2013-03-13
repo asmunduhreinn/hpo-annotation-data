@@ -1,2 +1,2 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:601371	CATARACT, AGE-RELATED NUCLEAR					HP:0000518	Cataract			ITM	ITM							OMIM:601371	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:601371	CATARACT, AGE-RELATED NUCLEAR					HP:0100018	Nuclear cataract			TAS	TAS							OMIM:601371	HPO:probinson	Mar 13, 2013	

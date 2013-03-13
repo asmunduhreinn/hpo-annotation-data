@@ -1,5 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:309850	MONOAMINE OXIDASE A					HP:0001256	Intellectual disability, mild			ITM	ITM							OMIM:309850	HPO	17.02.2009
-OMIM:309850	MONOAMINE OXIDASE A					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:309850	HPO	17.02.2009
-OMIM:309850	MONOAMINE OXIDASE A					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:309850	HPO	17.02.2009
-OMIM:309850	MONOAMINE OXIDASE A					HP:0006919	Abnormal aggressive, impulsive or violent behavior			IEA	IEA							OMIM:309850	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:309850	MONOAMINE OXIDASE A					HP:0001256	Intellectual disability, mild			TAS	TAS							OMIM:309850	HPO:skoehler	Feb 17, 2009	
+OMIM:309850	MONOAMINE OXIDASE A					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:309850	HPO	Feb 17, 2009	
+OMIM:309850	MONOAMINE OXIDASE A					HP:0000718	Aggressive behavior			TAS	TAS							OMIM:309850	HPO:probinson	Mar 13, 2013	
+OMIM:309850	MONOAMINE OXIDASE A					HP:0100710	Impulsivity			TAS	TAS							OMIM:309850	HPO:probinson	Mar 13, 2013	
+OMIM:309850	MONOAMINE OXIDASE A					HP:0008760	Violent behavior			TAS	TAS							OMIM:309850	HPO:probinson	Mar 13, 2013	

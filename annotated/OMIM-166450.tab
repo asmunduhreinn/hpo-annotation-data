@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:166450	OSTEOMESOPYKNOSIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:166450	HPO	17.02.2009
-OMIM:166450	OSTEOMESOPYKNOSIS					HP:0000789	Infertility			IEA	IEA							OMIM:166450	HPO	17.02.2009
-OMIM:166450	OSTEOMESOPYKNOSIS					HP:0003419	Low back pain			IEA	IEA							OMIM:166450	HPO	17.02.2009
-OMIM:166450	OSTEOMESOPYKNOSIS					HP:0011001	Increased bone mineral density			ITM	ITM							OMIM:166450	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:166450	OSTEOMESOPYKNOSIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:166450	HPO	Feb 17, 2009	
+OMIM:166450	OSTEOMESOPYKNOSIS					HP:0000789	Infertility			IEA	IEA							OMIM:166450	HPO	Feb 17, 2009	
+OMIM:166450	OSTEOMESOPYKNOSIS					HP:0003419	Low back pain			IEA	IEA							OMIM:166450	HPO	Feb 17, 2009	
+OMIM:166450	OSTEOMESOPYKNOSIS					HP:0011001	Increased bone mineral density			TAS	TAS							OMIM:166450	HPO:probinson	Feb 17, 2009	
