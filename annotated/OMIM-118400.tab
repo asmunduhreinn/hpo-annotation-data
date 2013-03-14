@@ -1,14 +1,12 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:118400	CHERUBISM					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:118400	HPO	Feb 17, 2009	
-OMIM:118400	CHERUBISM					HP:0000311	Round face			ITM	ITM							OMIM:118400	HPO	Feb 17, 2009	
+OMIM:118400	CHERUBISM					HP:0000311	Round face			TAS	TAS							OMIM:118400	HPO:skoehler	Feb 17, 2009	
 OMIM:118400	CHERUBISM					HP:0000505	Visual impairment			IEA	IEA							OMIM:118400	HPO	Feb 17, 2009	
 OMIM:118400	CHERUBISM					HP:0000520	Proptosis			IEA	IEA							OMIM:118400	HPO	Feb 17, 2009	
 OMIM:118400	CHERUBISM					HP:0000677	Oligodontia			IEA	IEA							OMIM:118400	HPO	Feb 17, 2009	
-OMIM:118400	CHERUBISM					HP:0000692	Misalignment of teeth			ITM	ITM							OMIM:118400	HPO	Feb 17, 2009	
-OMIM:118400	CHERUBISM					HP:0000969	Edema			ITM	ITM							OMIM:118400	HPO	Feb 17, 2009	
 OMIM:118400	CHERUBISM					HP:0001065	Striae distensae			IEA	IEA							OMIM:118400	HPO:skoehler	Jun 20, 2010	
 OMIM:118400	CHERUBISM					HP:0001133	Constricted visual fields			IEA	IEA							OMIM:118400	HPO	Feb 17, 2009	
 OMIM:118400	CHERUBISM					HP:0001138	Optic neuropathy			IEA	IEA							OMIM:118400	HPO	Feb 17, 2009	
-OMIM:118400	CHERUBISM					HP:0003617	Onset 3 months of age up to 5 years			ITM	ITM							OMIM:118400	HPO:skoehler	Feb 17, 2009	
+OMIM:118400	CHERUBISM					HP:0003617	Onset 3 months of age up to 5 years			TAS	TAS							OMIM:118400	HPO:skoehler	Feb 17, 2009	
 OMIM:118400	#118400 CHERUBISM;;CRBM					HP:0200056	Macular scarring			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > MACULAR SCARRING	OMIM:118400	HPO:skoehler	Nov 16, 2012	
 OMIM:118400	#118400 CHERUBISM;;CRBM					HP:0200057	Marcus Gunn pupil			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > Marcus-Gunn pupil 	OMIM:118400	HPO:skoehler	Nov 18, 2012	
