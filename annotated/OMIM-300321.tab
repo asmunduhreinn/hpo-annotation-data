@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:300321	#300321 FG SYNDROME 2; FGS2					HP:0011398	Central hypotonia			IEA	IEA							OMIM:300321	HPO:skoehler	Jan 9, 2013	
-OMIM:300321	#300321 FG SYNDROME 2; FGS2					HP:0000750	Delayed speech and language development			IEA	IEA							OMIM:300321	HPO:skoehler	Jan 11, 2013	
-OMIM:300321	#300321 FG SYNDROME 2; FGS2					HP:0000256	Macrocephaly			IEA	IEA							OMIM:300321	HPO:skoehler	Jan 11, 2013	
-OMIM:300321	#300321 FG SYNDROME 2; FGS2					HP:0001999	Abnormal facial shape			IEA	IEA							OMIM:300321	HPO:skoehler	Jan 11, 2013	
-OMIM:300321	#300321 FG SYNDROME 2; FGS2					HP:0004378	Abnormality of the anus			IEA	IEA							OMIM:300321	HPO:skoehler	Jan 11, 2013	
-OMIM:300321	#300321 FG SYNDROME 2; FGS2					HP:0002019	Constipation			IEA	IEA							OMIM:300321	HPO:skoehler	Jan 11, 2013	
+OMIM:300321	#300321 FG SYNDROME 2; FGS2				FLNA	HP:0001417	X-linked inheritance			PCS	PCS							pmid:17632775	HPO:probinson	Jan 9, 2013	
+OMIM:300321	#300321 FG SYNDROME 2; FGS2				FLNA	HP:0002019	Constipation			PCS	PCS							pmid:17632775	HPO:probinson	Mar 23, 2013	
+OMIM:300321	#300321 FG SYNDROME 2; FGS2				FLNA	HP:0002003	Large forehead			PCS	PCS							pmid:17632775	HPO:probinson	Mar 23, 2013	
+OMIM:300321	#300321 FG SYNDROME 2; FGS2				FLNA	HP:0011246	Underdeveloped superior crus of antihelix			PCS	PCS							pmid:17632775	HPO:probinson	Mar 23, 2013	
+OMIM:300321	#300321 FG SYNDROME 2; FGS2				FLNA	HP:0000750	Delayed speech and language development			PCS	PCS						Mild	pmid:17632775	HPO:probinson	Mar 23, 2013	
+OMIM:300321	#300321 FG SYNDROME 2; FGS2				FLNA	HP:0001319	Neonatal hypotonia			TAS	TAS							pmid:17632775	HPO:probinson	Mar 23, 2013	
