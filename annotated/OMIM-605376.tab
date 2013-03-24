@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:605376	#605376 HETEROTAXY, VISCERAL, 2, AUTOSOMAL; HTX2;;HTX				CFC1	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:605376	HPO:probinson	Jan 9, 2013	
+OMIM:605376	#605376 HETEROTAXY, VISCERAL, 2, AUTOSOMAL; HTX2;;HTX				CFC1	HP:0003363	Abdominal situs inversus			TAS	TAS							OMIM:605376	HPO:probinson	Mar 24, 2013	
+OMIM:605376	#605376 HETEROTAXY, VISCERAL, 2, AUTOSOMAL; HTX2;;HTX				CFC1	HP:0006695	Atrioventricular canal defect			TAS	TAS							OMIM:605376	HPO:probinson	Mar 24, 2013	
+OMIM:605376	#605376 HETEROTAXY, VISCERAL, 2, AUTOSOMAL; HTX2;;HTX				CFC1	HP:0011599	Mesocardia			TAS	TAS							OMIM:605376	HPO:probinson	Mar 24, 2013	
+OMIM:605376	#605376 HETEROTAXY, VISCERAL, 2, AUTOSOMAL; HTX2;;HTX				CFC1	HP:0011537	Left atrial isomerism			TAS	TAS							OMIM:605376	HPO:probinson	Mar 24, 2013	
