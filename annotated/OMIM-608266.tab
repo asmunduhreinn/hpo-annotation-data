@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:608266	#608266 PARATHYROID CARCINOMA;;PRTC					HP:0006780	Parathyroid carcinoma			TAS	TAS							OMIM:608266	HPO:probinson	Jan 9, 2013	
+OMIM:608266	#608266 PARATHYROID CARCINOMA;;PRTC					HP:0003072	Hypercalcemia			TAS	TAS							OMIM:608266	HPO:probinson	Mar 24, 2013	
+OMIM:608266	#608266 PARATHYROID CARCINOMA;;PRTC					HP:0000843	Hyperparathyroidism			TAS	TAS							OMIM:608266	HPO:probinson	Mar 24, 2013	
+OMIM:608266	#608266 PARATHYROID CARCINOMA;;PRTC					HP:0000006	Autosomal dominant inheritance			PCS	PCS						Mutations can occur as germline or somatic events	pmid:14585940	HPO:probinson	Mar 24, 2013	
+OMIM:608266	#608266 PARATHYROID CARCINOMA;;PRTC					HP:0001428	Somatic mutation			PCS	PCS						Mutations can occur as germline or somatic events	pmid:14585940	HPO:probinson	Mar 24, 2013	

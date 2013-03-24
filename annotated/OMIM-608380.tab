@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:608380	#608380 RETINITIS PIGMENTOSA 26; RP26				CERKL	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:14681825	HPO:probinson	Jan 9, 2013	
+OMIM:608380	#608380 RETINITIS PIGMENTOSA 26; RP26				CERKL	HP:0000543	Optic disc pallor			PCS	PCS							pmid:14681825	HPO:probinson	Mar 24, 2013	
+OMIM:608380	#608380 RETINITIS PIGMENTOSA 26; RP26				CERKL	HP:0000505	Visual impairment			PCS	PCS							pmid:14681825	HPO:probinson	Mar 24, 2013	
+OMIM:608380	#608380 RETINITIS PIGMENTOSA 26; RP26				CERKL	HP:0007843	Attenuation of retinal blood vessels			PCS	PCS							pmid:14681825	HPO:probinson	Mar 24, 2013	
+OMIM:608380	#608380 RETINITIS PIGMENTOSA 26; RP26				CERKL	HP:0007688	Absent rod-and cone-mediated responses on ERG			PCS	PCS							pmid:14681825	HPO:probinson	Mar 24, 2013	
+OMIM:608380	#608380 RETINITIS PIGMENTOSA 26; RP26				CERKL	HP:0001133	Constricted visual fields			PCS	PCS							pmid:14681825	HPO:probinson	Mar 24, 2013	

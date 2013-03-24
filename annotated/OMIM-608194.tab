@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:608194	#608194 CONE-ROD DYSTROPHY 13; CORD13				RPGRIP1	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:608194	HPO:probinson	Jan 9, 2013	
+OMIM:608194	#608194 CONE-ROD DYSTROPHY 13; CORD13				RPGRIP1	HP:0007663	Decreased central vision			TAS	TAS							OMIM:608194	HPO:probinson	Mar 24, 2013	
+OMIM:608194	#608194 CONE-ROD DYSTROPHY 13; CORD13				RPGRIP1	HP:0000551	Abnormality of color vision			TAS	TAS							OMIM:608194	HPO:probinson	Mar 24, 2013	
+OMIM:608194	#608194 CONE-ROD DYSTROPHY 13; CORD13				RPGRIP1	HP:0000613	Photophobia			TAS	TAS							OMIM:608194	HPO:probinson	Mar 24, 2013	
+OMIM:608194	#608194 CONE-ROD DYSTROPHY 13; CORD13				RPGRIP1	HP:0007688	Absent rod-and cone-mediated responses on ERG			TAS	TAS							OMIM:608194	HPO:probinson	Mar 24, 2013	
+OMIM:608194	#608194 CONE-ROD DYSTROPHY 13; CORD13				RPGRIP1	HP:0000608	Macular degeneration			TAS	TAS							OMIM:608194	HPO:probinson	Mar 24, 2013	
+OMIM:608194	#608194 CONE-ROD DYSTROPHY 13; CORD13				RPGRIP1	HP:0000505	Visual impairment			TAS	TAS							OMIM:608194	HPO:probinson	Mar 24, 2013	
