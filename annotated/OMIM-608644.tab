@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:608644	#608644 CILIARY DYSKINESIA, PRIMARY, 3; CILD3;;CILIARY DYSKINESIA, PRIMARY, 3, WITH OR WITHOUT SITUS INVERSUS					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:608644	HPO:probinson	Jan 9, 2013	
+OMIM:608644	#608644 CILIARY DYSKINESIA, PRIMARY, 3; CILD3;;CILIARY DYSKINESIA, PRIMARY, 3, WITH OR WITHOUT SITUS INVERSUS					HP:0001696	Situs inversus totalis			TAS	TAS							OMIM:608644	HPO:probinson	Mar 25, 2013	
+OMIM:608644	#608644 CILIARY DYSKINESIA, PRIMARY, 3; CILD3;;CILIARY DYSKINESIA, PRIMARY, 3, WITH OR WITHOUT SITUS INVERSUS					HP:0002205	Recurrent respiratory infections			TAS	TAS							OMIM:608644	HPO:probinson	Mar 25, 2013	

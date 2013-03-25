@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:608681	#608681 SPONDYLOCOSTAL DYSOSTOSIS 2, AUTOSOMAL RECESSIVE; SCDO2					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:608681	HPO:probinson	Jan 9, 2013	
+OMIM:608681	#608681 SPONDYLOCOSTAL DYSOSTOSIS 2, AUTOSOMAL RECESSIVE; SCDO2					HP:0000470	Short neck			TAS	TAS							OMIM:608681	HPO:probinson	Mar 25, 2013	
+OMIM:608681	#608681 SPONDYLOCOSTAL DYSOSTOSIS 2, AUTOSOMAL RECESSIVE; SCDO2					HP:0002111	Restrictive respiratory insufficiency			TAS	TAS	44%						OMIM:608681	HPO:probinson	Mar 25, 2013	
+OMIM:608681	#608681 SPONDYLOCOSTAL DYSOSTOSIS 2, AUTOSOMAL RECESSIVE; SCDO2					HP:0003422	Vertebral segmentation defect			TAS	TAS							pmid:15214000	HPO:probinson	Mar 25, 2013	
+OMIM:608681	#608681 SPONDYLOCOSTAL DYSOSTOSIS 2, AUTOSOMAL RECESSIVE; SCDO2					HP:0000902	Rib fusion			TAS	TAS							pmid:15214000	HPO:probinson	Mar 25, 2013	

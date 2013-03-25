@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:608874	#608874 OROFACIAL CLEFT 5; OFC5;;CLEFT LIP WITH OR WITHOUT CLEFT PALATE, NONSYNDROMIC, 5				MSX1	HP:0000204	Cleft upper lip			TAS	TAS							OMIM:608874	HPO:probinson	Jan 9, 2013	
+OMIM:608874	#608874 OROFACIAL CLEFT 5; OFC5;;CLEFT LIP WITH OR WITHOUT CLEFT PALATE, NONSYNDROMIC, 5				MSX1	HP:0000175	Cleft palate			TAS	TAS							OMIM:608874	HPO:probinson	Mar 25, 2013	
+OMIM:608874	#608874 OROFACIAL CLEFT 5; OFC5;;CLEFT LIP WITH OR WITHOUT CLEFT PALATE, NONSYNDROMIC, 5				MSX1	HP:0000006	Autosomal dominant inheritance			TAS	TAS							pmid:10742093	HPO:probinson	Mar 25, 2013	
