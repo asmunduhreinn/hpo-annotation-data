@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609141	#609141 CORNEAL DYSTROPHY, POSTERIOR POLYMORPHOUS, 3; PPCD3				ZEB1	HP:0012038	Corneal guttata			TAS	TAS							OMIM:609141	HPO:probinson	Jan 9, 2013	
+OMIM:609141	#609141 CORNEAL DYSTROPHY, POSTERIOR POLYMORPHOUS, 3; PPCD3				ZEB1	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:609141	HPO:probinson	Mar 26, 2013	
+OMIM:609141	#609141 CORNEAL DYSTROPHY, POSTERIOR POLYMORPHOUS, 3; PPCD3				ZEB1	HP:0001131	Corneal dystrophy			TAS	TAS							OMIM:609141	HPO:probinson	Mar 26, 2013	
+OMIM:609141	#609141 CORNEAL DYSTROPHY, POSTERIOR POLYMORPHOUS, 3; PPCD3				ZEB1	HP:0000023	Inguinal hernia			PCS	PCS	11/14						pmid:16252232	HPO:probinson	Mar 26, 2013	

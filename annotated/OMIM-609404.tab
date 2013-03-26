@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609404	#609404 PREECLAMPSIA/ECLAMPSIA 4; PEE4				STOX1	HP:0100602	Preecplampsia			PCS	PCS							pmid:17290274	HPO:probinson	Jan 9, 2013	
+OMIM:609404	#609404 PREECLAMPSIA/ECLAMPSIA 4; PEE4				STOX1	HP:0010982	Polygenic inheritance			PCS	PCS							pmid:17290274	HPO:probinson	Mar 26, 2013	

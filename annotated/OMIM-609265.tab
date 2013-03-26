@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609265	#609265 LI-FRAUMENI SYNDROME 2; LFS2				CHEK2	HP:0003002	Breast carcinoma			PCS	PCS							pmid:11479205	HPO:probinson	Jan 9, 2013	
+OMIM:609265	#609265 LI-FRAUMENI SYNDROME 2; LFS2				CHEK2	HP:0002858	Meningioma			PCS	PCS							pmid:11479205	HPO:probinson	Mar 26, 2013	
+OMIM:609265	#609265 LI-FRAUMENI SYNDROME 2; LFS2				CHEK2	HP:0012126	Stomach cancer			PCS	PCS							pmid:11479205	HPO:probinson	Mar 26, 2013	
+OMIM:609265	#609265 LI-FRAUMENI SYNDROME 2; LFS2				CHEK2	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:10617473	HPO:probinson	Mar 26, 2013	
+OMIM:609265	#609265 LI-FRAUMENI SYNDROME 2; LFS2				CHEK2	HP:0009733	Glioma			PCS	PCS							pmid:10617473	HPO:probinson	Mar 26, 2013	
+OMIM:609265	#609265 LI-FRAUMENI SYNDROME 2; LFS2				CHEK2	HP:0100242	Sarcoma			PCS	PCS							pmid:10617473	HPO:probinson	Mar 26, 2013	

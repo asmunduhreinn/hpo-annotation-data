@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609053	#609053 FANCONI ANEMIA, COMPLEMENTATION GROUP I; FANCI				FANCI	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:17452773	HPO:probinson	Mar 26, 2013	
+OMIM:609053	#609053 FANCONI ANEMIA, COMPLEMENTATION GROUP I; FANCI				FANCI	HP:0004322	Short stature			PCS	PCS	7/7						pmid:17452773	HPO:probinson	Mar 26, 2013	
+OMIM:609053	#609053 FANCONI ANEMIA, COMPLEMENTATION GROUP I; FANCI				FANCI	HP:0003221	Chromosomal breakage induced by crosslinking agents			PCS	PCS	7/7						pmid:17452773	HPO:probinson	Mar 26, 2013	
+OMIM:609053	#609053 FANCONI ANEMIA, COMPLEMENTATION GROUP I; FANCI				FANCI	HP:0000792	Kidney malformation			PCS	PCS	Rare						pmid:17452773	HPO:probinson	Mar 26, 2013	
+OMIM:609053	#609053 FANCONI ANEMIA, COMPLEMENTATION GROUP I; FANCI				FANCI	HP:0002564	Malformation of the heart and great vessels			PCS	PCS	Rare						pmid:17452773	HPO:probinson	Mar 26, 2013	
+OMIM:609053	#609053 FANCONI ANEMIA, COMPLEMENTATION GROUP I; FANCI				FANCI	HP:0005528	Bone marrow hypocellularity	HP:0011463	Childhood onset	PCS	PCS	7/7						pmid:17452773	HPO:probinson	Mar 26, 2013	

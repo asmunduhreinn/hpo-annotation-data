@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609054	#609054 FANCONI ANEMIA, COMPLEMENTATION GROUP J; FANCJ				BRIP1	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:16116424	HPO:probinson	Jan 9, 2013	
+OMIM:609054	#609054 FANCONI ANEMIA, COMPLEMENTATION GROUP J; FANCJ				BRIP1	HP:0008897	Postnatal growth retardation			PCS	PCS							pmid:16116424	HPO:probinson	Mar 26, 2013	
+OMIM:609054	#609054 FANCONI ANEMIA, COMPLEMENTATION GROUP J; FANCJ				BRIP1	HP:0007565	Multiple cafe-au-lait spots			PCS	PCS	8/11						pmid:16116424	HPO:probinson	Mar 26, 2013	
+OMIM:609054	#609054 FANCONI ANEMIA, COMPLEMENTATION GROUP J; FANCJ				BRIP1	HP:0001511	Intrauterine growth retardation			PCS	PCS	3/11						pmid:16116424	HPO:probinson	Mar 26, 2013	
+OMIM:609054	#609054 FANCONI ANEMIA, COMPLEMENTATION GROUP J; FANCJ				BRIP1	HP:0009778	Short thumb			PCS	PCS	3/11						pmid:16116424	HPO:probinson	Mar 26, 2013	
+OMIM:609054	#609054 FANCONI ANEMIA, COMPLEMENTATION GROUP J; FANCJ				BRIP1	HP:0009778	Short thumb			PCS	PCS	3/11						pmid:16116424	HPO:probinson	Mar 26, 2013	
+OMIM:609054	#609054 FANCONI ANEMIA, COMPLEMENTATION GROUP J; FANCJ				BRIP1	HP:0000568	Microphthalmos			PCS	PCS	4/11						pmid:16116424	HPO:probinson	Mar 26, 2013	
+OMIM:609054	#609054 FANCONI ANEMIA, COMPLEMENTATION GROUP J; FANCJ				BRIP1	HP:0001263	Global developmental delay			PCS	PCS							pmid:16116424	HPO:probinson	Mar 26, 2013	
+OMIM:609054	#609054 FANCONI ANEMIA, COMPLEMENTATION GROUP J; FANCJ				BRIP1	HP:0005528	Bone marrow hypocellularity			PCS	PCS							pmid:16116424	HPO:probinson	Mar 26, 2013	
+OMIM:609054	#609054 FANCONI ANEMIA, COMPLEMENTATION GROUP J; FANCJ				BRIP1	HP:0003221	Chromosomal breakage induced by crosslinking agents			PCS	PCS							pmid:16116424	HPO:probinson	Mar 26, 2013	
