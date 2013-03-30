@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:608983	#608983 CATARACT, CONGENITAL, CERULEAN TYPE, 3; CCA3;;CATARACT, CONGENITAL, 'BLUE DOT' TYPE, 3				CRYGD	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:608983	HPO:probinson	Jan 9, 2013	
+OMIM:608983	#608983 CATARACT, CONGENITAL, CERULEAN TYPE, 3; CCA3;;CATARACT, CONGENITAL, 'BLUE DOT' TYPE, 3				CRYGD	HP:0007976	Cerulean cataract	HP:0003577	Congenital onset	TAS	TAS							OMIM:608983	HPO:probinson	Mar 30, 2013	

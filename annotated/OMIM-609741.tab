@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609741	#609741 CATARACT, CONGENITAL NUCLEAR, AUTOSOMAL RECESSIVE 2; CATCN2				CRYBB3	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:609741	HPO:probinson	Jan 9, 2013	
+OMIM:609741	#609741 CATARACT, CONGENITAL NUCLEAR, AUTOSOMAL RECESSIVE 2; CATCN2				CRYBB3	HP:0100018	Nuclear cataract	HP:0003577	Congenital onset	TAS	TAS							OMIM:609741	HPO:probinson	Mar 30, 2013	
