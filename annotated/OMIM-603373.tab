@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:603373	#603373 HYPERTHYROIDISM, FAMILIAL GESTATIONAL					HP:0000006	Autosomal dominant inheritance			TAS	TAS							pmid:9854118	HPO:probinson	Jan 9, 2013	
+OMIM:603373	#603373 HYPERTHYROIDISM, FAMILIAL GESTATIONAL					HP:0012188	Hyperemesis gravidarum			TAS	TAS							pmid:9854118	HPO:probinson	Mar 30, 2013	
+OMIM:603373	#603373 HYPERTHYROIDISM, FAMILIAL GESTATIONAL					HP:0000836	Hyperthyroidism			TAS	TAS						Gestational hyperthyroidism	pmid:9854118	HPO:probinson	Mar 30, 2013	

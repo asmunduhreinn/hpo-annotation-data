@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609464	#609464 SARCOIDOSIS, EARLY-ONSET;;EOS				NOD2	HP:0012220	Non-caseating epithelioid cell granulomatosis			PCS	PCS							pmid:15086578	HPO:probinson	Mar 30, 2013	
+OMIM:609464	#609464 SARCOIDOSIS, EARLY-ONSET;;EOS				NOD2	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:15086578	HPO:probinson	Mar 30, 2013	
