@@ -1,7 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:300085	CONE-ROD DYSTROPHY, X-LINKED, 2					HP:0000547	Tapetoretinal degeneration			ITM	ITM							OMIM:300085	HPO	17.02.2009
-OMIM:300085	CONE-ROD DYSTROPHY, X-LINKED, 2					HP:0000548	Cone-rod dystrophy			ITM	ITM							OMIM:300085	HPO	17.02.2009
-OMIM:300085	CONE-ROD DYSTROPHY, X-LINKED, 2					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:300085	HPO	17.02.2009
-OMIM:300085	CONE-ROD DYSTROPHY, X-LINKED, 2					HP:0007852	Pericentral pigmentary retinopathy			ITM	ITM							OMIM:300085	HPO	17.02.2009
-OMIM:300085	CONE-ROD DYSTROPHY, X-LINKED, 2					HP:0008020	Progressive cone degeneration			IEA	IEA							OMIM:300085	HPO	17.02.2009
-OMIM:300085	CONE-ROD DYSTROPHY, X-LINKED, 2					HP:0008035	Retinitis pigmentosa inversa			ITM	ITM							OMIM:300085	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:300085	CONE-ROD DYSTROPHY, X-LINKED, 2					HP:0000548	Cone-rod dystrophy			TAS	TAS							OMIM:300085	HPO:skoehler	Feb 17, 2009	
+OMIM:300085	CONE-ROD DYSTROPHY, X-LINKED, 2					HP:0001417	X-linked inheritance			TAS	TAS							OMIM:300085	HPO:probinson	Feb 17, 2009	
+OMIM:300085	CONE-ROD DYSTROPHY, X-LINKED, 2					HP:0008020	Progressive cone degeneration			TAS	TAS							OMIM:300085	HPO:probinson	Feb 17, 2009	
