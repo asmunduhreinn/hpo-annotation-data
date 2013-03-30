@@ -1,6 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:600101	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 2					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:600101	HPO	17.02.2009
-OMIM:600101	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 2					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:600101	HPO	17.02.2009
-OMIM:600101	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 2					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:600101	HPO	17.02.2009
-OMIM:600101	#600101 DEAFNESS, AUTOSOMAL DOMINANT 2A; DFNA2A					HP:0003676	Progressive disorder			IEA	IEA						OMIM-CS:MISCELLANEOUS > PROGRESSIVE DISORDER	OMIM:600101	HPO:skoehler	17.10.2012
-OMIM:600101	#600101 DEAFNESS, AUTOSOMAL DOMINANT 2A; DFNA2A					HP:0000360	Tinnitus			IEA	IEA	variable					OMIM-CS:HEAD AND NECK_EARS > TINNITUS (VARIABLE)	OMIM:600101	HPO:skoehler	28.11.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:600101	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 2					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:600101	HPO	Feb 17, 2009	
+OMIM:600101	#600101 DEAFNESS, AUTOSOMAL DOMINANT 2A; DFNA2A					HP:0003676	Progressive disorder			TAS	TAS							OMIM:600101	HPO:skoehler	Oct 17, 2012	
+OMIM:600101	#600101 DEAFNESS, AUTOSOMAL DOMINANT 2A; DFNA2A					HP:0000360	Tinnitus			TAS	TAS						Variable	OMIM:600101	HPO:skoehler	Nov 28, 2012	
+OMIM:600101	DEAFNESS, AUTOSOMAL DOMINANT NONSYNDROMIC SENSORINEURAL 2					HP:0000365	Hearing impairment			TAS	TAS						Severe	OMIM:600101	HPO:probinson	Mar 30, 2013	

@@ -1,11 +1,11 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:310465	N SYNDROME					HP:0000028	Cryptorchidism			IEA	IEA							OMIM:310465	HPO	17.02.2009
-OMIM:310465	N SYNDROME					HP:0000047	Hypospadias			IEA	IEA							OMIM:310465	HPO	17.02.2009
-OMIM:310465	N SYNDROME					HP:0000365	Hearing impairment			IEA	IEA							OMIM:310465	HPO	17.02.2009
-OMIM:310465	N SYNDROME					HP:0000505	Visual impairment			IEA	IEA							OMIM:310465	HPO	17.02.2009
-OMIM:310465	N SYNDROME					HP:0001249	Intellectual disability			IEA	IEA							OMIM:310465	HPO	17.02.2009
-OMIM:310465	N SYNDROME					HP:0001257	Spasticity			IEA	IEA							OMIM:310465	HPO	17.02.2009
-OMIM:310465	N SYNDROME					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:310465	HPO	17.02.2009
-OMIM:310465	N SYNDROME					HP:0002664	Neoplasm			IEA	IEA							OMIM:310465	SKOEHLER	18.06.2010
-OMIM:310465	N SYNDROME					HP:0003220	Abnormality of chromosome stability			IEA	IEA							OMIM:310465	HPO	17.02.2009
-OMIM:310465	N SYNDROME					HP:0006721	Acute lymphatic leukemia			ITM	ITM							OMIM:310465	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:310465	N SYNDROME					HP:0000028	Cryptorchidism			IEA	IEA							OMIM:310465	HPO	Feb 17, 2009	
+OMIM:310465	N SYNDROME					HP:0000047	Hypospadias			IEA	IEA							OMIM:310465	HPO	Feb 17, 2009	
+OMIM:310465	N SYNDROME					HP:0000365	Hearing impairment			IEA	IEA							OMIM:310465	HPO	Feb 17, 2009	
+OMIM:310465	N SYNDROME					HP:0000505	Visual impairment			IEA	IEA							OMIM:310465	HPO	Feb 17, 2009	
+OMIM:310465	N SYNDROME					HP:0001249	Intellectual disability			IEA	IEA							OMIM:310465	HPO	Feb 17, 2009	
+OMIM:310465	N SYNDROME					HP:0001257	Spasticity			IEA	IEA							OMIM:310465	HPO	Feb 17, 2009	
+OMIM:310465	N SYNDROME					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:310465	HPO	Feb 17, 2009	
+OMIM:310465	N SYNDROME					HP:0002664	Neoplasm			IEA	IEA							OMIM:310465	HPO:skoehler	Jun 18, 2010	
+OMIM:310465	N SYNDROME					HP:0003220	Abnormality of chromosome stability			IEA	IEA							OMIM:310465	HPO	Feb 17, 2009	
+OMIM:310465	N SYNDROME					HP:0001909	Leukemia			TAS	TAS							OMIM:310465	HPO:skoehler	Feb 17, 2009	
