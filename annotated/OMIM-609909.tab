@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609909	#609909 CARDIOMYOPATHY, DILATED, 1P; CMD1P				PLN	HP:0001644	Dilated cardiomyopathy			TAS	TAS							OMIM:609909	HPO:probinson	Jan 9, 2013	
+OMIM:609909	#609909 CARDIOMYOPATHY, DILATED, 1P; CMD1P				PLN	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:609909	HPO:probinson	Mar 31, 2013	
+OMIM:609909	#609909 CARDIOMYOPATHY, DILATED, 1P; CMD1P				PLN	HP:0001635	Congestive heart failure			TAS	TAS							OMIM:609909	HPO:probinson	Mar 31, 2013	
+OMIM:609909	#609909 CARDIOMYOPATHY, DILATED, 1P; CMD1P				PLN	HP:0006673	Reduced systolic function			TAS	TAS							OMIM:609909	HPO:probinson	Mar 31, 2013	
+OMIM:609909	#609909 CARDIOMYOPATHY, DILATED, 1P; CMD1P				PLN	HP:0004308	Ventricular arrhythmia			TAS	TAS							OMIM:609909	HPO:probinson	Mar 31, 2013	

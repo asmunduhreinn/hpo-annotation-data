@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610093	#610093 MICROPHTHALMIA, ISOLATED 2; MCOP2;;ANOPHTHALMIA, CLINICAL, ISOLATED				CHX10	HP:0000568	Microphthalmos			TAS	TAS						Severe	OMIM:610093	HPO:probinson	Jan 9, 2013	
+OMIM:610093	#610093 MICROPHTHALMIA, ISOLATED 2; MCOP2;;ANOPHTHALMIA, CLINICAL, ISOLATED				CHX10	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:610093	HPO:probinson	Mar 31, 2013	

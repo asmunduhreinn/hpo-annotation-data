@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610017	#610017 MULTIPLE SYNOSTOSES SYNDROME 2; SYNS2				GDF5	HP:0003041	Humeroradial synostosis			TAS	TAS							OMIM:610017	HPO:probinson	Jan 9, 2013	
+OMIM:610017	#610017 MULTIPLE SYNOSTOSES SYNDROME 2; SYNS2				GDF5	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:16532400	HPO:probinson	Mar 31, 2013	
+OMIM:610017	#610017 MULTIPLE SYNOSTOSES SYNDROME 2; SYNS2				GDF5	HP:0000445	Wide nose			PCS	PCS							pmid:16532400	HPO:probinson	Mar 31, 2013	
+OMIM:610017	#610017 MULTIPLE SYNOSTOSES SYNDROME 2; SYNS2				GDF5	HP:0009700	Synostosis involving bones of the fingers			PCS	PCS							pmid:16532400	HPO:probinson	Mar 31, 2013	
+OMIM:610017	#610017 MULTIPLE SYNOSTOSES SYNDROME 2; SYNS2				GDF5	HP:0002948	Vertebral fusion			PCS	PCS							pmid:16532400	HPO:probinson	Mar 31, 2013	
+OMIM:610017	#610017 MULTIPLE SYNOSTOSES SYNDROME 2; SYNS2				GDF5	HP:0009702	Carpal synostosis			PCS	PCS							pmid:16532400	HPO:probinson	Mar 31, 2013	
+OMIM:610017	#610017 MULTIPLE SYNOSTOSES SYNDROME 2; SYNS2				GDF5	HP:0008368	Tarsal synostosis			PCS	PCS							pmid:16532400	HPO:probinson	Mar 31, 2013	
