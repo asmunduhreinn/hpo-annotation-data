@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:230000	FUCOSIDOSIS					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:230000	HPO	Feb 17, 2009	
-OMIM:230000	FUCOSIDOSIS					HP:0000158	Macroglossia			TAS	TAS							OMIM:230000	HPO	Feb 17, 2009	
+OMIM:230000	FUCOSIDOSIS					HP:0000158	Macroglossia			TAS	TAS							OMIM:230000	HPO:probinson	Feb 17, 2009	
 OMIM:230000	FUCOSIDOSIS					HP:0000179	Thick lower lip vermilion			IEA	IEA							OMIM:230000	HPO	Feb 17, 2009	
 OMIM:230000	FUCOSIDOSIS					HP:0000280	Coarse facial features			IEA	IEA							OMIM:230000	HPO	Feb 17, 2009	
 OMIM:230000	FUCOSIDOSIS					HP:0000316	Hypertelorism			IEA	IEA							OMIM:230000	HPO	Feb 17, 2009	
@@ -35,6 +35,7 @@ OMIM:230000	FUCOSIDOSIS					HP:0004630	Anterior beaking of thoracic vertebrae			
 OMIM:230000	FUCOSIDOSIS					HP:0005453	Absent/hypoplastic paranasal sinuses			IEA	IEA							OMIM:230000	HPO	Feb 17, 2009	
 OMIM:230000	FUCOSIDOSIS					HP:0008436	Absent/hypoplastic coccyx			IEA	IEA							OMIM:230000	HPO	Feb 17, 2009	
 OMIM:230000	FUCOSIDOSIS					HP:0008430	Anterior beaking of lumbar vertebrae			TAS	TAS							OMIM:230000	probinson	Jun 10, 2012	
-OMIM:230000	#230000 FUCOSIDOSIS;;ALPHA-L-FUCOSIDASE DEFICIENCY					HP:0100790	Hernia			IEA	IEA						OMIM-CS:ABDOMEN_EXTERNAL FEATURES > HERNIA	OMIM:230000	HPO:skoehler	Oct 17, 2012	
-OMIM:230000	#230000 FUCOSIDOSIS;;ALPHA-L-FUCOSIDASE DEFICIENCY					HP:0011220	Prominent forehead			IEA	IEA						OMIM-CS:HEAD AND NECK_FACE > PROMINENT FOREHEAD	OMIM:230000	HPO:skoehler	Oct 17, 2012	
+OMIM:230000	#230000 FUCOSIDOSIS;;ALPHA-L-FUCOSIDASE DEFICIENCY					HP:0100790	Hernia			TAS	TAS							OMIM:230000	HPO:skoehler	Oct 17, 2012	
+OMIM:230000	#230000 FUCOSIDOSIS;;ALPHA-L-FUCOSIDASE DEFICIENCY					HP:0011220	Prominent forehead			TAS	TAS							OMIM:230000	HPO:skoehler	Oct 17, 2012	
 OMIM:230000	FUCOSIDOSIS					HP:0010471	Oligosacchariduria			TAS	TAS							OMIM:230000	HPO:probinson	Mar 13, 2013	
+OMIM:230000	FUCOSIDOSIS					HP:0012236	Elevated sweat chloride			TAS	TAS							OMIM:230000	HPO:probinson	Mar 31, 2013	
