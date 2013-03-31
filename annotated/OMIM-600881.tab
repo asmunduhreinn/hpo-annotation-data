@@ -1,5 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:600881	CATARACT, CONGENITAL ZONULAR, WITH SUTURAL OPACITIES					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:600881	HPO	17.02.2009
-OMIM:600881	CATARACT, CONGENITAL ZONULAR, WITH SUTURAL OPACITIES					HP:0007971	Lamellar cataract			ITM	ITM							OMIM:600881	HPO	17.02.2009
-OMIM:600881	CATARACT, CONGENITAL ZONULAR, WITH SUTURAL OPACITIES					HP:0010695	Sutural cataract			IEA	IEA							OMIM:600881	SKOEHLER	20.06.2010
-OMIM:600881	#600881 CATARACT, CONGENITAL ZONULAR, WITH SUTURAL OPACITIES; CCZS					HP:0000519	Congenital cataract			IEA	IEA						OMIM-CS:EYES > BILATERAL CONGENITAL CATARACTS	OMIM:600881	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:600881	CATARACT, CONGENITAL ZONULAR, WITH SUTURAL OPACITIES					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:600881	HPO:skoehler	Feb 17, 2009	
+OMIM:600881	CATARACT, CONGENITAL ZONULAR, WITH SUTURAL OPACITIES					HP:0008031	Posterior Y-sutural cataract			TAS	TAS							OMIM:600881	HPO:skoehler	Mar 31, 2013	
+OMIM:600881	#600881 CATARACT, CONGENITAL ZONULAR, WITH SUTURAL OPACITIES; CCZS					HP:0010920	Zonular cataract			TAS	TAS						OMIM-CS:EYES > BILATERAL CONGENITAL CATARACTS	OMIM:600881	HPO:skoehler	Mar 31, 2013	

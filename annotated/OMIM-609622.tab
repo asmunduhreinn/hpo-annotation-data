@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609622	#609622 SHORT QT SYNDROME 3; SQT3				KCNJ2	HP:0012232	Shortened QT interval			PCS	PCS							pmid:15761194	HPO:probinson	Jan 9, 2013	
+OMIM:609622	#609622 SHORT QT SYNDROME 3; SQT3				KCNJ2	HP:0001962	Palpitations			PCS	PCS							pmid:15761194	HPO:probinson	Mar 31, 2013	
+OMIM:609622	#609622 SHORT QT SYNDROME 3; SQT3				KCNJ2	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:15761194	HPO:probinson	Mar 31, 2013	
+OMIM:609622	#609622 SHORT QT SYNDROME 3; SQT3				KCNJ2	HP:0001649	Tachycardia			PCS	PCS							pmid:15761194	HPO:probinson	Mar 31, 2013	
