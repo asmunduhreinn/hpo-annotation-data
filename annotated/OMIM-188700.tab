@@ -1,4 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:188700	TIBIA VARA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:188700	HPO	17.02.2009
-OMIM:188700	TIBIA VARA					HP:0001367	Abnormality of the joints			IEA	IEA							OMIM:188700	HPO	17.02.2009
-OMIM:188700	TIBIA VARA					HP:0002970	Genu varum			ITM	ITM							OMIM:188700	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:188700	TIBIA VARA					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:188700	HPO:probinson	Feb 17, 2009	
+OMIM:188700	TIBIA VARA					HP:0010886	Osteochondrosis dissecans			TAS	TAS							OMIM:188700	HPO:probinson	Apr 1, 2013	
+OMIM:188700	TIBIA VARA					HP:0002970	Genu varum			TAS	TAS							OMIM:188700	HPO:probinson	Apr 1, 2013	
+OMIM:188700	TIBIA VARA					HP:0010591	Abnormality of the proximal tibial epiphysis			TAS	TAS							OMIM:188700	HPO:probinson	Apr 1, 2013	

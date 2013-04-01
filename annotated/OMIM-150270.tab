@@ -1,4 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:150270	LARYNGEAL ADDUCTOR PARALYSIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:150270	HPO	17.02.2009
-OMIM:150270	LARYNGEAL ADDUCTOR PARALYSIS					HP:0000707	Abnormality of the nervous system			IEA	IEA							OMIM:150270	HPO	17.02.2009
-OMIM:150270	LARYNGEAL ADDUCTOR PARALYSIS					HP:0001609	Hoarse voice			ITM	ITM							OMIM:150270	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:150270	LARYNGEAL ADDUCTOR PARALYSIS					HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:709905	HPO	Feb 17, 2009	
+OMIM:150270	LARYNGEAL ADDUCTOR PARALYSIS					HP:0001609	Hoarse voice	HP:0003577	Congenital onset	TAS	TAS							OMIM:150270	HPO	Feb 17, 2009	
