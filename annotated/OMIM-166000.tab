@@ -1,6 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:166000	ENCHONDROMATOSIS, MULTIPLE					HP:0000124	Renal tubular dysfunction			ITM	ITM							OMIM:166000	HPO	17.02.2009
-OMIM:166000	ENCHONDROMATOSIS, MULTIPLE					HP:0001028	Hemangiomas			ITM	ITM							OMIM:166000	HPO	17.02.2009
-OMIM:166000	ENCHONDROMATOSIS, MULTIPLE					HP:0002664	Neoplasm			IEA	IEA							OMIM:166000	HPO	17.02.2009
-OMIM:166000	ENCHONDROMATOSIS, MULTIPLE					HP:0005701	Multiple enchondromatosis			ITM	ITM							OMIM:166000	HPO	17.02.2009
-OMIM:166000	%166000 ENCHONDROMATOSIS, MULTIPLE, OLLIER TYPE;;OLLIER DISEASE;;OSTEOCHONDROMATOSIS;;DYSCHONDROPLASIA					HP:0006765	Chondrosarcoma			IEA	IEA						OMIM-CS:ONCOLOGY > CHONDROSARCOMA	OMIM:166000	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:166000	ENCHONDROMATOSIS, MULTIPLE					HP:0001028	Hemangioma			TAS	TAS							OMIM:166000	HPO:skoehler	Feb 17, 2009	
+OMIM:166000	ENCHONDROMATOSIS, MULTIPLE					HP:0011314	Abnormality of long bone morphology			TAS	TAS							OMIM:166000	HPO:skoehler	Feb 17, 2009	
+OMIM:166000	%166000 ENCHONDROMATOSIS, MULTIPLE, OLLIER TYPE;;OLLIER DISEASE;;OSTEOCHONDROMATOSIS;;DYSCHONDROPLASIA					HP:0006765	Chondrosarcoma			TAS	TAS							OMIM:166000	HPO:skoehler	Oct 17, 2012	
+OMIM:166000	ENCHONDROMATOSIS, MULTIPLE					HP:0005701	Multiple enchondromatosis			TAS	TAS							OMIM:166000	HPO:skoehler	Apr 1, 2013	
