@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610687	#610687 NEMALINE MYOPATHY 7; NEM7				CFL2	HP:0001252	Muscular hypotonia			PCS	PCS							pmid:17160903	HPO:probinson	Jan 9, 2013	
+OMIM:610687	#610687 NEMALINE MYOPATHY 7; NEM7				CFL2	HP:0002194	Delayed gross motor development			PCS	PCS							pmid:17160903	HPO:probinson	Apr 1, 2013	
+OMIM:610687	#610687 NEMALINE MYOPATHY 7; NEM7				CFL2	HP:0003798	Nemaline bodies			PCS	PCS							pmid:17160903	HPO:probinson	Apr 1, 2013	
+OMIM:610687	#610687 NEMALINE MYOPATHY 7; NEM7				CFL2	HP:0003789	Minicore (multicore) myopathy			PCS	PCS							pmid:17160903	HPO:probinson	Apr 1, 2013	
+OMIM:610687	#610687 NEMALINE MYOPATHY 7; NEM7				CFL2	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:17160903	HPO:probinson	Apr 1, 2013	
+OMIM:610687	#610687 NEMALINE MYOPATHY 7; NEM7				CFL2	HP:0001324	Muscle weakness			PCS	PCS							pmid:17160903	HPO:probinson	Apr 1, 2013	

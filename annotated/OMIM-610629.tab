@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610629	#610629 DIAMOND-BLACKFAN ANEMIA 3; DBA3				RPS24	HP:0001972	Macrocytic anemia			TAS	TAS							pmid:17186470	HPO:probinson	Jan 9, 2013	
+OMIM:610629	#610629 DIAMOND-BLACKFAN ANEMIA 3; DBA3				RPS24	HP:0005518	Erythrocyte macrocytosis			TAS	TAS							pmid:17186470	HPO:probinson	Apr 1, 2013	
+OMIM:610629	#610629 DIAMOND-BLACKFAN ANEMIA 3; DBA3				RPS24	HP:0011904	Persistence of hemoglobin F			TAS	TAS							pmid:17186470	HPO:probinson	Apr 1, 2013	
+OMIM:610629	#610629 DIAMOND-BLACKFAN ANEMIA 3; DBA3				RPS24	HP:0001896	Reticulocytopenia			TAS	TAS							pmid:17186470	HPO:probinson	Apr 1, 2013	
+OMIM:610629	#610629 DIAMOND-BLACKFAN ANEMIA 3; DBA3				RPS24	HP:0000006	Autosomal dominant inheritance			TAS	TAS							pmid:17186470	HPO:probinson	Apr 1, 2013	

@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610227	#610227 SEBORRHEA-LIKE DERMATITIS WITH PSORIASIFORM ELEMENTS				ZNF750	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:610227	HPO:probinson	Jan 9, 2013	
+OMIM:610227	#610227 SEBORRHEA-LIKE DERMATITIS WITH PSORIASIFORM ELEMENTS				ZNF750	HP:0001051	Seborrheic dermatitis			TAS	TAS							OMIM:610227	HPO:probinson	Apr 1, 2013	
+OMIM:610227	#610227 SEBORRHEA-LIKE DERMATITIS WITH PSORIASIFORM ELEMENTS				ZNF750	HP:0000962	Hyperkeratosis			TAS	TAS							OMIM:610227	HPO:probinson	Apr 1, 2013	
