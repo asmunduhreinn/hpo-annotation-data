@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610773	#610773 MITOCHONDRIAL PHOSPHATE CARRIER DEFICIENCY;;MPCD					HP:0000961	Cyanosis	HP:0003623	Neonatal onset	PCS	PCS							pmid:17273968	HPO:probinson	Jan 9, 2013	
+OMIM:610773	#610773 MITOCHONDRIAL PHOSPHATE CARRIER DEFICIENCY;;MPCD					HP:0001252	Muscular hypotonia			PCS	PCS							pmid:17273968	HPO:probinson	Apr 1, 2013	
+OMIM:610773	#610773 MITOCHONDRIAL PHOSPHATE CARRIER DEFICIENCY;;MPCD					HP:0001942	Metabolic acidosis	HP:0003623	Neonatal onset	PCS	PCS							pmid:17273968	HPO:probinson	Apr 1, 2013	
+OMIM:610773	#610773 MITOCHONDRIAL PHOSPHATE CARRIER DEFICIENCY;;MPCD					HP:0003128	Lactic acidosis	HP:0003623	Neonatal onset	PCS	PCS							pmid:17273968	HPO:probinson	Apr 1, 2013	
+OMIM:610773	#610773 MITOCHONDRIAL PHOSPHATE CARRIER DEFICIENCY;;MPCD					HP:0001639	Hypertrophic cardiomyopathy			PCS	PCS							pmid:17273968	HPO:probinson	Apr 1, 2013	
+OMIM:610773	#610773 MITOCHONDRIAL PHOSPHATE CARRIER DEFICIENCY;;MPCD					HP:0002093	Respiratory insufficiency			PCS	PCS							pmid:17273968	HPO:probinson	Apr 1, 2013	
+OMIM:610773	#610773 MITOCHONDRIAL PHOSPHATE CARRIER DEFICIENCY;;MPCD					HP:0012087	Abnormal mitochondrial shape			PCS	PCS							pmid:17273968	HPO:probinson	Apr 1, 2013	
+OMIM:610773	#610773 MITOCHONDRIAL PHOSPHATE CARRIER DEFICIENCY;;MPCD					HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:17273968	HPO:probinson	Apr 1, 2013	

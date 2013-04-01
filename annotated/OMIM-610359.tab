@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610359	#610359 RETINITIS PIGMENTOSA 33; RP33				SNRNP200	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:19878916	HPO:probinson	Jan 9, 2013	
+OMIM:610359	#610359 RETINITIS PIGMENTOSA 33; RP33				SNRNP200	HP:0007737	Bony spicule pigmentary retinopathy			PCS	PCS							pmid:19878916	HPO:probinson	Apr 1, 2013	
+OMIM:610359	#610359 RETINITIS PIGMENTOSA 33; RP33				SNRNP200	HP:0000662	Night blindness			PCS	PCS							pmid:19878916	HPO:probinson	Apr 1, 2013	
+OMIM:610359	#610359 RETINITIS PIGMENTOSA 33; RP33				SNRNP200	HP:0000505	Visual impairment			PCS	PCS							pmid:19878916	HPO:probinson	Apr 1, 2013	
+OMIM:610359	#610359 RETINITIS PIGMENTOSA 33; RP33				SNRNP200	HP:0000543	Optic disc pallor			PCS	PCS							pmid:19878916	HPO:probinson	Apr 1, 2013	
+OMIM:610359	#610359 RETINITIS PIGMENTOSA 33; RP33				SNRNP200	HP:0007843	Attenuation of retinal blood vessels			PCS	PCS							pmid:19878916	HPO:probinson	Apr 1, 2013	
+OMIM:610359	#610359 RETINITIS PIGMENTOSA 33; RP33				SNRNP200	HP:0007698	Retinal pigment epithelial atrophy			PCS	PCS							pmid:19878916	HPO:probinson	Apr 1, 2013	
