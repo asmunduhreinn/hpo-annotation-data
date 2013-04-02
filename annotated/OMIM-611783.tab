@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611783	#611783 ERYTHROCYTOSIS, FAMILIAL, 4; ECYT4				EPAS1	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:611783	HPO:probinson	Jan 9, 2013	
+OMIM:611783	#611783 ERYTHROCYTOSIS, FAMILIAL, 4; ECYT4				EPAS1	HP:0001901	Polycythemia			TAS	TAS							OMIM:611783	HPO:probinson	Apr 2, 2013	
+OMIM:611783	#611783 ERYTHROCYTOSIS, FAMILIAL, 4; ECYT4				EPAS1	HP:0001900	Increased hemoglobin			TAS	TAS							OMIM:611783	HPO:probinson	Apr 2, 2013	
+OMIM:611783	#611783 ERYTHROCYTOSIS, FAMILIAL, 4; ECYT4				EPAS1	HP:0001899	Increased hematocrit			TAS	TAS							OMIM:611783	HPO:probinson	Apr 2, 2013	

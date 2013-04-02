@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611777	#611777 BRUGADA SYNDROME 2; BRGDA2				GPD1L	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:17967977	HPO:probinson	Jan 9, 2013	
+OMIM:611777	#611777 BRUGADA SYNDROME 2; BRGDA2				GPD1L	HP:0011705	First degree atrioventricular block			PCS	PCS							pmid:17967977	HPO:probinson	Apr 2, 2013	
+OMIM:611777	#611777 BRUGADA SYNDROME 2; BRGDA2				GPD1L	HP:0011712	Right bundle branch block			PCS	PCS							pmid:17967977	HPO:probinson	Apr 2, 2013	
+OMIM:611777	#611777 BRUGADA SYNDROME 2; BRGDA2				GPD1L	HP:0001279	Syncope			PCS	PCS							pmid:17967977	HPO:probinson	Apr 2, 2013	
+OMIM:611777	#611777 BRUGADA SYNDROME 2; BRGDA2				GPD1L	HP:0001645	Sudden cardiac death			PCS	PCS	Rare						pmid:17967977	HPO:probinson	Apr 2, 2013	
+OMIM:611777	#611777 BRUGADA SYNDROME 2; BRGDA2				GPD1L	HP:0001663	Ventricular fibrillation			PCS	PCS							pmid:17967977	HPO:probinson	Apr 2, 2013	

@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611762	#611762 FAMILIAL COLD AUTOINFLAMMATORY SYNDROME 2; FCAS2				NALP12	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:18230725	HPO:probinson	Jan 9, 2013	
+OMIM:611762	#611762 FAMILIAL COLD AUTOINFLAMMATORY SYNDROME 2; FCAS2				NALP12	HP:0001954	Episodic fever			PCS	PCS							pmid:18230725	HPO:probinson	Apr 2, 2013	
+OMIM:611762	#611762 FAMILIAL COLD AUTOINFLAMMATORY SYNDROME 2; FCAS2				NALP12	HP:0002829	Arthralgia			PCS	PCS						Episodic	pmid:18230725	HPO:probinson	Apr 2, 2013	
+OMIM:611762	#611762 FAMILIAL COLD AUTOINFLAMMATORY SYNDROME 2; FCAS2				NALP12	HP:0003326	Myalgia			PCS	PCS						Episodic	pmid:18230725	HPO:probinson	Apr 2, 2013	
+OMIM:611762	#611762 FAMILIAL COLD AUTOINFLAMMATORY SYNDROME 2; FCAS2				NALP12	HP:0000407	Sensorineural hearing impairment			PCS	PCS							pmid:18230725	HPO:probinson	Apr 2, 2013	
+OMIM:611762	#611762 FAMILIAL COLD AUTOINFLAMMATORY SYNDROME 2; FCAS2				NALP12	HP:0011227	Elevated C-reactive protein level			PCS	PCS						Episodic	pmid:18230725	HPO:probinson	Apr 2, 2013	

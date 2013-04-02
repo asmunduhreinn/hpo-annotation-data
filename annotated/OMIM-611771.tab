@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611771	#611771 LIPOPROTEIN GLOMERULOPATHY; LPG				APOE	HP:0100820	Glomerulopathy			PCS	PCS							pmid:18077821	HPO:probinson	Apr 2, 2013	
+OMIM:611771	#611771 LIPOPROTEIN GLOMERULOPATHY; LPG				APOE	HP:0000083	Renal insufficiency			PCS	PCS							pmid:18077821	HPO:probinson	Apr 2, 2013	
+OMIM:611771	#611771 LIPOPROTEIN GLOMERULOPATHY; LPG				APOE	HP:0000093	Proteinuria			PCS	PCS							pmid:18077821	HPO:probinson	Apr 2, 2013	
+OMIM:611771	#611771 LIPOPROTEIN GLOMERULOPATHY; LPG				APOE	HP:0001966	Mesangial abnormality			PCS	PCS							pmid:18077821	HPO:probinson	Apr 2, 2013	
