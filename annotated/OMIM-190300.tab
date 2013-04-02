@@ -1,6 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:190300	HPO	17.02.2009
-OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0001260	Dysarthria			IEA	IEA							OMIM:190300	HPO	17.02.2009
-OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0002378	Hand tremor			ITM	ITM							OMIM:190300	HPO	17.02.2009
-OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0003674	Onset			ITM	ITM							OMIM:190300	HPO	17.02.2009
-OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0003676	Progressive disorder			IEA	IEA							OMIM:190300	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:190300	HPO	Feb 17, 2009	
+OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0001260	Dysarthria			TAS	TAS							OMIM:190300	HPO:probinson	Feb 17, 2009	
+OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0003676	Progressive disorder			IEA	IEA							OMIM:190300	HPO	Feb 17, 2009	
+OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0002345	Action tremor			TAS	TAS							OMIM:190300	HPO:probinson	Apr 2, 2013	
+OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0002174	Postural tremor			TAS	TAS							OMIM:190300	HPO:probinson	Apr 2, 2013	
+OMIM:190300	TREMOR, HEREDITARY ESSENTIAL, 1					HP:0002378	Hand tremor			TAS	TAS							OMIM:190300	HPO:probinson	Apr 2, 2013	
