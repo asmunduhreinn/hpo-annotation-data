@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611895	#611895 AMYOTROPHIC LATERAL SCLEROSIS 9; ALS9				ANG	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:17886298	HPO:probinson	Apr 3, 2013	
+OMIM:611895	#611895 AMYOTROPHIC LATERAL SCLEROSIS 9; ALS9				ANG	HP:0002460	Distal muscle weakness			PCS	PCS							pmid:17886298	HPO:probinson	Apr 3, 2013	
+OMIM:611895	#611895 AMYOTROPHIC LATERAL SCLEROSIS 9; ALS9				ANG	HP:0003693	Distal amyotrophy			PCS	PCS							pmid:17886298	HPO:probinson	Apr 3, 2013	
+OMIM:611895	#611895 AMYOTROPHIC LATERAL SCLEROSIS 9; ALS9				ANG	HP:0001257	Spasticity			PCS	PCS							pmid:17886298	HPO:probinson	Apr 3, 2013	

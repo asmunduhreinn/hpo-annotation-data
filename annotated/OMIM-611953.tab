@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611953	#611953 MACULAR DEGENERATION, AGE-RELATED, 11; ARMD11				CST3	HP:0007868	Age-related macular degeneration			IEA	IEA							OMIM:611953	HPO:probinson	Jan 9, 2013	
+OMIM:611953	#611953 MACULAR DEGENERATION, AGE-RELATED, 11; ARMD11				CST3	HP:0010982	Polygenic inheritance			IEA	IEA							OMIM:611953	HPO:probinson	Apr 3, 2013	

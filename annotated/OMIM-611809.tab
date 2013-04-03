@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611809	#611809 BESTROPHINOPATHY, AUTOSOMAL RECESSIVE; ARB				BEST1	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:18179881	HPO:probinson	Jan 9, 2013	
+OMIM:611809	#611809 BESTROPHINOPATHY, AUTOSOMAL RECESSIVE; ARB				BEST1	HP:0007663	Decreased central vision			PCS	PCS							pmid:18179881	HPO:probinson	Apr 3, 2013	
+OMIM:611809	#611809 BESTROPHINOPATHY, AUTOSOMAL RECESSIVE; ARB				BEST1	HP:0000654	Decreased electroretinogram (ERG) amplitude			PCS	PCS							pmid:18179881	HPO:probinson	Apr 3, 2013	
+OMIM:611809	#611809 BESTROPHINOPATHY, AUTOSOMAL RECESSIVE; ARB				BEST1	HP:0000540	Hypermetropia			PCS	PCS							pmid:18179881	HPO:probinson	Apr 3, 2013	
+OMIM:611809	#611809 BESTROPHINOPATHY, AUTOSOMAL RECESSIVE; ARB				BEST1	HP:0000488	Retinopathy			PCS	PCS							pmid:18179881	HPO:probinson	Apr 3, 2013	
+OMIM:611809	#611809 BESTROPHINOPATHY, AUTOSOMAL RECESSIVE; ARB				BEST1	HP:0012045	Retinal flecks			PCS	PCS							pmid:18179881	HPO:probinson	Apr 3, 2013	
