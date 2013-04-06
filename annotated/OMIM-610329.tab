@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:610329	#610329 AICARDI-GOUTIERES SYNDROME 3; AGS3				RNASEH2C	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:16845400	HPO:probinson	Jan 9, 2013	
+OMIM:610329	#610329 AICARDI-GOUTIERES SYNDROME 3; AGS3				RNASEH2C	HP:0000253	Progressive microcephaly			PCS	PCS							pmid:16845400	HPO:probinson	Apr 6, 2013	
+OMIM:610329	#610329 AICARDI-GOUTIERES SYNDROME 3; AGS3				RNASEH2C	HP:0001257	Spasticity			PCS	PCS							pmid:16845400	HPO:probinson	Apr 6, 2013	
+OMIM:610329	#610329 AICARDI-GOUTIERES SYNDROME 3; AGS3				RNASEH2C	HP:0001332	Dystonia			PCS	PCS							pmid:16845400	HPO:probinson	Apr 6, 2013	
+OMIM:610329	#610329 AICARDI-GOUTIERES SYNDROME 3; AGS3				RNASEH2C	HP:0011344	Severe global developmental delay			PCS	PCS							pmid:16845400	HPO:probinson	Apr 6, 2013	
+OMIM:610329	#610329 AICARDI-GOUTIERES SYNDROME 3; AGS3				RNASEH2C	HP:0003819	Death in childhood			PCS	PCS							pmid:16845400	HPO:probinson	Apr 6, 2013	
+OMIM:610329	#610329 AICARDI-GOUTIERES SYNDROME 3; AGS3				RNASEH2C	HP:0002514	Cerebral calcification			PCS	PCS							pmid:16845400	HPO:probinson	Apr 6, 2013	
+OMIM:610329	#610329 AICARDI-GOUTIERES SYNDROME 3; AGS3				RNASEH2C	HP:0001873	Thrombocytopenia			PCS	PCS							pmid:16845400	HPO:probinson	Apr 6, 2013	
+OMIM:610329	#610329 AICARDI-GOUTIERES SYNDROME 3; AGS3				RNASEH2C	HP:0001433	Hepatosplenomegaly			PCS	PCS							pmid:16845400	HPO:probinson	Apr 6, 2013	
+OMIM:610329	#610329 AICARDI-GOUTIERES SYNDROME 3; AGS3				RNASEH2C	HP:0002910	Elevated hepatic transaminases			PCS	PCS							pmid:16845400	HPO:probinson	Apr 6, 2013	
