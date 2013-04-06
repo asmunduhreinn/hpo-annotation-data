@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612518	#612518 CILIARY DYSKINESIA, PRIMARY, 10; CILD10				KTU	HP:0000389	Chronic otitis media			TAS	TAS							OMIM:612518	HPO:probinson	Jan 9, 2013	
+OMIM:612518	#612518 CILIARY DYSKINESIA, PRIMARY, 10; CILD10				KTU	HP:0011109	Chronic sinusitis			TAS	TAS							OMIM:612518	HPO:probinson	Apr 6, 2013	
+OMIM:612518	#612518 CILIARY DYSKINESIA, PRIMARY, 10; CILD10				KTU	HP:0011108	Recurrent sinusitis			TAS	TAS							OMIM:612518	HPO:probinson	Apr 6, 2013	
+OMIM:612518	#612518 CILIARY DYSKINESIA, PRIMARY, 10; CILD10				KTU	HP:0001696	Situs inversus totalis			TAS	TAS							OMIM:612518	HPO:probinson	Apr 6, 2013	
+OMIM:612518	#612518 CILIARY DYSKINESIA, PRIMARY, 10; CILD10				KTU	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:612518	HPO:probinson	Apr 6, 2013	

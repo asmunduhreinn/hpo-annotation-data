@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612703	#612703 MICROCEPHALY 7, PRIMARY, AUTOSOMAL RECESSIVE; MCPH7				STIL	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:612703	HPO:probinson	Apr 6, 2013	
+OMIM:612703	#612703 MICROCEPHALY 7, PRIMARY, AUTOSOMAL RECESSIVE; MCPH7				STIL	HP:0000252	Microcephaly			TAS	TAS							OMIM:612703	HPO:probinson	Apr 6, 2013	
+OMIM:612703	#612703 MICROCEPHALY 7, PRIMARY, AUTOSOMAL RECESSIVE; MCPH7				STIL	HP:0001249	Intellectual disability			TAS	TAS							OMIM:612703	HPO:probinson	Apr 6, 2013	

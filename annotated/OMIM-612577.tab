@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612577	#612577 AMYOTROPHIC LATERAL SCLEROSIS 11; ALS11				FIG4	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:19118816	HPO:probinson	Jan 9, 2013	
+OMIM:612577	#612577 AMYOTROPHIC LATERAL SCLEROSIS 11; ALS11				FIG4	HP:0003474	Sensory impairment			PCS	PCS				NOT	NOT		pmid:19118816	HPO:probinson	Apr 6, 2013	
+OMIM:612577	#612577 AMYOTROPHIC LATERAL SCLEROSIS 11; ALS11				FIG4	HP:0000762	Decreased nerve conduction velocity			PCS	PCS				NOT	NOT		pmid:19118816	HPO:probinson	Apr 6, 2013	
+OMIM:612577	#612577 AMYOTROPHIC LATERAL SCLEROSIS 11; ALS11				FIG4	HP:0002493	Corticospinal tract dysfunction			PCS	PCS							pmid:19118816	HPO:probinson	Apr 6, 2013	
+OMIM:612577	#612577 AMYOTROPHIC LATERAL SCLEROSIS 11; ALS11				FIG4	HP:0007354	Amyotrophic lateral sclerosis			PCS	PCS							pmid:19118816	HPO:probinson	Apr 6, 2013	
+OMIM:612577	#612577 AMYOTROPHIC LATERAL SCLEROSIS 11; ALS11				FIG4	HP:0003202	Amyotrophy			PCS	PCS							pmid:19118816	HPO:probinson	Apr 6, 2013	

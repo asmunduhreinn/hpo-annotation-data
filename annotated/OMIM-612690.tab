@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612690	#612690 SPHEROCYTOSIS, TYPE 5; SPH5;;SPHEROCYTOSIS, HEREDITARY, 5; HS5				EPB42	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:612690	HPO:probinson	Jan 9, 2013	
+OMIM:612690	#612690 SPHEROCYTOSIS, TYPE 5; SPH5;;SPHEROCYTOSIS, HEREDITARY, 5; HS5				EPB42	HP:0004444	Spherocytosis			TAS	TAS							OMIM:612690	HPO:probinson	Apr 6, 2013	
+OMIM:612690	#612690 SPHEROCYTOSIS, TYPE 5; SPH5;;SPHEROCYTOSIS, HEREDITARY, 5; HS5				EPB42	HP:0001878	Hemolytic anemia			TAS	TAS							OMIM:612690	HPO:probinson	Apr 6, 2013	
