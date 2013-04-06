@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:609698	#609698 THYROID HORMONE METABOLISM, ABNORMAL				SECISBP2	HP:0002925	Thyroid-stimulating hormone excess			TAS	TAS							OMIM:609698	HPO:probinson	Jan 9, 2013	
+OMIM:609698	#609698 THYROID HORMONE METABOLISM, ABNORMAL				SECISBP2	HP:0000821	Hypothyroidism			TAS	TAS				NOT	NOT		OMIM:609698	HPO:probinson	Apr 6, 2013	
+OMIM:609698	#609698 THYROID HORMONE METABOLISM, ABNORMAL				SECISBP2	HP:0002750	Delayed skeletal maturation			TAS	TAS							OMIM:609698	HPO:probinson	Apr 6, 2013	
+OMIM:609698	#609698 THYROID HORMONE METABOLISM, ABNORMAL				SECISBP2	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:609698	HPO:probinson	Apr 6, 2013	

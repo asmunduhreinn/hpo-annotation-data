@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612347	#612347 JERVELL AND LANGE-NIELSEN SYNDROME 2; JLNS2				KCNE1	HP:0001657	Prolonged QT interval			TAS	TAS							OMIM:612347	HPO:probinson	Apr 6, 2013	
+OMIM:612347	#612347 JERVELL AND LANGE-NIELSEN SYNDROME 2; JLNS2				KCNE1	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:612347	HPO:probinson	Apr 6, 2013	
+OMIM:612347	#612347 JERVELL AND LANGE-NIELSEN SYNDROME 2; JLNS2				KCNE1	HP:0000407	Sensorineural hearing impairment	HP:0003577	Congenital onset	TAS	TAS							OMIM:612347	HPO:probinson	Apr 6, 2013	
+OMIM:612347	#612347 JERVELL AND LANGE-NIELSEN SYNDROME 2; JLNS2				KCNE1	HP:0001279	Syncope			TAS	TAS							OMIM:612347	HPO:probinson	Apr 6, 2013	

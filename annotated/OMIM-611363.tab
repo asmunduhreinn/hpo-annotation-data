@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:611363	#611363 ATRIAL SEPTAL DEFECT 4; ASD4				TBX20	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:17668378	HPO:probinson	Jan 9, 2013	
+OMIM:611363	#611363 ATRIAL SEPTAL DEFECT 4; ASD4				TBX20	HP:0001631	Defect in the atrial septum			PCS	PCS							pmid:17668378	HPO:probinson	Apr 6, 2013	
+OMIM:611363	#611363 ATRIAL SEPTAL DEFECT 4; ASD4				TBX20	HP:0001655	Patent foramen ovale			PCS	PCS	Occasional						pmid:17668378	HPO:probinson	Apr 6, 2013	
+OMIM:611363	#611363 ATRIAL SEPTAL DEFECT 4; ASD4				TBX20	HP:0001680	Coarctation of aorta			PCS	PCS	Occasional						pmid:17668378	HPO:probinson	Apr 6, 2013	

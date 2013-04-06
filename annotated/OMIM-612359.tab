@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612359	#612359 COWDEN-LIKE SYNDROME				SDHB	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:18678321	HPO:probinson	Jan 9, 2013	
+OMIM:612359	#612359 COWDEN-LIKE SYNDROME				SDHB	HP:0002895	Papillary thyroid carcinoma			PCS	PCS							pmid:18678321	HPO:probinson	Apr 6, 2013	
+OMIM:612359	#612359 COWDEN-LIKE SYNDROME				SDHB	HP:0012114	Endometrial carcinoma			PCS	PCS							pmid:18678321	HPO:probinson	Apr 6, 2013	
+OMIM:612359	#612359 COWDEN-LIKE SYNDROME				SDHB	HP:0003002	Breast carcinoma			PCS	PCS							pmid:18678321	HPO:probinson	Apr 6, 2013	
+OMIM:612359	#612359 COWDEN-LIKE SYNDROME				SDHB	HP:0000131	Uterine leiomyoma			PCS	PCS							pmid:18678321	HPO:probinson	Apr 6, 2013	
