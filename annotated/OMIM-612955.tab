@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612955	#612955 LONG QT SYNDROME 12; LQT12				SNT1	HP:0005184	Prolonged QTc interval			PCS	PCS							pmid:18591664	HPO:probinson	Apr 7, 2013	
+OMIM:612955	#612955 LONG QT SYNDROME 12; LQT12				SNT1	HP:0001279	Syncope			PCS	PCS							pmid:18591664	HPO:probinson	Apr 7, 2013	
+OMIM:612955	#612955 LONG QT SYNDROME 12; LQT12				SNT1	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:18591664	HPO:probinson	Apr 7, 2013	
+OMIM:612955	#612955 LONG QT SYNDROME 12; LQT12				SNT1	HP:0001664	Torsade de pointes			PCS	PCS							pmid:10220144	HPO:probinson	Apr 7, 2013	
