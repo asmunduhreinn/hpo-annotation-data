@@ -1,4 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:215520	CILIARY DYSKINESIA DUE TO TRANSPOSITION OF CILIARY MICROTUBULES					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:215520	HPO	17.02.2009
-OMIM:215520	CILIARY DYSKINESIA DUE TO TRANSPOSITION OF CILIARY MICROTUBULES					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:215520	HPO	17.02.2009
-OMIM:215520	CILIARY DYSKINESIA DUE TO TRANSPOSITION OF CILIARY MICROTUBULES					HP:0002086	Abnormality of the respiratory system			IEA	IEA							OMIM:215520	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:215520	CILIARY DYSKINESIA DUE TO TRANSPOSITION OF CILIARY MICROTUBULES					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:215520	HPO	Feb 17, 2009	
+OMIM:215520	CILIARY DYSKINESIA DUE TO TRANSPOSITION OF CILIARY MICROTUBULES					HP:0012265	Ciliary dyskinesia			TAS	TAS							OMIM:215520	HPO:probinson	Apr 7, 2013	
+OMIM:215520	CILIARY DYSKINESIA DUE TO TRANSPOSITION OF CILIARY MICROTUBULES					HP:0005938	Abnormal respiratory motile cilium morphology			TAS	TAS							OMIM:215520	HPO:probinson	Apr 7, 2013	
+OMIM:215520	CILIARY DYSKINESIA DUE TO TRANSPOSITION OF CILIARY MICROTUBULES					HP:0005425	Recurrent sinopulmonary infections			TAS	TAS							OMIM:215520	HPO:probinson	Apr 7, 2013	
