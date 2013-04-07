@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612838	#612838 BRUGADA SYNDROME 5; BRGDA5CARDIAC CONDUCTION DEFECT, NONSPECIFIC, INCLUDED				SCN1B	HP:0000006	Autosomal dominant inheritance			TAS	TAS							pmid:18464934	HPO:probinson	Apr 7, 2013	
+OMIM:612838	#612838 BRUGADA SYNDROME 5; BRGDA5CARDIAC CONDUCTION DEFECT, NONSPECIFIC, INCLUDED				SCN1B	HP:0011710	Bundle branch block			TAS	TAS							pmid:18464934	HPO:probinson	Apr 7, 2013	
+OMIM:612838	#612838 BRUGADA SYNDROME 5; BRGDA5CARDIAC CONDUCTION DEFECT, NONSPECIFIC, INCLUDED				SCN1B	HP:0012251	ST segment elevation			TAS	TAS							pmid:18464934	HPO:probinson	Apr 7, 2013	
+OMIM:612838	#612838 BRUGADA SYNDROME 5; BRGDA5CARDIAC CONDUCTION DEFECT, NONSPECIFIC, INCLUDED				SCN1B	HP:0001663	Ventricular fibrillation			TAS	TAS							pmid:18464934	HPO:probinson	Apr 7, 2013	
