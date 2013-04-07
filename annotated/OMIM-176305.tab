@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:176305	PREAXIAL DEFICIENCY, POSTAXIAL POLYDACTYLY, AND HYPOSPADIAS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:176305	HPO	17.02.2009
-OMIM:176305	PREAXIAL DEFICIENCY, POSTAXIAL POLYDACTYLY, AND HYPOSPADIAS					HP:0000807	Glandular hypospadias			IEA	IEA							OMIM:176305	HPO	17.02.2009
-OMIM:176305	PREAXIAL DEFICIENCY, POSTAXIAL POLYDACTYLY, AND HYPOSPADIAS					HP:0001162	Postaxial polydactyly (hands)			IEA	IEA							OMIM:176305	HPO	17.02.2009
-OMIM:176305	PREAXIAL DEFICIENCY, POSTAXIAL POLYDACTYLY, AND HYPOSPADIAS					HP:0004701	Hypoplasia of the toes			ITM	ITM							OMIM:176305	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:176305	PREAXIAL DEFICIENCY, POSTAXIAL POLYDACTYLY, AND HYPOSPADIAS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:176305	HPO	Feb 17, 2009	
+OMIM:176305	PREAXIAL DEFICIENCY, POSTAXIAL POLYDACTYLY, AND HYPOSPADIAS					HP:0000807	Glandular hypospadias			IEA	IEA							OMIM:176305	HPO	Feb 17, 2009	
+OMIM:176305	PREAXIAL DEFICIENCY, POSTAXIAL POLYDACTYLY, AND HYPOSPADIAS					HP:0001162	Postaxial polydactyly (hands)			IEA	IEA							OMIM:176305	HPO	Feb 17, 2009	
+OMIM:176305	PREAXIAL DEFICIENCY, POSTAXIAL POLYDACTYLY, AND HYPOSPADIAS					HP:0001885	Short 2nd toe			TAS	TAS							OMIM:176305	HPO:probinson	Apr 7, 2013	
