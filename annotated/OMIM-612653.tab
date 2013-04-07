@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612653	#612653 SPHEROCYTOSIS, TYPE 4; SPH4;;SPHEROCYTOSIS, HEREDITARY, 4; HS4				SLC4A1	HP:0004444	Spherocytosis			TAS	TAS							OMIM:612653	HPO:probinson	Jan 9, 2013	
+OMIM:612653	#612653 SPHEROCYTOSIS, TYPE 4; SPH4;;SPHEROCYTOSIS, HEREDITARY, 4; HS4				SLC4A1	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:612653	HPO:probinson	Apr 7, 2013	
+OMIM:612653	#612653 SPHEROCYTOSIS, TYPE 4; SPH4;;SPHEROCYTOSIS, HEREDITARY, 4; HS4				SLC4A1	HP:0001878	Hemolytic anemia			TAS	TAS							OMIM:612653	HPO:probinson	Apr 7, 2013	
+OMIM:612653	#612653 SPHEROCYTOSIS, TYPE 4; SPH4;;SPHEROCYTOSIS, HEREDITARY, 4; HS4				SLC4A1	HP:0005502	Increased red cell osmotic fragility			TAS	TAS							OMIM:612653	HPO:probinson	Apr 7, 2013	
+OMIM:612653	#612653 SPHEROCYTOSIS, TYPE 4; SPH4;;SPHEROCYTOSIS, HEREDITARY, 4; HS4				SLC4A1	HP:0001923	Reticulocytosis			TAS	TAS							OMIM:612653	HPO:probinson	Apr 7, 2013	

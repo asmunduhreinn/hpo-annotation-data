@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612900	#612900 CEREBRAL PALSY, SPASTIC QUADRIPLEGIC, 2; CPSQ2				KANK1	HP:0001252	Muscular hypotonia	HP:0003577	Congenital onset	IEA	IEA							OMIM:612900	HPO:probinson	Apr 7, 2013	
+OMIM:612900	#612900 CEREBRAL PALSY, SPASTIC QUADRIPLEGIC, 2; CPSQ2				KANK1	HP:0002510	Spastic tetraplegia			IEA	IEA							OMIM:612900	HPO:probinson	Apr 7, 2013	
+OMIM:612900	#612900 CEREBRAL PALSY, SPASTIC QUADRIPLEGIC, 2; CPSQ2				KANK1	HP:0001249	Intellectual disability			IEA	IEA							OMIM:612900	HPO:probinson	Apr 7, 2013	
+OMIM:612900	#612900 CEREBRAL PALSY, SPASTIC QUADRIPLEGIC, 2; CPSQ2				KANK1	HP:0002119	Ventriculomegaly			IEA	IEA							OMIM:612900	HPO:probinson	Apr 7, 2013	
+OMIM:612900	#612900 CEREBRAL PALSY, SPASTIC QUADRIPLEGIC, 2; CPSQ2				KANK1	HP:0002059	Cerebral atrophy			IEA	IEA							OMIM:612900	HPO:probinson	Apr 7, 2013	

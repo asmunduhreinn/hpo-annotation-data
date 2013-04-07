@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612781	#612781 ISOLATED GROWTH HORMONE DEFICIENCY, TYPE IB; IGHD1B;;IGHD IB;;DWARFISM OF SINDH					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:612781	HPO:probinson	Jan 9, 2013	
+OMIM:612781	#612781 ISOLATED GROWTH HORMONE DEFICIENCY, TYPE IB; IGHD1B;;IGHD IB;;DWARFISM OF SINDH					HP:0004322	Short stature			TAS	TAS							OMIM:612781	HPO:probinson	Apr 7, 2013	
+OMIM:612781	#612781 ISOLATED GROWTH HORMONE DEFICIENCY, TYPE IB; IGHD1B;;IGHD IB;;DWARFISM OF SINDH					HP:0002750	Delayed skeletal maturation			TAS	TAS							OMIM:612781	HPO:probinson	Apr 7, 2013	
+OMIM:612781	#612781 ISOLATED GROWTH HORMONE DEFICIENCY, TYPE IB; IGHD1B;;IGHD IB;;DWARFISM OF SINDH					HP:0000824	Growth hormone deficiency			TAS	TAS							OMIM:612781	HPO:probinson	Apr 7, 2013	
