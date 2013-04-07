@@ -1,5 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:115430	CARPAL TUNNEL SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:115430	HPO	Feb 17, 2009	
 OMIM:115430	CARPAL TUNNEL SYNDROME					HP:0008326	Vitamin B6 deficiency			IEA	IEA							OMIM:115430	HPO	Feb 17, 2009	
-OMIM:115430	CARPAL TUNNEL SYNDROME					HP:0009830	Peripheral neuropathy			IEA	IEA							OMIM:115430	SKOEHLER	Jun 20, 2010	
-OMIM:115430	#115430 CARPAL TUNNEL SYNDROME; CTS1;;CTS;;AMYOTROPHY, THENAR, OF CARPAL ORIGIN					HP:0012185	Constrictive median neuropathy			IEA	IEA						OMIM-CS:NEURO > CONSTRICTIVE MEDIAN NEUROPATHY	OMIM:115430	HPO:skoehler	25.02.2013
+OMIM:115430	CARPAL TUNNEL SYNDROME					HP:0009830	Peripheral neuropathy			IEA	IEA							OMIM:115430	HPO:skoehler	Jun 20, 2010	
+OMIM:115430	#115430 CARPAL TUNNEL SYNDROME; CTS1;;CTS;;AMYOTROPHY, THENAR, OF CARPAL ORIGIN					HP:0012185	Constrictive median neuropathy			TAS	TAS							OMIM:115430	HPO:skoehler	Feb 25, 2013	
+OMIM:115430	CARPAL TUNNEL SYNDROME					HP:0012276	Digital flexor tenosynovitis			TAS	TAS							OMIM:115430	HPO:probinson	Apr 7, 2013	
