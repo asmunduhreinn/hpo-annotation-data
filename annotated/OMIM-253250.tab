@@ -18,7 +18,6 @@ OMIM:253250	MULIBREY NANISM					HP:0002240	Hepatomegaly			IEA	IEA							OMIM:253
 OMIM:253250	MULIBREY NANISM					HP:0002667	Nephroblastoma (Wilms tumor)			IEA	IEA							OMIM:253250	HPO	Feb 17, 2009	
 OMIM:253250	MULIBREY NANISM					HP:0002680	J-shaped sella turcica			IEA	IEA							OMIM:253250	HPO	Feb 17, 2009	
 OMIM:253250	MULIBREY NANISM					HP:0003764	Nevus			IEA	IEA							OMIM:253250	HPO:skoehler	Jun 20, 2010	
-OMIM:253250	MULIBREY NANISM					HP:0004298	Abnormality of the abdominal wall			IEA	IEA							OMIM:253250	HPO	Feb 17, 2009	
 OMIM:253250	MULIBREY NANISM					HP:0004322	Short stature			IEA	IEA							OMIM:253250	HPO:skoehler	Jun 20, 2010	
 OMIM:253250	MULIBREY NANISM					HP:0005132	Pericardial constriction			IEA	IEA							OMIM:253250	HPO	Feb 17, 2009	
 OMIM:253250	MULIBREY NANISM					HP:0002738	Hypoplastic frontal sinuses			TAS	TAS						Or absent frontal sinuses	OMIM:253250	HPO:probinson	Feb 17, 2009	
@@ -27,5 +26,5 @@ OMIM:253250	MULIBREY NANISM					HP:0007757	Hypoplasia of choroid			IEA	IEA						
 OMIM:253250	MULIBREY NANISM					HP:0005280	Depressed nasal bridge			TAS	TAS							OMIM:253250	HPO:probinson	Apr 24, 2012	
 OMIM:253250	MULIBREY NANISM					HP:0000431	Wide nasal bridge			TAS	TAS							OMIM:253250	HPO:probinson	Apr 24, 2012	
 OMIM:253250	MULIBREY NANISM					HP:0002688	Absent frontal sinuses			TAS	TAS						Or hypoplastic frontal sinuses	OMIM:253250	HPO:probinson	Jun 10, 2012	
-OMIM:253250	MULIBREY NANISM					HP:0001621	Soft voice			TAS	TAS							OMIM:253250	HPO:probinson	Feb 17, 2009	
-OMIM:253250	MULIBREY NANISM					HP:0001621	Soft voice			TAS	TAS							OMIM:253250	HPO:probinson	Apr 12, 2013	
+OMIM:253250	MULIBREY NANISM					HP:0001621	Weak voice			TAS	TAS							OMIM:253250	HPO:probinson	Feb 17, 2009	
+OMIM:253250	MULIBREY NANISM					HP:0001620	High pitched voice			TAS	TAS							OMIM:253250	HPO:probinson	Apr 12, 2013	
