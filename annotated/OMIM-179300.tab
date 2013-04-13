@@ -2,4 +2,4 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:179300	RADIOULNAR SYNOSTOSIS					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:179300	HPO:skoehler	Feb 17, 2009	
 OMIM:179300	RADIOULNAR SYNOSTOSIS					HP:0001377	Limited elbow extension			TAS	TAS							OMIM:179300	HPO:skoehler	Feb 17, 2009	
 OMIM:179300	RADIOULNAR SYNOSTOSIS					HP:0002974	Radioulnar synostosis			TAS	TAS							OMIM:179300	HPO:skoehler	Feb 17, 2009	
-OMIM:179300	RADIOULNAR SYNOSTOSIS					HP:0005673	Congenital radial head dislocation			TAS	TAS							OMIM:179300	HPO:skoehler	Feb 17, 2009	
+OMIM:179300	RADIOULNAR SYNOSTOSIS					HP:0003083	Dislocated radial head	HP:0003577	Congenital onset	TAS	TAS							OMIM:179300	HPO:skoehler	Apr 13, 2013	
