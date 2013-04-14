@@ -1,0 +1,12 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0012260	Abnormal central microtubular pair morphology of motile cilia			PCS	PCS							pmid:19200523	HPO:probinson	Apr 14, 2013	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:19200523	HPO:probinson	Apr 14, 2013	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0012208	Nonmotile sperm			PCS	PCS							pmid:19200523	HPO:probinson	Apr 14, 2013	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0012265	Ciliary dyskinesia			PCS	PCS							pmid:19200523	HPO:probinson	Apr 14, 2013	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0001696	Situs inversus totalis			PCS	PCS				NOT	NOT		pmid:14982824	HPO:probinson	Apr 14, 2013	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0003546	Exercise intolerance			PCS	PCS							pmid:19200523	HPO:probinson	Apr 14, 2013	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0002205	Recurrent respiratory infections			PCS	PCS							pmid:19200523	HPO:probinson	Apr 14, 2013	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0002257	Chronic rhinitis			PCS	PCS							pmid:19200523	HPO:probinson	Apr 14, 2013	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0011109	Chronic sinusitis			PCS	PCS							pmid:19200523	HPO:probinson	Apr 14, 2013	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0002110	Bronchiectasis			PCS	PCS							pmid:19200523	HPO:probinson	Apr 14, 2013	
+OMIM:612650	#612650 CILIARY DYSKINESIA, PRIMARY, 12; CILD12				RSPH9	HP:0004322	Short stature			PCS	PCS							pmid:19200523	HPO:probinson	Apr 14, 2013	

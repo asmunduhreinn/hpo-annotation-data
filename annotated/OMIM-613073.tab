@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613073	#613073 METAPHYSEAL ANADYSPLASIA 2; MANDP2				MMP9	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:19615667	HPO:probinson	Apr 14, 2013	
+OMIM:613073	#613073 METAPHYSEAL ANADYSPLASIA 2; MANDP2				MMP9	HP:0002983	Micromelia			PCS	PCS				NOT	NOT		pmid:19615667	HPO:probinson	Apr 14, 2013	
+OMIM:613073	#613073 METAPHYSEAL ANADYSPLASIA 2; MANDP2				MMP9	HP:0002979	Bowing of the legs			PCS	PCS							pmid:19615667	HPO:probinson	Apr 14, 2013	
+OMIM:613073	#613073 METAPHYSEAL ANADYSPLASIA 2; MANDP2				MMP9	HP:0003025	Irregular metaphyses			PCS	PCS						disappeared after age 2 years	pmid:19615667	HPO:probinson	Apr 14, 2013	
+OMIM:613073	#613073 METAPHYSEAL ANADYSPLASIA 2; MANDP2				MMP9	HP:0100864	Hypoplasia of the femoral neck			PCS	PCS						disappeared after age 2 years	pmid:19615667	HPO:probinson	Apr 14, 2013	
