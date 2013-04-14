@@ -4,7 +4,7 @@ MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of th
 MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0001204	Distal symphalangism (hands)			PCS	PCS							MIM:112500	HPO	Apr 24, 2012	
 MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0001509	Short stature			PCS	PCS							ISBN-13: 978-3437214301	HPO	Apr 24, 2012	
 MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0010049	Short metacarpal			PCS	PCS							ISBN-13: 978-3437214301	HPO	Apr 24, 2012	
-MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0005194	Flattened metatarsal heads			PCS	PCS							ISBN-13: 978-3437214301	HPO	Apr 24, 2012	
+MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0005194	Flattened metatarsal heads			PCS	PCS							ISBN-13: 978-3437214301	HPO:skoehler	Apr 24, 2012	
 MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009638	Short proximal phalanx of thumb			PCS	PCS							ISBN-13: 978-3437214301	HPO	Apr 24, 2012	
 MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0010107	Small proximal phalanx of hallux			PCS	PCS							ISBN-13: 978-3437214301	HPO	Apr 24, 2012	
 MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009843	Aplasia/Hypoplasia of the middle phalanges of the hand			PCS	PCS							ISBN-13: 978-3437214301	HPO	Apr 24, 2012	
@@ -13,12 +13,11 @@ MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of th
 MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009279	Radial deviation of the 4th finger			TAS	TAS							MIM:112500	HPO	Oct 20, 2009	
 MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009462	Radial deviation of the 3rd finger			TAS	TAS							MIM:112500	HPO	Oct 20, 2009	
 MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0010049	Short metacarpal			PCS	PCS							ISBN-13: 978-3437214301	HPO	Oct 20, 2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0009194	Small epiphyses of the metacarpals			PCS	PCS							ISBN-13: 978-3437214301	HPO	Oct 20, 2009	
 MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0010194	Aplasia/Hypoplasia of the middle phalanges of the toes			PCS	PCS							ISBN-13: 978-3437214301	HPO	Oct 20, 2009	
-MIM:112500	BRACHYDACTYLY, TYPE A1			MIM:600726 (N-terminal active fragment of the IHH) / wt; 5p13.3-p13.2 / wt	IHH; 5p13.3-p13.2	HP:0011909	Flattened metacarpal heads			PCS	PCS							ISBN-13: 978-3437214301	HPO	Jun 3, 2012	
 OMIM:112500	#112500 BRACHYDACTYLY, TYPE A1; BDA1;;FARABEE-TYPE BRACHYDACTYLY					HP:0006165	Proportionate shortening of all digits			TAS	TAS							OMIM:112500	HPO:skoehler	Oct 17, 2012	
 OMIM:112500	#112500 BRACHYDACTYLY, TYPE A1; BDA1;;FARABEE-TYPE BRACHYDACTYLY					HP:0004279	Short palm			TAS	TAS							OMIM:112500	HPO:skoehler	Oct 17, 2012	
 OMIM:112500	#112500 BRACHYDACTYLY, TYPE A1; BDA1;;FARABEE-TYPE BRACHYDACTYLY					HP:0009882	Short distal phalanx of finger			TAS	TAS							OMIM:112500	HPO:skoehler	Oct 17, 2012	
-OMIM:112500	#112500 BRACHYDACTYLY, TYPE A1; BDA1;;FARABEE-TYPE BRACHYDACTYLY					HP:0006146	Thin metacarpals with broad epiphyses			TAS	TAS							OMIM:112500	HPO:skoehler	Oct 17, 2012	
 OMIM:112500	#112500 BRACHYDACTYLY, TYPE A1; BDA1;;FARABEE-TYPE BRACHYDACTYLY					HP:0006213	Thin proximal phalanges with broad epiphyses			TAS	TAS							OMIM:112500	HPO:skoehler	Oct 17, 2012	
 OMIM:112500	#112500 BRACHYDACTYLY, TYPE A1; BDA1;;FARABEE-TYPE BRACHYDACTYLY					HP:0001169	Broad palm			TAS	TAS							OMIM:112500	HPO:skoehler	Apr 7, 2013	
+OMIM:112500	#112500 BRACHYDACTYLY, TYPE A1; BDA1;;FARABEE-TYPE BRACHYDACTYLY					HP:0006146	Broad metacarpal epiphyses			TAS	TAS							OMIM:112500	HPO:skoehler	Apr 14, 2013	
+OMIM:112500	#112500 BRACHYDACTYLY, TYPE A1; BDA1;;FARABEE-TYPE BRACHYDACTYLY					HP:0006236	Slender metacarpals			TAS	TAS							OMIM:112500	HPO:skoehler	Apr 14, 2013	
