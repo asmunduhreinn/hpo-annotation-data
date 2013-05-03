@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:607644	%607644 CANDIDIASIS, FAMILIAL, 3; CANDF3;;CANDIDIASIS, FAMILIAL CHRONIC NAIL, WITH ICAM1 DEFICIENCY; CANDN1;;FCNC					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:607644	HPO:skoehler	03.05.2013

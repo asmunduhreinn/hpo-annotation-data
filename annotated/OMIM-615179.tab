@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615179	#615179 ALBINISM, OCULOCUTANEOUS, TYPE V; OCA5					HP:0000639	Nystagmus			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > NYSTAGMUS	OMIM:615179	HPO:skoehler	03.05.2013
+OMIM:615179	#615179 ALBINISM, OCULOCUTANEOUS, TYPE V; OCA5					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:615179	HPO:skoehler	03.05.2013
