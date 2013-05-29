@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:310370	MYOCLONIC EPILEPSY, PROGRESSIVE					HP:0002123	Generalized myoclonic seizures			IEA	IEA							OMIM:310370	HPO	17.02.2009
+OMIM:310370	310370 MYOCLONIC EPILEPSY, PROGRESSIVE					HP:0001417	X-linked inheritance			IEA	IEA						OMIM-CS:INHERITANCE > X-LINKED FORM	OMIM:310370	HPO:skoehler	29.05.2013

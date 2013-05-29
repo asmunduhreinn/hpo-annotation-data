@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:109730	AORTIC VALVE DISEASE					HP:0001647	Bicuspid aortic valve			IEA	IEA							OMIM:109730	HPO	17.02.2009
+OMIM:109730	#109730 AORTIC VALVE DISEASE 1; AOVD1;;AORTIC VALVE DISEASE;;BICUSPID AORTIC VALVE; BAV;;AORTIC VALVE, BICUSPID;;AORTIC VALVE, CALCIFICATION OF;;AORTIC STENOSIS, CALCIFIC					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT FORM	OMIM:109730	HPO:skoehler	29.05.2013

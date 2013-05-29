@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:190410	TRIGGER THUMB					HP:0001172	Abnormality of the thumb			ITM	ITM							OMIM:190410	HPO	17.02.2009
+OMIM:190410	190410 TRIGGER THUMB					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT FORM	OMIM:190410	HPO:skoehler	29.05.2013

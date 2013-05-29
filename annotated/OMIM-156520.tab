@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:156520	METATARSUS VARUS, TYPE I					HP:0001840	Metatarsus adductus			IEA	IEA							OMIM:156520	HPO	17.02.2009
+OMIM:156520	%156520 METATARSUS VARUS, TYPE I					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT FORM	OMIM:156520	HPO:skoehler	29.05.2013
