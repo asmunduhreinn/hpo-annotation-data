@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:48	Early-onset Alzheimer disease with cerebral amyloid angiopathy					HP:0000726	Dementia			IEA	IEA							DECIPHER:48	HPO:skoehler	May 29, 2013
+DECIPHER:48	Early-onset Alzheimer disease with cerebral amyloid angiopathy					HP:0002185	Neurofibrillary tangles			IEA	IEA							DECIPHER:48	HPO:skoehler	May 29, 2013
+DECIPHER:48	Early-onset Alzheimer disease with cerebral amyloid angiopathy					HP:0100256	Senile plaques			IEA	IEA							DECIPHER:48	HPO:skoehler	May 29, 2013

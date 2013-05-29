@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:67	1q21.1 recurrent microduplication (possible susceptibility locus for neurodevelopmental disorders)					HP:0001249	Intellectual disability			IEA	IEA							DECIPHER:67	HPO:skoehler	May 29, 2013
+DECIPHER:67	1q21.1 recurrent microduplication (possible susceptibility locus for neurodevelopmental disorders)					HP:0000717	Autism			IEA	IEA							DECIPHER:67	HPO:skoehler	May 29, 2013

@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:19	Potocki-Lupski syndrome (17p11.2 duplication syndrome)					HP:0000736	Short attention span			IEA	IEA							DECIPHER:19	HPO:skoehler	May 29, 2013
+DECIPHER:19	Potocki-Lupski syndrome (17p11.2 duplication syndrome)					HP:0000752	Hyperactivity			IEA	IEA							DECIPHER:19	HPO:skoehler	May 29, 2013
+DECIPHER:19	Potocki-Lupski syndrome (17p11.2 duplication syndrome)					HP:0000717	Autism			IEA	IEA							DECIPHER:19	HPO:skoehler	May 29, 2013
+DECIPHER:19	Potocki-Lupski syndrome (17p11.2 duplication syndrome)					HP:0004322	Short stature			IEA	IEA							DECIPHER:19	HPO:skoehler	May 29, 2013

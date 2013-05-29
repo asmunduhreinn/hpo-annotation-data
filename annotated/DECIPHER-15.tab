@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:15	NF1-microdeletion syndrome					HP:0001067	Neurofibromas			IEA	IEA							DECIPHER:15	HPO:skoehler	May 29, 2013
+DECIPHER:15	NF1-microdeletion syndrome					HP:0001627	Abnormality of the heart			IEA	IEA							DECIPHER:15	HPO:skoehler	May 29, 2013
+DECIPHER:15	NF1-microdeletion syndrome					HP:0001249	Intellectual disability			IEA	IEA							DECIPHER:15	HPO:skoehler	May 29, 2013
+DECIPHER:15	NF1-microdeletion syndrome					HP:0000957	Cafe-au-lait spot			IEA	IEA							DECIPHER:15	HPO:skoehler	May 29, 2013
+DECIPHER:15	NF1-microdeletion syndrome					HP:0000280	Coarse facial features			IEA	IEA							DECIPHER:15	HPO:skoehler	May 29, 2013
+DECIPHER:15	NF1-microdeletion syndrome					HP:0000316	Hypertelorism			IEA	IEA							DECIPHER:15	HPO:skoehler	May 29, 2013

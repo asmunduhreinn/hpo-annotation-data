@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:58	Leri-Weill dyschondrostosis (LWD) - SHOX deletion					HP:0003067	Madelung deformity			IEA	IEA							DECIPHER:58	HPO:skoehler	May 29, 2013
+DECIPHER:58	Leri-Weill dyschondrostosis (LWD) - SHOX deletion					HP:0006394	Limited pronation/supination of forearm			IEA	IEA							DECIPHER:58	HPO:skoehler	May 29, 2013
+DECIPHER:58	Leri-Weill dyschondrostosis (LWD) - SHOX deletion					HP:0002986	Radial bowing			IEA	IEA							DECIPHER:58	HPO:skoehler	May 29, 2013
+DECIPHER:58	Leri-Weill dyschondrostosis (LWD) - SHOX deletion					HP:0008873	Disproportionate short-limb short stature			IEA	IEA							DECIPHER:58	HPO:skoehler	May 29, 2013

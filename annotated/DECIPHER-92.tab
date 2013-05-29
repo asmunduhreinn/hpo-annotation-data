@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:92	Recurrent 16p12.1 microdeletion (neurodevelopmental susceptibility locus)					HP:0001249	Intellectual disability			IEA	IEA							DECIPHER:92	HPO:skoehler	May 29, 2013
+DECIPHER:92	Recurrent 16p12.1 microdeletion (neurodevelopmental susceptibility locus)					HP:0000252	Microcephaly			IEA	IEA							DECIPHER:92	HPO:skoehler	May 29, 2013
+DECIPHER:92	Recurrent 16p12.1 microdeletion (neurodevelopmental susceptibility locus)					HP:0000750	Delayed speech and language development			IEA	IEA							DECIPHER:92	HPO:skoehler	May 29, 2013

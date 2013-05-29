@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:29	Charcot-Marie-Tooth syndrome type 1A (CMT1A)					HP:0010829	Impaired temperature sensation			IEA	IEA							DECIPHER:29	HPO:skoehler	May 29, 2013
+DECIPHER:29	Charcot-Marie-Tooth syndrome type 1A (CMT1A)					HP:0001761	Pes cavus			IEA	IEA							DECIPHER:29	HPO:skoehler	May 29, 2013
+DECIPHER:29	Charcot-Marie-Tooth syndrome type 1A (CMT1A)					HP:0003382	Hypertrophic nerve changes			IEA	IEA							DECIPHER:29	HPO:skoehler	May 29, 2013
+DECIPHER:29	Charcot-Marie-Tooth syndrome type 1A (CMT1A)					HP:0002495	Impaired vibratory sensation			IEA	IEA							DECIPHER:29	HPO:skoehler	May 29, 2013
+DECIPHER:29	Charcot-Marie-Tooth syndrome type 1A (CMT1A)					HP:0010831	Impaired proprioception			IEA	IEA							DECIPHER:29	HPO:skoehler	May 29, 2013
+DECIPHER:29	Charcot-Marie-Tooth syndrome type 1A (CMT1A)					HP:0007328	Impaired pain sensation			IEA	IEA							DECIPHER:29	HPO:skoehler	May 29, 2013
+DECIPHER:29	Charcot-Marie-Tooth syndrome type 1A (CMT1A)					HP:0002450	Abnormality of the motor neurons			IEA	IEA							DECIPHER:29	HPO:skoehler	May 29, 2013
+DECIPHER:29	Charcot-Marie-Tooth syndrome type 1A (CMT1A)					HP:0003431	Decreased motor nerve conduction velocity			IEA	IEA							DECIPHER:29	HPO:skoehler	May 29, 2013

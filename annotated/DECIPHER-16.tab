@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:16	22q11 deletion syndrome (Velocardiofacial / DiGeorge syndrome)					HP:0001627	Abnormality of the heart			IEA	IEA							DECIPHER:16	HPO:skoehler	May 29, 2013
+DECIPHER:16	22q11 deletion syndrome (Velocardiofacial / DiGeorge syndrome)					HP:0000750	Delayed speech and language development			IEA	IEA							DECIPHER:16	HPO:skoehler	May 29, 2013
+DECIPHER:16	22q11 deletion syndrome (Velocardiofacial / DiGeorge syndrome)					HP:0001611	Nasal speech			IEA	IEA							DECIPHER:16	HPO:skoehler	May 29, 2013
+DECIPHER:16	22q11 deletion syndrome (Velocardiofacial / DiGeorge syndrome)					HP:0005403	T lymphocytopenia			IEA	IEA							DECIPHER:16	HPO:skoehler	May 29, 2013
+DECIPHER:16	22q11 deletion syndrome (Velocardiofacial / DiGeorge syndrome)					HP:0002901	Hypocalcemia			IEA	IEA							DECIPHER:16	HPO:skoehler	May 29, 2013

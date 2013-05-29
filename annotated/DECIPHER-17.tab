@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:17	Sotos syndrome					HP:0000098	Tall stature			IEA	IEA							DECIPHER:17	HPO:skoehler	May 29, 2013
+DECIPHER:17	Sotos syndrome					HP:0001249	Intellectual disability			IEA	IEA							DECIPHER:17	HPO:skoehler	May 29, 2013
+DECIPHER:17	Sotos syndrome					HP:0005616	Accelerated skeletal maturation			IEA	IEA							DECIPHER:17	HPO:skoehler	May 29, 2013
+DECIPHER:17	Sotos syndrome					HP:0000256	Macrocephaly			IEA	IEA							DECIPHER:17	HPO:skoehler	May 29, 2013
+DECIPHER:17	Sotos syndrome					HP:0000303	Mandibular prognathia			IEA	IEA							DECIPHER:17	HPO:skoehler	May 29, 2013

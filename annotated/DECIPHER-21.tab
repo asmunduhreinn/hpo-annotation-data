@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:21	Miller-Dieker syndrome (MDS)					HP:0001627	Abnormality of the heart			IEA	IEA							DECIPHER:21	HPO:skoehler	May 29, 2013
+DECIPHER:21	Miller-Dieker syndrome (MDS)					HP:0000252	Microcephaly			IEA	IEA							DECIPHER:21	HPO:skoehler	May 29, 2013
+DECIPHER:21	Miller-Dieker syndrome (MDS)					HP:0001339	Lissencephaly			IEA	IEA							DECIPHER:21	HPO:skoehler	May 29, 2013
+DECIPHER:21	Miller-Dieker syndrome (MDS)					HP:0002007	Frontal bossing			IEA	IEA							DECIPHER:21	HPO:skoehler	May 29, 2013
+DECIPHER:21	Miller-Dieker syndrome (MDS)					HP:0011800	Midface retrusion			IEA	IEA							DECIPHER:21	HPO:skoehler	May 29, 2013

@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DECIPHER:59	Adult-onset autosomal dominant leukodystrophy (ADLD)					HP:0011096	Peripheral demyelination			IEA	IEA							DECIPHER:59	HPO:skoehler	May 29, 2013
+DECIPHER:59	Adult-onset autosomal dominant leukodystrophy (ADLD)					HP:0002459	Dysautonomia			IEA	IEA							DECIPHER:59	HPO:skoehler	May 29, 2013
+DECIPHER:59	Adult-onset autosomal dominant leukodystrophy (ADLD)					HP:0002415	Leukodystrophy			IEA	IEA							DECIPHER:59	HPO:skoehler	May 29, 2013
+DECIPHER:59	Adult-onset autosomal dominant leukodystrophy (ADLD)					HP:0007256	Abnormality of pyramidal motor function			IEA	IEA							DECIPHER:59	HPO:skoehler	May 29, 2013
