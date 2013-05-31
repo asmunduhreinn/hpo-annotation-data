@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:614826	%614826 NYSTAGMUS 7, CONGENITAL, AUTOSOMAL DOMINANT; NYS7					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:614826	HPO:skoehler	17.10.2012
+OMIM:614826	%614826 NYSTAGMUS 7, CONGENITAL, AUTOSOMAL DOMINANT; NYS7					HP:0200069	Nystagmus, congenital horizontal pendular			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > NYSTAGMUS, CONGENITAL HORIZONTAL PENDULAR	OMIM:614826	HPO:skoehler	31.05.2013
