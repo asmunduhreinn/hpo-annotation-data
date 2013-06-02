@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613086	#613086 GLAUCOMA 3, PRIMARY CONGENITAL, D; GLC3D				LTBP2	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:613086	HPO:probinson	Jun 2, 2013	
+OMIM:613086	#613086 GLAUCOMA 3, PRIMARY CONGENITAL, D; GLC3D				LTBP2	HP:0008007	Primary congenital glaucoma			TAS	TAS							OMIM:613086	HPO:probinson	Jun 2, 2013	
+OMIM:613086	#613086 GLAUCOMA 3, PRIMARY CONGENITAL, D; GLC3D				LTBP2	HP:0007957	Reduction of corneal clarity			TAS	TAS							OMIM:613086	HPO:probinson	Jun 2, 2013	
+OMIM:613086	#613086 GLAUCOMA 3, PRIMARY CONGENITAL, D; GLC3D				LTBP2	HP:0001083	Ectopia lentis			TAS	TAS	1/8						OMIM:613086	HPO:probinson	Jun 2, 2013	
+OMIM:613086	#613086 GLAUCOMA 3, PRIMARY CONGENITAL, D; GLC3D				LTBP2	HP:0000613	Photophobia			TAS	TAS							OMIM:613086	HPO:probinson	Jun 2, 2013	
