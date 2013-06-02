@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612237	#612237 CHONDROSARCOMA, EXTRASKELETAL MYXOID;;EMC					HP:0006765	Chondrosarcoma			TAS	TAS							OMIM:612237	HPO:probinson	Jun 2, 2013	
+OMIM:612237	#612237 CHONDROSARCOMA, EXTRASKELETAL MYXOID;;EMC					HP:0001428	Somatic mutation			TAS	TAS							OMIM:612237	HPO:probinson	Jun 2, 2013	
