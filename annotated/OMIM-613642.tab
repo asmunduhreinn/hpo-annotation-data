@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613642	#613642 CARDIOMYOPATHY, DILATED, 1GG; CMD1GG				SDHA	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:613642	HPO:probinson	Jun 2, 2013	
+OMIM:613642	#613642 CARDIOMYOPATHY, DILATED, 1GG; CMD1GG				SDHA	HP:0001644	Dilated cardiomyopathy	HP:0003623	Neonatal onset	TAS	TAS							OMIM:613642	HPO:probinson	Jun 2, 2013	
