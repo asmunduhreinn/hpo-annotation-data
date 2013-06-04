@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:614782	#614782 TREMOR, HEREDITARY ESSENTIAL, 4; ETM4					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:614782	HPO:skoehler	17.10.2012
+OMIM:614782	#614782 TREMOR, HEREDITARY ESSENTIAL, 4; ETM4					HP:0002174	Postural tremor			IEA	IEA						OMIM-CS:NEUROLOGIC_CENTRAL NERVOUS SYSTEM > TREMOR, POSTURAL	OMIM:614782	HPO:skoehler	04.06.2013
