@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615073	#615073 DYSTONIA 25; DYT25					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:615073	HPO:skoehler	05.06.2013
+OMIM:615073	#615073 DYSTONIA 25; DYT25					HP:0002451	Limb dystonia			IEA	IEA						OMIM-CS:NEUROLOGIC_CENTRAL NERVOUS SYSTEM > LIMB DYSTONIA	OMIM:615073	HPO:skoehler	05.06.2013
+OMIM:615073	#615073 DYSTONIA 25; DYT25					HP:0012049	Laryngeal dystonia			IEA	IEA						OMIM-CS:RESPIRATORY_LARYNX > LARYNGEAL DYSTONIA	OMIM:615073	HPO:skoehler	05.06.2013
+OMIM:615073	#615073 DYSTONIA 25; DYT25					HP:0001618	Dysphonia			IEA	IEA						OMIM-CS:VOICE > DYSPHONIA	OMIM:615073	HPO:skoehler	05.06.2013
