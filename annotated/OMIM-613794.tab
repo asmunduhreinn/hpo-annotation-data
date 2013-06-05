@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613794	#613794 RETINITIS PIGMENTOSA 20; RP20				RPE65	HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:613794	HPO:probinson	Jun 5, 2013	
+OMIM:613794	#613794 RETINITIS PIGMENTOSA 20; RP20				RPE65	HP:0000662	Night blindness			IEA	IEA							OMIM:613794	HPO:probinson	Jun 5, 2013	
+OMIM:613794	#613794 RETINITIS PIGMENTOSA 20; RP20				RPE65	HP:0007843	Attenuation of retinal blood vessels			IEA	IEA							OMIM:613794	HPO:probinson	Jun 5, 2013	
+OMIM:613794	#613794 RETINITIS PIGMENTOSA 20; RP20				RPE65	HP:0000505	Visual impairment			IEA	IEA							OMIM:613794	HPO:probinson	Jun 5, 2013	

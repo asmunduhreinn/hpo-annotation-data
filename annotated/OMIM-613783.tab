@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613783	#613783 COMPLEMENT COMPONENT C1s DEFICIENCY; C1SD;;C1s DEFICIENCY				C1S	HP:0000872	Hashimoto thyroiditis			TAS	TAS							OMIM:613783	HPO:probinson	Jan 9, 2013	
+OMIM:613783	#613783 COMPLEMENT COMPONENT C1s DEFICIENCY; C1SD;;C1s DEFICIENCY				C1S	HP:0002725	Systemic lupus erythematosus			TAS	TAS							OMIM:613783	HPO:probinson	Jun 5, 2013	
+OMIM:613783	#613783 COMPLEMENT COMPONENT C1s DEFICIENCY; C1SD;;C1s DEFICIENCY				C1S	HP:0012115	Hepatitis			TAS	TAS							OMIM:613783	HPO:probinson	Jun 5, 2013	
+OMIM:613783	#613783 COMPLEMENT COMPONENT C1s DEFICIENCY; C1SD;;C1s DEFICIENCY				C1S	HP:0005339	Abnormality of complement system			TAS	TAS							OMIM:613783	HPO:probinson	Jun 5, 2013	
