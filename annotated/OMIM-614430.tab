@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:614430	#614430 ATRIOVENTRICULAR SEPTAL DEFECT 4; AVSD4					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:614430	HPO:skoehler	17.10.2012
+OMIM:614430	#614430 ATRIOVENTRICULAR SEPTAL DEFECT 4; AVSD4					HP:0010445	Primum atrial septal defect			IEA	IEA						OMIM-CS:CARDIOVASCULAR_HEART > ATRIAL SEPTAL DEFECT, PRIMUM TYPE	OMIM:614430	HPO:skoehler	11.06.2013
