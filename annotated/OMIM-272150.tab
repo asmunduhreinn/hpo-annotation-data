@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:272150	SUGARMAN BRACHYDACTYLY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:272150	HPO	17.02.2009	
 OMIM:272150	SUGARMAN BRACHYDACTYLY					HP:0005894	Double first metacarpals			IEA	IEA							OMIM:272150	HPO	17.02.2009	
-OMIM:272150	SUGARMAN BRACHYDACTYLY					HP:0010241	Short proximal phalanx of finger			TAS	TAS							OMIM:272150	probinson	09.06.2012	
-OMIM:272150	SUGARMAN BRACHYDACTYLY					HP:0011926	Proximal placement of hallux			TAS	TAS							OMIM:272150	probinson	09.06.2012	
-OMIM:272150	SUGARMAN BRACHYDACTYLY					HP:0009857	Symphalangism affecting the proximal phalanges of the hand			TAS	TAS							OMIM:272150	probinson	09.06.2012	
+OMIM:272150	SUGARMAN BRACHYDACTYLY					HP:0010241	Short proximal phalanx of finger			TAS	TAS							OMIM:272150	HPO:probinson	09.06.2012	
+OMIM:272150	SUGARMAN BRACHYDACTYLY					HP:0011926	Proximal placement of hallux			TAS	TAS							OMIM:272150	HPO:probinson	09.06.2012	
+OMIM:272150	SUGARMAN BRACHYDACTYLY					HP:0009857	Symphalangism affecting the proximal phalanges of the hand			TAS	TAS							OMIM:272150	HPO:probinson	09.06.2012	

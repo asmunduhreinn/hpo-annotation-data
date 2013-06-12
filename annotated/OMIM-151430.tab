@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:151430	B-CELL CLL/LYMPHOMA 2					HP:0001428	Somatic mutation			IEA	IEA							OMIM:151430	HPO	17.02.2009
 OMIM:151430	B-CELL CLL/LYMPHOMA 2					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:151430	HPO	17.02.2009
-OMIM:151430	B-CELL CLL/LYMPHOMA 2					HP:0002664	Neoplasm			IEA	IEA							OMIM:151430	SKOEHLER	18.06.2010
+OMIM:151430	B-CELL CLL/LYMPHOMA 2					HP:0002664	Neoplasm			IEA	IEA							OMIM:151430	HPO:skoehler	18.06.2010
 OMIM:151430	B-CELL CLL/LYMPHOMA 2					HP:0002665	Lymphoma			ITM	ITM							OMIM:151430	HPO	17.02.2009
 OMIM:151430	B-CELL CLL/LYMPHOMA 2					HP:0005550	Chronic lymphatic leukemia			ITM	ITM							OMIM:151430	HPO	17.02.2009

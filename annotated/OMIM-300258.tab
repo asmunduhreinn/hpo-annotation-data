@@ -31,22 +31,22 @@ MIM:300258	ROIFMAN SYNDROME					HP:0003273	Hip contracture			IEA	IEA							MIM:3
 MIM:300258	ROIFMAN SYNDROME					HP:0003301	Irregular vertebral endplates			IEA	IEA							MIM:300258	HPO	Feb 17, 2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0004209	Clinodactyly of the 5th finger			IEA	IEA							MIM:300258	HPO	Feb 17, 2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0004704	Short fifth metatarsal			IEA	IEA							MIM:300258	HPO	Feb 17, 2009	
-MIM:300258	ROIFMAN SYNDROME					HP:0006580	Portal fibrosis			TAS	TAS						Mild	MIM:300258	probinson	Feb 17, 2009	
+MIM:300258	ROIFMAN SYNDROME					HP:0006580	Portal fibrosis			TAS	TAS						Mild	MIM:300258	HPO:probinson	Feb 17, 2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0006889	Intellectual disability, borderline			TAS	TAS							MIM:300258	HPO:probinson	Feb 17, 2009	
-MIM:300258	ROIFMAN SYNDROME					HP:0008804	Broad femoral head			TAS	TAS							MIM:300258	probinson	Feb 17, 2009	
+MIM:300258	ROIFMAN SYNDROME					HP:0008804	Broad femoral head			TAS	TAS							MIM:300258	HPO:probinson	Feb 17, 2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0011406	Infancy onset short-trunk short stature			IEA	IEA							MIM:300258	HPO	Feb 17, 2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0010240	Hypoplasia of the middle phalanges of the hand			IEA	IEA							MIM:300258	HPO	Feb 17, 2009	
 MIM:300258	ROIFMAN SYNDROME					HP:0010554	Cutaneous finger syndactyly			IEA	IEA							MIM:300258	HPO	Feb 17, 2009	
-MIM:300258	ROIFMAN SYNDROME					HP:0000581	Blepharophimosis			PCS	PCS							MIM:300258	probinson	Mar 26, 2012	
-MIM:300258	ROIFMAN SYNDROME					HP:0006532	Recurrent pneumonia			PCS	PCS							MIM:300258	probinson	Mar 26, 2012	
-MIM:300258	ROIFMAN SYNDROME					HP:0001263	Global developmental delay			PCS	PCS							MIM:300258	probinson	Mar 26, 2012	
+MIM:300258	ROIFMAN SYNDROME					HP:0000581	Blepharophimosis			PCS	PCS							MIM:300258	HPO:probinson	Mar 26, 2012	
+MIM:300258	ROIFMAN SYNDROME					HP:0006532	Recurrent pneumonia			PCS	PCS							MIM:300258	HPO:probinson	Mar 26, 2012	
+MIM:300258	ROIFMAN SYNDROME					HP:0001263	Global developmental delay			PCS	PCS							MIM:300258	HPO:probinson	Mar 26, 2012	
 MIM:300258	ROIFMAN SYNDROME					HP:0001256	Intellectual disability, mild			PCS	PCS							MIM:300258	HPO:probinson	Mar 26, 2012	
-MIM:300258	ROIFMAN SYNDROME					HP:0011108	Recurrent sinusitis			TAS	TAS							MIM:300258	probinson	May 8, 2012	
+MIM:300258	ROIFMAN SYNDROME					HP:0011108	Recurrent sinusitis			TAS	TAS							MIM:300258	HPO:probinson	May 8, 2012	
 MIM:300258	ROIFMAN SYNDROME					HP:0004689	Short fourth metatarsal			IEA	IEA							MIM:300258	HPO	May 8, 2012	
-MIM:300258	ROIFMAN SYNDROME					HP:0011231	Prominent eyelashes			TAS	TAS							MIM:300258	probinson	Jun 3, 2012	
-MIM:300258	ROIFMAN SYNDROME					HP:0010041	Short 3rd metacarpal			TAS	TAS							MIM:300258	probinson	Jun 3, 2012	
-MIM:300258	ROIFMAN SYNDROME					HP:0010044	Short 4th metacarpal			TAS	TAS							MIM:300258	probinson	Jun 3, 2012	
-MIM:300258	ROIFMAN SYNDROME					HP:0006429	Broad femoral neck			TAS	TAS							MIM:300258	probinson	Jun 8, 2012	
+MIM:300258	ROIFMAN SYNDROME					HP:0011231	Prominent eyelashes			TAS	TAS							MIM:300258	HPO:probinson	Jun 3, 2012	
+MIM:300258	ROIFMAN SYNDROME					HP:0010041	Short 3rd metacarpal			TAS	TAS							MIM:300258	HPO:probinson	Jun 3, 2012	
+MIM:300258	ROIFMAN SYNDROME					HP:0010044	Short 4th metacarpal			TAS	TAS							MIM:300258	HPO:probinson	Jun 3, 2012	
+MIM:300258	ROIFMAN SYNDROME					HP:0006429	Broad femoral neck			TAS	TAS							MIM:300258	HPO:probinson	Jun 8, 2012	
 MIM:300258	ROIFMAN SYNDROME					HP:0005041	Irregular capital femoral epiphysis			TAS	TAS							MIM:300258	HPO:probinson	Apr 7, 2013	
 MIM:300258	ROIFMAN SYNDROME					HP:0003090	Hypoplasia of the capital femoral epiphysis			TAS	TAS							MIM:300258	HPO:probinson	Apr 7, 2013	
 OMIM:300258	%300258 ROIFMAN SYNDROME;;SPONDYLOEPIPHYSEAL DYSPLASIA, RETINAL DYSTROPHY, AND ANTIBODY DEFICIENCY					HP:0200086	Thin upper lip			IEA	IEA						OMIM-CS:HEAD AND NECK_MOUTH > THIN UPPER LIP	OMIM:300258	HPO:skoehler	04.06.2013

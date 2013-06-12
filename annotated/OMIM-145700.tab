@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:145700	HYPERTRICHOSIS UNIVERSALIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:145700	HPO	17.02.2009
 OMIM:145700	HYPERTRICHOSIS UNIVERSALIS					HP:0004540	Congenital, generalized hypertrichosis			IEA	IEA							OMIM:145700	HPO	17.02.2009
-OMIM:145700	HYPERTRICHOSIS UNIVERSALIS					HP:0010730	Double eyebrow			IEA	IEA							OMIM:145700	SKOEHLER	18.06.2010
+OMIM:145700	HYPERTRICHOSIS UNIVERSALIS					HP:0010730	Double eyebrow			IEA	IEA							OMIM:145700	HPO:skoehler	18.06.2010

@@ -2,7 +2,7 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:608180	SYNPOLYDACTYLY 2					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:608180	HPO	17.02.2009
 OMIM:608180	SYNPOLYDACTYLY 2					HP:0001440	Synostosis involving metatarsal bones			IEA	IEA							OMIM:608180	HPO	17.02.2009
 OMIM:608180	SYNPOLYDACTYLY 2					HP:0001770	Toe syndactyly			IEA	IEA							OMIM:608180	HPO	17.02.2009
-OMIM:608180	SYNPOLYDACTYLY 2					HP:0008368	Synostosis involving tarsal bones			IEA	IEA							OMIM:608180	SKOEHLER	20.06.2010
+OMIM:608180	SYNPOLYDACTYLY 2					HP:0008368	Synostosis involving tarsal bones			IEA	IEA							OMIM:608180	HPO:skoehler	20.06.2010
 OMIM:608180	SYNPOLYDACTYLY 2					HP:0009701	Synostosis involving the metacarpal bones			IEA	IEA							OMIM:608180	HPO	17.02.2009
-OMIM:608180	SYNPOLYDACTYLY 2					HP:0009702	Synostosis involving the carpal bones			IEA	IEA							OMIM:608180	SKOEHLER	20.06.2010
-OMIM:608180	SYNPOLYDACTYLY 2					HP:0010442	Polydactyly			IEA	IEA							OMIM:608180	SKOEHLER	20.06.2010
+OMIM:608180	SYNPOLYDACTYLY 2					HP:0009702	Synostosis involving the carpal bones			IEA	IEA							OMIM:608180	HPO:skoehler	20.06.2010
+OMIM:608180	SYNPOLYDACTYLY 2					HP:0010442	Polydactyly			IEA	IEA							OMIM:608180	HPO:skoehler	20.06.2010

@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:230740	GAPO SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:230740	HPO	17.02.2009
 OMIM:230740	GAPO SYNDROME					HP:0000164	Abnormality of the teeth			IEA	IEA							OMIM:230740	HPO	17.02.2009
-OMIM:230740	GAPO SYNDROME					HP:0000179	Thick lower lip vermilion			IEA	IEA							OMIM:230740	SKOEHLER	20.06.2010
+OMIM:230740	GAPO SYNDROME					HP:0000179	Thick lower lip vermilion			IEA	IEA							OMIM:230740	HPO:skoehler	20.06.2010
 OMIM:230740	GAPO SYNDROME					HP:0000260	Wide anterior fontanel			IEA	IEA							OMIM:230740	HPO	17.02.2009
 OMIM:230740	GAPO SYNDROME					HP:0000270	Delayed closure of fontanelles			IEA	IEA							OMIM:230740	HPO	17.02.2009
 OMIM:230740	GAPO SYNDROME					HP:0000347	Micrognathia			IEA	IEA							OMIM:230740	HPO	17.02.2009

@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:260000	HYPEROXALURIA, PRIMARY, TYPE II					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:260000	HPO	17.02.2009
 OMIM:260000	HYPEROXALURIA, PRIMARY, TYPE II					HP:0003159	Hyperoxaluria			IEA	IEA							OMIM:260000	HPO	17.02.2009
-OMIM:260000	HYPEROXALURIA, PRIMARY, TYPE II					HP:0003355	Aminoaciduria			IEA	IEA							OMIM:260000	SKOEHLER	20.06.2010
+OMIM:260000	HYPEROXALURIA, PRIMARY, TYPE II					HP:0003355	Aminoaciduria			IEA	IEA							OMIM:260000	HPO:skoehler	20.06.2010
 OMIM:260000	HYPEROXALURIA, PRIMARY, TYPE II					HP:0008672	Calcium oxalate nephrolithiasis			IEA	IEA							OMIM:260000	HPO	17.02.2009

@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:125900	DIASTEMA, DENTAL MEDIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:125900	HPO	17.02.2009	
-OMIM:125900	DIASTEMA, DENTAL MEDIAL					HP:0000699	Diastema			TAS	TAS							OMIM:125900	probinson	17.02.2009	
+OMIM:125900	DIASTEMA, DENTAL MEDIAL					HP:0000699	Diastema			TAS	TAS							OMIM:125900	HPO:probinson	17.02.2009	
 OMIM:125900	DIASTEMA, DENTAL MEDIAL					HP:0001566	Widely-spaced maxillary central incisors			IEA	IEA							OMIM:125900	HPO	17.02.2009	

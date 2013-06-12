@@ -1,11 +1,11 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:610725	probinson	17.02.2009	
-OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0000093	Proteinuria			TAS	TAS							OMIM:610725	probinson	17.02.2009	
-OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0000097	Focal segmental glomerulosclerosis			TAS	TAS							OMIM:610725	probinson	17.02.2009	
-OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0000969	Edema			TAS	TAS							OMIM:610725	probinson	17.02.2009	
-OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0001967	Diffuse mesangial sclerosis			TAS	TAS							OMIM:610725	probinson	17.02.2009	
-OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0003073	Hypoalbuminemia			TAS	TAS							OMIM:610725	probinson	17.02.2009	
-OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0011463	Childhood onset			TAS	TAS						Childhood or infantile onset	OMIM:610725	probinson	17.02.2009	
-OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0000100	Nephrotic syndrome			TAS	TAS							OMIM:610725	probinson	15.07.2012	
-OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0003774	End stage renal disease			TAS	TAS						Nephrotic syndrome can progress to end-stage renal disease	OMIM:610725	probinson	15.07.2012	
+OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:610725	HPO:probinson	17.02.2009	
+OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0000093	Proteinuria			TAS	TAS							OMIM:610725	HPO:probinson	17.02.2009	
+OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0000097	Focal segmental glomerulosclerosis			TAS	TAS							OMIM:610725	HPO:probinson	17.02.2009	
+OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0000969	Edema			TAS	TAS							OMIM:610725	HPO:probinson	17.02.2009	
+OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0001967	Diffuse mesangial sclerosis			TAS	TAS							OMIM:610725	HPO:probinson	17.02.2009	
+OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0003073	Hypoalbuminemia			TAS	TAS							OMIM:610725	HPO:probinson	17.02.2009	
+OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0011463	Childhood onset			TAS	TAS						Childhood or infantile onset	OMIM:610725	HPO:probinson	17.02.2009	
+OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0000100	Nephrotic syndrome			TAS	TAS							OMIM:610725	HPO:probinson	15.07.2012	
+OMIM:610725	NEPHROTIC SYNDROME, TYPE 3					HP:0003774	End stage renal disease			TAS	TAS						Nephrotic syndrome can progress to end-stage renal disease	OMIM:610725	HPO:probinson	15.07.2012	
 OMIM:610725	#610725 NEPHROTIC SYNDROME, TYPE 3; NPHS3;;NEPHROTIC SYNDROME, EARLY-ONSET, TYPE 3					HP:0003676	Progressive disorder			IEA	IEA						OMIM-CS:MISCELLANEOUS > PROGRESSIVE DISORDER	OMIM:610725	HPO:skoehler	17.10.2012

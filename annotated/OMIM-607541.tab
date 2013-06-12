@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:607541	CORNEAL DYSTROPHY, AVELLINO TYPE					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:607541	probinson	17.02.2009	
-OMIM:607541	CORNEAL DYSTROPHY, AVELLINO TYPE					HP:0000505	Visual impairment			TAS	TAS							OMIM:607541	probinson	17.02.2009	
-OMIM:607541	CORNEAL DYSTROPHY, AVELLINO TYPE					HP:0001149	Lattice corneal dystrophy			TAS	TAS							OMIM:607541	probinson	17.02.2009	
+OMIM:607541	CORNEAL DYSTROPHY, AVELLINO TYPE					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:607541	HPO:probinson	17.02.2009	
+OMIM:607541	CORNEAL DYSTROPHY, AVELLINO TYPE					HP:0000505	Visual impairment			TAS	TAS							OMIM:607541	HPO:probinson	17.02.2009	
+OMIM:607541	CORNEAL DYSTROPHY, AVELLINO TYPE					HP:0001149	Lattice corneal dystrophy			TAS	TAS							OMIM:607541	HPO:probinson	17.02.2009	

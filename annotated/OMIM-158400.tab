@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:158400	MUSCLE CRAMPS, FAMILIAL					HP:0003445	EMG: neuropathic changes			TAS	TAS							OMIM:158400	probinson	26.04.2012	
-OMIM:158400	MUSCLE CRAMPS, FAMILIAL					HP:0003394	Muscle cramps			TAS	TAS							OMIM:158400	probinson	26.04.2012	
-OMIM:158400	MUSCLE CRAMPS, FAMILIAL					HP:0003236	Elevated serum creatine phosphokinase			TAS	TAS							OMIM:158400	probinson	26.04.2012	
-OMIM:158400	MUSCLE CRAMPS, FAMILIAL					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:158400	probinson	26.04.2012	
+OMIM:158400	MUSCLE CRAMPS, FAMILIAL					HP:0003445	EMG: neuropathic changes			TAS	TAS							OMIM:158400	HPO:probinson	26.04.2012	
+OMIM:158400	MUSCLE CRAMPS, FAMILIAL					HP:0003394	Muscle cramps			TAS	TAS							OMIM:158400	HPO:probinson	26.04.2012	
+OMIM:158400	MUSCLE CRAMPS, FAMILIAL					HP:0003236	Elevated serum creatine phosphokinase			TAS	TAS							OMIM:158400	HPO:probinson	26.04.2012	
+OMIM:158400	MUSCLE CRAMPS, FAMILIAL					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:158400	HPO:probinson	26.04.2012	

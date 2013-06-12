@@ -14,7 +14,7 @@ OMIM:101200	APERT SYNDROME					HP:0000303	Mandibular prognathia			IEA	IEA							
 OMIM:101200	APERT SYNDROME					HP:0000316	Hypertelorism			IEA	IEA							OMIM:101200	HPO	Feb 17, 2009	
 OMIM:101200	APERT SYNDROME					HP:0000365	Hearing impairment			IEA	IEA							OMIM:101200	HPO	Feb 17, 2009	
 OMIM:101200	APERT SYNDROME					HP:0000389	Chronic otitis media			IEA	IEA							OMIM:101200	HPO	Feb 17, 2009	
-OMIM:101200	APERT SYNDROME					HP:0000453	Choanal atresia			TAS	TAS							OMIM:101200	SKOEHLER	Jun 18, 2010	
+OMIM:101200	APERT SYNDROME					HP:0000453	Choanal atresia			TAS	TAS							OMIM:101200	HPO:skoehler	Jun 18, 2010	
 OMIM:101200	APERT SYNDROME					HP:0000425	Flattened nasal bridge			IEA	IEA							OMIM:101200	HPO	Feb 17, 2009	
 OMIM:101200	APERT SYNDROME					HP:0000486	Strabismus			IEA	IEA							OMIM:101200	HPO	Feb 17, 2009	
 OMIM:101200	APERT SYNDROME					HP:0000494	Downslanted palpebral fissures			IEA	IEA							OMIM:101200	HPO	Feb 17, 2009	
@@ -43,12 +43,12 @@ OMIM:101200	APERT SYNDROME					HP:0005048	Synostosis of carpal bones			IEA	IEA		
 OMIM:101200	APERT SYNDROME					HP:0007099	Arnold-Chiari type I malformation			IEA	IEA							OMIM:101200	HPO	Feb 17, 2009	
 OMIM:101200	APERT SYNDROME					HP:0007343	Limbic malformations			IEA	IEA							OMIM:101200	HPO	Feb 17, 2009	
 OMIM:101200	APERT SYNDROME					HP:0008111	Broad distal hallux			IEA	IEA							OMIM:101200	HPO	Feb 17, 2009	
-OMIM:101200	APERT SYNDROME					HP:0000452	Choanal stenosis			TAS	TAS							OMIM:101200	probinson	Apr 24, 2012	
-OMIM:101200	APERT SYNDROME					HP:0001162	Postaxial polydactyly (hands)			TAS	TAS	Rare						OMIM:101200	probinson	Apr 24, 2012	
-OMIM:101200	APERT SYNDROME					HP:0001177	Preaxial polydactyly (hands)			TAS	TAS	Rare						OMIM:101200	probinson	Apr 24, 2012	
-OMIM:101200	APERT SYNDROME					HP:0009642	Broad distal phalanx of the thumb			TAS	TAS							OMIM:101200	probinson	Apr 24, 2012	
-OMIM:101200	APERT SYNDROME					HP:0010554	Cutaneous finger syndactyly			TAS	TAS							OMIM:101200	probinson	Apr 24, 2012	
-OMIM:101200	APERT SYNDROME					HP:0007291	Posterior fossa cyst			TAS	TAS							OMIM:101200	probinson	Apr 24, 2012	
-OMIM:101200	APERT SYNDROME					HP:0000348	High forehead			TAS	TAS							OMIM:101200	probinson	May 1, 2012	
-OMIM:101200	APERT SYNDROME					HP:0000337	Broad forehead			TAS	TAS							OMIM:101200	probinson	May 1, 2012	
-OMIM:101200	APERT SYNDROME					HP:0100702	Arachnoid cyst			IEA	IEA							OMIM:101200	SKOEHLER	Oct 9, 2012	
+OMIM:101200	APERT SYNDROME					HP:0000452	Choanal stenosis			TAS	TAS							OMIM:101200	HPO:probinson	Apr 24, 2012	
+OMIM:101200	APERT SYNDROME					HP:0001162	Postaxial polydactyly (hands)			TAS	TAS	Rare						OMIM:101200	HPO:probinson	Apr 24, 2012	
+OMIM:101200	APERT SYNDROME					HP:0001177	Preaxial polydactyly (hands)			TAS	TAS	Rare						OMIM:101200	HPO:probinson	Apr 24, 2012	
+OMIM:101200	APERT SYNDROME					HP:0009642	Broad distal phalanx of the thumb			TAS	TAS							OMIM:101200	HPO:probinson	Apr 24, 2012	
+OMIM:101200	APERT SYNDROME					HP:0010554	Cutaneous finger syndactyly			TAS	TAS							OMIM:101200	HPO:probinson	Apr 24, 2012	
+OMIM:101200	APERT SYNDROME					HP:0007291	Posterior fossa cyst			TAS	TAS							OMIM:101200	HPO:probinson	Apr 24, 2012	
+OMIM:101200	APERT SYNDROME					HP:0000348	High forehead			TAS	TAS							OMIM:101200	HPO:probinson	May 1, 2012	
+OMIM:101200	APERT SYNDROME					HP:0000337	Broad forehead			TAS	TAS							OMIM:101200	HPO:probinson	May 1, 2012	
+OMIM:101200	APERT SYNDROME					HP:0100702	Arachnoid cyst			IEA	IEA							OMIM:101200	HPO:skoehler	Oct 9, 2012	

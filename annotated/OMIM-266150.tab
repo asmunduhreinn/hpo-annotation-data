@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:266150	PYRUVATE CARBOXYLASE DEFICIENCY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:266150	HPO	Feb 17, 2009	
-OMIM:266150	PYRUVATE CARBOXYLASE DEFICIENCY					HP:0001249	Intellectual disability			IEA	IEA							OMIM:266150	SKOEHLER	Jun 18, 2010	
+OMIM:266150	PYRUVATE CARBOXYLASE DEFICIENCY					HP:0001249	Intellectual disability			IEA	IEA							OMIM:266150	HPO:skoehler	Jun 18, 2010	
 OMIM:266150	PYRUVATE CARBOXYLASE DEFICIENCY					HP:0001250	Seizures			IEA	IEA							OMIM:266150	HPO	Feb 17, 2009	
 OMIM:266150	PYRUVATE CARBOXYLASE DEFICIENCY					HP:0001252	Muscular hypotonia			IEA	IEA							OMIM:266150	HPO	Feb 17, 2009	
 OMIM:266150	PYRUVATE CARBOXYLASE DEFICIENCY					HP:0001263	Global developmental delay			IEA	IEA							OMIM:266150	HPO	Feb 17, 2009	

@@ -14,11 +14,11 @@ MIM:260565	PEHO SYNDROME					HP:0003196	Nasal hypoplasia			IEA	IEA									17.02
 MIM:260565	PEHO SYNDROME					HP:0003469	Dysmyelination			IEA	IEA									17.02.2009
 MIM:260565	PEHO SYNDROME					HP:0006829	Severe muscular hypotonia			IEA	IEA									17.02.2009
 MIM:260565	PEHO SYNDROME					HP:0007965	Absence of visual evoked potentials			IEA	IEA									17.02.2009
-MIM:260565	PEHO SYNDROME					HP:0000341	Narrow forehead			PCS	PCS							MIM:260565	probinson	11.04.2012
-MIM:260565	PEHO SYNDROME					HP:0000969	Edema			PCS	PCS							MIM:260565	probinson	11.04.2012
-MIM:260565	PEHO SYNDROME					HP:0008872	Feeding difficulties in infancy			PCS	PCS							MIM:260565	probinson	11.04.2012
-MIM:260565	PEHO SYNDROME					HP:0007281	Developmental stagnation			PCS	PCS							MIM:260565	probinson	11.04.2012
-MIM:260565	PEHO SYNDROME					HP:0002187	Intellectual disability, profound			PCS	PCS							MIM:260565	probinson	11.04.2012
-MIM:260565	PEHO SYNDROME					HP:0006948	Infantile encephalopathy, progressive			PCS	PCS							MIM:260565	probinson	11.04.2012
-MIM:260565	PEHO SYNDROME					HP:0000648	Optic atrophy			PCS	PCS							MIM:260565	probinson	11.04.2012
-MIM:260565	PEHO SYNDROME					HP:0002529	Neuronal loss in central nervous system			PCS	PCS							MIM:260565	probinson	11.04.2012
+MIM:260565	PEHO SYNDROME					HP:0000341	Narrow forehead			PCS	PCS							MIM:260565	HPO:probinson	11.04.2012
+MIM:260565	PEHO SYNDROME					HP:0000969	Edema			PCS	PCS							MIM:260565	HPO:probinson	11.04.2012
+MIM:260565	PEHO SYNDROME					HP:0008872	Feeding difficulties in infancy			PCS	PCS							MIM:260565	HPO:probinson	11.04.2012
+MIM:260565	PEHO SYNDROME					HP:0007281	Developmental stagnation			PCS	PCS							MIM:260565	HPO:probinson	11.04.2012
+MIM:260565	PEHO SYNDROME					HP:0002187	Intellectual disability, profound			PCS	PCS							MIM:260565	HPO:probinson	11.04.2012
+MIM:260565	PEHO SYNDROME					HP:0006948	Infantile encephalopathy, progressive			PCS	PCS							MIM:260565	HPO:probinson	11.04.2012
+MIM:260565	PEHO SYNDROME					HP:0000648	Optic atrophy			PCS	PCS							MIM:260565	HPO:probinson	11.04.2012
+MIM:260565	PEHO SYNDROME					HP:0002529	Neuronal loss in central nervous system			PCS	PCS							MIM:260565	HPO:probinson	11.04.2012

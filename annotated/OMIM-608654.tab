@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:608654	NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE V					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:608654	HPO	17.02.2009
-OMIM:608654	NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE V					HP:0000742	Self-mutilation			IEA	IEA							OMIM:608654	SKOEHLER	20.06.2010
+OMIM:608654	NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE V					HP:0000742	Self-mutilation			IEA	IEA							OMIM:608654	HPO:skoehler	20.06.2010
 OMIM:608654	NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE V					HP:0000970	Anhidrosis			ITM	ITM							OMIM:608654	HPO	17.02.2009
 OMIM:608654	NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE V					HP:0001226	Acral ulceration and osteomyelitis leading to autoamputation of the digits			IEA	IEA							OMIM:608654	HPO	17.02.2009
 OMIM:608654	NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE V					HP:0001862	Acral ulceration and osteomyelitis leading to autoamputation of the digits (feet)			IEA	IEA							OMIM:608654	HPO	17.02.2009

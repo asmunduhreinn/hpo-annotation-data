@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:250300	METAPHYSEAL CHONDRODYSPLASIA, PENA TYPE					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:250300	HPO	17.02.2009	
 OMIM:250300	METAPHYSEAL CHONDRODYSPLASIA, PENA TYPE					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:250300	HPO	17.02.2009	
-OMIM:250300	METAPHYSEAL CHONDRODYSPLASIA, PENA TYPE					HP:0005871	Metaphyseal chondrodysplasia			TAS	TAS							OMIM:250300	probinson	17.02.2009	
+OMIM:250300	METAPHYSEAL CHONDRODYSPLASIA, PENA TYPE					HP:0005871	Metaphyseal chondrodysplasia			TAS	TAS							OMIM:250300	HPO:probinson	17.02.2009	

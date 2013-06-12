@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:602071	BROAD TERMINAL PHALANGES, FAMILIAL					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:602071	probinson	17.02.2009	
-OMIM:602071	BROAD TERMINAL PHALANGES, FAMILIAL					HP:0009836	Broad distal phalanx of finger			TAS	TAS							OMIM:602071	probinson	09.06.2012	
-OMIM:602071	BROAD TERMINAL PHALANGES, FAMILIAL					HP:0010186	Broad distal phalanx of the toes			TAS	TAS							OMIM:602071	probinson	09.06.2012	
+OMIM:602071	BROAD TERMINAL PHALANGES, FAMILIAL					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:602071	HPO:probinson	17.02.2009	
+OMIM:602071	BROAD TERMINAL PHALANGES, FAMILIAL					HP:0009836	Broad distal phalanx of finger			TAS	TAS							OMIM:602071	HPO:probinson	09.06.2012	
+OMIM:602071	BROAD TERMINAL PHALANGES, FAMILIAL					HP:0010186	Broad distal phalanx of the toes			TAS	TAS							OMIM:602071	HPO:probinson	09.06.2012	

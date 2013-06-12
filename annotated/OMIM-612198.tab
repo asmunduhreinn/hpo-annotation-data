@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:612198	probinson	17.02.2009	
-OMIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0001540	Diastasis recti			TAS	TAS							OMIM:612198	probinson	17.02.2009	
-OMIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0002019	Constipation			TAS	TAS							OMIM:612198	probinson	17.02.2009	
-OMIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0009023	Abdominal wall muscle weakness			TAS	TAS							OMIM:612198	probinson	16.07.2012	
+OMIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:612198	HPO:probinson	17.02.2009	
+OMIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0001540	Diastasis recti			TAS	TAS							OMIM:612198	HPO:probinson	17.02.2009	
+OMIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0002019	Constipation			TAS	TAS							OMIM:612198	HPO:probinson	17.02.2009	
+OMIM:612198	DIASTASIS RECTI AND WEAKNESS OF THE LINEA ALBA					HP:0009023	Abdominal wall muscle weakness			TAS	TAS							OMIM:612198	HPO:probinson	16.07.2012	

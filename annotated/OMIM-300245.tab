@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:300245	PTOSIS, HEREDITARY CONGENITAL 2					HP:0000508	Ptosis			IEA	IEA							OMIM:300245	SKOEHLER	20.06.2010
-OMIM:300245	PTOSIS, HEREDITARY CONGENITAL 2					HP:0001477	Compensatory chin elevation			IEA	IEA							OMIM:300245	SKOEHLER	19.06.2010
+OMIM:300245	PTOSIS, HEREDITARY CONGENITAL 2					HP:0000508	Ptosis			IEA	IEA							OMIM:300245	HPO:skoehler	20.06.2010
+OMIM:300245	PTOSIS, HEREDITARY CONGENITAL 2					HP:0001477	Compensatory chin elevation			IEA	IEA							OMIM:300245	HPO:skoehler	19.06.2010
 OMIM:300245	%300245 PTOSIS, HEREDITARY CONGENITAL 2;;PTOS2;;PTOSIS, X-LINKED; PTOSX					HP:0001423	X-linked dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > X-LINKED DOMINANT	OMIM:300245	HPO:skoehler	29.05.2013

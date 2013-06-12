@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:165660	OSLAM SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:165660	HPO	17.02.2009
-OMIM:165660	OSLAM SYNDROME					HP:0001903	Anemia			IEA	IEA							OMIM:165660	SKOEHLER	20.06.2010
-OMIM:165660	OSLAM SYNDROME					HP:0002664	Neoplasm			IEA	IEA							OMIM:165660	SKOEHLER	18.06.2010
+OMIM:165660	OSLAM SYNDROME					HP:0001903	Anemia			IEA	IEA							OMIM:165660	HPO:skoehler	20.06.2010
+OMIM:165660	OSLAM SYNDROME					HP:0002664	Neoplasm			IEA	IEA							OMIM:165660	HPO:skoehler	18.06.2010
 OMIM:165660	OSLAM SYNDROME					HP:0002669	Osteosarcoma			ITM	ITM							OMIM:165660	HPO	17.02.2009
 OMIM:165660	OSLAM SYNDROME					HP:0002974	Radioulnar synostosis			IEA	IEA							OMIM:165660	HPO	17.02.2009
 OMIM:165660	OSLAM SYNDROME					HP:0009466	Radial deviation of finger			IEA	IEA							OMIM:165660	HPO	17.02.2009

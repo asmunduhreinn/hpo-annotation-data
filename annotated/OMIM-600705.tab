@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:600705	SATOYOSHI SYNDROME					HP:0000141	Amenorrhea			IEA	IEA							OMIM:600705	HPO	17.02.2009
-OMIM:600705	SATOYOSHI SYNDROME					HP:0001596	Alopecia			IEA	IEA							OMIM:600705	SKOEHLER	20.06.2010
+OMIM:600705	SATOYOSHI SYNDROME					HP:0001596	Alopecia			IEA	IEA							OMIM:600705	HPO:skoehler	20.06.2010
 OMIM:600705	SATOYOSHI SYNDROME					HP:0002014	Diarrhea			IEA	IEA							OMIM:600705	HPO	17.02.2009
 OMIM:600705	SATOYOSHI SYNDROME					HP:0002024	Malabsorption			IEA	IEA							OMIM:600705	HPO	17.02.2009
 OMIM:600705	SATOYOSHI SYNDROME					HP:0003011	Abnormality of musculature			IEA	IEA							OMIM:600705	HPO	17.02.2009

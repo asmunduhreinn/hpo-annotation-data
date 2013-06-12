@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:166910	OVALOCYTOSIS, HEREDITARY HEMOLYTIC, WITH DEFECTIVE ERYTHROPOIESIS					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:166910	probinson	17.02.2009	
-OMIM:166910	OVALOCYTOSIS, HEREDITARY HEMOLYTIC, WITH DEFECTIVE ERYTHROPOIESIS					HP:0001878	Hemolytic anemia			TAS	TAS							OMIM:166910	probinson	17.02.2009	
-OMIM:166910	OVALOCYTOSIS, HEREDITARY HEMOLYTIC, WITH DEFECTIVE ERYTHROPOIESIS					HP:0004445	Elliptocytosis			TAS	TAS						Ovalocytosis, degree of RBC eccentricity less pronounced than in classic elliptocytosis	OMIM:166910	probinson	17.02.2009	
-OMIM:166910	OVALOCYTOSIS, HEREDITARY HEMOLYTIC, WITH DEFECTIVE ERYTHROPOIESIS					HP:0010972	Anemia of inadequate production			TAS	TAS							OMIM:166910	probinson	17.02.2009	
+OMIM:166910	OVALOCYTOSIS, HEREDITARY HEMOLYTIC, WITH DEFECTIVE ERYTHROPOIESIS					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:166910	HPO:probinson	17.02.2009	
+OMIM:166910	OVALOCYTOSIS, HEREDITARY HEMOLYTIC, WITH DEFECTIVE ERYTHROPOIESIS					HP:0001878	Hemolytic anemia			TAS	TAS							OMIM:166910	HPO:probinson	17.02.2009	
+OMIM:166910	OVALOCYTOSIS, HEREDITARY HEMOLYTIC, WITH DEFECTIVE ERYTHROPOIESIS					HP:0004445	Elliptocytosis			TAS	TAS						Ovalocytosis, degree of RBC eccentricity less pronounced than in classic elliptocytosis	OMIM:166910	HPO:probinson	17.02.2009	
+OMIM:166910	OVALOCYTOSIS, HEREDITARY HEMOLYTIC, WITH DEFECTIVE ERYTHROPOIESIS					HP:0010972	Anemia of inadequate production			TAS	TAS							OMIM:166910	HPO:probinson	17.02.2009	

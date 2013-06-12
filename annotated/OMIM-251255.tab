@@ -1,9 +1,9 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:251255	probinson	17.02.2009	
-OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0011451	Congenital microcephaly			TAS	TAS							OMIM:251255	probinson	17.02.2009	
-OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0006216	Single interphalangeal crease of fifth finger			TAS	TAS							OMIM:251255	probinson	17.02.2009	
-OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0001249	Intellectual disability			TAS	TAS							OMIM:251255	probinson	17.02.2009	
-OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0001822	Hallux valgus			TAS	TAS							OMIM:251255	probinson	17.02.2009	
-OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0004692	4-5 toe syndactyly			TAS	TAS							OMIM:251255	probinson	17.02.2009	
-OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0004220	Short middle phalanx of the 5th finger			TAS	TAS						Very short	OMIM:251255	probinson	17.02.2009	
-OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0005780	Absent fourth finger distal interphalangeal crease			TAS	TAS							OMIM:251255	probinson	17.02.2009	
+OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:251255	HPO:probinson	17.02.2009	
+OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0011451	Congenital microcephaly			TAS	TAS							OMIM:251255	HPO:probinson	17.02.2009	
+OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0006216	Single interphalangeal crease of fifth finger			TAS	TAS							OMIM:251255	HPO:probinson	17.02.2009	
+OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0001249	Intellectual disability			TAS	TAS							OMIM:251255	HPO:probinson	17.02.2009	
+OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0001822	Hallux valgus			TAS	TAS							OMIM:251255	HPO:probinson	17.02.2009	
+OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0004692	4-5 toe syndactyly			TAS	TAS							OMIM:251255	HPO:probinson	17.02.2009	
+OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0004220	Short middle phalanx of the 5th finger			TAS	TAS						Very short	OMIM:251255	HPO:probinson	17.02.2009	
+OMIM:251255	MICROCEPHALY WITH DIGITAL ANOMALIES					HP:0005780	Absent fourth finger distal interphalangeal crease			TAS	TAS							OMIM:251255	HPO:probinson	17.02.2009	

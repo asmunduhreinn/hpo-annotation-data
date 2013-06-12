@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:263450	POLYDACTYLY, POSTAXIAL					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:263450	HPO	17.02.2009
-OMIM:263450	POLYDACTYLY, POSTAXIAL					HP:0001159	Syndactyly			IEA	IEA							OMIM:263450	SKOEHLER	20.06.2010
+OMIM:263450	POLYDACTYLY, POSTAXIAL					HP:0001159	Syndactyly			IEA	IEA							OMIM:263450	HPO:skoehler	20.06.2010
 OMIM:263450	POLYDACTYLY, POSTAXIAL					HP:0001162	Postaxial polydactyly (hands)			IEA	IEA							OMIM:263450	HPO	17.02.2009
-OMIM:263450	POLYDACTYLY, POSTAXIAL					HP:0009701	Synostosis involving the metacarpal bones			IEA	IEA							OMIM:263450	SKOEHLER	20.06.2010
+OMIM:263450	POLYDACTYLY, POSTAXIAL					HP:0009701	Synostosis involving the metacarpal bones			IEA	IEA							OMIM:263450	HPO:skoehler	20.06.2010
 OMIM:263450	%263450 POLYDACTYLY, POSTAXIAL, TYPE A5; PAPA5					HP:0010554	Cutaneous finger syndactyly			IEA	IEA	rare					OMIM-CS:SKELETAL_HANDS > CUTANEOUS SYNDACTYLY (IN SOME PATIENTS)	OMIM:263450	HPO:skoehler	18.11.2012

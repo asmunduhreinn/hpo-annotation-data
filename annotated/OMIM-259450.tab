@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:259450	BRUCK SYNDROME 1					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:259450	probinson	17.02.2009	
+OMIM:259450	BRUCK SYNDROME 1					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:259450	HPO:probinson	17.02.2009	
 OMIM:259450	BRUCK SYNDROME 1					HP:0000768	Pectus carinatum			IEA	IEA							OMIM:259450	HPO	17.02.2009	
 OMIM:259450	BRUCK SYNDROME 1					HP:0000926	Platyspondyly			IEA	IEA							OMIM:259450	HPO	17.02.2009	
 OMIM:259450	BRUCK SYNDROME 1					HP:0000939	Osteoporosis			IEA	IEA							OMIM:259450	HPO	17.02.2009	
@@ -12,8 +12,8 @@ OMIM:259450	BRUCK SYNDROME 1					HP:0002808	Kyphosis			IEA	IEA							OMIM:259450
 OMIM:259450	BRUCK SYNDROME 1					HP:0002812	Coxa vara			IEA	IEA							OMIM:259450	HPO	17.02.2009	
 OMIM:259450	BRUCK SYNDROME 1					HP:0003179	Protrusio acetabuli			IEA	IEA							OMIM:259450	HPO	17.02.2009	
 OMIM:259450	BRUCK SYNDROME 1					HP:0004322	Short stature			IEA	IEA							OMIM:259450	HPO	17.02.2009	
-OMIM:259450	BRUCK SYNDROME 1					HP:0003273	Hip contracture	HP:0003577	Congenital onset	TAS	TAS							OMIM:259450	probinson	13.06.2012	
-OMIM:259450	BRUCK SYNDROME 1					HP:0006466	Ankle contracture	HP:0003577	Congenital onset	TAS	TAS							OMIM:259450	probinson	13.06.2012	
-OMIM:259450	BRUCK SYNDROME 1					HP:0002987	Elbow flexion contracture	HP:0003577	Congenital onset	TAS	TAS							OMIM:259450	probinson	13.06.2012	
-OMIM:259450	BRUCK SYNDROME 1					HP:0002978	Knee contractures	HP:0003577	Congenital onset	TAS	TAS							OMIM:259450	probinson	13.06.2012	
+OMIM:259450	BRUCK SYNDROME 1					HP:0003273	Hip contracture	HP:0003577	Congenital onset	TAS	TAS							OMIM:259450	HPO:probinson	13.06.2012	
+OMIM:259450	BRUCK SYNDROME 1					HP:0006466	Ankle contracture	HP:0003577	Congenital onset	TAS	TAS							OMIM:259450	HPO:probinson	13.06.2012	
+OMIM:259450	BRUCK SYNDROME 1					HP:0002987	Elbow flexion contracture	HP:0003577	Congenital onset	TAS	TAS							OMIM:259450	HPO:probinson	13.06.2012	
+OMIM:259450	BRUCK SYNDROME 1					HP:0002978	Knee contractures	HP:0003577	Congenital onset	TAS	TAS							OMIM:259450	HPO:probinson	13.06.2012	
 OMIM:259450	%259450 BRUCK SYNDROME 1; BRKS1;;OSTEOGENESIS IMPERFECTA WITH CONGENITAL JOINT CONTRACTURES					HP:0008422	Vertebral wedging			IEA	IEA						OMIM-CS:SKELETAL_SPINE > VERTEBRAL WEDGING	OMIM:259450	HPO:skoehler	17.10.2012

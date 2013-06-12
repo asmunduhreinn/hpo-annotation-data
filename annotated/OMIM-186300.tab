@@ -3,11 +3,11 @@ OMIM:186300	SYNDACTYLY, TYPE V					HP:0000006	Autosomal dominant inheritance			I
 OMIM:186300	SYNDACTYLY, TYPE V					HP:0001032	Aplasia of the distal interphalangeal creases			IEA	IEA							OMIM:186300	HPO	17.02.2009	
 OMIM:186300	SYNDACTYLY, TYPE V					HP:0006185	Enlarged proximal interphalangeal joints			IEA	IEA							OMIM:186300	HPO	17.02.2009	
 OMIM:186300	SYNDACTYLY, TYPE V					HP:0009473	Joint contracture of the hand			IEA	IEA							OMIM:186300	HPO	17.02.2009	
-OMIM:186300	SYNDACTYLY, TYPE V					HP:0009702	Synostosis involving the carpal bones			IEA	IEA							OMIM:186300	SKOEHLER	20.06.2010	
+OMIM:186300	SYNDACTYLY, TYPE V					HP:0009702	Synostosis involving the carpal bones			IEA	IEA							OMIM:186300	HPO:skoehler	20.06.2010	
 OMIM:186300	SYNDACTYLY, TYPE V					HP:0009882	Short distal phalanx of finger			IEA	IEA							OMIM:186300	HPO	17.02.2009	
 OMIM:186300	SYNDACTYLY, TYPE V					HP:0010554	Cutaneous syndactyly of the fingers			IEA	IEA							OMIM:186300	HPO	17.02.2009	
-OMIM:186300	SYNDACTYLY, TYPE V					HP:0004692	4-5 toe syndactyly			TAS	TAS						Or 3-4 toe syndactyly	OMIM:186300	probinson	08.06.2012	
-OMIM:186300	SYNDACTYLY, TYPE V					HP:0009779	3-4 toe syndactyly			TAS	TAS						Or 4-5 toe syndactyly	OMIM:186300	probinson	08.06.2012	
-OMIM:186300	SYNDACTYLY, TYPE V					HP:0001156	Brachydactyly			TAS	TAS							OMIM:186300	probinson	08.06.2012	
-OMIM:186300	SYNDACTYLY, TYPE V					HP:0100490	Camptodactyly of finger			TAS	TAS							OMIM:186300	probinson	08.06.2012	
-OMIM:186300	SYNDACTYLY, TYPE V					HP:0005867	Fused fourth and fifth metacarpals			TAS	TAS							OMIM:186300	probinson	08.06.2012	
+OMIM:186300	SYNDACTYLY, TYPE V					HP:0004692	4-5 toe syndactyly			TAS	TAS						Or 3-4 toe syndactyly	OMIM:186300	HPO:probinson	08.06.2012	
+OMIM:186300	SYNDACTYLY, TYPE V					HP:0009779	3-4 toe syndactyly			TAS	TAS						Or 4-5 toe syndactyly	OMIM:186300	HPO:probinson	08.06.2012	
+OMIM:186300	SYNDACTYLY, TYPE V					HP:0001156	Brachydactyly			TAS	TAS							OMIM:186300	HPO:probinson	08.06.2012	
+OMIM:186300	SYNDACTYLY, TYPE V					HP:0100490	Camptodactyly of finger			TAS	TAS							OMIM:186300	HPO:probinson	08.06.2012	
+OMIM:186300	SYNDACTYLY, TYPE V					HP:0005867	Fused fourth and fifth metacarpals			TAS	TAS							OMIM:186300	HPO:probinson	08.06.2012	

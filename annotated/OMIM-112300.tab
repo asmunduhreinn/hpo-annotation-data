@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:112300	BOOK SYNDROME					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:112300	probinson	17.02.2009	
-OMIM:112300	BOOK SYNDROME					HP:0000668	Hypodontia			TAS	TAS						Bicuspid	OMIM:112300	SKOEHLER	20.06.2010	
-OMIM:112300	BOOK SYNDROME					HP:0001597	Abnormality of the nail			TAS	TAS				NOT	NOT		OMIM:112300	probinson	17.02.2009	
-OMIM:112300	BOOK SYNDROME					HP:0002216	Premature graying of hair			TAS	TAS							OMIM:112300	SKOEHLER	17.09.2009	
-OMIM:112300	BOOK SYNDROME					HP:0007410	Palmoplantar hyperhidrosis			TAS	TAS							OMIM:112300	probinson	17.02.2009	
+OMIM:112300	BOOK SYNDROME					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:112300	HPO:probinson	17.02.2009	
+OMIM:112300	BOOK SYNDROME					HP:0000668	Hypodontia			TAS	TAS						Bicuspid	OMIM:112300	HPO:skoehler	20.06.2010	
+OMIM:112300	BOOK SYNDROME					HP:0001597	Abnormality of the nail			TAS	TAS				NOT	NOT		OMIM:112300	HPO:probinson	17.02.2009	
+OMIM:112300	BOOK SYNDROME					HP:0002216	Premature graying of hair			TAS	TAS							OMIM:112300	HPO:skoehler	17.09.2009	
+OMIM:112300	BOOK SYNDROME					HP:0007410	Palmoplantar hyperhidrosis			TAS	TAS							OMIM:112300	HPO:probinson	17.02.2009	

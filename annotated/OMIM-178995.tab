@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:178995	PRURITIC URTICARIAL PAPULES AND PLAQUES OF PREGNANCY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:178995	HPO	Feb 17, 2009	
-OMIM:178995	PRURITIC URTICARIAL PAPULES AND PLAQUES OF PREGNANCY					HP:0001065	Striae distensae			IEA	IEA							OMIM:178995	SKOEHLER	Jun 20, 2010	
+OMIM:178995	PRURITIC URTICARIAL PAPULES AND PLAQUES OF PREGNANCY					HP:0001065	Striae distensae			IEA	IEA							OMIM:178995	HPO:skoehler	Jun 20, 2010	

@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:134510	FACTOR VIII AND FACTOR IX, COMBINED DEFICIENCY OF					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:134510	probinson	17.02.2009	
-OMIM:134510	FACTOR VIII AND FACTOR IX, COMBINED DEFICIENCY OF					HP:0003125	Factor VIII deficiency			TAS	TAS							OMIM:134510	probinson	26.05.2012	
-OMIM:134510	FACTOR VIII AND FACTOR IX, COMBINED DEFICIENCY OF					HP:0011858	Reduced factor IX activity			TAS	TAS							OMIM:134510	probinson	26.05.2012	
+OMIM:134510	FACTOR VIII AND FACTOR IX, COMBINED DEFICIENCY OF					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:134510	HPO:probinson	17.02.2009	
+OMIM:134510	FACTOR VIII AND FACTOR IX, COMBINED DEFICIENCY OF					HP:0003125	Factor VIII deficiency			TAS	TAS							OMIM:134510	HPO:probinson	26.05.2012	
+OMIM:134510	FACTOR VIII AND FACTOR IX, COMBINED DEFICIENCY OF					HP:0011858	Reduced factor IX activity			TAS	TAS							OMIM:134510	HPO:probinson	26.05.2012	

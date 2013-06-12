@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:167900	PAPILLOMATOSIS, FAMILIAL CUTANEOUS					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:167900	probinson	17.02.2009	
-OMIM:167900	PAPILLOMATOSIS, FAMILIAL CUTANEOUS					HP:0000962	Hyperkeratosis			TAS	TAS							OMIM:167900	probinson	16.07.2012	
+OMIM:167900	PAPILLOMATOSIS, FAMILIAL CUTANEOUS					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:167900	HPO:probinson	17.02.2009	
+OMIM:167900	PAPILLOMATOSIS, FAMILIAL CUTANEOUS					HP:0000962	Hyperkeratosis			TAS	TAS							OMIM:167900	HPO:probinson	16.07.2012	

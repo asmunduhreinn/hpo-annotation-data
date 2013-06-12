@@ -1,10 +1,10 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:193670	WHIM SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:193670	HPO	17.02.2009
-OMIM:193670	WHIM SYNDROME					HP:0000008	Abnormality of female internal genitalia			IEA	IEA							OMIM:193670	SKOEHLER	17.02.2009
-OMIM:193670	WHIM SYNDROME					HP:0000055	Abnormality of female external genitalia			IEA	IEA							OMIM:193670	SKOEHLER	17.02.2009
+OMIM:193670	WHIM SYNDROME					HP:0000008	Abnormality of female internal genitalia			IEA	IEA							OMIM:193670	HPO:skoehler	17.02.2009
+OMIM:193670	WHIM SYNDROME					HP:0000055	Abnormality of female external genitalia			IEA	IEA							OMIM:193670	HPO:skoehler	17.02.2009
 OMIM:193670	WHIM SYNDROME					HP:0001875	Neutropenia			IEA	IEA							OMIM:193670	HPO	17.02.2009
 OMIM:193670	WHIM SYNDROME					HP:0002788	Recurrent upper respiratory tract infections			IEA	IEA							OMIM:193670	HPO	17.02.2009
 OMIM:193670	WHIM SYNDROME					HP:0003593	Infantile onset			IEA	IEA							OMIM:193670	HPO	17.02.2009
 OMIM:193670	WHIM SYNDROME					HP:0004315	Decreased IgG level			IEA	IEA							OMIM:193670	HPO	17.02.2009
-OMIM:193670	WHIM SYNDROME					HP:0005561	Generalized abnormality of the bone marrow			IEA	IEA							OMIM:193670	SKOEHLER	17.02.2009
-OMIM:193670	WHIM SYNDROME					HP:0200043	Verrucae			IEA	IEA							OMIM:193670	SKOEHLER	17.02.2009
+OMIM:193670	WHIM SYNDROME					HP:0005561	Generalized abnormality of the bone marrow			IEA	IEA							OMIM:193670	HPO:skoehler	17.02.2009
+OMIM:193670	WHIM SYNDROME					HP:0200043	Verrucae			IEA	IEA							OMIM:193670	HPO:skoehler	17.02.2009

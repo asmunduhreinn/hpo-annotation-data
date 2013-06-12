@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:606889	ALZHEIMER DISEASE 4					HP:0000006	Autosomal dominant inheritance			TAS	TAS							MIM:606889	probinson	16.07.2012	
-MIM:606889	ALZHEIMER DISEASE 4					HP:0000726	Dementia			TAS	TAS							MIM:606889	probinson	16.07.2012	
-MIM:606889	ALZHEIMER DISEASE 4					HP:0006979	Sleep-wake cycle disturbance			TAS	TAS							MIM:606889	probinson	16.07.2012	
-MIM:606889	ALZHEIMER DISEASE 4					HP:0003596	Middle age onset			TAS	TAS							MIM:606889	probinson	16.07.2012	
-MIM:606889	ALZHEIMER DISEASE 4					HP:0011970	Cerebral amyloid angiopathy			TAS	TAS							MIM:606889	probinson	18.07.2012	
+MIM:606889	ALZHEIMER DISEASE 4					HP:0000006	Autosomal dominant inheritance			TAS	TAS							MIM:606889	HPO:probinson	16.07.2012	
+MIM:606889	ALZHEIMER DISEASE 4					HP:0000726	Dementia			TAS	TAS							MIM:606889	HPO:probinson	16.07.2012	
+MIM:606889	ALZHEIMER DISEASE 4					HP:0006979	Sleep-wake cycle disturbance			TAS	TAS							MIM:606889	HPO:probinson	16.07.2012	
+MIM:606889	ALZHEIMER DISEASE 4					HP:0003596	Middle age onset			TAS	TAS							MIM:606889	HPO:probinson	16.07.2012	
+MIM:606889	ALZHEIMER DISEASE 4					HP:0011970	Cerebral amyloid angiopathy			TAS	TAS							MIM:606889	HPO:probinson	18.07.2012	

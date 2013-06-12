@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:609021	probinson	28.04.2012	
-OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0007782	Peripheral retinal cone degeneration			TAS	TAS							OMIM:609021	probinson	28.04.2012	
-OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0000505	Visual impairment			TAS	TAS							OMIM:609021	probinson	28.04.2012	
-OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0000543	Optic disc pallor			TAS	TAS						Mild	OMIM:609021	probinson	28.04.2012	
-OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0007761	Pericentral scotoma			TAS	TAS	2/3						OMIM:609021	probinson	28.04.2012	
-OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0000648	Optic atrophy			TAS	TAS	2/3						OMIM:609021	probinson	28.04.2012	
+OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:609021	HPO:probinson	28.04.2012	
+OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0007782	Peripheral retinal cone degeneration			TAS	TAS							OMIM:609021	HPO:probinson	28.04.2012	
+OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0000505	Visual impairment			TAS	TAS							OMIM:609021	HPO:probinson	28.04.2012	
+OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0000543	Optic disc pallor			TAS	TAS						Mild	OMIM:609021	HPO:probinson	28.04.2012	
+OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0007761	Pericentral scotoma			TAS	TAS	2/3						OMIM:609021	HPO:probinson	28.04.2012	
+OMIM:609021	PERIPHERAL CONE DYSTROPHY					HP:0000648	Optic atrophy			TAS	TAS	2/3						OMIM:609021	HPO:probinson	28.04.2012	

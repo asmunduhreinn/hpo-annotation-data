@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:158650	MUSCULAR ATROPHY, MALIGNANT NEUROGENIC					HP:0003202	Amyotrophy			TAS	TAS							OMIM:158650	probinson	Apr 25, 2012	
-OMIM:158650	MUSCULAR ATROPHY, MALIGNANT NEUROGENIC					HP:0003581	Adult onset			TAS	TAS							OMIM:158650	probinson	Apr 25, 2012	
-OMIM:158650	MUSCULAR ATROPHY, MALIGNANT NEUROGENIC					HP:0002203	Respiratory paralysis			TAS	TAS							OMIM:158650	probinson	Apr 25, 2012	
-OMIM:158650	MUSCULAR ATROPHY, MALIGNANT NEUROGENIC					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:158650	probinson	Apr 25, 2012	
+OMIM:158650	MUSCULAR ATROPHY, MALIGNANT NEUROGENIC					HP:0003202	Amyotrophy			TAS	TAS							OMIM:158650	HPO:probinson	Apr 25, 2012	
+OMIM:158650	MUSCULAR ATROPHY, MALIGNANT NEUROGENIC					HP:0003581	Adult onset			TAS	TAS							OMIM:158650	HPO:probinson	Apr 25, 2012	
+OMIM:158650	MUSCULAR ATROPHY, MALIGNANT NEUROGENIC					HP:0002203	Respiratory paralysis			TAS	TAS							OMIM:158650	HPO:probinson	Apr 25, 2012	
+OMIM:158650	MUSCULAR ATROPHY, MALIGNANT NEUROGENIC					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:158650	HPO:probinson	Apr 25, 2012	

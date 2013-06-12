@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0000006	Autosomal dominant inheritance			TAS	TAS							MIM:125520	probinson	11.04.2012
-MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0011333	Asymmetric crying face			TAS	TAS							MIM:125520	probinson	11.04.2012
-MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0001629	Ventricular septal defect			TAS	TAS							MIM:125520	probinson	11.04.2012
-MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0001636	Tetralogy of Fallot			TAS	TAS							MIM:125520	probinson	11.04.2012
-MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0001643	Patent ductus arteriosus			TAS	TAS							MIM:125520	probinson	11.04.2012
-MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0003577	Congenital onset			TAS	TAS							MIM:125520	probinson	11.04.2012
+MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0000006	Autosomal dominant inheritance			TAS	TAS							MIM:125520	HPO:probinson	11.04.2012
+MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0011333	Asymmetric crying face			TAS	TAS							MIM:125520	HPO:probinson	11.04.2012
+MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0001629	Ventricular septal defect			TAS	TAS							MIM:125520	HPO:probinson	11.04.2012
+MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0001636	Tetralogy of Fallot			TAS	TAS							MIM:125520	HPO:probinson	11.04.2012
+MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0001643	Patent ductus arteriosus			TAS	TAS							MIM:125520	HPO:probinson	11.04.2012
+MIM:125520	CAYLER CARDIOFACIAL SYNDROME					HP:0003577	Congenital onset			TAS	TAS							MIM:125520	HPO:probinson	11.04.2012

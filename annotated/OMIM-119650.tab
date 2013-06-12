@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:119650	CLEIDORHIZOMELIC SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:119650	HPO	17.02.2009	
-OMIM:119650	CLEIDORHIZOMELIC SYNDROME					HP:0000889	Abnormality of the clavicles			TAS	TAS							OMIM:119650	probinson	17.02.2009	
+OMIM:119650	CLEIDORHIZOMELIC SYNDROME					HP:0000889	Abnormality of the clavicles			TAS	TAS							OMIM:119650	HPO:probinson	17.02.2009	
 OMIM:119650	CLEIDORHIZOMELIC SYNDROME					HP:0004209	Clinodactyly of the 5th finger			IEA	IEA							OMIM:119650	HPO	17.02.2009	
-OMIM:119650	CLEIDORHIZOMELIC SYNDROME					HP:0004220	Short middle phalanx of the 5th finger			TAS	TAS							OMIM:119650	probinson	17.02.2009	
-OMIM:119650	CLEIDORHIZOMELIC SYNDROME					HP:0008905	Rhizomelic short stature			TAS	TAS							OMIM:119650	probinson	17.02.2009	
+OMIM:119650	CLEIDORHIZOMELIC SYNDROME					HP:0004220	Short middle phalanx of the 5th finger			TAS	TAS							OMIM:119650	HPO:probinson	17.02.2009	
+OMIM:119650	CLEIDORHIZOMELIC SYNDROME					HP:0008905	Rhizomelic short stature			TAS	TAS							OMIM:119650	HPO:probinson	17.02.2009	

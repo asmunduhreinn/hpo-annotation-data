@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:265140	PULMONARY ARTERIOVENOUS FISTULAS					HP:0000961	Cyanosis			IEA	IEA							OMIM:265140	HPO	17.02.2009	
 OMIM:265140	PULMONARY ARTERIOVENOUS FISTULAS					HP:0004952	Pulmonary arteriovenous fistulas			IEA	IEA							OMIM:265140	HPO	17.02.2009	
-OMIM:265140	PULMONARY ARTERIOVENOUS FISTULAS					HP:0100759	Clubbing of fingers			TAS	TAS							OMIM:265140	probinson	10.06.2012	
-OMIM:265140	PULMONARY ARTERIOVENOUS FISTULAS					HP:0100760	Clubbing of toes			TAS	TAS							OMIM:265140	probinson	10.06.2012	
+OMIM:265140	PULMONARY ARTERIOVENOUS FISTULAS					HP:0100759	Clubbing of fingers			TAS	TAS							OMIM:265140	HPO:probinson	10.06.2012	
+OMIM:265140	PULMONARY ARTERIOVENOUS FISTULAS					HP:0100760	Clubbing of toes			TAS	TAS							OMIM:265140	HPO:probinson	10.06.2012	

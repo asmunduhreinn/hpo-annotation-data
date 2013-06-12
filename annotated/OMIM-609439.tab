@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:609439	DEAFNESS, AUTOSOMAL RECESSIVE 48					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:609439	probinson	17.02.2009	
-OMIM:609439	DEAFNESS, AUTOSOMAL RECESSIVE 48					HP:0011476	Profound sensorineural hearing impairment	HP:0003577	Congenital onset	TAS	TAS						Bilateral	OMIM:609439	probinson	16.07.2012	
-OMIM:609439	DEAFNESS, AUTOSOMAL RECESSIVE 48					HP:0001751	Vestibular dysfunction			TAS	TAS							pmid:18505454	probinson	16.07.2012	
+OMIM:609439	DEAFNESS, AUTOSOMAL RECESSIVE 48					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:609439	HPO:probinson	17.02.2009	
+OMIM:609439	DEAFNESS, AUTOSOMAL RECESSIVE 48					HP:0011476	Profound sensorineural hearing impairment	HP:0003577	Congenital onset	TAS	TAS						Bilateral	OMIM:609439	HPO:probinson	16.07.2012	
+OMIM:609439	DEAFNESS, AUTOSOMAL RECESSIVE 48					HP:0001751	Vestibular dysfunction			TAS	TAS							pmid:18505454	HPO:probinson	16.07.2012	

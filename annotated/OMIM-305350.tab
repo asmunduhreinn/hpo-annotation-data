@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:305350	EPIDERMODYSPLASIA VERRUCIFORMIS, X-LINKED					HP:0006739	Squamous cell carcinoma of the skin			IEA	IEA							OMIM:305350	HPO	17.02.2009
-OMIM:305350	EPIDERMODYSPLASIA VERRUCIFORMIS, X-LINKED					HP:0200043	Verrucae			IEA	IEA							OMIM:305350	SKOEHLER	19.06.2010
+OMIM:305350	EPIDERMODYSPLASIA VERRUCIFORMIS, X-LINKED					HP:0200043	Verrucae			IEA	IEA							OMIM:305350	HPO:skoehler	19.06.2010
 OMIM:305350	305350 EPIDERMODYSPLASIA VERRUCIFORMIS, X-LINKED; EDVX; EDV2					HP:0001417	X-linked inheritance			IEA	IEA						OMIM-CS:INHERITANCE > X-LINKED FORM	OMIM:305350	HPO:skoehler	29.05.2013

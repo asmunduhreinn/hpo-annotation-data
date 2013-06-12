@@ -1,21 +1,21 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:606519	PHACE ASSOCIATION					HP:0001423	X-linked dominant inheritance			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0007486	Cavernous hemangioma of the face			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0000519	Congenital cataract			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0000609	Optic nerve hypoplasia			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0002277	Horner syndrome			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0000568	Microphthalmos			TAS	TAS						Ipsilateral to facial hemangioma	MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0001629	Ventricular septal defect			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0001643	Patent ductus arteriosus			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0001680	Coarctation of aorta			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0002617	Aneurysm			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0004942	Aortic aneurysms			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0001263	Global developmental delay			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0001305	Dandy-Walker malformation			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0001321	Cerebellar hypoplasia			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0001250	Seizures			TAS	TAS							MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0002076	Migraine			TAS	TAS						Ipsilateral to facial hemangioma	MIM:606519	probinson	05.05.2012	
-MIM:606519	PHACE ASSOCIATION					HP:0000851	Congenital hypothyroidism			TAS	TAS							MIM:606519	probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0001423	X-linked dominant inheritance			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0007486	Cavernous hemangioma of the face			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0000519	Congenital cataract			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0000609	Optic nerve hypoplasia			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0002277	Horner syndrome			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0000568	Microphthalmos			TAS	TAS						Ipsilateral to facial hemangioma	MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0001629	Ventricular septal defect			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0001643	Patent ductus arteriosus			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0001680	Coarctation of aorta			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0002617	Aneurysm			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0004942	Aortic aneurysms			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0001263	Global developmental delay			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0001305	Dandy-Walker malformation			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0001321	Cerebellar hypoplasia			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0001250	Seizures			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0002076	Migraine			TAS	TAS						Ipsilateral to facial hemangioma	MIM:606519	HPO:probinson	05.05.2012	
+MIM:606519	PHACE ASSOCIATION					HP:0000851	Congenital hypothyroidism			TAS	TAS							MIM:606519	HPO:probinson	05.05.2012	
 OMIM:606519	606519 PHACE ASSOCIATION;;PHACES ASSOCIATION					HP:0005314	Anomalous branches of internal carotid artery			IEA	IEA						OMIM-CS:CARDIOVASCULAR_VASCULAR > ANOMALOUS BRANCHES OF INTERNAL CAROTID ARTERY	OMIM:606519	HPO:skoehler	17.10.2012
 OMIM:606519	606519 PHACE ASSOCIATION;;PHACES ASSOCIATION					HP:0100545	Arterial stenosis			IEA	IEA						OMIM-CS:CARDIOVASCULAR_VASCULAR > ARTERIAL STENOSIS	OMIM:606519	HPO:skoehler	17.10.2012
 OMIM:606519	606519 PHACE ASSOCIATION;;PHACES ASSOCIATION					HP:0100029	Lingual thyroid			IEA	IEA						OMIM-CS:ENDOCRINE FEATURES > LINGUAL THYROID	OMIM:606519	HPO:skoehler	17.10.2012

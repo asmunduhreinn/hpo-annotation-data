@@ -2,4 +2,4 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:102650	ADACTYLIA, UNILATERAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:102650	HPO	17.02.2009	
 OMIM:102650	ADACTYLIA, UNILATERAL					HP:0001597	Abnormality of the nail			IEA	IEA							OMIM:102650	HPO	17.02.2009	
 OMIM:102650	ADACTYLIA, UNILATERAL					HP:0009776	Adactyly			TAS	TAS						Unilateral	OMIM:102650	HPO	17.02.2009	
-OMIM:102650	ADACTYLIA, UNILATERAL					HP:0009778	Hypoplastic/small thumb			TAS	TAS						Mild	OMIM:102650	probinson	05.05.2012	
+OMIM:102650	ADACTYLIA, UNILATERAL					HP:0009778	Hypoplastic/small thumb			TAS	TAS						Mild	OMIM:102650	HPO:probinson	05.05.2012	

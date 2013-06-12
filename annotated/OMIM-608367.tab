@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:608367	MYOPIA 17					HP:0000006	Autosomal dominant inheritance			PCS	PCS							MIM:608367	probinson	06.04.2012
-MIM:608367	MYOPIA 17					HP:0011003	Severe Myopia			PCS	PCS							MIM:608367	probinson	06.04.2012
-MIM:608367	MYOPIA 17					HP:0011530	Retinal hole			PCS	PCS							MIM:608367	probinson	06.04.2012
-MIM:608367	MYOPIA 17					HP:0007819	Presenile cataracts			PCS	PCS							MIM:608367	probinson	06.04.2012
+MIM:608367	MYOPIA 17					HP:0000006	Autosomal dominant inheritance			PCS	PCS							MIM:608367	HPO:probinson	06.04.2012
+MIM:608367	MYOPIA 17					HP:0011003	Severe Myopia			PCS	PCS							MIM:608367	HPO:probinson	06.04.2012
+MIM:608367	MYOPIA 17					HP:0011530	Retinal hole			PCS	PCS							MIM:608367	HPO:probinson	06.04.2012
+MIM:608367	MYOPIA 17					HP:0007819	Presenile cataracts			PCS	PCS							MIM:608367	HPO:probinson	06.04.2012

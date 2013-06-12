@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:303900	COLORBLINDNESS, PARTIAL, PROTAN SERIES					HP:0200018	Protanomaly			PCS	PCS							MIM:303900	probinson	06.04.2012
-MIM:303900	COLORBLINDNESS, PARTIAL, PROTAN SERIES					HP:0001419	X-linked recessive inheritance			PCS	PCS							MIM:303900	probinson	06.04.2012
+MIM:303900	COLORBLINDNESS, PARTIAL, PROTAN SERIES					HP:0200018	Protanomaly			PCS	PCS							MIM:303900	HPO:probinson	06.04.2012
+MIM:303900	COLORBLINDNESS, PARTIAL, PROTAN SERIES					HP:0001419	X-linked recessive inheritance			PCS	PCS							MIM:303900	HPO:probinson	06.04.2012

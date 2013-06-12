@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:191420	ULNA METAPHYSEAL DYSPLASIA SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:191420	HPO	17.02.2009	
 OMIM:191420	ULNA METAPHYSEAL DYSPLASIA SYNDROME					HP:0000925	Abnormality of the vertebral column			IEA	IEA							OMIM:191420	HPO	17.02.2009	
-OMIM:191420	ULNA METAPHYSEAL DYSPLASIA SYNDROME					HP:0003072	Hypercalcemia			TAS	TAS						Slight	OMIM:191420	probinson	17.02.2009	
+OMIM:191420	ULNA METAPHYSEAL DYSPLASIA SYNDROME					HP:0003072	Hypercalcemia			TAS	TAS						Slight	OMIM:191420	HPO:probinson	17.02.2009	
 OMIM:191420	ULNA METAPHYSEAL DYSPLASIA SYNDROME					HP:0002673	Coxa valga			IEA	IEA							OMIM:191420	HPO	17.02.2009	
 OMIM:191420	ULNA METAPHYSEAL DYSPLASIA SYNDROME					HP:0002750	Delayed skeletal maturation			IEA	IEA							OMIM:191420	HPO	17.02.2009	

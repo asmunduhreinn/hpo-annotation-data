@@ -6,5 +6,5 @@ MIM:314400	CARDIAC VALVULAR DYSPLASIA, X-LINKED					HP:0001653	Mitral regurgitat
 MIM:314400	CARDIAC VALVULAR DYSPLASIA, X-LINKED					HP:0001659	Aortic insufficiency			IEA	IEA									17.02.2009
 MIM:314400	CARDIAC VALVULAR DYSPLASIA, X-LINKED					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA									17.02.2009
 MIM:314400	CARDIAC VALVULAR DYSPLASIA, X-LINKED					HP:0005180	Tricuspid regurgitation			IEA	IEA									17.02.2009
-MIM:314400	CARDIAC VALVULAR DYSPLASIA, X-LINKED					HP:0006692	Short chordae tendineae of the tricuspid valve			PCS	PCS							MIM:314400	probinson	08.04.2012
-MIM:314400	CARDIAC VALVULAR DYSPLASIA, X-LINKED					HP:0011580	Short chordae tendineae of the mitral valve			PCS	PCS							MIM:314400	probinson	08.04.2012
+MIM:314400	CARDIAC VALVULAR DYSPLASIA, X-LINKED					HP:0006692	Short chordae tendineae of the tricuspid valve			PCS	PCS							MIM:314400	HPO:probinson	08.04.2012
+MIM:314400	CARDIAC VALVULAR DYSPLASIA, X-LINKED					HP:0011580	Short chordae tendineae of the mitral valve			PCS	PCS							MIM:314400	HPO:probinson	08.04.2012

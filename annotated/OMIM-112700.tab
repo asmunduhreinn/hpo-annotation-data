@@ -1,8 +1,8 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:112700	probinson	17.02.2009	
-OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0001507	Growth abnormality			TAS	TAS				NOT	NOT		OMIM:112700	probinson	17.02.2009	
-OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0004209	Clinodactyly of the 5th finger			TAS	TAS							OMIM:112700	probinson	17.02.2009	
-OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0004220	Short middle phalanx of the 5th finger			TAS	TAS							OMIM:112700	probinson	17.02.2009	
-OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0005910	Rhomboid or triangular shaped 5th finger middle phalanx			TAS	TAS							OMIM:112700	probinson	17.02.2009	
-OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0009370	Type A Brachydactyly			TAS	TAS							OMIM:112700	probinson	17.02.2009	
-OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0010579	Cone-shaped epiphysis			TAS	TAS							OMIM:112700	probinson	17.02.2009	
+OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:112700	HPO:probinson	17.02.2009	
+OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0001507	Growth abnormality			TAS	TAS				NOT	NOT		OMIM:112700	HPO:probinson	17.02.2009	
+OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0004209	Clinodactyly of the 5th finger			TAS	TAS							OMIM:112700	HPO:probinson	17.02.2009	
+OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0004220	Short middle phalanx of the 5th finger			TAS	TAS							OMIM:112700	HPO:probinson	17.02.2009	
+OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0005910	Rhomboid or triangular shaped 5th finger middle phalanx			TAS	TAS							OMIM:112700	HPO:probinson	17.02.2009	
+OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0009370	Type A Brachydactyly			TAS	TAS							OMIM:112700	HPO:probinson	17.02.2009	
+OMIM:112700	BRACHYDACTYLY, TYPE A3					HP:0010579	Cone-shaped epiphysis			TAS	TAS							OMIM:112700	HPO:probinson	17.02.2009	

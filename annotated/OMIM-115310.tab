@@ -1,18 +1,18 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:115310	PARAGANGLIOMAS 4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:115310	HPO	Feb 17, 2009	
-OMIM:115310	PARAGANGLIOMAS 4					HP:0000361	Pulsatile tinnitus (tympanic paraganglioma)			IEA	IEA							OMIM:115310	SKOEHLER	Jun 18, 2010	
-OMIM:115310	PARAGANGLIOMAS 4					HP:0000740	Anxiety (with pheochromocytoma)			IEA	IEA							OMIM:115310	SKOEHLER	Jun 18, 2010	
-OMIM:115310	PARAGANGLIOMAS 4					HP:0001011	Diaphoresis (with pheochromocytoma)			IEA	IEA							OMIM:115310	SKOEHLER	Jun 18, 2010	
-OMIM:115310	PARAGANGLIOMAS 4					HP:0001673	Tachycardia (with pheochromocytoma)			IEA	IEA							OMIM:115310	SKOEHLER	Jun 18, 2010	
-OMIM:115310	PARAGANGLIOMAS 4					HP:0001676	Palpitations (with pheochromocytoma)			IEA	IEA							OMIM:115310	SKOEHLER	Jun 18, 2010	
+OMIM:115310	PARAGANGLIOMAS 4					HP:0000361	Pulsatile tinnitus (tympanic paraganglioma)			IEA	IEA							OMIM:115310	HPO:skoehler	Jun 18, 2010	
+OMIM:115310	PARAGANGLIOMAS 4					HP:0000740	Anxiety (with pheochromocytoma)			IEA	IEA							OMIM:115310	HPO:skoehler	Jun 18, 2010	
+OMIM:115310	PARAGANGLIOMAS 4					HP:0001011	Diaphoresis (with pheochromocytoma)			IEA	IEA							OMIM:115310	HPO:skoehler	Jun 18, 2010	
+OMIM:115310	PARAGANGLIOMAS 4					HP:0001673	Tachycardia (with pheochromocytoma)			IEA	IEA							OMIM:115310	HPO:skoehler	Jun 18, 2010	
+OMIM:115310	PARAGANGLIOMAS 4					HP:0001676	Palpitations (with pheochromocytoma)			IEA	IEA							OMIM:115310	HPO:skoehler	Jun 18, 2010	
 OMIM:115310	PARAGANGLIOMAS 4					HP:0011281	Abnormality of urine catecholamine concentration			IEA	IEA							OMIM:115310	HPO	Feb 17, 2009	
 OMIM:115310	PARAGANGLIOMAS 4					HP:0001962	Palpitations			IEA	IEA							OMIM:115310	HPO	Feb 17, 2009	
-OMIM:115310	PARAGANGLIOMAS 4					HP:0002331	Headache (with pheochromocytoma)			IEA	IEA							OMIM:115310	SKOEHLER	Jun 18, 2010	
+OMIM:115310	PARAGANGLIOMAS 4					HP:0002331	Headache (with pheochromocytoma)			IEA	IEA							OMIM:115310	HPO:skoehler	Jun 18, 2010	
 OMIM:115310	PARAGANGLIOMAS 4					HP:0002377	Paraganglioma-related cranial nerve palsy			IEA	IEA							OMIM:115310	HPO	Feb 17, 2009	
-OMIM:115310	PARAGANGLIOMAS 4					HP:0002640	Hypertension associated with pheochromocytoma			IEA	IEA							OMIM:115310	SKOEHLER	Jun 18, 2010	
+OMIM:115310	PARAGANGLIOMAS 4					HP:0002640	Hypertension associated with pheochromocytoma			IEA	IEA							OMIM:115310	HPO:skoehler	Jun 18, 2010	
 OMIM:115310	PARAGANGLIOMAS 4					HP:0003001	Glomus jugular tumor			IEA	IEA							OMIM:115310	HPO	Feb 17, 2009	
-OMIM:115310	PARAGANGLIOMAS 4					HP:0003006	Neuroblastoma			IEA	IEA	rare						OMIM:115310	SKOEHLER	Jun 20, 2010	
-OMIM:115310	PARAGANGLIOMAS 4					HP:0003008	Multiple neoplasia			IEA	IEA	28%						OMIM:115310	SKOEHLER	Jun 20, 2010	
+OMIM:115310	PARAGANGLIOMAS 4					HP:0003006	Neuroblastoma			IEA	IEA	rare						OMIM:115310	HPO:skoehler	Jun 20, 2010	
+OMIM:115310	PARAGANGLIOMAS 4					HP:0003008	Multiple neoplasia			IEA	IEA	28%						OMIM:115310	HPO:skoehler	Jun 20, 2010	
 OMIM:115310	PARAGANGLIOMAS 4					HP:0003581	Adult onset			IEA	IEA							OMIM:115310	HPO	Feb 17, 2009	
 OMIM:115310	PARAGANGLIOMAS 4					HP:0005584	Renal cell carcinoma			IEA	IEA							OMIM:115310	HPO	Feb 17, 2009	
 OMIM:115310	PARAGANGLIOMAS 4					HP:0006737	Extraadrenal pheochromocytoma			IEA	IEA							OMIM:115310	HPO	Feb 17, 2009	

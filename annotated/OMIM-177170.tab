@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:177170	PSEUDOACHONDROPLASIA	MIM:600310	CARTILAGE OLIGOMERIC MATRIX PROTEIN	MIM:600310 / wt	COMP	HP:0000006	Autosomal dominant inheritance			TAS	TAS							MIM:177170	probinson	17.02.2009	
+MIM:177170	PSEUDOACHONDROPLASIA	MIM:600310	CARTILAGE OLIGOMERIC MATRIX PROTEIN	MIM:600310 / wt	COMP	HP:0000006	Autosomal dominant inheritance			TAS	TAS							MIM:177170	HPO:probinson	17.02.2009	
 MIM:177170	PSEUDOACHONDROPLASIA	MIM:600310	CARTILAGE OLIGOMERIC MATRIX PROTEIN	MIM:600310 / wt	COMP	HP:0000926	Platyspondyly	HP:0011463	Childhood onset	PCS	PCS							ISBN-13:978-0721606156	HPO	17.02.2009	
 MIM:177170	PSEUDOACHONDROPLASIA	MIM:600310	CARTILAGE OLIGOMERIC MATRIX PROTEIN	MIM:600310 / wt	COMP	HP:0001156	Brachydactyly syndrome			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=psach	HPO	17.02.2009	
 MIM:177170	PSEUDOACHONDROPLASIA	MIM:600310	CARTILAGE OLIGOMERIC MATRIX PROTEIN	MIM:600310 / wt	COMP	HP:0001380	Ligamentous laxity			PCS	PCS							http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=psach	HPO	17.02.2009	

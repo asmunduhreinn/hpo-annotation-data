@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:611630	EPILEPSY, FAMILIAL MESIAL TEMPORAL LOBE					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:611630	probinson	17.02.2009	
-OMIM:611630	EPILEPSY, FAMILIAL MESIAL TEMPORAL LOBE					HP:0002349	Focal seizures without impairment of consciousness or awareness			TAS	TAS							OMIM:611630	probinson	17.02.2009	
-OMIM:611630	EPILEPSY, FAMILIAL MESIAL TEMPORAL LOBE					HP:0002384	Focal seizures with impairment of consciousness or awareness			TAS	TAS							OMIM:611630	probinson	17.02.2009	
-OMIM:611630	EPILEPSY, FAMILIAL MESIAL TEMPORAL LOBE					HP:0012005	Deja vu			TAS	TAS							OMIM:611630	probinson	21.07.2012	
+OMIM:611630	EPILEPSY, FAMILIAL MESIAL TEMPORAL LOBE					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:611630	HPO:probinson	17.02.2009	
+OMIM:611630	EPILEPSY, FAMILIAL MESIAL TEMPORAL LOBE					HP:0002349	Focal seizures without impairment of consciousness or awareness			TAS	TAS							OMIM:611630	HPO:probinson	17.02.2009	
+OMIM:611630	EPILEPSY, FAMILIAL MESIAL TEMPORAL LOBE					HP:0002384	Focal seizures with impairment of consciousness or awareness			TAS	TAS							OMIM:611630	HPO:probinson	17.02.2009	
+OMIM:611630	EPILEPSY, FAMILIAL MESIAL TEMPORAL LOBE					HP:0012005	Deja vu			TAS	TAS							OMIM:611630	HPO:probinson	21.07.2012	
 OMIM:611630	%611630 EPILEPSY, FAMILIAL TEMPORAL LOBE, 3; ETL3;;EPILEPSY, FAMILIAL MESIAL TEMPORAL LOBE; FMTLE					HP:0002321	Vertigo			IEA	IEA						OMIM-CS:NEUROLOGIC_CENTRAL NERVOUS SYSTEM > DIZZINESS	OMIM:611630	HPO:skoehler	17.10.2012

@@ -1,8 +1,8 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:607681	probinson	17.02.2009	
-OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0002069	Generalized tonic-clonic seizures			TAS	TAS						Often develop in adolescence	OMIM:607681	probinson	17.02.2009	
-OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0002121	Absence seizures			TAS	TAS							OMIM:607681	probinson	17.02.2009	
-OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0002373	Febrile seizures			TAS	TAS							OMIM:607681	probinson	17.02.2009	
-OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0002392	EEG with polyspike wave complexes			TAS	TAS							OMIM:607681	probinson	17.02.2009	
-OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0011463	Childhood onset			TAS	TAS							OMIM:607681	probinson	16.07.2012	
-OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0010849	EEG with spike-wave complexes (>3.5 Hz)			TAS	TAS							OMIM:607681	probinson	20.07.2012	
+OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:607681	HPO:probinson	17.02.2009	
+OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0002069	Generalized tonic-clonic seizures			TAS	TAS						Often develop in adolescence	OMIM:607681	HPO:probinson	17.02.2009	
+OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0002121	Absence seizures			TAS	TAS							OMIM:607681	HPO:probinson	17.02.2009	
+OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0002373	Febrile seizures			TAS	TAS							OMIM:607681	HPO:probinson	17.02.2009	
+OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0002392	EEG with polyspike wave complexes			TAS	TAS							OMIM:607681	HPO:probinson	17.02.2009	
+OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0011463	Childhood onset			TAS	TAS							OMIM:607681	HPO:probinson	16.07.2012	
+OMIM:607681	EPILEPSY, CHILDHOOD ABSENCE, 2					HP:0010849	EEG with spike-wave complexes (>3.5 Hz)			TAS	TAS							OMIM:607681	HPO:probinson	20.07.2012	

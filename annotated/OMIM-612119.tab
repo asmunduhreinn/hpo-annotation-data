@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:612119	TREHALASE DEFICIENCY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							MIM:612119	probinson	21.07.2012	
-MIM:612119	TREHALASE DEFICIENCY					HP:0002014	Diarrhea			TAS	TAS						After ingestion of mushrooms	MIM:612119	probinson	21.07.2012	
-MIM:612119	TREHALASE DEFICIENCY					HP:0002014	Diarrhea			TAS	TAS						After ingestion of mushrooms	MIM:612119	probinson	21.07.2012	
+MIM:612119	TREHALASE DEFICIENCY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							MIM:612119	HPO:probinson	21.07.2012	
+MIM:612119	TREHALASE DEFICIENCY					HP:0002014	Diarrhea			TAS	TAS						After ingestion of mushrooms	MIM:612119	HPO:probinson	21.07.2012	
+MIM:612119	TREHALASE DEFICIENCY					HP:0002014	Diarrhea			TAS	TAS						After ingestion of mushrooms	MIM:612119	HPO:probinson	21.07.2012	

@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:300271	MENTAL RETARDATION, X-LINKED 72					HP:0000256	Macrocephaly			IEA	IEA							OMIM:300271	SKOEHLER	18.06.2010
+OMIM:300271	MENTAL RETARDATION, X-LINKED 72					HP:0000256	Macrocephaly			IEA	IEA							OMIM:300271	HPO:skoehler	18.06.2010
 OMIM:300271	MENTAL RETARDATION, X-LINKED 72					HP:0000268	Dolichocephaly			IEA	IEA							OMIM:300271	HPO	17.02.2009
 OMIM:300271	MENTAL RETARDATION, X-LINKED 72					HP:0000276	Long face			IEA	IEA							OMIM:300271	HPO	17.02.2009
 OMIM:300271	MENTAL RETARDATION, X-LINKED 72					HP:0000733	Stereotypic behavior			IEA	IEA							OMIM:300271	HPO	17.02.2009

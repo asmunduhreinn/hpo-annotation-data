@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:300494	ASPERGER SYNDROME, X-LINKED, SUSCEPTIBILITY TO, 1					HP:0000717	Autism			IEA	IEA							OMIM:300494	SKOEHLER	20.06.2010	
+OMIM:300494	ASPERGER SYNDROME, X-LINKED, SUSCEPTIBILITY TO, 1					HP:0000717	Autism			IEA	IEA							OMIM:300494	HPO:skoehler	20.06.2010	
 OMIM:300494	ASPERGER SYNDROME, X-LINKED, SUSCEPTIBILITY TO, 1					HP:0000721	Lack of spontaneous play			IEA	IEA							OMIM:300494	HPO	17.02.2009	
 OMIM:300494	ASPERGER SYNDROME, X-LINKED, SUSCEPTIBILITY TO, 1					HP:0000728	Impaired ability to form peer relationships			IEA	IEA							OMIM:300494	HPO	17.02.2009	
 OMIM:300494	ASPERGER SYNDROME, X-LINKED, SUSCEPTIBILITY TO, 1					HP:0000732	Inflexible adherence to routines or rituals			IEA	IEA							OMIM:300494	HPO	17.02.2009	

@@ -1,8 +1,8 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0000851	Congenital hypothyroidism			TAS	TAS							MIM:228355	probinson	17.02.2009	
+MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0000851	Congenital hypothyroidism			TAS	TAS							MIM:228355	HPO:probinson	17.02.2009	
 MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001249	Intellectual disability			IEA	IEA							MIM:228355	HPO	17.02.2009	
 MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001264	Spastic diplegia			IEA	IEA							MIM:228355	HPO	17.02.2009	
 MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0000007	Autosomal recessive inheritance			IEA	IEA							MIM:228355	HPO	17.02.2009	
 MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001728	Congenital deafness			IEA	IEA							MIM:228355	HPO	17.02.2009	
 MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							MIM:228355	HPO	17.02.2009	
-MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0008251	Congenital goiter			TAS	TAS							MIM:228355	probinson	17.02.2009	
+MIM:228355	FETAL IODINE DEFICIENCY DISORDER					HP:0008251	Congenital goiter			TAS	TAS							MIM:228355	HPO:probinson	17.02.2009	

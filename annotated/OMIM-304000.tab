@@ -1,2 +1,2 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:304000	COLORBLINDNESS, PARTIAL TRITANOMALY					HP:0000551	Abnormality of color vision			IEA	IEA							OMIM:304000	SKOEHLER	17.02.2009
+OMIM:304000	COLORBLINDNESS, PARTIAL TRITANOMALY					HP:0000551	Abnormality of color vision			IEA	IEA							OMIM:304000	HPO:skoehler	17.02.2009

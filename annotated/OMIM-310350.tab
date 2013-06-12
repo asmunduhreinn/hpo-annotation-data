@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:310350	MYELOLYMPHATIC INSUFFICIENCY					HP:0011447	Hyposegmentation of neutrophil nuclei			TAS	TAS							MIM:310350	probinson	25.04.2012	
-MIM:310350	MYELOLYMPHATIC INSUFFICIENCY					HP:0001419	X-linked recessive inheritance			TAS	TAS							MIM:310350	probinson	25.04.2012	
-MIM:310350	MYELOLYMPHATIC INSUFFICIENCY					HP:0001882	Leukopenia			TAS	TAS							MIM:310350	probinson	25.04.2012	
-MIM:310350	MYELOLYMPHATIC INSUFFICIENCY					HP:0002718	Recurrent bacterial infections			TAS	TAS							MIM:310350	probinson	25.04.2012	
-MIM:310350	MYELOLYMPHATIC INSUFFICIENCY					HP:0004429	Recurrent viral infections			TAS	TAS							MIM:310350	probinson	25.04.2012	
+MIM:310350	MYELOLYMPHATIC INSUFFICIENCY					HP:0011447	Hyposegmentation of neutrophil nuclei			TAS	TAS							MIM:310350	HPO:probinson	25.04.2012	
+MIM:310350	MYELOLYMPHATIC INSUFFICIENCY					HP:0001419	X-linked recessive inheritance			TAS	TAS							MIM:310350	HPO:probinson	25.04.2012	
+MIM:310350	MYELOLYMPHATIC INSUFFICIENCY					HP:0001882	Leukopenia			TAS	TAS							MIM:310350	HPO:probinson	25.04.2012	
+MIM:310350	MYELOLYMPHATIC INSUFFICIENCY					HP:0002718	Recurrent bacterial infections			TAS	TAS							MIM:310350	HPO:probinson	25.04.2012	
+MIM:310350	MYELOLYMPHATIC INSUFFICIENCY					HP:0004429	Recurrent viral infections			TAS	TAS							MIM:310350	HPO:probinson	25.04.2012	

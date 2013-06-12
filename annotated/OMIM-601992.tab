@@ -16,11 +16,11 @@ MIM:601992	FRIEDREICH ATAXIA 2					HP:0003116	Abnormal echocardiogram			IEA	IEA	
 MIM:601992	FRIEDREICH ATAXIA 2					HP:0003209	Decreased pyruvate carboxylase activity			IEA	IEA									Feb 17, 2009	
 MIM:601992	FRIEDREICH ATAXIA 2					HP:0003232	Mitochondrial malic enzyme reduced			IEA	IEA									Feb 17, 2009	
 MIM:601992	FRIEDREICH ATAXIA 2					HP:0003487	Babinski sign			IEA	IEA									Feb 17, 2009	
-MIM:601992	FRIEDREICH ATAXIA 2					HP:0001251	Ataxia			PCS	PCS							MIM:601992	probinson	Mar 18, 2012	
-MIM:601992	FRIEDREICH ATAXIA 2					HP:0001315	Reduced tendon reflexes			PCS	PCS							MIM:601992	probinson	Mar 18, 2012	
-MIM:601992	FRIEDREICH ATAXIA 2					HP:0003621	Juvenile onset			PCS	PCS							MIM:601992	probinson	Mar 18, 2012	
-MIM:601992	FRIEDREICH ATAXIA 2					HP:0003133	Abnormality of the spinocerebellar tracts			PCS	PCS							MIM:601992	probinson	Mar 18, 2012	
-MIM:601992	FRIEDREICH ATAXIA 2					HP:0011397	Abnormality of the dorsal column of the spinal cord			PCS	PCS							MIM:601992	probinson	Mar 18, 2012	
-MIM:601992	FRIEDREICH ATAXIA 2					HP:0002062	Abnormality of the pyramidal tracts			PCS	PCS							MIM:601992	probinson	Mar 18, 2012	
-MIM:601992	FRIEDREICH ATAXIA 2					HP:0011441	Abnormality of the medulla oblongata			PCS	PCS							MIM:601992	probinson	Mar 18, 2012	
-MIM:601992	FRIEDREICH ATAXIA 2					HP:0003134	Abnormality of peripheral nerve conduction			PCS	PCS							MIM:601992	probinson	Mar 18, 2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001251	Ataxia			PCS	PCS							MIM:601992	HPO:probinson	Mar 18, 2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0001315	Reduced tendon reflexes			PCS	PCS							MIM:601992	HPO:probinson	Mar 18, 2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003621	Juvenile onset			PCS	PCS							MIM:601992	HPO:probinson	Mar 18, 2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003133	Abnormality of the spinocerebellar tracts			PCS	PCS							MIM:601992	HPO:probinson	Mar 18, 2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0011397	Abnormality of the dorsal column of the spinal cord			PCS	PCS							MIM:601992	HPO:probinson	Mar 18, 2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0002062	Abnormality of the pyramidal tracts			PCS	PCS							MIM:601992	HPO:probinson	Mar 18, 2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0011441	Abnormality of the medulla oblongata			PCS	PCS							MIM:601992	HPO:probinson	Mar 18, 2012	
+MIM:601992	FRIEDREICH ATAXIA 2					HP:0003134	Abnormality of peripheral nerve conduction			PCS	PCS							MIM:601992	HPO:probinson	Mar 18, 2012	

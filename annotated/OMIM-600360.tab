@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:600360	APLASIA CUTIS CONGENITA OF LIMBS, RECESSIVE					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:600360	HPO	17.02.2009	
-OMIM:600360	APLASIA CUTIS CONGENITA OF LIMBS, RECESSIVE					HP:0001057	Aplasia cutis congenita			TAS	TAS							OMIM:600360	probinson	17.02.2009	
-OMIM:600360	APLASIA CUTIS CONGENITA OF LIMBS, RECESSIVE					HP:0007506	Congenital absence of skin of limbs			TAS	TAS							OMIM:600360	probinson	17.02.2009	
+OMIM:600360	APLASIA CUTIS CONGENITA OF LIMBS, RECESSIVE					HP:0001057	Aplasia cutis congenita			TAS	TAS							OMIM:600360	HPO:probinson	17.02.2009	
+OMIM:600360	APLASIA CUTIS CONGENITA OF LIMBS, RECESSIVE					HP:0007506	Congenital absence of skin of limbs			TAS	TAS							OMIM:600360	HPO:probinson	17.02.2009	

@@ -1,8 +1,8 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:602079	TRIMETHYLAMINURIA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:602079	HPO	17.02.2009	
 OMIM:602079	TRIMETHYLAMINURIA					HP:0000716	Depression			IEA	IEA							OMIM:602079	HPO	17.02.2009	
-OMIM:602079	TRIMETHYLAMINURIA					HP:0000822	Hypertension			TAS	TAS						Induced by eating cheese	OMIM:602079	probinson	17.02.2009	
-OMIM:602079	TRIMETHYLAMINURIA					HP:0001649	Tachycardia			TAS	TAS						Induced by eating cheese	OMIM:602079	probinson	17.02.2009	
+OMIM:602079	TRIMETHYLAMINURIA					HP:0000822	Hypertension			TAS	TAS						Induced by eating cheese	OMIM:602079	HPO:probinson	17.02.2009	
+OMIM:602079	TRIMETHYLAMINURIA					HP:0001649	Tachycardia			TAS	TAS						Induced by eating cheese	OMIM:602079	HPO:probinson	17.02.2009	
 OMIM:602079	TRIMETHYLAMINURIA					HP:0001744	Splenomegaly			IEA	IEA							OMIM:602079	HPO	17.02.2009	
 OMIM:602079	TRIMETHYLAMINURIA					HP:0001875	Neutropenia			IEA	IEA							OMIM:602079	HPO	17.02.2009	
 OMIM:602079	TRIMETHYLAMINURIA					HP:0001903	Anemia			IEA	IEA							OMIM:602079	HPO	17.02.2009	
