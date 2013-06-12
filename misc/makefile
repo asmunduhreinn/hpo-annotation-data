@@ -40,7 +40,7 @@ load-external:
 .PHONY: generate-annotation-file
 generate-annotation-file:
 	$(GENERATE_ANNOTATIONFILE) --orphadata "$(EXTERNAL_ORPHANET)" --sign-mapping "$(ORPHANET_MAPPING)/onet_hpo.tsv" --out-folder "." --hpo_ontology "$(HPO_FOLDER)" --berkeley-annotated "../annotated/"
-		
+	cat phenotype_annotation.tab negative_phenotype_annotation.tab | awk -F'\t' '{print $$14}'  | sort | uniq -c | sort -nr > curator-statistics.tab
 
 .PHONY: clean
 clean:
