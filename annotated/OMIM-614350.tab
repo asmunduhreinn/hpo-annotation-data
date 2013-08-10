@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614350	#614350 COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5; HNPCC5				MSH6	HP:0006716	Hereditary nonpolyposis colorectal carcinoma			TAS	TAS							OMIM:614350	HPO:probinson	Aug 10, 2013	
+OMIM:614350	#614350 COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5; HNPCC5				MSH6	HP:0012114	Endometrial carcinoma			TAS	TAS							OMIM:614350	HPO:probinson	Aug 10, 2013	
+OMIM:614350	#614350 COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5; HNPCC5				MSH6	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:614350	HPO:probinson	Aug 10, 2013	

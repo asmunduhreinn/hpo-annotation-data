@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613740	#613740 CARDIOMYOPATHY, DILATED, 1T; CMD1T				TMPO	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:613740	HPO:probinson	Aug 10, 2013	
+OMIM:613740	#613740 CARDIOMYOPATHY, DILATED, 1T; CMD1T				TMPO	HP:0001644	Dilated cardiomyopathy			TAS	TAS							OMIM:613740	HPO:probinson	Aug 10, 2013	
+OMIM:613740	#613740 CARDIOMYOPATHY, DILATED, 1T; CMD1T				TMPO	HP:0006673	Reduced systolic function			TAS	TAS							OMIM:613740	HPO:probinson	Aug 10, 2013	
