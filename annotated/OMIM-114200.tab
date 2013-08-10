@@ -1,5 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:114200	CAMPTODACTYLYSTREBLODACTYLY, INCLUDED					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:114200	HPO	17.02.2009
-OMIM:114200	CAMPTODACTYLYSTREBLODACTYLY, INCLUDED					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:114200	HPO	17.02.2009
-OMIM:114200	CAMPTODACTYLYSTREBLODACTYLY, INCLUDED					HP:0004218	Symphalangism of the 5th finger			ITM	ITM							OMIM:114200	HPO	17.02.2009
-OMIM:114200	CAMPTODACTYLYSTREBLODACTYLY, INCLUDED					HP:0009698	Contractures of the proximal interphalangeal joints of the fingers			IEA	IEA							OMIM:114200	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:114200	CAMPTODACTYLYSTREBLODACTYLY, INCLUDED					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:114200	HPO	Feb 17, 2009	
+OMIM:114200	CAMPTODACTYLYSTREBLODACTYLY, INCLUDED					HP:0009698	Contractures of the proximal interphalangeal joints of the fingers			IEA	IEA							OMIM:114200	HPO	Feb 17, 2009	
+OMIM:114200	CAMPTODACTYLYSTREBLODACTYLY, INCLUDED					HP:0100490	Camptodactyly of finger			TAS	TAS							OMIM:114200	HPO:probinson	Aug 10, 2013	
+OMIM:114200	CAMPTODACTYLYSTREBLODACTYLY, INCLUDED					HP:0003166	Increased urinary taurine			TAS	TAS							OMIM:114200	HPO:probinson	Aug 10, 2013	
+OMIM:114200	CAMPTODACTYLYSTREBLODACTYLY, INCLUDED					HP:0004976	Knee dislocation			IEA	IEA							OMIM:114200	HPO	Aug 10, 2013	
