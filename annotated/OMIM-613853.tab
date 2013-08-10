@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613853	#613853 TRANSPOSITION OF THE GREAT ARTERIES, DEXTRO-LOOPED 2; DTGA2				CFC1	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:11799476	HPO:probinson	Aug 10, 2013	
+OMIM:613853	#613853 TRANSPOSITION OF THE GREAT ARTERIES, DEXTRO-LOOPED 2; DTGA2				CFC1	HP:0001669	Transposition of the great arteries			PCS	PCS							pmid:11799476	HPO:probinson	Aug 10, 2013	
+OMIM:613853	#613853 TRANSPOSITION OF THE GREAT ARTERIES, DEXTRO-LOOPED 2; DTGA2				CFC1	HP:0001719	Double outlet right ventricle			PCS	PCS							pmid:11799476	HPO:probinson	Aug 10, 2013	

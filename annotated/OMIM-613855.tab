@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613855	#613855 EPISODIC ATAXIA, TYPE 5; EA5				CACNB4	HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:613855	HPO:probinson	Aug 10, 2013	
+OMIM:613855	#613855 EPISODIC ATAXIA, TYPE 5; EA5				CACNB4	HP:0002131	Episodic ataxia			IEA	IEA							OMIM:613855	HPO:probinson	Aug 10, 2013	
+OMIM:613855	#613855 EPISODIC ATAXIA, TYPE 5; EA5				CACNB4	HP:0000640	Gaze-evoked nystagmus			IEA	IEA						Interictal	OMIM:613855	HPO:probinson	Aug 10, 2013	
+OMIM:613855	#613855 EPISODIC ATAXIA, TYPE 5; EA5				CACNB4	HP:0001260	Dysarthria			IEA	IEA						Interictal	OMIM:613855	HPO:probinson	Aug 10, 2013	

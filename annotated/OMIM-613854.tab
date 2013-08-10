@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613854	#613854 TRANSPOSITION OF THE GREAT ARTERIES, DEXTRO-LOOPED 3; DTGA3				GDF1	HP:0001669	Transposition of the great arteries			PCS	PCS							pmid:17924340	HPO:probinson	Jan 9, 2013	
+OMIM:613854	#613854 TRANSPOSITION OF THE GREAT ARTERIES, DEXTRO-LOOPED 3; DTGA3				GDF1	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:17924340	HPO:probinson	Aug 10, 2013	

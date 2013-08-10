@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613824	#613824 NEPHRONOPHTHISIS 9; NPHP9				NEK8	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:613824	HPO:probinson	Aug 10, 2013	
+OMIM:613824	#613824 NEPHRONOPHTHISIS 9; NPHP9				NEK8	HP:0000090	Nephronophthisis			TAS	TAS							OMIM:613824	HPO:probinson	Aug 10, 2013	
+OMIM:613824	#613824 NEPHRONOPHTHISIS 9; NPHP9				NEK8	HP:0003774	End stage renal disease			TAS	TAS							OMIM:613824	HPO:probinson	Aug 10, 2013	
+OMIM:613824	#613824 NEPHRONOPHTHISIS 9; NPHP9				NEK8	HP:0000546	Retinal degeneration			TAS	TAS				NOT	NOT		OMIM:613824	HPO:probinson	Aug 10, 2013	
+OMIM:613824	#613824 NEPHRONOPHTHISIS 9; NPHP9				NEK8	HP:0004734	Renal cortical microcysts			TAS	TAS							OMIM:613824	HPO:probinson	Aug 10, 2013	
