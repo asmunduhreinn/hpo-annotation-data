@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613887	#613887 CATARACT, AUTOSOMAL RECESSIVE CONGENITAL 4; CATC4				TDRD7	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:613887	HPO:probinson	Aug 10, 2013	
+OMIM:613887	#613887 CATARACT, AUTOSOMAL RECESSIVE CONGENITAL 4; CATC4				TDRD7	HP:0000518	Cataract	HP:0003577	Congenital onset	TAS	TAS							OMIM:613887	HPO:probinson	Aug 10, 2013	

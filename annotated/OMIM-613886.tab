@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613886	#613886 OBESITY, HYPERPHAGIA, AND DEVELOPMENTAL DELAY				NTRK2	HP:0001513	Obesity			TAS	TAS							OMIM:613886	HPO:probinson	Aug 10, 2013	
+OMIM:613886	#613886 OBESITY, HYPERPHAGIA, AND DEVELOPMENTAL DELAY				NTRK2	HP:0002591	Polyphagia			TAS	TAS							OMIM:613886	HPO:probinson	Aug 10, 2013	
+OMIM:613886	#613886 OBESITY, HYPERPHAGIA, AND DEVELOPMENTAL DELAY				NTRK2	HP:0011344	Severe global developmental delay			TAS	TAS							OMIM:613886	HPO:probinson	Aug 10, 2013	
+OMIM:613886	#613886 OBESITY, HYPERPHAGIA, AND DEVELOPMENTAL DELAY				NTRK2	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:613886	HPO:probinson	Aug 10, 2013	
