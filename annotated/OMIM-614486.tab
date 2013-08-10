@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614486	#614486 THROMBOPHILIA DUE TO THROMBOMODULIN DEFECT; THPH12				THBD	HP:0100724	Hypercoagulability			TAS	TAS							OMIM:614486	HPO:probinson	Aug 10, 2013	
+OMIM:614486	#614486 THROMBOPHILIA DUE TO THROMBOMODULIN DEFECT; THPH12				THBD	HP:0002625	Deep venous thrombosis			TAS	TAS							OMIM:614486	HPO:probinson	Aug 10, 2013	

@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614493	#614493 WISKOTT-ALDRICH SYNDROME 2; WAS2;;WIPF1 DEFICIENCY				WIPF1	HP:0002719	Recurrent infections			TAS	TAS							OMIM:614493	HPO:probinson	Aug 10, 2013	
+OMIM:614493	#614493 WISKOTT-ALDRICH SYNDROME 2; WAS2;;WIPF1 DEFICIENCY				WIPF1	HP:0000964	Eczema			TAS	TAS							OMIM:614493	HPO:probinson	Aug 10, 2013	
+OMIM:614493	#614493 WISKOTT-ALDRICH SYNDROME 2; WAS2;;WIPF1 DEFICIENCY				WIPF1	HP:0001873	Thrombocytopenia			TAS	TAS							OMIM:614493	HPO:probinson	Aug 10, 2013	
+OMIM:614493	#614493 WISKOTT-ALDRICH SYNDROME 2; WAS2;;WIPF1 DEFICIENCY				WIPF1	HP:0012178	Reduced natural killer cell activity			TAS	TAS							OMIM:614493	HPO:probinson	Aug 10, 2013	
+OMIM:614493	#614493 WISKOTT-ALDRICH SYNDROME 2; WAS2;;WIPF1 DEFICIENCY				WIPF1	HP:0005415	Decreased number of CD8+ T cells			TAS	TAS							OMIM:614493	HPO:probinson	Aug 10, 2013	
+OMIM:614493	#614493 WISKOTT-ALDRICH SYNDROME 2; WAS2;;WIPF1 DEFICIENCY				WIPF1	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:614493	HPO:probinson	Aug 10, 2013	

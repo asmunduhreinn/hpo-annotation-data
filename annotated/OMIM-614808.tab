@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614808	#614808 AMYOTROPHIC LATERAL SCLEROSIS 18; ALS18				PFN1	HP:0000006	Autosomal dominant inheritance			PCS	PCS						No clinical data provided	pmid:22801503	HPO:probinson	Aug 10, 2013	
+OMIM:614808	#614808 AMYOTROPHIC LATERAL SCLEROSIS 18; ALS18				PFN1	HP:0002380	Fasciculations			PCS	PCS						No clinical data provided	pmid:22801503	HPO:probinson	Aug 10, 2013	
+OMIM:614808	#614808 AMYOTROPHIC LATERAL SCLEROSIS 18; ALS18				PFN1	HP:0003202	Amyotrophy			PCS	PCS						No clinical data provided	pmid:22801503	HPO:probinson	Aug 10, 2013	
+OMIM:614808	#614808 AMYOTROPHIC LATERAL SCLEROSIS 18; ALS18				PFN1	HP:0007354	Amyotrophic lateral sclerosis			PCS	PCS						No clinical data provided	pmid:22801503	HPO:probinson	Aug 10, 2013	
+OMIM:614808	#614808 AMYOTROPHIC LATERAL SCLEROSIS 18; ALS18				PFN1	HP:0001324	Muscle weakness			PCS	PCS						No clinical data provided	pmid:22801503	HPO:probinson	Aug 10, 2013	
+OMIM:614808	#614808 AMYOTROPHIC LATERAL SCLEROSIS 18; ALS18				PFN1	HP:0001260	Dysarthria			PCS	PCS						No clinical data provided	pmid:22801503	HPO:probinson	Aug 10, 2013	
+OMIM:614808	#614808 AMYOTROPHIC LATERAL SCLEROSIS 18; ALS18				PFN1	HP:0002015	Dysphagia			PCS	PCS						No clinical data provided	pmid:22801503	HPO:probinson	Aug 10, 2013	
+OMIM:614808	#614808 AMYOTROPHIC LATERAL SCLEROSIS 18; ALS18				PFN1	HP:0001257	Spasticity			PCS	PCS						No clinical data provided	pmid:22801503	HPO:probinson	Aug 10, 2013	

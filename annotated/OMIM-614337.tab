@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614337	#614337 COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4; HNPCC4				PMS2	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:614337	HPO:probinson	Aug 10, 2013	
+OMIM:614337	#614337 COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4; HNPCC4				PMS2	HP:0006716	Hereditary nonpolyposis colorectal carcinoma			TAS	TAS							OMIM:614337	HPO:probinson	Aug 10, 2013	
+OMIM:614337	#614337 COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4; HNPCC4				PMS2	HP:0012114	Endometrial carcinoma			TAS	TAS							OMIM:614337	HPO:probinson	Aug 10, 2013	
+OMIM:614337	#614337 COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4; HNPCC4				PMS2	HP:0100615	Ovarian neoplasm			TAS	TAS							OMIM:614337	HPO:probinson	Aug 10, 2013	

@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614839	#614839 HYPOGONADOTROPIC HYPOGONADISM 10 WITH OR WITHOUT ANOSMIA; HH10				TAC3	HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:614839	HPO:probinson	Aug 10, 2013	
+OMIM:614839	#614839 HYPOGONADOTROPIC HYPOGONADISM 10 WITH OR WITHOUT ANOSMIA; HH10				TAC3	HP:0000044	Hypogonadotrophic hypogonadism			IEA	IEA							OMIM:614839	HPO:probinson	Aug 10, 2013	
+OMIM:614839	#614839 HYPOGONADOTROPIC HYPOGONADISM 10 WITH OR WITHOUT ANOSMIA; HH10				TAC3	HP:0000458	Anosmia			IEA	IEA	Occasional						OMIM:614839	HPO:probinson	Aug 10, 2013	
