@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614456	#614456 MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 8; CMM8;;MELANOMA AND RENAL CELL CARCINOMA, SUSCEPTIBILITY TO				MITF	HP:0012056	Cutaneous melanoma			PCS	PCS							pmid:22080950	HPO:probinson	Jan 9, 2013	
+OMIM:614456	#614456 MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 8; CMM8;;MELANOMA AND RENAL CELL CARCINOMA, SUSCEPTIBILITY TO				MITF	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:22080950	HPO:probinson	Aug 10, 2013	

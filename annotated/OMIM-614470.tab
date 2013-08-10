@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614470	#614470 AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME, TYPE IV; ALPS4				NRAS	HP:0005523	Lymphoproliferative disorder			TAS	TAS							OMIM:614470	HPO:probinson	Jan 9, 2013	
+OMIM:614470	#614470 AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME, TYPE IV; ALPS4				NRAS	HP:0001909	Leukemia			TAS	TAS							OMIM:614470	HPO:probinson	Aug 10, 2013	
+OMIM:614470	#614470 AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME, TYPE IV; ALPS4				NRAS	HP:0002665	Lymphoma			TAS	TAS							OMIM:614470	HPO:probinson	Aug 10, 2013	
+OMIM:614470	#614470 AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME, TYPE IV; ALPS4				NRAS	HP:0002729	Follicular hyperplasia			TAS	TAS							OMIM:614470	HPO:probinson	Aug 10, 2013	
