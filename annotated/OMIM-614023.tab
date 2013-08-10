@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614023	#614023 PHOSPHOSERINE PHOSPHATASE DEFICIENCY; PSPHD				PSP	HP:0008897	Postnatal growth retardation			TAS	TAS							OMIM:614023	HPO:skoehler	Jan 9, 2013	
+OMIM:614023	#614023 PHOSPHOSERINE PHOSPHATASE DEFICIENCY; PSPHD				PSP	HP:0001511	Intrauterine growth retardation			TAS	TAS							OMIM:614023	HPO:skoehler	Aug 10, 2013	
+OMIM:614023	#614023 PHOSPHOSERINE PHOSPHATASE DEFICIENCY; PSPHD				PSP	HP:0001263	Global developmental delay			TAS	TAS							OMIM:614023	HPO:skoehler	Aug 10, 2013	
+OMIM:614023	#614023 PHOSPHOSERINE PHOSPHATASE DEFICIENCY; PSPHD				PSP	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:614023	HPO:skoehler	Aug 10, 2013	

@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614083	#614083 FANCONI ANEMIA, COMPLEMENTATION GROUP L; FANCL				PHF9	HP:0001263	Global developmental delay			TAS	TAS							OMIM:614083	HPO:probinson	Aug 10, 2013	
+OMIM:614083	#614083 FANCONI ANEMIA, COMPLEMENTATION GROUP L; FANCL				PHF9	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:614083	HPO:probinson	Aug 10, 2013	
+OMIM:614083	#614083 FANCONI ANEMIA, COMPLEMENTATION GROUP L; FANCL				PHF9	HP:0000957	Cafe-au-lait spot			TAS	TAS							OMIM:614083	HPO:probinson	Aug 10, 2013	
+OMIM:614083	#614083 FANCONI ANEMIA, COMPLEMENTATION GROUP L; FANCL				PHF9	HP:0003220	Abnormality of chromosome stability			TAS	TAS							OMIM:614083	HPO:probinson	Aug 10, 2013	
+OMIM:614083	#614083 FANCONI ANEMIA, COMPLEMENTATION GROUP L; FANCL				PHF9	HP:0001903	Anemia			TAS	TAS							OMIM:614083	HPO:probinson	Aug 10, 2013	

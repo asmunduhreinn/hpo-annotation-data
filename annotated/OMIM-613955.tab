@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613955	#613955 AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 2; PLCA2				IL31RA	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:613955	HPO:probinson	Jan 9, 2013	
+OMIM:613955	#613955 AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 2; PLCA2				IL31RA	HP:0012309	Cutaneous amyloidosis			TAS	TAS							OMIM:613955	HPO:probinson	Aug 10, 2013	
+OMIM:613955	#613955 AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 2; PLCA2				IL31RA	HP:0000989	Pruritus			TAS	TAS							OMIM:613955	HPO:probinson	Aug 10, 2013	

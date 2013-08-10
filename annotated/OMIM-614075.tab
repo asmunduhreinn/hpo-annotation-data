@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614075	#614075 HERMANSKY-PUDLAK SYNDROME 6; HPS6				HPS6	HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:614075	HPO:probinson	Aug 10, 2013	
+OMIM:614075	#614075 HERMANSKY-PUDLAK SYNDROME 6; HPS6				HPS6	HP:0001107	Ocular albinism			IEA	IEA							OMIM:614075	HPO:probinson	Aug 10, 2013	
+OMIM:614075	#614075 HERMANSKY-PUDLAK SYNDROME 6; HPS6				HPS6	HP:0001022	Albinism			IEA	IEA							OMIM:614075	HPO:probinson	Aug 10, 2013	
+OMIM:614075	#614075 HERMANSKY-PUDLAK SYNDROME 6; HPS6				HPS6	HP:0000421	Epistaxis			IEA	IEA							OMIM:614075	HPO:probinson	Aug 10, 2013	
+OMIM:614075	#614075 HERMANSKY-PUDLAK SYNDROME 6; HPS6				HPS6	HP:0004866	Impaired ADP-induced platelet aggregation			IEA	IEA							OMIM:614075	HPO:probinson	Aug 10, 2013	
+OMIM:614075	#614075 HERMANSKY-PUDLAK SYNDROME 6; HPS6				HPS6	HP:0001892	Abnormal bleeding			IEA	IEA							OMIM:614075	HPO:probinson	Aug 10, 2013	
+OMIM:614075	#614075 HERMANSKY-PUDLAK SYNDROME 6; HPS6				HPS6	HP:0011883	Abnormal platelet granules			IEA	IEA							OMIM:614075	HPO:probinson	Aug 10, 2013	
