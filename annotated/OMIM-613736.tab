@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613736	#613736 ACNE INVERSA, FAMILIAL, 2; ACNINV2				PSENEN	HP:0012322	Perifolliculitis			IEA	IEA							OMIM:613736	HPO:probinson	Jan 9, 2013	
+OMIM:613736	#613736 ACNE INVERSA, FAMILIAL, 2; ACNINV2				PSENEN	HP:0011132	Chronic furunculosis			IEA	IEA							OMIM:613736	HPO:probinson	Aug 11, 2013	
+OMIM:613736	#613736 ACNE INVERSA, FAMILIAL, 2; ACNINV2				PSENEN	HP:0100838	Recurrent cutaneous abscess formation			IEA	IEA							OMIM:613736	HPO:probinson	Aug 11, 2013	
