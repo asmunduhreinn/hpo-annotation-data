@@ -1,6 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:204870	HPO	17.02.2009
-OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0000613	Photophobia			IEA	IEA							OMIM:204870	HPO	17.02.2009
-OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0000622	Blurred vision			IEA	IEA							OMIM:204870	HPO	17.02.2009
-OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0001131	Corneal dystrophy			ITM	ITM							OMIM:204870	HPO	17.02.2009
-OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0003621	Juvenile onset			IEA	IEA							OMIM:204870	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:204870	HPO:skoehler	Feb 17, 2009	
+OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0000613	Photophobia			TAS	TAS							OMIM:204870	HPO:skoehler	Feb 17, 2009	
+OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0000622	Blurred vision			TAS	TAS							OMIM:204870	HPO:skoehler	Feb 17, 2009	
+OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0001131	Corneal dystrophy			TAS	TAS							OMIM:204870	HPO:skoehler	Feb 17, 2009	
+OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0011463	Childhood onset			TAS	TAS							OMIM:204870	HPO:skoehler	Feb 17, 2009	
+OMIM:204870	CORNEAL DYSTROPHY, GELATINOUS DROP-LIKE					HP:0000505	Visual impairment			TAS	TAS							OMIM:204870	HPO:skoehler	Aug 12, 2013	

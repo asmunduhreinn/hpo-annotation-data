@@ -1,6 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:601067	USHER SYNDROME, TYPE ID					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:601067	HPO	17.02.2009
-OMIM:601067	USHER SYNDROME, TYPE ID					HP:0000510	Retinitis pigmentosa			IEA	IEA							OMIM:601067	HPO	17.02.2009
-OMIM:601067	USHER SYNDROME, TYPE ID					HP:0001751	Vestibular dysfunction			IEA	IEA							OMIM:601067	HPO	17.02.2009
-OMIM:601067	USHER SYNDROME, TYPE ID					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:601067	HPO	17.02.2009
-OMIM:601067	USHER SYNDROME, TYPE ID					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:601067	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:601067	USHER SYNDROME, TYPE ID					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:601067	HPO:probinson	Feb 17, 2009	
+OMIM:601067	USHER SYNDROME, TYPE ID					HP:0000510	Retinitis pigmentosa			TAS	TAS							OMIM:601067	HPO:probinson	Feb 17, 2009	
+OMIM:601067	USHER SYNDROME, TYPE ID					HP:0001751	Vestibular dysfunction			TAS	TAS							OMIM:601067	HPO:probinson	Feb 17, 2009	
+OMIM:601067	USHER SYNDROME, TYPE ID					HP:0000365	Hearing impairment	HP:0003577	Congenital onset	TAS	TAS						Profound	OMIM:601067	HPO:probinson	Aug 12, 2013	
