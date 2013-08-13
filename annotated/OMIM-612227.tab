@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:612227	DIABETES MELLITUS, KETOSIS-PRONE					HP:0000855	Insulin resistance			ITM	ITM							OMIM:612227	HPO	17.02.2009
-OMIM:612227	DIABETES MELLITUS, KETOSIS-PRONE					HP:0001426	Multifactorial inheritance			IEA	IEA							OMIM:612227	HPO	17.02.2009
-OMIM:612227	DIABETES MELLITUS, KETOSIS-PRONE					HP:0001993	Ketoacidosis			IEA	IEA							OMIM:612227	HPO	17.02.2009
-OMIM:612227	DIABETES MELLITUS, KETOSIS-PRONE					HP:0002715	Abnormality of the immune system			IEA	IEA							OMIM:612227	HPO	17.02.2009
-OMIM:612227	DIABETES MELLITUS, KETOSIS-PRONE					HP:0006279	Beta-cell dysfunction			ITM	ITM							OMIM:612227	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612227	DIABETES MELLITUS, KETOSIS-PRONE					HP:0000855	Insulin resistance			TAS	TAS							OMIM:612227	HPO:probinson	Feb 17, 2009	
+OMIM:612227	DIABETES MELLITUS, KETOSIS-PRONE					HP:0001426	Multifactorial inheritance			TAS	TAS							OMIM:612227	HPO:probinson	Feb 17, 2009	
+OMIM:612227	DIABETES MELLITUS, KETOSIS-PRONE					HP:0001993	Ketoacidosis			TAS	TAS							OMIM:612227	HPO:probinson	Feb 17, 2009	
+OMIM:612227	DIABETES MELLITUS, KETOSIS-PRONE					HP:0002960	Autoimmunity			TAS	TAS							OMIM:612227	HPO:probinson	Feb 17, 2009	
+OMIM:612227	DIABETES MELLITUS, KETOSIS-PRONE					HP:0006279	Beta-cell dysfunction			TAS	TAS							OMIM:612227	HPO:probinson	Feb 17, 2009	

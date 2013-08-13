@@ -1,6 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:137575	GIGANTIFORM CEMENTOMA, FAMILIAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:137575	HPO	17.02.2009
-OMIM:137575	GIGANTIFORM CEMENTOMA, FAMILIAL					HP:0000692	Misalignment of teeth			IEA	IEA							OMIM:137575	HPO	17.02.2009
-OMIM:137575	GIGANTIFORM CEMENTOMA, FAMILIAL					HP:0000924	Abnormality of the musculoskeletal system			IEA	IEA							OMIM:137575	HPO	17.02.2009
-OMIM:137575	GIGANTIFORM CEMENTOMA, FAMILIAL					HP:0001571	Multiple impacted teeth			IEA	IEA							OMIM:137575	HPO	17.02.2009
-OMIM:137575	GIGANTIFORM CEMENTOMA, FAMILIAL					HP:0003593	Infantile onset			ITM	ITM							OMIM:137575	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:137575	GIGANTIFORM CEMENTOMA, FAMILIAL					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:137575	HPO:probinson	Feb 17, 2009	
+OMIM:137575	GIGANTIFORM CEMENTOMA, FAMILIAL					HP:0000692	Misalignment of teeth			TAS	TAS							OMIM:137575	HPO:probinson	Feb 17, 2009	
+OMIM:137575	GIGANTIFORM CEMENTOMA, FAMILIAL					HP:0001571	Multiple impacted teeth			TAS	TAS							OMIM:137575	HPO:probinson	Feb 17, 2009	
+OMIM:137575	GIGANTIFORM CEMENTOMA, FAMILIAL					HP:0012328	Cementoma			TAS	TAS							OMIM:137575	HPO:probinson	Aug 13, 2013	
