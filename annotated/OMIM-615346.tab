@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615346	#615346 PRECOCIOUS PUBERTY, CENTRAL, 2; CPPB2					HP:0010314	Premature thelarche			IEA	IEA						OMIM-CS:CHEST_BREASTS > PREMATURE THELARCHE	OMIM:615346	HPO:skoehler	18.08.2013
+OMIM:615346	#615346 PRECOCIOUS PUBERTY, CENTRAL, 2; CPPB2					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:615346	HPO:skoehler	18.08.2013
+OMIM:615346	#615346 PRECOCIOUS PUBERTY, CENTRAL, 2; CPPB2					HP:0005616	Accelerated skeletal maturation			IEA	IEA						OMIM-CS:SKELETAL > ADVANCED BONE AGE	OMIM:615346	HPO:skoehler	18.08.2013

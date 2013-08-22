@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615270	#615270 HYPOGONADOTROPIC HYPOGONADISM 20 WITH OR WITHOUT ANOSMIA; HH20					HP:0000938	Osteopenia			IEA	IEA	rare					OMIM-CS:SKELETAL > OSTEOPENIA (IN SOME PATIENTS)	OMIM:615270	HPO:skoehler	18.08.2013
+OMIM:615270	#615270 HYPOGONADOTROPIC HYPOGONADISM 20 WITH OR WITHOUT ANOSMIA; HH20					HP:0000939	Osteoporosis			IEA	IEA	rare					OMIM-CS:SKELETAL > OSTEOPOROSIS (IN SOME PATIENTS)	OMIM:615270	HPO:skoehler	18.08.2013
