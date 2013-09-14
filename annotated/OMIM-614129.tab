@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614129	#614129 PERRAULT SYNDROME 3; PRLTS3;;DEAFNESS, AUTOSOMAL RECESSIVE 81, FORMERLY; DFNB81, FORMERLY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:614129	HPO:probinson	Sep 14, 2013	
+OMIM:614129	#614129 PERRAULT SYNDROME 3; PRLTS3;;DEAFNESS, AUTOSOMAL RECESSIVE 81, FORMERLY; DFNB81, FORMERLY					HP:0000407	Sensorineural hearing impairment			TAS	TAS							OMIM:614129	HPO:probinson	Sep 14, 2013	
+OMIM:614129	#614129 PERRAULT SYNDROME 3; PRLTS3;;DEAFNESS, AUTOSOMAL RECESSIVE 81, FORMERLY; DFNB81, FORMERLY					HP:0000786	Primary amenorrhea			TAS	TAS							OMIM:614129	HPO:probinson	Sep 14, 2013	
+OMIM:614129	#614129 PERRAULT SYNDROME 3; PRLTS3;;DEAFNESS, AUTOSOMAL RECESSIVE 81, FORMERLY; DFNB81, FORMERLY					HP:0000815	Hypergonadotropic hypogonadism			TAS	TAS							OMIM:614129	HPO:probinson	Sep 14, 2013	
