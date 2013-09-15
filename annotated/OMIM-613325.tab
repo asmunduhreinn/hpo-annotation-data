@@ -1,6 +1,2 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:614255	#614255 MENTAL RETARDATION, AUTOSOMAL DOMINANT 9; MRD9				KIF1A	HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:614255	HPO:probinson	Aug 10, 2013	
-OMIM:614255	#614255 MENTAL RETARDATION, AUTOSOMAL DOMINANT 9; MRD9				KIF1A	HP:0001249	Intellectual disability			IEA	IEA	1/1						OMIM:614255	HPO:probinson	Aug 10, 2013	
-OMIM:614255	#614255 MENTAL RETARDATION, AUTOSOMAL DOMINANT 9; MRD9				KIF1A	HP:0008936	Muscular hypotonia of the trunk			IEA	IEA	1/1						OMIM:614255	HPO:probinson	Aug 10, 2013	
-OMIM:614255	#614255 MENTAL RETARDATION, AUTOSOMAL DOMINANT 9; MRD9				KIF1A	HP:0001257	Spasticity			IEA	IEA	1/1						OMIM:614255	HPO:probinson	Aug 10, 2013	
-OMIM:614255	#614255 MENTAL RETARDATION, AUTOSOMAL DOMINANT 9; MRD9				KIF1A	HP:0006855	Cerebellar vermis atrophy			IEA	IEA	1/1					Mild	OMIM:614255	HPO:probinson	Aug 10, 2013	
+MIM:613325	RHABDOID TUMOR PREDISPOSITION SYNDROME 2				SMARCB1	HP:0100006	Neoplasm of the central nervous system			TAS	TAS							OMIM:614255	HPO:probinson	Aug 10, 2013	
