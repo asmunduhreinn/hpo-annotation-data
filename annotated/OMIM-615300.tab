@@ -1,2 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:615300	#615300 PERRAULT SYNDROME 4; PRLTS4					HP:0000001	All			IEA	IEA							OMIM:615300	HPO:skoehler	12.01.2013
+OMIM:615300	#615300 PERRAULT SYNDROME 4; PRLTS4					HP:0008209	Premature ovarian failure			IEA	IEA							OMIM:615300	HPO:skoehler	17.09.2013
+OMIM:615300	#615300 PERRAULT SYNDROME 4; PRLTS4					HP:0001730	Progressive hearing impairment			IEA	IEA							OMIM:615300	HPO:skoehler	17.09.2013
+OMIM:615300	#615300 PERRAULT SYNDROME 4; PRLTS4					HP:0000786	Primary amenorrhea			IEA	IEA							OMIM:615300	HPO:skoehler	17.09.2013
+OMIM:615300	#615300 PERRAULT SYNDROME 4; PRLTS4					HP:0000130	Abnormality of the uterus			IEA	IEA							OMIM:615300	HPO:skoehler	17.09.2013
