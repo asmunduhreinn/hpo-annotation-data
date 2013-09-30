@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615400	#615400 EPILEPSY, FAMILIAL ADULT MYOCLONIC, 5; FAME5;;CORTICAL MYOCLONIC TREMOR WITH EPILEPSY, FAMILIAL, 5; FCMTE5					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:615400	HPO:skoehler	30.09.2013
