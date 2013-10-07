@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:228550	#228550 MYOFIBROMATOSIS, INFANTILE, 1; IMF1;;MYOFIBROMATOSIS, JUVENILE;;FIBROMATOSIS, CONGENITAL GENERALIZED; CGF					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:228550	HPO:skoehler	06.10.2013
+OMIM:228550	#228550 MYOFIBROMATOSIS, INFANTILE, 1; IMF1;;MYOFIBROMATOSIS, JUVENILE;;FIBROMATOSIS, CONGENITAL GENERALIZED; CGF					HP:0010614	Fibroma			IEA	IEA						OMIM-CS:Myofibromatosis affecting skin, muscle, bone, and viscera	OMIM:228550	HPO:skoehler	07.10.2013
+OMIM:228550	#228550 MYOFIBROMATOSIS, INFANTILE, 1; IMF1;;MYOFIBROMATOSIS, JUVENILE;;FIBROMATOSIS, CONGENITAL GENERALIZED; CGF					HP:0003549	Abnormality of connective tissue			IEA	IEA						OMIM-CS:Benign soft tissue developmental anomalies	OMIM:228550	HPO:skoehler	07.10.2013
+
