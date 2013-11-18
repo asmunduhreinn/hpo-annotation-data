@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615113	#615113 MICROPHTHALMIA, ISOLATED 8; MCOP8					HP:0000609	Optic nerve hypoplasia			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > HYPOPLASTIC OPTIC NERVES	OMIM:615113	HPO:skoehler	18.11.2013
+OMIM:615113	#615113 MICROPHTHALMIA, ISOLATED 8; MCOP8					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:615113	HPO:skoehler	18.11.2013
