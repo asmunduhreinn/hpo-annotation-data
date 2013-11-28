@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:601195	IRON OVERLOAD IN AFRICA					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:601195	HPO	17.02.2009
+OMIM:601195	601195 IRON OVERLOAD IN AFRICA;;AFRICAN IRON OVERLOAD;;BANTU SIDEROSIS					HP:0012463	Elevated transferrin saturation			IEA	IEA						OMIM-CS:LAB > ELEVATED TRANSFERRIN SATURATION	OMIM:601195	HPO:skoehler	28.11.2013
