@@ -1,4 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:233800	GROUPED PIGMENTATION OF THE MACULA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:233800	HPO	17.02.2009
-OMIM:233800	GROUPED PIGMENTATION OF THE MACULA					HP:0000478	Abnormality of the eye			IEA	IEA							OMIM:233800	HPO	17.02.2009
-OMIM:233800	GROUPED PIGMENTATION OF THE MACULA					HP:0001000	Abnormality of skin pigmentation			ITM	ITM							OMIM:233800	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:233800	GROUPED PIGMENTATION OF THE MACULA					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:233800	HPO:probinson	Feb 17, 2009	
+OMIM:233800	GROUPED PIGMENTATION OF THE MACULA					HP:0007703	Abnormal retinal pigmentation			TAS	TAS							OMIM:233800	HPO:probinson	Dec 8, 2013	
