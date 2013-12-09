@@ -1,7 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:600060	HPO	17.02.2009
-OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0002321	Vertigo			IEA	IEA							OMIM:600060	HPO	17.02.2009
-OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0003577	Congenital onset			ITM	ITM							OMIM:600060	HPO	17.02.2009
-OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0003674	Onset			IEA	IEA							OMIM:600060	HPO	17.02.2009
-OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:600060	HPO	17.02.2009
-OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:600060	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:600060	HPO:skoehler	Feb 17, 2009	
+OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0002321	Vertigo			TAS	TAS							OMIM:600060	HPO:skoehler	Feb 17, 2009	
+OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0003577	Congenital onset			TAS	TAS							OMIM:600060	HPO:skoehler	Feb 17, 2009	
+OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0000407	Sensorineural hearing impairment			TAS	TAS							OMIM:600060	HPO:skoehler	Feb 17, 2009	
+OMIM:600060	DEAFNESS, NEUROSENSORY, AUTOSOMAL RECESSIVE 2					HP:0001751	Vestibular dysfunction			TAS	TAS							OMIM:600060	HPO:skoehler	Dec 9, 2013	

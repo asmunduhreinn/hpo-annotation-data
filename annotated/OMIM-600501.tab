@@ -1,10 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:600501	ABCD SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:600501	HPO	17.02.2009
-OMIM:600501	ABCD SYNDROME					HP:0001022	Albinism			IEA	IEA							OMIM:600501	HPO	17.02.2009
-OMIM:600501	ABCD SYNDROME					HP:0001507	Growth abnormality			IEA	IEA							OMIM:600501	HPO	17.02.2009
-OMIM:600501	ABCD SYNDROME					HP:0002251	Aganglionic megacolon			ITM	ITM							OMIM:600501	HPO	17.02.2009
-OMIM:600501	ABCD SYNDROME					HP:0006958	Abnormal auditory evoked potentials			IEA	IEA							OMIM:600501	HPO	17.02.2009
-OMIM:600501	ABCD SYNDROME					HP:0007894	Hypopigmentation of the fundus			IEA	IEA							OMIM:600501	HPO	17.02.2009
-OMIM:600501	ABCD SYNDROME					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:600501	HPO	17.02.2009
-OMIM:600501	ABCD SYNDROME					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:600501	HPO	17.02.2009
-OMIM:600501	#600501 ABCD SYNDROME; ABCDS;;ALBINISM, BLACK LOCK, CELL MIGRATION DISORDER OF THE NEUROCYTES OFTHE GUT, AND DEAFNESS					HP:0001520	Large for gestational age			IEA	IEA						OMIM-CS:GROWTH > MACROSOMIA	OMIM:600501	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:600501	ABCD SYNDROME					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:600501	HPO:probinson	Feb 17, 2009	
+OMIM:600501	ABCD SYNDROME					HP:0001022	Albinism			TAS	TAS							OMIM:600501	HPO:probinson	Feb 17, 2009	
+OMIM:600501	ABCD SYNDROME					HP:0000365	Hearing impairment			TAS	TAS							OMIM:600501	HPO:skoehler	Feb 17, 2009	
+OMIM:600501	ABCD SYNDROME					HP:0006958	Abnormal auditory evoked potentials			TAS	TAS							OMIM:600501	HPO:probinson	Feb 17, 2009	
+OMIM:600501	ABCD SYNDROME					HP:0007894	Hypopigmentation of the fundus			TAS	TAS							OMIM:600501	HPO:probinson	Feb 17, 2009	
+OMIM:600501	#600501 ABCD SYNDROME; ABCDS;;ALBINISM, BLACK LOCK, CELL MIGRATION DISORDER OF THE NEUROCYTES OFTHE GUT, AND DEAFNESS					HP:0001520	Large for gestational age			TAS	TAS							OMIM:600501	HPO:skoehler	Oct 17, 2012	
+OMIM:600501	ABCD SYNDROME					HP:0002251	Aganglionic megacolon			TAS	TAS							OMIM:600501	HPO:skoehler	Dec 9, 2013	
