@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 MIM:314200	THYROXINE-BINDING GLOBULIN OF SERUM					HP:0001263	Global developmental delay			TAS	TAS							OMIM:314200	HPO:probinson	Feb 17, 2009	
 OMIM:314200	THYROXINE-BINDING GLOBULIN OF SERUM					HP:0001419	X-linked recessive inheritance			TAS	TAS							OMIM:314200	HPO:probinson	Feb 17, 2009	
-MIM:314200	THYROXINE-BINDING GLOBULIN OF SERUM					HP:0001939	Abnormality of metabolism/homeostasis			TAS	TAS							OMIM:314200	HPO:probinson	Feb 17, 2009	
+MIM:314200	THYROXINE-BINDING GLOBULIN OF SERUM					HP:0012509	Reduced thyroxin-binding globulin			TAS	TAS							OMIM:314200	HPO:probinson	Dec 14, 2013	
