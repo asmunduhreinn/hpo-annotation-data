@@ -1,15 +1,15 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:229120	FOUNTAIN SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:229120	HPO	17.02.2009
-OMIM:229120	FOUNTAIN SYNDROME					HP:0000179	Thick lower lip vermilion			IEA	IEA							OMIM:229120	HPO:skoehler	18.06.2010
-OMIM:229120	FOUNTAIN SYNDROME					HP:0000280	Coarse facial features			IEA	IEA							OMIM:229120	HPO	17.02.2009
-OMIM:229120	FOUNTAIN SYNDROME					HP:0000282	Facial edema			IEA	IEA							OMIM:229120	HPO	17.02.2009
-OMIM:229120	FOUNTAIN SYNDROME					HP:0000407	Sensorineural hearing impairment			IEA	IEA							OMIM:229120	HPO	17.02.2009
-OMIM:229120	FOUNTAIN SYNDROME					HP:0001169	Broad palm			IEA	IEA							OMIM:229120	HPO:skoehler	18.06.2010
-OMIM:229120	FOUNTAIN SYNDROME					HP:0001249	Intellectual disability			IEA	IEA							OMIM:229120	HPO	17.02.2009
-OMIM:229120	FOUNTAIN SYNDROME					HP:0001250	Seizures			IEA	IEA							OMIM:229120	HPO:skoehler	18.06.2010
-OMIM:229120	FOUNTAIN SYNDROME					HP:0002684	Thickened calvaria			IEA	IEA							OMIM:229120	HPO	17.02.2009
-OMIM:229120	FOUNTAIN SYNDROME					HP:0004279	Short palm			ITM	ITM							OMIM:229120	HPO	17.02.2009
-OMIM:229120	FOUNTAIN SYNDROME					HP:0004279	Short palm			IEA	IEA							OMIM:229120	HPO:skoehler	18.06.2010
-OMIM:229120	FOUNTAIN SYNDROME					HP:0004322	Short stature			IEA	IEA							OMIM:229120	HPO:skoehler	18.06.2010
-OMIM:229120	FOUNTAIN SYNDROME					HP:0009768	Broad phalanges of the hand			ITM	ITM							OMIM:229120	HPO	17.02.2009
-OMIM:229120	FOUNTAIN SYNDROME					HP:0009836	Broad distal phalanges of the hand			IEA	IEA							OMIM:229120	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:229120	HPO	Feb 17, 2009	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0000179	Thick lower lip vermilion			IEA	IEA							OMIM:229120	HPO:skoehler	Jun 18, 2010	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0000280	Coarse facial features			IEA	IEA							OMIM:229120	HPO	Feb 17, 2009	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0000282	Facial edema			IEA	IEA							OMIM:229120	HPO	Feb 17, 2009	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0000407	Sensorineural hearing impairment			IEA	IEA							OMIM:229120	HPO	Feb 17, 2009	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0001169	Broad palm			IEA	IEA							OMIM:229120	HPO:skoehler	Jun 18, 2010	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0001249	Intellectual disability			IEA	IEA							OMIM:229120	HPO	Feb 17, 2009	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0001250	Seizures			IEA	IEA							OMIM:229120	HPO:skoehler	Jun 18, 2010	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0002684	Thickened calvaria			IEA	IEA							OMIM:229120	HPO	Feb 17, 2009	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0004279	Short palm			TAS	TAS							OMIM:229120	HPO:skoehler	Feb 17, 2009	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0004279	Short palm			IEA	IEA							OMIM:229120	HPO:skoehler	Jun 18, 2010	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0004322	Short stature			IEA	IEA							OMIM:229120	HPO:skoehler	Jun 18, 2010	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0009836	Broad distal phalanx of finger			IEA	IEA							OMIM:229120	HPO	Feb 17, 2009	
+OMIM:229120	FOUNTAIN SYNDROME					HP:0009836	Broad distal phalanx of finger			TAS	TAS							OMIM:229120	HPO:probinson	Dec 15, 2013	

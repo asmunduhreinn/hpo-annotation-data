@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:613490	#613490 ALPHA-1-ANTITRYPSIN DEFICIENCY					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:613490	HPO:skoehler	17.10.2012
-OMIM:613490	#613490 ALPHA-1-ANTITRYPSIN DEFICIENCY					HP:0001402	Hepatocellular carcinoma			IEA	IEA						OMIM-CS:NEOPLASIA > INCREASED HEPATOCELLULAR CARCINOMA RISK	OMIM:613490	HPO:skoehler	17.10.2012
-OMIM:613490	#613490 ALPHA-1-ANTITRYPSIN DEFICIENCY					HP:0006510	Chronic obstructive pulmonary disease			IEA	IEA						OMIM-CS:RESPIRATORY_LUNG > CHRONIC OBSTRUCTIVE PULMONARY DISEASE	OMIM:613490	HPO:skoehler	17.10.2012
-OMIM:613490	#613490 ALPHA-1-ANTITRYPSIN DEFICIENCY					HP:0001394	Cirrhosis			IEA	IEA	rare					OMIM-CS:ABDOMEN_LIVER > CIRRHOSIS (RARE)	OMIM:613490	HPO:skoehler	18.11.2012
-OMIM:613490	#613490 ALPHA-1-ANTITRYPSIN DEFICIENCY					HP:0002910	Elevated hepatic transaminases			IEA	IEA						OMIM-CS:ABDOMEN_LIVER > ABNORMAL LIVER FUNCTION TESTS	OMIM:613490	HPO:skoehler	06.10.2013
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613490	#613490 ALPHA-1-ANTITRYPSIN DEFICIENCY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:613490	HPO:skoehler	Oct 17, 2012	
+OMIM:613490	#613490 ALPHA-1-ANTITRYPSIN DEFICIENCY					HP:0001402	Hepatocellular carcinoma			TAS	TAS							OMIM:613490	HPO:skoehler	Oct 17, 2012	
+OMIM:613490	#613490 ALPHA-1-ANTITRYPSIN DEFICIENCY					HP:0006510	Chronic obstructive pulmonary disease			TAS	TAS							OMIM:613490	HPO:skoehler	Oct 17, 2012	
+OMIM:613490	#613490 ALPHA-1-ANTITRYPSIN DEFICIENCY					HP:0001394	Cirrhosis			TAS	TAS	rare						OMIM:613490	HPO:skoehler	Nov 18, 2012	
+OMIM:613490	#613490 ALPHA-1-ANTITRYPSIN DEFICIENCY					HP:0002910	Elevated hepatic transaminases			TAS	TAS							OMIM:613490	HPO:skoehler	Oct 6, 2013	

@@ -1,9 +1,0 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:107400	PROTEASE INHIBITOR 1					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:107400	HPO	17.02.2009
-OMIM:107400	PROTEASE INHIBITOR 1					HP:0001394	Cirrhosis			IEA	IEA							OMIM:107400	HPO	17.02.2009
-OMIM:107400	PROTEASE INHIBITOR 1					HP:0001402	Hepatocellular carcinoma			IEA	IEA							OMIM:107400	HPO	17.02.2009
-OMIM:107400	PROTEASE INHIBITOR 1					HP:0002094	Dyspnea			ITM	ITM							OMIM:107400	HPO	17.02.2009
-OMIM:107400	PROTEASE INHIBITOR 1					HP:0002097	Emphysema			IEA	IEA							OMIM:107400	HPO	17.02.2009
-OMIM:107400	PROTEASE INHIBITOR 1					HP:0002880	Respiratory difficulties			ITM	ITM							OMIM:107400	HPO	17.02.2009
-OMIM:107400	PROTEASE INHIBITOR 1					HP:0002910	Elevated hepatic transaminases			IEA	IEA							OMIM:107400	HPO	17.02.2009
-OMIM:107400	PROTEASE INHIBITOR 1					HP:0006510	Chronic obstructive pulmonary disease			IEA	IEA							OMIM:107400	HPO	17.02.2009
