@@ -1,3 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:151441	LEUKEMIA/LYMPHOMA, CHRONIC B-CELL, 5					HP:0001444	Autosomal dominant somatic cell mutation			IEA	IEA							OMIM:151441	HPO	17.02.2009
-OMIM:151441	LEUKEMIA/LYMPHOMA, CHRONIC B-CELL, 5					HP:0005550	Chronic lymphatic leukemia			ITM	ITM							OMIM:151441	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:151441	LEUKEMIA/LYMPHOMA, CHRONIC B-CELL, 5					HP:0001444	Autosomal dominant somatic cell mutation			IEA	IEA							OMIM:151441	HPO	Feb 17, 2009	
+OMIM:151441	LEUKEMIA/LYMPHOMA, CHRONIC B-CELL, 5					HP:0005550	Chronic lymphatic leukemia			TAS	TAS							OMIM:151441	HPO:skoehler	Feb 17, 2009	
