@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:612376	#612376 ACUTE PROMYELOCYTIC LEUKEMIA; APL;;LEUKEMIA, ACUTE PROMYELOCYTIC					HP:0012135	Abnormality of cells of the granulocytic lineage			IEA	IEA							OMIM:612376	HPO:skoehler	Jan 9, 2013	
-OMIM:612376	#612376 ACUTE PROMYELOCYTIC LEUKEMIA; APL;;LEUKEMIA, ACUTE PROMYELOCYTIC					HP:0004836	Acute promyelocytic leukemia			IEA	IEA							OMIM:612376	HPO:skoehler	Jan 10, 2013	
+OMIM:612376	#612376 ACUTE PROMYELOCYTIC LEUKEMIA; APL;;LEUKEMIA, ACUTE PROMYELOCYTIC					HP:0012135	Abnormality of cells of the granulocytic lineage			TAS	TAS							OMIM:612376	HPO:skoehler	Jan 9, 2013	
+OMIM:612376	#612376 ACUTE PROMYELOCYTIC LEUKEMIA; APL;;LEUKEMIA, ACUTE PROMYELOCYTIC					HP:0004836	Acute promyelocytic leukemia			TAS	TAS							OMIM:612376	HPO:skoehler	Jan 10, 2013	
+OMIM:612376	#612376 ACUTE PROMYELOCYTIC LEUKEMIA; APL;;LEUKEMIA, ACUTE PROMYELOCYTIC					HP:0001428	Somatic mutation			PCS	PCS							pmid:1652368	HPO:probinson	Dec 15, 2013	

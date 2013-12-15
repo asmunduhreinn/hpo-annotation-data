@@ -1,3 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:613652	#613652 C1q DEFICIENCY; C1QD					HP:0002960	Autoimmunity			IEA	IEA						OMIM-CS:IMMUNOLOGY > AUTOIMMUNE DISEASE	OMIM:613652	HPO:skoehler	17.10.2012
-OMIM:613652	#613652 C1q DEFICIENCY; C1QD					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:613652	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613652	#613652 C1q DEFICIENCY; C1QD					HP:0002960	Autoimmunity			TAS	TAS							OMIM:613652	HPO:skoehler	Oct 17, 2012	
+OMIM:613652	#613652 C1q DEFICIENCY; C1QD					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:613652	HPO:skoehler	Oct 17, 2012	
+OMIM:613652	#613652 C1q DEFICIENCY; C1QD					HP:0005356	Decreased serum complement factor I			TAS	TAS							OMIM:613652	HPO:probinson	Dec 15, 2013	
+OMIM:613652	#613652 C1q DEFICIENCY; C1QD					HP:0002719	Recurrent infections			TAS	TAS							OMIM:613652	HPO:probinson	Dec 15, 2013	
+OMIM:613652	#613652 C1q DEFICIENCY; C1QD					HP:0002725	Systemic lupus erythematosus			TAS	TAS	Occasional						OMIM:613652	HPO:probinson	Dec 15, 2013	
+OMIM:613652	#613652 C1q DEFICIENCY; C1QD					HP:0000793	Membranoproliferative glomerulonephritis			TAS	TAS	Occasional						OMIM:613652	HPO:probinson	Dec 15, 2013	
