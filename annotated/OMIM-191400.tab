@@ -1,6 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:191400	ULNA AND FIBULA, HYPOPLASIA OF					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:191400	HPO	17.02.2009
-OMIM:191400	ULNA AND FIBULA, HYPOPLASIA OF					HP:0003022	Hypoplasia of the ulna			IEA	IEA							OMIM:191400	HPO	17.02.2009
-OMIM:191400	ULNA AND FIBULA, HYPOPLASIA OF					HP:0003038	Fibular hypoplasia			IEA	IEA							OMIM:191400	HPO	17.02.2009
-OMIM:191400	ULNA AND FIBULA, HYPOPLASIA OF					HP:0008873	Disproportionate short-limb short stature			ITM	ITM							OMIM:191400	HPO	17.02.2009
-OMIM:191400	ULNA AND FIBULA, HYPOPLASIA OF					HP:0008921	Neonatal short-limb short stature			IEA	IEA							OMIM:191400	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:191400	ULNA AND FIBULA, HYPOPLASIA OF					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:191400	HPO	Feb 17, 2009	
+OMIM:191400	ULNA AND FIBULA, HYPOPLASIA OF					HP:0003022	Hypoplasia of the ulna			IEA	IEA							OMIM:191400	HPO	Feb 17, 2009	
+OMIM:191400	ULNA AND FIBULA, HYPOPLASIA OF					HP:0003038	Fibular hypoplasia			IEA	IEA							OMIM:191400	HPO	Feb 17, 2009	
+OMIM:191400	ULNA AND FIBULA, HYPOPLASIA OF					HP:0008873	Disproportionate short-limb short stature	HP:0003577	Congenital onset	TAS	TAS							OMIM:191400	HPO:probinson	Feb 17, 2009	
+OMIM:191400	ULNA AND FIBULA, HYPOPLASIA OF					HP:0008921	Neonatal short-limb short stature			TAS	TAS							OMIM:191400	HPO	Feb 17, 2009	
