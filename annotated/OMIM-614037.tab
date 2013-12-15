@@ -1,2 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:614037	614037 LEUKOTRIENE C4 SYNTHASE DEFICIENCY;;LTC4 SYNTHASE DEFICIENCY					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:614037	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:614037	614037 LEUKOTRIENE C4 SYNTHASE DEFICIENCY;;LTC4 SYNTHASE DEFICIENCY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:614037	HPO:skoehler	Oct 17, 2012	
+OMIM:614037	614037 LEUKOTRIENE C4 SYNTHASE DEFICIENCY;;LTC4 SYNTHASE DEFICIENCY					HP:0001252	Muscular hypotonia			PCS	PCS							pmid:9820300	HPO:probinson	Dec 15, 2013	
+OMIM:614037	614037 LEUKOTRIENE C4 SYNTHASE DEFICIENCY;;LTC4 SYNTHASE DEFICIENCY					HP:0001263	Global developmental delay			PCS	PCS							pmid:9820300	HPO:probinson	Dec 15, 2013	
+OMIM:614037	614037 LEUKOTRIENE C4 SYNTHASE DEFICIENCY;;LTC4 SYNTHASE DEFICIENCY					HP:0001531	Failure to thrive in infancy			PCS	PCS							pmid:9820300	HPO:probinson	Dec 15, 2013	
+OMIM:614037	614037 LEUKOTRIENE C4 SYNTHASE DEFICIENCY;;LTC4 SYNTHASE DEFICIENCY					HP:0000252	Microcephaly			PCS	PCS							pmid:9820300	HPO:probinson	Dec 15, 2013	
+OMIM:614037	614037 LEUKOTRIENE C4 SYNTHASE DEFICIENCY;;LTC4 SYNTHASE DEFICIENCY					HP:0001522	Death in infancy			PCS	PCS							pmid:9820300	HPO:probinson	Dec 15, 2013	
