@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:604091	HYPOALPHALIPOPROTEINEMIA, PRIMARY					HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:9888879	HPO:probinson	Dec 15, 2013	
+MIM:604091	HYPOALPHALIPOPROTEINEMIA, PRIMARY					HP:0003233	Hypoalphalipoproteinemia			PCS	PCS							pmid:9888879	HPO:probinson	Dec 15, 2013	

@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:613801	#613801 RETINITIS PIGMENTOSA 40; RP40					HP:0008323	Abnormal rod and cone electroretinograms			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > ABNORMAL ROD AND CONE ELECTRORETINOGRAMS	OMIM:613801	HPO:skoehler	17.10.2012
-OMIM:613801	#613801 RETINITIS PIGMENTOSA 40; RP40					HP:0000510	Retinitis pigmentosa			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > RETINITIS PIGMENTOSA	OMIM:613801	HPO:skoehler	17.10.2012
-OMIM:613801	#613801 RETINITIS PIGMENTOSA 40; RP40					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:613801	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613801	#613801 RETINITIS PIGMENTOSA 40; RP40					HP:0008323	Abnormal rod and cone electroretinograms			TAS	TAS							OMIM:613801	HPO:skoehler	Oct 17, 2012	
+OMIM:613801	#613801 RETINITIS PIGMENTOSA 40; RP40					HP:0000510	Retinitis pigmentosa			TAS	TAS							OMIM:613801	HPO:skoehler	Oct 17, 2012	
+OMIM:613801	#613801 RETINITIS PIGMENTOSA 40; RP40					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:613801	HPO:skoehler	Oct 17, 2012	
