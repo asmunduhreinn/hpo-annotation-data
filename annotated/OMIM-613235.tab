@@ -1,4 +1,8 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:613235	FACTOR XIII, B SUBUNIT, DEFICIENCY OF					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:613235	HPO:skoehler	19.06.2010
-OMIM:613235	FACTOR XIII, B SUBUNIT, DEFICIENCY OF					HP:0000978	Bruising susceptibility			IEA	IEA							OMIM:613235	HPO:skoehler	19.06.2010
-OMIM:613235	FACTOR XIII, B SUBUNIT, DEFICIENCY OF					HP:0003577	Congenital onset			IEA	IEA							OMIM:613235	HPO:skoehler	19.06.2010
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613235	FACTOR XIII, B SUBUNIT, DEFICIENCY OF					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:613235	HPO:skoehler	Jun 19, 2010	
+OMIM:613235	FACTOR XIII, B SUBUNIT, DEFICIENCY OF					HP:0000978	Bruising susceptibility			TAS	TAS							OMIM:613235	HPO:skoehler	Jun 19, 2010	
+OMIM:613235	FACTOR XIII, B SUBUNIT, DEFICIENCY OF					HP:0003577	Congenital onset			TAS	TAS							OMIM:613235	HPO:skoehler	Jun 19, 2010	
+OMIM:613235	FACTOR XIII, B SUBUNIT, DEFICIENCY OF					HP:0001892	Abnormal bleeding			TAS	TAS							OMIM:613235	HPO:probinson	Dec 15, 2013	
+OMIM:613235	FACTOR XIII, B SUBUNIT, DEFICIENCY OF					HP:0011884	Abnormal umbilical stump bleeding			TAS	TAS							OMIM:613235	HPO:probinson	Dec 15, 2013	
+OMIM:613235	FACTOR XIII, B SUBUNIT, DEFICIENCY OF					HP:0004846	Prolonged bleeding after surgery			TAS	TAS							OMIM:613235	HPO:probinson	Dec 15, 2013	
+OMIM:613235	FACTOR XIII, B SUBUNIT, DEFICIENCY OF					HP:0008357	Reduced factor XIII activity			TAS	TAS							OMIM:613235	HPO:probinson	Dec 15, 2013	
