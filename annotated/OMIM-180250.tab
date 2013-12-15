@@ -1,8 +1,0 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:180250	RETINOL-BINDING PROTEIN 4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:180250	HPO	Feb 17, 2009	
-OMIM:180250	RETINOL-BINDING PROTEIN 4					HP:0000612	Iris coloboma			TAS	TAS							OMIM:180250	HPO:skoehler	Feb 17, 2009	
-OMIM:180250	RETINOL-BINDING PROTEIN 4					HP:0001061	Acne			IEA	IEA							OMIM:180250	HPO:skoehler	Jun 20, 2010	
-OMIM:180250	RETINOL-BINDING PROTEIN 4					HP:0007791	Patchy atrophy of the retinal pigment epithelium			IEA	IEA							OMIM:180250	HPO	Feb 17, 2009	
-OMIM:180250	RETINOL-BINDING PROTEIN 4					HP:0008179	Decreased electrooculogram (EOG)			IEA	IEA							OMIM:180250	HPO	Feb 17, 2009	
-OMIM:180250	RETINOL-BINDING PROTEIN 4					HP:0000505	Visual impairment			TAS	TAS						Mild	OMIM:180250	HPO:probinson	Mar 22, 2013	
-OMIM:180250	+180250 RETINOL-BINDING PROTEIN 4; RBP4;;RETINOL-BINDING PROTEIN, PLASMARETINOL-BINDING PROTEIN DEFICIENCY, INCLUDED;;FAMILIAL HYPO-RBP, INCLUDED					HP:0007739	Mildly reduced visual acuity			IEA	IEA						OMIM-CS:EYES > MILDLY REDUCED VISUAL ACUITY	OMIM:180250	HPO:skoehler	27.03.2013
