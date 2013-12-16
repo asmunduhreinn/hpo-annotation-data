@@ -1,8 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:262000	BJORNSTAD SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:262000	HPO	17.02.2009
-OMIM:262000	BJORNSTAD SYNDROME					HP:0000044	Hypogonadotrophic hypogonadism			ITM	ITM							OMIM:262000	HPO	17.02.2009
-OMIM:262000	BJORNSTAD SYNDROME					HP:0000407	Sensorineural hearing impairment			IEA	IEA							OMIM:262000	HPO	17.02.2009
-OMIM:262000	BJORNSTAD SYNDROME					HP:0001596	Alopecia			IEA	IEA							OMIM:262000	HPO	17.02.2009
-OMIM:262000	BJORNSTAD SYNDROME					HP:0002208	Coarse hair			IEA	IEA							OMIM:262000	HPO	17.02.2009
-OMIM:262000	BJORNSTAD SYNDROME					HP:0003329	Hair shafts flattened at irregular intervals and twisted through 180 degrees about their axes			IEA	IEA							OMIM:262000	HPO	17.02.2009
-OMIM:262000	BJORNSTAD SYNDROME					HP:0008192	Gonadotropin deficiency			ITM	ITM							OMIM:262000	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:262000	BJORNSTAD SYNDROME					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:262000	HPO:probinson	Feb 17, 2009	
+OMIM:262000	BJORNSTAD SYNDROME					HP:0000407	Sensorineural hearing impairment			TAS	TAS							OMIM:262000	HPO:probinson	Feb 17, 2009	
+OMIM:262000	BJORNSTAD SYNDROME					HP:0001596	Alopecia			TAS	TAS							OMIM:262000	HPO:probinson	Feb 17, 2009	
+OMIM:262000	BJORNSTAD SYNDROME					HP:0002208	Coarse hair			TAS	TAS							OMIM:262000	HPO:probinson	Feb 17, 2009	
+OMIM:262000	BJORNSTAD SYNDROME					HP:0003329	Hair shafts flattened at irregular intervals and twisted through 180 degrees about their axes			TAS	TAS							OMIM:262000	HPO:probinson	Feb 17, 2009	
+OMIM:262000	BJORNSTAD SYNDROME					HP:0000135	Hypogonadism			TAS	TAS							OMIM:262000	HPO:probinson	Dec 16, 2013	
+OMIM:262000	BJORNSTAD SYNDROME					HP:0011359	Dry hair			TAS	TAS							OMIM:262000	HPO:probinson	Dec 16, 2013	
+OMIM:262000	BJORNSTAD SYNDROME					HP:0002299	Brittle hair			PCS	PCS							pmid:15345881	HPO:probinson	Dec 16, 2013	
