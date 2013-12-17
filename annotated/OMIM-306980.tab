@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:306980	HIRSCHSPRUNG DISEASE WITH TYPE D BRACHYDACTYLY					HP:0002251	Aganglionic megacolon			IEA	IEA							OMIM:306980	HPO	17.02.2009
-OMIM:306980	HIRSCHSPRUNG DISEASE WITH TYPE D BRACHYDACTYLY					HP:0005627	Type D brachydactyly			IEA	IEA							OMIM:306980	HPO	17.02.2009
-OMIM:306980	HIRSCHSPRUNG DISEASE WITH TYPE D BRACHYDACTYLY					HP:0009778	Hypoplastic/small thumb			ITM	ITM							OMIM:306980	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:306980	HIRSCHSPRUNG DISEASE WITH TYPE D BRACHYDACTYLY					HP:0002251	Aganglionic megacolon			IEA	IEA							OMIM:306980	HPO	Feb 17, 2009	
+OMIM:306980	HIRSCHSPRUNG DISEASE WITH TYPE D BRACHYDACTYLY					HP:0005627	Type D brachydactyly			IEA	IEA							OMIM:306980	HPO	Feb 17, 2009	
+OMIM:306980	HIRSCHSPRUNG DISEASE WITH TYPE D BRACHYDACTYLY					HP:0009778	Short thumb			TAS	TAS							OMIM:306980	HPO:skoehler	Feb 17, 2009	

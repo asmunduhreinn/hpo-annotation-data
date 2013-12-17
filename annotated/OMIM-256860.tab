@@ -1,8 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:256860	HPO	17.02.2009
-OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0000763	Sensory neuropathy			IEA	IEA							OMIM:256860	HPO	17.02.2009
-OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0000924	Abnormality of the musculoskeletal system			IEA	IEA							OMIM:256860	HPO	17.02.2009
-OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0001251	Ataxia			IEA	IEA							OMIM:256860	HPO:skoehler	20.06.2010
-OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0003487	Babinski sign			IEA	IEA							OMIM:256860	HPO	17.02.2009
-OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0003584	Late onset			ITM	ITM							OMIM:256860	HPO	17.02.2009
-OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0009830	Peripheral neuropathy			ITM	ITM							OMIM:256860	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:256860	HPO:skoehler	Feb 17, 2009	
+OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0000763	Sensory neuropathy			TAS	TAS							OMIM:256860	HPO:skoehler	Feb 17, 2009	
+OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0001226	Acral ulceration and osteomyelitis leading to autoamputation of digits			TAS	TAS				NOT	NOT		OMIM:256860	HPO:skoehler	Feb 17, 2009	
+OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0003487	Babinski sign			TAS	TAS							OMIM:256860	HPO:skoehler	Feb 17, 2009	
+OMIM:256860	NEUROPATHY, HEREDITARY SENSORY, ATYPICAL					HP:0010871	Sensory ataxia			TAS	TAS							OMIM:256860	HPO:probinson	Dec 17, 2013	
