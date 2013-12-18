@@ -1,7 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:140450	HEART-HAND SYNDROME, SPANISH TYPE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:140450	HPO	17.02.2009
-OMIM:140450	HEART-HAND SYNDROME, SPANISH TYPE					HP:0001156	Brachydactyly			IEA	IEA							OMIM:140450	HPO	17.02.2009
-OMIM:140450	HEART-HAND SYNDROME, SPANISH TYPE					HP:0001626	Abnormality of the cardiovascular system			IEA	IEA							OMIM:140450	HPO	17.02.2009
-OMIM:140450	HEART-HAND SYNDROME, SPANISH TYPE					HP:0009464	Ulnar deviation of the 2nd finger			IEA	IEA							OMIM:140450	HPO	17.02.2009
-OMIM:140450	HEART-HAND SYNDROME, SPANISH TYPE					HP:0010240	Hypoplasia of the middle phalanges of the hand			ITM	ITM							OMIM:140450	HPO	17.02.2009
-OMIM:140450	140450 HEART-HAND SYNDROME, SPANISH TYPE					HP:0011704	Sick sinus syndrome			IEA	IEA						OMIM-CS:CARDIAC > SICK SINUS SYNDROME	OMIM:140450	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:140450	HEART-HAND SYNDROME, SPANISH TYPE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:140450	HPO	Feb 17, 2009	
+OMIM:140450	HEART-HAND SYNDROME, SPANISH TYPE					HP:0001156	Brachydactyly syndrome			IEA	IEA							OMIM:140450	HPO	Feb 17, 2009	
+OMIM:140450	HEART-HAND SYNDROME, SPANISH TYPE					HP:0001626	Abnormality of the cardiovascular system			IEA	IEA							OMIM:140450	HPO	Feb 17, 2009	
+OMIM:140450	HEART-HAND SYNDROME, SPANISH TYPE					HP:0009464	Ulnar deviation of the 2nd finger			IEA	IEA							OMIM:140450	HPO	Feb 17, 2009	
+OMIM:140450	HEART-HAND SYNDROME, SPANISH TYPE					HP:0010240	Hypoplasia of the middle phalanges of the hand			TAS	TAS							OMIM:140450	HPO:skoehler	Feb 17, 2009	
+OMIM:140450	140450 HEART-HAND SYNDROME, SPANISH TYPE					HP:0011704	Sick sinus syndrome			TAS	TAS							OMIM:140450	HPO:skoehler	Oct 17, 2012	
