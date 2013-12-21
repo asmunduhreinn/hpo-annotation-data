@@ -1,5 +1,3 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:608219	DEAFNESS, CONGENITAL NEUROSENSORY, AUTOSOMAL RECESSIVE 38					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:608219	HPO	17.02.2009
-OMIM:608219	DEAFNESS, CONGENITAL NEUROSENSORY, AUTOSOMAL RECESSIVE 38					HP:0000399	Prelingual sensorineural hearing impairment			IEA	IEA							OMIM:608219	HPO	17.02.2009
-OMIM:608219	DEAFNESS, CONGENITAL NEUROSENSORY, AUTOSOMAL RECESSIVE 38					HP:0008513	Bilateral conductive hearing impairment			ITM	ITM							OMIM:608219	HPO	17.02.2009
-OMIM:608219	DEAFNESS, CONGENITAL NEUROSENSORY, AUTOSOMAL RECESSIVE 38					HP:0008619	Bilateral sensorineural hearing impairment			ITM	ITM							OMIM:608219	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:608219	DEAFNESS, CONGENITAL NEUROSENSORY, AUTOSOMAL RECESSIVE 38					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:608219	HPO:probinson	Feb 17, 2009	
+OMIM:608219	DEAFNESS, CONGENITAL NEUROSENSORY, AUTOSOMAL RECESSIVE 38					HP:0000399	Prelingual sensorineural hearing impairment			TAS	TAS						severe	OMIM:608219	HPO:probinson	Feb 17, 2009	

@@ -1,6 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:145350	HYPERTAURINURIC CARDIOMYOPATHY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:145350	HPO	17.02.2009
-OMIM:145350	HYPERTAURINURIC CARDIOMYOPATHY					HP:0001634	Mitral valve prolapse			IEA	IEA							OMIM:145350	HPO	17.02.2009
-OMIM:145350	HYPERTAURINURIC CARDIOMYOPATHY					HP:0001644	Dilated cardiomyopathy			ITM	ITM							OMIM:145350	HPO	17.02.2009
-OMIM:145350	HYPERTAURINURIC CARDIOMYOPATHY					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:145350	HPO	17.02.2009
-OMIM:145350	145350 HYPERTAURINURIC CARDIOMYOPATHY					HP:0200130	Congestive cardiomyopathy			IEA	IEA						OMIM-CS:CARDIAC > CONGESTIVE CARDIOMYOPATHY	OMIM:145350	HPO:skoehler	11.06.2013
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:145350	HYPERTAURINURIC CARDIOMYOPATHY					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:145350	HPO:skoehler	Feb 17, 2009	
+OMIM:145350	HYPERTAURINURIC CARDIOMYOPATHY					HP:0001634	Mitral valve prolapse			TAS	TAS							OMIM:145350	HPO:skoehler	Feb 17, 2009	
+OMIM:145350	145350 HYPERTAURINURIC CARDIOMYOPATHY					HP:0200130	Congestive cardiomyopathy			TAS	TAS							OMIM:145350	HPO:skoehler	Jun 11, 2013	
+OMIM:145350	HYPERTAURINURIC CARDIOMYOPATHY					HP:0003166	Increased urinary taurine			TAS	TAS							OMIM:145350	HPO:probinson	Dec 21, 2013	
