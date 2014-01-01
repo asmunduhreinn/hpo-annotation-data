@@ -1,5 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:606768	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:606768	HPO	17.02.2009
-OMIM:606768	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET					HP:0003198	Myopathy			ITM	ITM							OMIM:606768	HPO	17.02.2009
-OMIM:606768	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET					HP:0003236	Elevated serum creatine phosphokinase			IEA	IEA							OMIM:606768	HPO	17.02.2009
-OMIM:606768	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET					HP:0003678	Rapidly progressive			IEA	IEA							OMIM:606768	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:606768	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:606768	HPO	Feb 17, 2009	
+OMIM:606768	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET					HP:0003236	Elevated serum creatine phosphokinase			TAS	TAS							OMIM:606768	HPO:skoehler	Feb 17, 2009	
+OMIM:606768	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET					HP:0003678	Rapidly progressive			IEA	IEA							OMIM:606768	HPO	Feb 17, 2009	
+OMIM:606768	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET					HP:0002460	Distal muscle weakness			TAS	TAS							OMIM:606768	HPO:probinson	Jan 1, 2014	
+OMIM:606768	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET					HP:0003693	Distal amyotrophy			TAS	TAS							OMIM:606768	HPO:probinson	Jan 1, 2014	
