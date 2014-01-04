@@ -1,4 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:117100	CENTRALOPATHIC EPILEPSY					HP:0001420	Isolated cases			TAS	TAS							OMIM:117100	HPO:probinson	Feb 17, 2009	
 OMIM:117100	CENTRALOPATHIC EPILEPSY					HP:0007334	Bilateral convulsive seizures			TAS	TAS							OMIM:117100	HPO:probinson	Feb 17, 2009	
 OMIM:117100	CENTRALOPATHIC EPILEPSY					HP:0007359	Focal seizures			TAS	TAS							OMIM:117100	HPO:probinson	Dec 15, 2013	
+OMIM:117100	CENTRALOPATHIC EPILEPSY					HP:0012557	EEG with centrotemporal focal spike waves			TAS	TAS							OMIM:117100	HPO:probinson	Jan 4, 2014	
+OMIM:117100	CENTRALOPATHIC EPILEPSY					HP:0003745	Sporadic			TAS	TAS							OMIM:117100	HPO:probinson	Jan 4, 2014	

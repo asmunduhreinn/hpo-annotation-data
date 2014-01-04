@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+MIM:300908	ANEMIA, NONSPHEROCYTIC HEMOLYTIC, DUE TO G6PD DEFICIENCY					HP:0006579	Prolonged neonatal jaundice			TAS	TAS							MIM:30908	HPO:probinson	Jan 4, 2014	
+MIM:300908	ANEMIA, NONSPHEROCYTIC HEMOLYTIC, DUE TO G6PD DEFICIENCY					HP:0008282	Unconjugated hyperbilirubinemia			TAS	TAS							MIM:30908	HPO:probinson	Jan 4, 2014	
+MIM:300908	ANEMIA, NONSPHEROCYTIC HEMOLYTIC, DUE TO G6PD DEFICIENCY					HP:0001923	Reticulocytosis			TAS	TAS							MIM:30908	HPO:probinson	Jan 4, 2014	
+MIM:300908	ANEMIA, NONSPHEROCYTIC HEMOLYTIC, DUE TO G6PD DEFICIENCY					HP:0004814	Fava bean-induced hemolytic anemia			TAS	TAS							MIM:30908	HPO:probinson	Jan 4, 2014	
