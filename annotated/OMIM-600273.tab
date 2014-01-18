@@ -1,4 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:600273	POLYCYSTIC KIDNEY DISEASE, INFANTILE SEVERE, WITH TUBEROUS SCLEROSIS					HP:0000707	Abnormality of the nervous system			IEA	IEA							OMIM:600273	HPO	17.02.2009
-OMIM:600273	POLYCYSTIC KIDNEY DISEASE, INFANTILE SEVERE, WITH TUBEROUS SCLEROSIS					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:600273	HPO	17.02.2009
-OMIM:600273	POLYCYSTIC KIDNEY DISEASE, INFANTILE SEVERE, WITH TUBEROUS SCLEROSIS					HP:0008673	Infantile polycystic kidneys			IEA	IEA							OMIM:600273	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:600273	POLYCYSTIC KIDNEY DISEASE, INFANTILE SEVERE, WITH TUBEROUS SCLEROSIS					HP:0009717	Cortical tubers			TAS	TAS							OMIM:600273	HPO	Feb 17, 2009	
+OMIM:600273	POLYCYSTIC KIDNEY DISEASE, INFANTILE SEVERE, WITH TUBEROUS SCLEROSIS					HP:0000113	Polycystic kidney dysplasia	HP:0003593	Infantile onset	TAS	TAS							OMIM:600273	HPO:probinson	Jan 18, 2014	
+OMIM:600273	POLYCYSTIC KIDNEY DISEASE, INFANTILE SEVERE, WITH TUBEROUS SCLEROSIS					HP:0006772	Renal angiomyolipoma			TAS	TAS							OMIM:600273	HPO:probinson	Jan 18, 2014	
+OMIM:600273	POLYCYSTIC KIDNEY DISEASE, INFANTILE SEVERE, WITH TUBEROUS SCLEROSIS					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:600273	HPO	Jan 18, 2014	
