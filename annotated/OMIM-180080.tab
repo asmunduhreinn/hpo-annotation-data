@@ -1,9 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:180080	RETINAL VENOUS BEADING					HP:0000365	Hearing impairment			IEA	IEA							OMIM:180080	HPO	17.02.2009
-OMIM:180080	RETINAL VENOUS BEADING					HP:0001875	Neutropenia			IEA	IEA							OMIM:180080	HPO:skoehler	20.06.2010
-OMIM:180080	RETINAL VENOUS BEADING					HP:0007721	Saccular conjunctival aneurysms			IEA	IEA							OMIM:180080	HPO	17.02.2009
-OMIM:180080	RETINAL VENOUS BEADING					HP:0007815	Abnormal distribution of retinal arterioles and venules			IEA	IEA							OMIM:180080	HPO	17.02.2009
-OMIM:180080	RETINAL VENOUS BEADING					HP:0007866	Focal retinal infarction			IEA	IEA							OMIM:180080	HPO	17.02.2009
-OMIM:180080	RETINAL VENOUS BEADING					HP:0007902	Vitreous hemorrhage			IEA	IEA							OMIM:180080	HPO	17.02.2009
-OMIM:180080	RETINAL VENOUS BEADING					HP:0008634	Chronic hereditary nephritis			IEA	IEA							OMIM:180080	HPO	17.02.2009
-OMIM:180080	180080 RETINAL VENOUS BEADING					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:180080	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:180080	RETINAL VENOUS BEADING					HP:0000365	Hearing impairment			IEA	IEA							OMIM:180080	HPO	Feb 17, 2009	
+OMIM:180080	RETINAL VENOUS BEADING					HP:0001875	Neutropenia			IEA	IEA							OMIM:180080	HPO:skoehler	Jun 20, 2010	
+OMIM:180080	RETINAL VENOUS BEADING					HP:0007721	Saccular conjunctival aneurysms			IEA	IEA							OMIM:180080	HPO	Feb 17, 2009	
+OMIM:180080	RETINAL VENOUS BEADING					HP:0007815	Abnormal distribution of retinal arterioles and venules			IEA	IEA							OMIM:180080	HPO	Feb 17, 2009	
+OMIM:180080	RETINAL VENOUS BEADING					HP:0007866	Focal retinal infarction			IEA	IEA							OMIM:180080	HPO	Feb 17, 2009	
+OMIM:180080	RETINAL VENOUS BEADING					HP:0007902	Vitreous hemorrhage			IEA	IEA							OMIM:180080	HPO	Feb 17, 2009	
+OMIM:180080	RETINAL VENOUS BEADING					HP:0000123	Nephritis			TAS	TAS						Described as chronic hereditary nephritis	OMIM:180080	HPO:probinson	Feb 17, 2009	
+OMIM:180080	180080 RETINAL VENOUS BEADING					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:180080	HPO:skoehler	Oct 17, 2012	
