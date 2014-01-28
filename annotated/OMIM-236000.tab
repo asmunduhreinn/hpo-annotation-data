@@ -2,3 +2,4 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:236000	HODGKIN LYMPHOMA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:236000	HPO	17.02.2009
 OMIM:236000	HODGKIN LYMPHOMA					HP:0003347	Impaired lymphocyte transformation with phytohemagglutinin			IEA	IEA							OMIM:236000	HPO	17.02.2009
 OMIM:236000	HODGKIN LYMPHOMA					HP:0003459	Polyclonal elevation of IgM			IEA	IEA							OMIM:236000	HPO	17.02.2009
+OMIM:236000	#236000 LYMPHOMA, HODGKIN;;HODGKIN DISEASE					HP:0012189	Hodgkin lymphoma			IEA	IEA						OMIM-CS:HEME > HODGKIN DISEASE	OMIM:236000	HPO:skoehler	28.01.2014

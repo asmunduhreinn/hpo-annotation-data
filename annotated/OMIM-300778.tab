@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:300778	%300778 CORNEAL DYSTROPHY, LISCH EPITHELIAL; LECD;;LISCH EPITHELIAL CORNEAL DYSTROPHY;;BAND-SHAPED AND WHORLED MICROCYSTIC CORNEAL EPITHELIAL DYSTROPHY					HP:0001423	X-linked dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > X-LINKED DOMINANT	OMIM:300778	HPO:skoehler	28.01.2014
