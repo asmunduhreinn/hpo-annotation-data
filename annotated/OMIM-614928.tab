@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:614928	%614928 ECTODERMAL DYSPLASIA 6, HAIR/NAIL TYPE; ECTD6					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:614928	HPO:skoehler	16.11.2012
 OMIM:614928	%614928 ECTODERMAL DYSPLASIA 6, HAIR/NAIL TYPE; ECTD6					HP:0001810	Dystrophic toenails			IEA	IEA						OMIM-CS:SKIN, NAILS, HAIR_NAILS > DYSTROPHIC TOENAILS	OMIM:614928	HPO:skoehler	16.11.2012
+OMIM:614928	%614928 ECTODERMAL DYSPLASIA 6, HAIR/NAIL TYPE; ECTD6					HP:0012746	Thin toenail			IEA	IEA						OMIM-CS:SKIN, NAILS, HAIR_NAILS > THIN TOENAILS	OMIM:614928	HPO:skoehler	04.04.2014
