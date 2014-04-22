@@ -1,5 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:144755	HYPEROSTOSIS CRANIALIS INTERNA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:144755	HPO	17.02.2009
-OMIM:144755	HYPEROSTOSIS CRANIALIS INTERNA					HP:0005746	Osteosclerosis of calvaria and base of the skull			IEA	IEA							OMIM:144755	HPO	17.02.2009
-OMIM:144755	HYPEROSTOSIS CRANIALIS INTERNA					HP:0005890	Hyperostosis cranialis interna			IEA	IEA							OMIM:144755	HPO	17.02.2009
-OMIM:144755	HYPEROSTOSIS CRANIALIS INTERNA					HP:0010628	Facial palsy			IEA	IEA							OMIM:144755	HPO:skoehler	20.06.2010
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:144755	HYPEROSTOSIS CRANIALIS INTERNA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:144755	HPO	Feb 17, 2009	
+OMIM:144755	HYPEROSTOSIS CRANIALIS INTERNA					HP:0005746	Osteosclerosis of calvaria and base of the skull			TAS	TAS							OMIM:144755	HPO:probinson	Feb 17, 2009	
+OMIM:144755	HYPEROSTOSIS CRANIALIS INTERNA					HP:0005890	Hyperostosis cranialis interna			IEA	IEA							OMIM:144755	HPO	Feb 17, 2009	
+OMIM:144755	HYPEROSTOSIS CRANIALIS INTERNA					HP:0010628	Facial palsy			IEA	IEA							OMIM:144755	HPO:skoehler	Jun 20, 2010	
+OMIM:144755	HYPEROSTOSIS CRANIALIS INTERNA					HP:0004490	Calvarial hyperostosis			TAS	TAS							OMIM:144755	HPO:probinson	Apr 22, 2014	
