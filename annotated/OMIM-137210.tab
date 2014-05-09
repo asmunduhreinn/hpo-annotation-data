@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:137210	GASTRIC VOLVULUS, INTRATHORACIC					HP:0002036	Hiatus hernia			IEA	IEA							OMIM:137210	HPO	17.02.2009
 OMIM:137210	GASTRIC VOLVULUS, INTRATHORACIC					HP:0002580	Volvulus			IEA	IEA							OMIM:137210	HPO:skoehler	20.06.2010
+OMIM:137210	137210 GASTRIC VOLVULUS, INTRATHORACIC					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:137210	HPO:skoehler	04.05.2014
