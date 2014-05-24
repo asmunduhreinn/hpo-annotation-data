@@ -1,6 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:121201	EPILEPSY, BENIGN NEONATAL, 2					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:121201	HPO:probinson	17.02.2009	
-OMIM:121201	EPILEPSY, BENIGN NEONATAL, 2					HP:0002069	Generalized tonic-clonic seizures			IEA	IEA						Onset of seizures at 2-8 days of life. Most remit by 2 months.	OMIM:121201	HPO:probinson	17.02.2009	
-OMIM:121201	EPILEPSY, BENIGN NEONATAL, 2					HP:0002266	Focal clonic seizures			IEA	IEA							OMIM:121201	HPO:probinson	17.02.2009
-OMIM:121201	#121201 SEIZURES, BENIGN FAMILIAL NEONATAL, 2; BFNS2;;CONVULSIONS, BENIGN FAMILIAL NEONATAL, 2; BFNC2					HP:0001425	Heterogeneous			IEA	IEA						OMIM-CS:MISCELLANEOUS > GENETIC HETEROGENEITY (SEE EBN1 121200)	OMIM:121201	HPO:skoehler	16.11.2012
-	
+OMIM:121201	EPILEPSY, BENIGN NEONATAL, 2					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:121201	HPO:probinson	Feb 17, 2009	
+OMIM:121201	EPILEPSY, BENIGN NEONATAL, 2					HP:0002069	Generalized tonic-clonic seizures	HP:0003623	Neonatal onset	TAS	TAS						Onset of seizures at 2-8 days of life. Most remit by 2 months.	OMIM:121201	HPO:probinson	Feb 17, 2009	
+OMIM:121201	EPILEPSY, BENIGN NEONATAL, 2					HP:0002266	Focal clonic seizures			TAS	TAS							OMIM:121201	HPO:probinson	Feb 17, 2009	
+OMIM:121201	EPILEPSY, BENIGN NEONATAL, 2					HP:0001263	Global developmental delay			TAS	TAS				NOT	NOT		OMIM:121201	HPO:probinson	May 22, 2014	
