@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:144700	RENAL CELL CARCINOMA 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:144700	HPO	Feb 17, 2009	
-OMIM:144700	RENAL CELL CARCINOMA 1					HP:0005584	Renal cell carcinoma			TAS	TAS							OMIM:144700	HPO:probinson	Mar 31, 2013	
+MIM:144700	RENAL CELL CARCINOMA, NONPAPILLARY					HP:0005584	Renal cell carcinoma			TAS	TAS							OMIM:144700	HPO:probinson	Mar 31, 2013	
+MIM:144700	RENAL CELL CARCINOMA, NONPAPILLARY					HP:0003745	Sporadic			TAS	TAS							OMIM:144700	HPO	May 24, 2014	
