@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615770	#615770 ATRIAL FIBRILLATION, FAMILIAL, 15; ATFB15					HP:0005110	Atrial fibrillation			IEA	IEA						OMIM-CS:CARDIOVASCULAR_HEART > ATRIAL FIBRILLATION	OMIM:615770	HPO:skoehler	24.06.2014
+OMIM:615770	#615770 ATRIAL FIBRILLATION, FAMILIAL, 15; ATFB15					HP:0004749	Atrial flutter			IEA	IEA						OMIM-CS:CARDIOVASCULAR_HEART > ATRIAL FLUTTER	OMIM:615770	HPO:skoehler	24.06.2014

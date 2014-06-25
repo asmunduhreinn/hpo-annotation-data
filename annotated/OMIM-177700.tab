@@ -2,3 +2,4 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:177700	PSEUDOGLAUCOMA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:177700	HPO	Feb 17, 2009	
 OMIM:177700	PSEUDOGLAUCOMA					HP:0007854	Glaucomatous visual field defect			IEA	IEA							OMIM:177700	HPO	Feb 17, 2009	
 OMIM:177700	PSEUDOGLAUCOMA					HP:0003581	Adult onset			TAS	TAS							OMIM:177700	HPO:probinson	May 24, 2014	
+OMIM:177700	#177700 GLAUCOMA 1, OPEN ANGLE, P; GLC1P					HP:0012796	Increased cup-to-disc ratio			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > INCREASED CUP-TO-DISC RATIO	OMIM:177700	HPO:skoehler	24.06.2014

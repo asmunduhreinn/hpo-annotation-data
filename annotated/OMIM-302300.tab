@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:302300	^302300 MOVED TO 302200					HP:0000519	Congenital cataract			IEA	IEA						OMIM-CS:EYES > CONGENITAL CATARACT	OMIM:302300	HPO:skoehler	24.06.2014
+OMIM:302300	^302300 MOVED TO 302200					HP:0000482	Microcornea			IEA	IEA						OMIM-CS:EYES > MICROCORNEA	OMIM:302300	HPO:skoehler	24.06.2014
+OMIM:302300	^302300 MOVED TO 302200					HP:0000568	Microphthalmos			IEA	IEA						OMIM-CS:EYES > MICROPHTHALMIA	OMIM:302300	HPO:skoehler	24.06.2014
