@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:615540	#615540 DEAFNESS, AUTOSOMAL RECESSIVE 76; DFNB76					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:615540	HPO:skoehler	28.01.2014
+OMIM:615540	#615540 DEAFNESS, AUTOSOMAL RECESSIVE 76; DFNB76					HP:0000408	Progressive sensorineural hearing impairment			IEA	IEA						OMIM-CS:HEAD AND NECK_EARS > HEARING LOSS, PROGRESSIVE SENSORINEURAL, AFFECTING HIGH FREQUENCIES	OMIM:615540	HPO:skoehler	24.06.2014
