@@ -32,7 +32,9 @@ load-external:
 	# loads the mapping between orphanet's signs-and-symptoms and HPO
 	svn export http://compbio.charite.de/svn/hpo/trunk/src/mappings/ $(ORPHANET_MAPPING)
 	# loads the HPO
-	svn export http://compbio.charite.de/svn/hpo/trunk/src/ontology/ $(HPO_FOLDER)
+	wget -N -P $(HPO_FOLDER) http://compbio.charite.de/hudson/job/hpo/lastSuccessfulBuild/artifact/hp/hp.obo
+	mv $(HPO_FOLDER)/hp.obo $(HPO_FOLDER)/human-phenotype-ontology.obo
+	#svn export http://compbio.charite.de/svn/hpo/trunk/src/ontology/ $(HPO_FOLDER)
 
 
 
