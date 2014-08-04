@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615885	#615885 HYPOTRICHOSIS 12; HYPT12					HP:0100840	Aplasia/Hypoplasia of the eyebrow			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > SPARSE OR ABSENT EYEBROWS	OMIM:615885	HPO:skoehler	03.08.2014
+OMIM:615885	#615885 HYPOTRICHOSIS 12; HYPT12					HP:0200102	Sparse/absent eyelashes			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > SPARSE OR ABSENT EYELASHES	OMIM:615885	HPO:skoehler	03.08.2014
+OMIM:615885	#615885 HYPOTRICHOSIS 12; HYPT12					HP:0000971	Abnormality of the sweat gland			IEA	IEA				NOT	NOT	OMIM-CS:SKIN, NAILS, HAIR_SKIN > NORMAL SWEATING	OMIM:615885	HPO:skoehler	03.08.2014
