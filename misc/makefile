@@ -30,11 +30,11 @@ load-external:
 	# in external_ontologies. We also ignore lines starting with #
 	cd $(EXTERNAL_ORPHANET) ; cat ../external_orphanet.txt | sed "/^#.*$$/d" | wget --retry-connrefused -N -i -
 	# loads the mapping between orphanet's signs-and-symptoms and HPO
-	svn export http://compbio.charite.de/svn/hpo/trunk/src/mappings/ $(ORPHANET_MAPPING)
+	svn --force export http://compbio.charite.de/svn/hpo/trunk/src/mappings/ $(ORPHANET_MAPPING)
 	# loads the HPO
 	wget -N -P $(HPO_FOLDER) http://compbio.charite.de/hudson/job/hpo/lastSuccessfulBuild/artifact/hp/hp.obo
 	mv $(HPO_FOLDER)/hp.obo $(HPO_FOLDER)/human-phenotype-ontology.obo
-	#svn export http://compbio.charite.de/svn/hpo/trunk/src/ontology/ $(HPO_FOLDER)
+	#svn --force export http://compbio.charite.de/svn/hpo/trunk/src/ontology/ $(HPO_FOLDER)
 
 
 
