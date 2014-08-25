@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615916	#615916 CARDIOMYOPATHY, DILATED, 1NN; CMD1NN					HP:0001644	Dilated cardiomyopathy			IEA	IEA						OMIM-CS:CARDIOVASCULAR_HEART > DILATED CARDIOMYOPATHY	OMIM:615916	HPO:skoehler	24.08.2014
+OMIM:615916	#615916 CARDIOMYOPATHY, DILATED, 1NN; CMD1NN					HP:0004308	Ventricular arrhythmia			IEA	IEA	rare					OMIM-CS:CARDIOVASCULAR_HEART > VENTRICULAR ARRHYTHMIA (IN SOME PATIENTS)	OMIM:615916	HPO:skoehler	24.08.2014

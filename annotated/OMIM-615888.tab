@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615888	#615888 BLEEDING DISORDER, PLATELET-TYPE, 18; BDPLT18					HP:0000421	Epistaxis			IEA	IEA						OMIM-CS:HEAD AND NECK_NOSE > EPISTAXIS	OMIM:615888	HPO:skoehler	24.08.2014
+OMIM:615888	#615888 BLEEDING DISORDER, PLATELET-TYPE, 18; BDPLT18					HP:0003010	Prolonged bleeding time			IEA	IEA						OMIM-CS:LABORATORY ABNORMALITIES > PROLONGED BLEEDING TIME	OMIM:615888	HPO:skoehler	24.08.2014
