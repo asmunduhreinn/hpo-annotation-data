@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 MIM:604348	ADVANCED SLEEP-PHASE SYNDROME, FAMILIAL			MIM:603426 / wt; MIM:600864 / wt	PER2; CSNK1D	HP:0000006	Autosomal dominant inheritance			PCS	PCS							MIM:604348	HPO	27.04.2010	
-MIM:604348	ADVANCED SLEEP-PHASE SYNDROME, FAMILIAL			MIM:603426 / wt; MIM:600864 / wt	PER2; CSNK1D	HP:0006979	Sleep-wake cycle disturbance	HP:0003621	Juvenile onset	PCS	PCS	hallmark						PMID:10470086 	HPO	27.04.2010	
+MIM:604348	ADVANCED SLEEP-PHASE SYNDROME, FAMILIAL			MIM:603426 / wt; MIM:600864 / wt	PER2; CSNK1D	HP:0006979	Sleep-wake cycle disturbance	HP:0003621	Juvenile onset	PCS	PCS	hallmark						PMID:10470086	HPO	27.04.2010	
