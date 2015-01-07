@@ -5,7 +5,7 @@
 # Date   : 2012-09-24
 
 
-NOW := $(shell date +"%m-%d-%Y %H:%M")
+NOW := $(shell date +"%Y-%m-%d %H:%M")
 
 # the programs being called
 GENERATE_ANNOTATIONFILE=java -Xmx1G -jar jarFiles/generateAnnotationFile.jar
