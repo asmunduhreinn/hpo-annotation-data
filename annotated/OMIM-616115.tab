@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:616115	#616115 FAMILIAL COLD AUTOINFLAMMATORY SYNDROME 4; FCAS4					HP:0002829	Arthralgia			IEA	IEA						MODIFIER:EPISODIC;OMIM-CS:SKELETAL > ARTHRALGIA, EPISODIC	OMIM:616115	HPO:skoehler	04.01.2015
