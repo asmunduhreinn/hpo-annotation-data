@@ -2,3 +2,4 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:186860	T-CELL LEUKEMIA/LYMPHOMA 4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:186860	HPO	Feb 17, 2009	
 OMIM:186860	T-CELL LEUKEMIA/LYMPHOMA 4					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:186860	HPO	Feb 17, 2009	
 OMIM:186860	T-CELL LEUKEMIA/LYMPHOMA 4					HP:0005517	T-cell lymphoma/leukemia			TAS	TAS							OMIM:186860	HPO:skoehler	Feb 17, 2009	
+OMIM:186860	T-CELL LEUKEMIA/LYMPHOMA 4					HP:0001909	Leukemia			IEA	IEA						Disease name contained:t-cell leukemia/lymphoma 	OMIM:186860	HPO:skoehler	19.01.2015

@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:613983	#613983 RETINITIS PIGMENTOSA 60; RP60					HP:0000505	Visual impairment			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > REDUCED VISUAL ACUITY	OMIM:613983	HPO:skoehler	17.10.2012
 OMIM:613983	#613983 RETINITIS PIGMENTOSA 60; RP60					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:613983	HPO:skoehler	17.10.2012
+OMIM:613983	#613983 RETINITIS PIGMENTOSA 60; RP60					HP:0000510	Retinitis pigmentosa			IEA	IEA						Disease name contained:#613983 retinitis pigmentosa 60; rp60	OMIM:613983	HPO:skoehler	19.01.2015

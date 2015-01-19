@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:610508	#610508 MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 7; MODY7				KLF11	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:15774581	HPO:probinson	Jan 9, 2013	
 OMIM:610508	#610508 MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 7; MODY7				KLF11	HP:0005978	Type II diabetes mellitus			PCS	PCS							pmid:15774581	HPO:probinson	Feb 28, 2013	
+OMIM:610508	#610508 MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 7; MODY7					HP:0004904	Maturity-onset diabetes of the young			IEA	IEA						Disease name contained:#610508 maturity-onset diabetes of the young, type 7; 	OMIM:610508	HPO:skoehler	19.01.2015

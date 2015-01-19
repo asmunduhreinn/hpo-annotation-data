@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:612422	#612422 CARDIOMYOPATHY, FAMILIAL RESTRICTIVE, 3; RCM3					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:612422	HPO:skoehler	17.10.2012
+OMIM:612422	#612422 CARDIOMYOPATHY, FAMILIAL RESTRICTIVE, 3; RCM3					HP:0001638	Cardiomyopathy			IEA	IEA						Disease name contained:#612422 cardiomyopathy, familial	OMIM:612422	HPO:skoehler	19.01.2015

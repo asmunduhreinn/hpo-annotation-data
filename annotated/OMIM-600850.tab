@@ -2,3 +2,4 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:600850	SCHIZOPHRENIA 4					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:600850	HPO	17.02.2009
 OMIM:600850	SCHIZOPHRENIA 4					HP:0000707	Abnormality of the nervous system			IEA	IEA							OMIM:600850	HPO	17.02.2009
 OMIM:600850	SCHIZOPHRENIA 4					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:600850	HPO	17.02.2009
+OMIM:600850	SCHIZOPHRENIA 4					HP:0100753	Schizophrenia			IEA	IEA						Disease name contained:schizophrenia 4	OMIM:600850	HPO:skoehler	19.01.2015
