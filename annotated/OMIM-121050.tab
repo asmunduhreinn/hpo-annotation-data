@@ -33,4 +33,6 @@ MIM:121050	ARTHROGRYPOSIS, DISTAL, TYPE 9					HP:0009465	Ulnar deviation of fing
 MIM:121050	ARTHROGRYPOSIS, DISTAL, TYPE 9					HP:0009698	Contractures of the proximal interphalangeal joints of the fingers			IEA	IEA							OMIM:121050	HPO	Feb 17, 2009	
 MIM:121050	ARTHROGRYPOSIS, DISTAL, TYPE 9					HP:0009901	Crumpled ear			TAS	TAS	78%						OMIM:121050	HPO:probinson	Jun 20, 2010	
 MIM:121050	ARTHROGRYPOSIS, DISTAL, TYPE 9					HP:0010499	Patellar subluxation			IEA	IEA							OMIM:121050	HPO:skoehler	Jun 18, 2010	
-MIM:121050	ARTHROGRYPOSIS, DISTAL, TYPE 9					HP:0002751	Kyphoscoliosis	HP:0003577	Congenital onset	TAS	TAS	45%						OMIM:121050	HPO:probinson	Sep 18, 2012	
+MIM:121050	ARTHROGRYPOSIS, DISTAL, TYPE 9					HP:0002751	Kyphoscoliosis	HP:0003577	Congenital onset	TAS	TAS	45%						OMIM:121050	HPO:probinson	Sep 18, 2012
+OMIM:121050	ARTHROGRYPOSIS, DISTAL, TYPE 9					HP:0005684	Distal arthrogryposis			IEA	IEA						Disease name contained:ural arachnodactyly|distal arthrogryposis type 9|http://www.o	OMIM:121050	HPO:skoehler	21.01.2015
+	
