@@ -2,3 +2,5 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:140700	HEINZ BODY ANEMIAS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:140700	HPO	17.02.2009
 OMIM:140700	HEINZ BODY ANEMIAS					HP:0001930	Nonspherocytic hemolytic anemia			IEA	IEA							OMIM:140700	HPO	17.02.2009
 OMIM:140700	HEINZ BODY ANEMIAS					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:140700	HPO	17.02.2009
+OMIM:140700	HEINZ BODY ANEMIAS					HP:0005511	Heinz body anemia			IEA	IEA						Disease name contained:heinz body anemias	OMIM:140700	HPO:skoehler	21.01.2015
+
