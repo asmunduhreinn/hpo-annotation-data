@@ -30,7 +30,8 @@ load-external:
 	mkdir -p $(EXTERNAL_ORPHANET)
 	# Employ wget to retrieve all external ontologies as specified
 	# in external_ontologies. We also ignore lines starting with #
-	cd $(EXTERNAL_ORPHANET) ; cat ../external_orphanet.txt | sed "/^#.*$$/d" | wget --retry-connrefused -N -i -
+	#cd $(EXTERNAL_ORPHANET) ; cat ../external_orphanet.txt | sed "/^#.*$$/d" | wget --retry-connrefused -N -i -
+	cd $(EXTERNAL_ORPHANET) ; aria2c --max-connection-per-server=4 --min-split-size=1M -i ../external_orphanet.txt
 	# loads the mapping between orphanet's signs-and-symptoms and HPO
 	svn --force export http://compbio.charite.de/svn/hpo/trunk/src/mappings/ $(ORPHANET_MAPPING)
 	# loads the HPO
