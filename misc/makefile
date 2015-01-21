@@ -37,6 +37,7 @@ load-external:
 	# loads the HPO
 	#wget -N -P $(HPO_FOLDER) http://compbio.charite.de/hudson/job/hpo/lastSuccessfulBuild/artifact/hp/hp.obo
 	aria2c --max-connection-per-server=4 --min-split-size=1M http://compbio.charite.de/hudson/job/hpo/lastSuccessfulBuild/artifact/hp/hp.obo
+	mkdir -p $(HPO_FOLDER)
 	mv hp.obo $(HPO_FOLDER)/human-phenotype-ontology.obo
 	#svn --force export http://compbio.charite.de/svn/hpo/trunk/src/ontology/ $(HPO_FOLDER)
 
