@@ -23,4 +23,8 @@ OMIM:187600	THANATOPHORIC DYSPLASIA, TYPE I					HP:0004565	Severe platyspondyly	
 OMIM:187600	THANATOPHORIC DYSPLASIA, TYPE I					HP:0006584	Small abnormally formed scapulae			IEA	IEA							OMIM:187600	HPO	17.02.2009	
 OMIM:187600	THANATOPHORIC DYSPLASIA, TYPE I					HP:0008909	Lethal short-limbed short stature			IEA	IEA							OMIM:187600	HPO	17.02.2009	
 OMIM:187600	THANATOPHORIC DYSPLASIA, TYPE I					HP:0006487	Bowing of the long bones			TAS	TAS							OMIM:187600	HPO:probinson	05.05.2012	
-OMIM:187600	THANATOPHORIC DYSPLASIA, TYPE I					HP:0003026	Short long bones			TAS	TAS						Severe	OMIM:187600	HPO:probinson	05.05.2012	
+OMIM:187600	THANATOPHORIC DYSPLASIA, TYPE I					HP:0003026	Short long bones			TAS	TAS						Severe	OMIM:187600	HPO:probinson	05.05.2012
+OMIM:187600	THANATOPHORIC DYSPLASIA, TYPE I					HP:0003510	Severe short stature			IEA	IEA						Disease name contained:rfism|thanatophoric dwarfism type 1|thanatophori	OMIM:187600	HPO:skoehler	21.01.2015
+OMIM:187600	THANATOPHORIC DYSPLASIA, TYPE I					HP:0001263	Global developmental delay			IEA	IEA						Disease name contained:re achondroplasia - developmental delay - acanthosis nigric	OMIM:187600	HPO:skoehler	21.01.2015
+
+	

@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:300421	X-LINKED INTELLECTUAL DISABILITY, WITTWER TYPE					HP:0001249	Intellectual disability			IEA	IEA						Disease name contained:x-linked intellectual disability, wittwer typewittwe	OMIM:300421	HPO:skoehler	21.01.2015
+OMIM:300421	X-LINKED INTELLECTUAL DISABILITY, WITTWER TYPE					HP:0001510	Growth delay			IEA	IEA						Disease name contained:x-linked intellectual disability, wittwer typewittwe	OMIM:300421	HPO:skoehler	21.01.2015
+
