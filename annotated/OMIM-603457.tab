@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:603457	ARRHINIA - CHOANAL ATRESIA - MICROPHTHALMIA					HP:0004409	Hyposmia			IEA	IEA						Disease name contained:ristiansen syndrome|hyposmia - nasal and ocular 	OMIM:603457	HPO:skoehler	21.01.2015
+OMIM:603457	ARRHINIA - CHOANAL ATRESIA - MICROPHTHALMIA					HP:0009927	Aplasia of the nose			IEA	IEA						OMIM-CS 	OMIM:603457	HPO:skoehler	21.01.2015
+OMIM:603457	ARRHINIA - CHOANAL ATRESIA - MICROPHTHALMIA					HP:0000453	Choanal atresia			IEA	IEA						OMIM-CS 	OMIM:603457	HPO:skoehler	21.01.2015
+OMIM:603457	ARRHINIA - CHOANAL ATRESIA - MICROPHTHALMIA					HP:0000568	Microphthalmos			IEA	IEA						OMIM-CS 	OMIM:603457	HPO:skoehler	21.01.2015
+
+
+
