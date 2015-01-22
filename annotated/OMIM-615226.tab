@@ -1,2 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:615226	#615226 POLYDACTYLY, POSTAXIAL, TYPE A6; PAPA6					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:615226	HPO:skoehler	06.06.2013
+OMIM:615226	#615226 POLYDACTYLY, POSTAXIAL, TYPE A6; PAPA6					HP:0001162	Postaxial hand polydactyly			IEA	IEA						Disease name contained:#615226 polydactyly, postaxial, type a6; papa6	OMIM:615226	HPO:skoehler	21.01.2015
+
