@@ -1,2 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:610019	#610019 CATARACT, AUTOSOMAL RECESSIVE CONGENITAL 2; CATC2					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:610019	HPO:skoehler	17.10.2012
+OMIM:610019	#610019 CATARACT, AUTOSOMAL RECESSIVE CONGENITAL 2; CATC2					HP:0000518	Cataract			IEA	IEA						Disease name contained:#610019 cataract, autosomal recessiv	OMIM:610019	HPO:skoehler	21.01.2015
+
