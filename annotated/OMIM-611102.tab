@@ -2,4 +2,6 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:611102	DEAFNESS, SENSORINEURAL, AND MALE INFERTILITY					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:611102	HPO:probinson	Feb 17, 2009	
 OMIM:611102	DEAFNESS, SENSORINEURAL, AND MALE INFERTILITY					HP:0008619	Bilateral sensorineural hearing impairment			TAS	TAS							OMIM:611102	HPO:probinson	Feb 17, 2009	
 OMIM:611102	DEAFNESS, SENSORINEURAL, AND MALE INFERTILITY					HP:0008669	Abnormal spermatogenesis			TAS	TAS							OMIM:611102	HPO:probinson	Jul 22, 2012	
-OMIM:611102	DEAFNESS, SENSORINEURAL, AND MALE INFERTILITY					HP:0012207	Reduced sperm motility			TAS	TAS							OMIM:611102	HPO:probinson	Mar 12, 2013	
+OMIM:611102	DEAFNESS, SENSORINEURAL, AND MALE INFERTILITY					HP:0012207	Reduced sperm motility			TAS	TAS							OMIM:611102	HPO:probinson	Mar 12, 2013
+OMIM:611102	DEAFNESS, SENSORINEURAL, AND MALE INFERTILITY					HP:0003251	Male infertility			IEA	IEA						Disease name contained: sensorineural, and male infertilitydeafness-infertility	OMIM:611102	HPO:skoehler	21.01.2015
+	
