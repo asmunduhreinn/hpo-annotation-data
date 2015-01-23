@@ -13,4 +13,5 @@ OMIM:103470	ALBINISM, OCULAR, WITH SENSORINEURAL DEAFNESS					HP:0001003	Multipl
 OMIM:103470	ALBINISM, OCULAR, WITH SENSORINEURAL DEAFNESS					HP:0005592	Giant melanosomes in melanocytes			TAS	TAS							OMIM:103470	HPO:probinson	Jul 25, 2012	
 OMIM:103470	ALBINISM, OCULAR, WITH SENSORINEURAL DEAFNESS					HP:0001417	X-linked inheritance			IEA	IEA							OMIM:103470	HPO:skoehler	Oct 11, 2012	
 OMIM:103470	ALBINISM, OCULAR, WITH SENSORINEURAL DEAFNESS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:103470	HPO:skoehler	Oct 11, 2012	
-OMIM:103470	ALBINISM, OCULAR, WITH SENSORINEURAL DEAFNESS					HP:0001022	Albinism			IEA	IEA						Disease name contained:albinism, ocular, 	OMIM:103470	HPO:skoehler	19.01.2015
+OMIM:103470	ALBINISM, OCULAR, WITH SENSORINEURAL DEAFNESS					HP:0001107	Ocular albinism			IEA	IEA						Disease name contained:albinism, ocular, with sensorineural	OMIM:103470	HPO:skoehler	21.01.2015
+OMIM:103470	ALBINISM, OCULAR, WITH SENSORINEURAL DEAFNESS					HP:0000407	Sensorineural hearing impairment			IEA	IEA						Disease name contained:inism, ocular, with sensorineural deafness	OMIM:103470	HPO:skoehler	21.01.2015
