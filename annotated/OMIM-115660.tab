@@ -1,3 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:115660	CATARACT, CONGENITAL, CERULEAN TYPE, 1					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:115660	HPO	17.02.2009
 OMIM:115660	CATARACT, CONGENITAL, CERULEAN TYPE, 1					HP:0000572	Visual loss			IEA	IEA							OMIM:115660	HPO:skoehler	20.06.2010
+OMIM:115660	CATARACT, CONGENITAL, CERULEAN TYPE, 1					HP:0000519	Congenital cataract			TAS	TAS						Disease name contained:cataract, congenital, cerulean type, 1	OMIM:115660	HPO:skoehler	21.01.2015
+

@@ -1,4 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:550500	MYOGLOBINURIA, RECURRENT					HP:0001427	Mitochondrial inheritance			TAS	TAS							OMIM:550500	HPO:skoehler	Feb 17, 2009	
 OMIM:550500	MYOGLOBINURIA, RECURRENT					HP:0003200	Ragged-red muscle fibers			TAS	TAS							OMIM:550500	HPO:skoehler	Feb 17, 2009	
-OMIM:550500	MYOGLOBINURIA, RECURRENT					HP:0008305	Exercise-induced myoglobinuria			TAS	TAS							OMIM:550500	HPO:probinson	Mar 30, 2013	
+OMIM:550500	MYOGLOBINURIA, RECURRENT					HP:0008305	Exercise-induced myoglobinuria			TAS	TAS							OMIM:550500	HPO:probinson	Mar 30, 2013
+OMIM:550500	MYOGLOBINURIA, RECURRENT					HP:0003652	Recurrent myoglobinuria			TAS	TAS						Disease name contained:myoglobinuria, recurrent	OMIM:550500	HPO:skoehler	21.01.2015
+	

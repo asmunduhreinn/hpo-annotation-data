@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:145701	HYPERTRICHOSIS UNIVERSALIS CONGENITA, AMBRAS TYPE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:145701	HPO	17.02.2009
-OMIM:145701	HYPERTRICHOSIS UNIVERSALIS CONGENITA, AMBRAS TYPE					HP:0004554	Generalized hypertrichosis			IEA	IEA							OMIM:145701	HPO	17.02.2009
+OMIM:145701	HYPERTRICHOSIS UNIVERSALIS CONGENITA, AMBRAS TYPE					HP:0004540	Congenital, generalized hypertrichosis			TAS	TAS						Disease name contained:hypertrichosis universalis congenita, ambras t	OMIM:145701	HPO:skoehler	21.01.2015
+
