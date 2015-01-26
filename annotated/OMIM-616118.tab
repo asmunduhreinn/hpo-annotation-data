@@ -1,2 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:616118	#616118 MACULAR DEGENERATION, EARLY-ONSET; EOMD					HP:0000505	Visual impairment			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > DECREASED VISUAL ACUITY	OMIM:616118	HPO:skoehler	04.01.2015
+OMIM:616118	#616118 MACULAR DEGENERATION, EARLY-ONSET; EOMD					HP:0000608	Macular degeneration			TAS	TAS						Disease name contained:#616118 macular degeneration, early-onset; eomd	OMIM:616118	HPO:skoehler	21.01.2015
+

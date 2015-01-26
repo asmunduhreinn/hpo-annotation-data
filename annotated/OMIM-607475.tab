@@ -2,4 +2,6 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:607475	BOTHNIA RETINAL DYSTROPHY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:607475	HPO	Feb 17, 2009	
 OMIM:607475	BOTHNIA RETINAL DYSTROPHY					HP:0000512	Abnormal electroretinogram			IEA	IEA							OMIM:607475	HPO	Feb 17, 2009	
 OMIM:607475	BOTHNIA RETINAL DYSTROPHY					HP:0000608	Macular degeneration			IEA	IEA							OMIM:607475	HPO	Feb 17, 2009	
-OMIM:607475	BOTHNIA RETINAL DYSTROPHY					HP:0000662	Night blindness			TAS	TAS							OMIM:607475	HPO:skoehler	Feb 17, 2009	
+OMIM:607475	BOTHNIA RETINAL DYSTROPHY					HP:0000662	Night blindness			TAS	TAS							OMIM:607475	HPO:skoehler	Feb 17, 2009
+OMIM:607475	BOTHNIA RETINAL DYSTROPHY					HP:0000556	Retinal dystrophy			TAS	TAS						Disease name contained:bothnia retinal dystrophy	OMIM:607475	HPO:skoehler	21.01.2015
+	

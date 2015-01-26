@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:131450	EPIBLEPHARON OF LOWER LID					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:131450	HPO	17.02.2009
-OMIM:131450	EPIBLEPHARON OF LOWER LID					HP:0000478	Abnormality of the eye			IEA	IEA							OMIM:131450	HPO	17.02.2009
+OMIM:131450	EPIBLEPHARON OF LOWER LID					HP:0011225	Epiblepharon			TAS	TAS						Disease name contained:epiblepharon of lower lid	OMIM:131450	HPO:skoehler	21.01.2015
+

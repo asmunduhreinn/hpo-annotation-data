@@ -1,2 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:601634	NEURAL TUBE DEFECTS, FOLATE-SENSITIVE					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:601634	HPO	17.02.2009
+OMIM:601634	NEURAL TUBE DEFECTS, FOLATE-SENSITIVE					HP:0010301	Spinal dysraphism			TAS	TAS						Disease name contained:neural tube defects, folate-sensitive	OMIM:601634	HPO:skoehler	21.01.2015
+

@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-OMIM:613285	#613285 DEAFNESS, AUTOSOMAL RECESSIVE 25; DFNB25					HP:0000364	Hearing abnormality			IEA	IEA							OMIM:613285	HPO:skoehler	Jan 9, 2013	
-OMIM:613285	#613285 DEAFNESS, AUTOSOMAL RECESSIVE 25; DFNB25					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:613285	HPO:skoehler	Jan 10, 2013	
+OMIM:613285	#613285 DEAFNESS, AUTOSOMAL RECESSIVE 25; DFNB25					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:613285	HPO:skoehler	Jan 10, 2013
+OMIM:613285	#613285 DEAFNESS, AUTOSOMAL RECESSIVE 25; DFNB25					HP:0000365	Hearing impairment			TAS	TAS						Disease name contained:#613285 deafness, autosomal recessiv	OMIM:613285	HPO:skoehler	21.01.2015
+	
