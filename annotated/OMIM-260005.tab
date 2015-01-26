@@ -6,3 +6,6 @@ OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0002013	Vomiting			IEA	IEA							O
 OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0002014	Diarrhea			IEA	IEA							OMIM:260005	HPO	17.02.2009
 OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0002027	Abdominal pain			IEA	IEA							OMIM:260005	HPO	17.02.2009
 OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0004387	Enterocolitis			IEA	IEA							OMIM:260005	HPO	17.02.2009
+OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0003137	Prolinuria			TAS	TAS						Disease name contained:inase deficiency|oxoprolinuria due to oxoprolinase	OMIM:260005	HPO:skoehler	21.01.2015
+OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0040142	5-oxoprolinase deficiency			TAS	TAS						Disease name contained:inase deficiency|oxoprolinuria due to oxoprolinase	OMIM:260005	HPO:skoehler	21.01.2015
+

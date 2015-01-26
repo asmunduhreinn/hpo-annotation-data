@@ -1,3 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 MIM:272620	TARDIVE DYSKINESIA					HP:0000707	Neurological abnormality			IEA	IEA							MIM:272620	HPO	17.02.2009
 MIM:272620	TARDIVE DYSKINESIA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							MIM:272620	HPO	17.02.2009
+OMIM:272620	TARDIVE DYSKINESIA					HP:0040141	Tardive dyskinesia			TAS	TAS						Disease name contained:tardive dyskinesia	OMIM:272620	HPO:skoehler	26.01.2015
+
