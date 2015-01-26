@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:300194	ALPORT SYNDROME - INTELLECTUAL DISABILITY - MIDFACE HYPOPLASIA - ELLIPTOCYTOSIS					HP:0004445	Elliptocytosis			TAS	TAS						Disease name contained:idface hypoplasia - elliptocytosisamme complex|amme sy	OMIM:300194	HPO:skoehler	21.01.2015
+OMIM:300194	ALPORT SYNDROME - INTELLECTUAL DISABILITY - MIDFACE HYPOPLASIA - ELLIPTOCYTOSIS					HP:0001249	Intellectual disability			TAS	TAS						Disease name contained:alport syndrome - intellectual disability - midface hypoplasi	OMIM:300194	HPO:skoehler	21.01.2015
+OMIM:300194	ALPORT SYNDROME - INTELLECTUAL DISABILITY - MIDFACE HYPOPLASIA - ELLIPTOCYTOSIS					HP:0011800	Midface retrusion			TAS	TAS						Disease name contained:ectual disability - midface hypoplasia - elliptocytosisamm	OMIM:300194	HPO:skoehler	21.01.2015
+

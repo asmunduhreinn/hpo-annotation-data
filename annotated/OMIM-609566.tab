@@ -2,4 +2,6 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:609566	PARIETAL FORAMINA 3					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:609566	HPO	Feb 17, 2009	
 OMIM:609566	PARIETAL FORAMINA 3					HP:0002084	Encephalocele			IEA	IEA							OMIM:609566	HPO	Feb 17, 2009	
 OMIM:609566	PARIETAL FORAMINA 3					HP:0002695	Symmetrical, oval parietal bone defects			IEA	IEA							OMIM:609566	HPO	Feb 17, 2009	
-OMIM:609566	PARIETAL FORAMINA 3					HP:0007385	Aplasia cutis congenita of scalp			IEA	IEA							OMIM:609566	HPO	Feb 17, 2009	
+OMIM:609566	PARIETAL FORAMINA 3					HP:0007385	Aplasia cutis congenita of scalp			IEA	IEA							OMIM:609566	HPO	Feb 17, 2009
+OMIM:609566	PARIETAL FORAMINA 3					HP:0002697	Parietal foramina			TAS	TAS						Disease name contained:parietal foramina 3	OMIM:609566	HPO:skoehler	21.01.2015
+	
