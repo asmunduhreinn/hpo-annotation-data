@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:613144	CHOROIDAL DYSTROPHY, CENTRAL AREOLAR 3; CACD3					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:613144	HPO:skoehler	19.06.2010
 OMIM:613144	%613144 CHOROIDAL DYSTROPHY, CENTRAL AREOLAR 3; CACD3;;CHOROIDAL DYSTROPHY, CENTRAL AREOLAR, WITH OR WITHOUT DRUSEN					HP:0011510	Drusen			IEA	IEA	rare					OMIM-CS:HEAD AND NECK_EYES > DRUSEN (IN SOME PATIENTS)	OMIM:613144	HPO:skoehler	18.11.2012
+OMIM:613144	%613144 CHOROIDAL DYSTROPHY, CENTRAL AREOLAR 3; CACD3;;CHOROIDAL DYSTROPHY, CENTRAL AREOLAR, WITH OR WITHOUT DRUSEN					HP:0007712	Choroidal dystrophy			IEA	IEA						Disease name contained:%613144 choroidal dystrophy, central areolar 3;	OMIM:613144	HPO:skoehler	27.01.2015

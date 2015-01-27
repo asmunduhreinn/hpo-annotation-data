@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:615972	#615972 NANOPHTHALMOS 4; NNO4;;NANOPHTHALMIA 4					HP:0000505	Visual impairment			IEA	IEA	rare					OMIM-CS:HEAD AND NECK_EYES > DECREASED VISUAL ACUITY (IN SOME PATIENTS)	OMIM:615972	HPO:skoehler	21.09.2014
 OMIM:615972	#615972 NANOPHTHALMOS 4; NNO4;;NANOPHTHALMIA 4					HP:0012426	Optic disc drusen			IEA	IEA	rare					OMIM-CS:HEAD AND NECK_EYES > OPTIC DISC DRUSEN (IN SOME PATIENTS)	OMIM:615972	HPO:skoehler	21.09.2014
+OMIM:615972	#615972 NANOPHTHALMOS 4; NNO4;;NANOPHTHALMIA 4					HP:0000568	Microphthalmos			IEA	IEA						Disease name contained:#615972 nanophthalmos 4; nno4;;nanophthal	OMIM:615972	HPO:skoehler	27.01.2015

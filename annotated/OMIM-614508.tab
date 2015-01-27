@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:614508	#614508 MIRROR MOVEMENTS 2; MRMV2					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:614508	HPO:skoehler	17.10.2012
 OMIM:614508	#614508 MIRROR MOVEMENTS 2; MRMV2					HP:0003829	Incomplete penetrance			IEA	IEA	50 %					OMIM-CS:MISCELLANEOUS > INCOMPLETE PENETRANCE (50%)	OMIM:614508	HPO:skoehler	18.11.2012
+OMIM:614508	#614508 MIRROR MOVEMENTS 2; MRMV2					HP:0001335	Bimanual synkinesia			IEA	IEA						Disease name contained:#614508 mirror movements 2; mrmv2	OMIM:614508	HPO:skoehler	27.01.2015

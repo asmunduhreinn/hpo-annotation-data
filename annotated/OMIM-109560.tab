@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:109560	B-CELL LEUKEMIA/LYMPHOMA 3					HP:0005550	Chronic lymphatic leukemia			IEA	IEA							OMIM:109560	HPO	17.02.2009
+OMIM:109560	B-CELL LEUKEMIA/LYMPHOMA 3					HP:0002665	Lymphoma			IEA	IEA						Disease name contained:b-cell leukemia/lymphoma 3	OMIM:109560	HPO:skoehler	27.01.2015

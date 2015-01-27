@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:175860	POROKERATOSIS PUNCTATA PALMARIS ET PLANTARIS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:175860	HPO	17.02.2009
 OMIM:175860	POROKERATOSIS PUNCTATA PALMARIS ET PLANTARIS					HP:0007613	Spinous keratoses of palms and soles			IEA	IEA							OMIM:175860	HPO	17.02.2009
+OMIM:175860	POROKERATOSIS PUNCTATA PALMARIS ET PLANTARIS					HP:0200044	Porokeratosis			IEA	IEA						Disease name contained:porokeratosis punctata palmaris e	OMIM:175860	HPO:skoehler	27.01.2015

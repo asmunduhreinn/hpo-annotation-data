@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:609376	%609376 CATARACT 35; CTRCT35;;CATARACT, CONGENITAL NUCLEAR, AUTOSOMAL RECESSIVE 1; CATCN1					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:609376	HPO:skoehler	28.01.2014
+OMIM:609376	%609376 CATARACT 35; CTRCT35;;CATARACT, CONGENITAL NUCLEAR, AUTOSOMAL RECESSIVE 1; CATCN1					HP:0000518	Cataract			IEA	IEA						Disease name contained:%609376 cataract 35; ctrct35;;catara	OMIM:609376	HPO:skoehler	27.01.2015

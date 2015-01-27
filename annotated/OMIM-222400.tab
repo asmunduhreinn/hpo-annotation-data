@@ -1,2 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:222400	DIAPHRAGMATIC HERNIA 2					HP:0008986	Agenesis of the diaphragm			IEA	IEA							OMIM:222400	HPO	17.02.2009
+OMIM:222400	DIAPHRAGMATIC HERNIA 2					HP:0000776	Congenital diaphragmatic hernia			IEA	IEA						Disease name contained:diaphragmatic hernia 2	OMIM:222400	HPO:skoehler	27.01.2015

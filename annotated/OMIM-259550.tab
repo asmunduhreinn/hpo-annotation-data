@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:259550	OSTEOID OSTEOMA					HP:0000924	Abnormality of the musculoskeletal system			IEA	IEA							OMIM:259550	HPO	17.02.2009
 OMIM:259550	OSTEOID OSTEOMA					HP:0100246	Osteoma			IEA	IEA						Disease name contained:osteoid osteoma	OMIM:259550	HPO:skoehler	27.01.2015
+OMIM:259550	OSTEOID OSTEOMA					HP:0100246	Osteoma			IEA	IEA						Disease name contained:osteoid osteoma	OMIM:259550	HPO:skoehler	27.01.2015

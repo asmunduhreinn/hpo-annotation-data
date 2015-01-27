@@ -2,3 +2,4 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:224000	DYSAUTONOMIA-LIKE DISORDER					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:224000	HPO	17.02.2009
 OMIM:224000	DYSAUTONOMIA-LIKE DISORDER					HP:0001249	Intellectual disability			IEA	IEA							OMIM:224000	HPO	17.02.2009
 OMIM:224000	DYSAUTONOMIA-LIKE DISORDER					HP:0009830	Peripheral neuropathy			IEA	IEA							OMIM:224000	HPO:skoehler	20.06.2010
+OMIM:224000	DYSAUTONOMIA-LIKE DISORDER					HP:0002459	Dysautonomia			IEA	IEA						Disease name contained:dysautonomia-like disorder	OMIM:224000	HPO:skoehler	27.01.2015

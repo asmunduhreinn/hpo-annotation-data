@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:608224	#608224 DEAFNESS, AUTOSOMAL DOMINANT 41; DFNA41					HP:0000360	Tinnitus			IEA	IEA						OMIM-CS:HEAD AND NECK_EARS > TINNITUS	OMIM:608224	HPO:skoehler	28.01.2014
 OMIM:608224	#608224 DEAFNESS, AUTOSOMAL DOMINANT 41; DFNA41					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:608224	HPO:skoehler	28.01.2014
+OMIM:608224	#608224 DEAFNESS, AUTOSOMAL DOMINANT 41; DFNA41					HP:0000365	Hearing impairment			IEA	IEA						Disease name contained:#608224 deafness, autosomal dominant	OMIM:608224	HPO:skoehler	27.01.2015

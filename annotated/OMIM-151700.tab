@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:151700	LIPOMA OF THE CONJUNCTIVA					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:151700	HPO:probinson	Feb 17, 2009	
 OMIM:151700	LIPOMA OF THE CONJUNCTIVA					HP:0012549	Conjunctival lipoma			TAS	TAS							OMIM:151700	HPO:probinson	Jan 1, 2014	
+OMIM:151700	LIPOMA OF THE CONJUNCTIVA					HP:0012032	Lipoma			IEA	IEA						Disease name contained:lipoma of the conjunctiva	OMIM:151700	HPO:skoehler	27.01.2015

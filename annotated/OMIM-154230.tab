@@ -2,3 +2,4 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:154230	SEX REVERSAL, AUTOSOMAL, 2					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:154230	HPO	17.02.2009
 OMIM:154230	SEX REVERSAL, AUTOSOMAL, 2					HP:0000119	Abnormality of the genitourinary system			IEA	IEA							OMIM:154230	HPO	17.02.2009
 OMIM:154230	SEX REVERSAL, AUTOSOMAL, 2					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:154230	HPO	17.02.2009
+OMIM:154230	SEX REVERSAL, AUTOSOMAL, 2					HP:0012245	Sex reversal			IEA	IEA						Disease name contained:sex reversal, autosomal, 2	OMIM:154230	HPO:skoehler	27.01.2015

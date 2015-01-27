@@ -2,3 +2,4 @@ Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	P
 OMIM:212160	CARNITINE DEFICIENCY, MYOPATHIC					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:212160	HPO	17.02.2009
 OMIM:212160	CARNITINE DEFICIENCY, MYOPATHIC					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:212160	HPO	17.02.2009
 OMIM:212160	CARNITINE DEFICIENCY, MYOPATHIC					HP:0003198	Myopathy			IEA	IEA							OMIM:212160	HPO	17.02.2009
+OMIM:212160	CARNITINE DEFICIENCY, MYOPATHIC					HP:0003234	Decreased plasma carnitine			IEA	IEA						Disease name contained:carnitine deficiency, myopathic	OMIM:212160	HPO:skoehler	27.01.2015

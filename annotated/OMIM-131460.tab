@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:131460	EPIBLEPHARON OF UPPER LID					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:131460	HPO	17.02.2009
 OMIM:131460	EPIBLEPHARON OF UPPER LID					HP:0000478	Abnormality of the eye			IEA	IEA							OMIM:131460	HPO	17.02.2009
+OMIM:131460	EPIBLEPHARON OF UPPER LID					HP:0040150	Epiblepharon of upper lid			IEA	IEA						Disease name contained:epiblepharon of upper lid	OMIM:131460	HPO:skoehler	27.01.2015

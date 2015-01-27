@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:613517	#613517 MICROPHTHALMIA, ISOLATED 6; MCOP6;;MICROPHTHALMIA, POSTERIOR NONSYNDROMIC					HP:0000007	Autosomal recessive inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL RECESSIVE	OMIM:613517	HPO:skoehler	17.10.2012
 OMIM:613517	#613517 MICROPHTHALMIA, ISOLATED 6; MCOP6;;MICROPHTHALMIA, POSTERIOR NONSYNDROMIC					HP:0000482	Microcornea			IEA	IEA	rare					OMIM-CS:HEAD AND NECK_EYES > MICROCORNEA (IN SOME PATIENTS)	OMIM:613517	HPO:skoehler	18.11.2012
+OMIM:613517	#613517 MICROPHTHALMIA, ISOLATED 6; MCOP6;;MICROPHTHALMIA, POSTERIOR NONSYNDROMIC					HP:0000568	Microphthalmos			IEA	IEA						Disease name contained:#613517 microphthalmia, isolated 6; mcop6;	OMIM:613517	HPO:skoehler	27.01.2015
