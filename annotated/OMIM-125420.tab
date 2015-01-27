@@ -1,4 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:125420	DENTIN DYSPLASIA, TYPE II					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:125420	HPO:probinson	Feb 17, 2009	
 OMIM:125420	DENTIN DYSPLASIA, TYPE II					HP:0003771	Pulp stones			TAS	TAS							OMIM:125420	HPO:skoehler	Feb 17, 2009	
-OMIM:125420	DENTIN DYSPLASIA, TYPE II					HP:0010299	Abnormality of dentin			TAS	TAS							OMIM:125420	HPO:probinson	Apr 1, 2013	
+OMIM:125420	DENTIN DYSPLASIA, TYPE II					HP:0010299	Abnormality of dentin			TAS	TAS							OMIM:125420	HPO:probinson	Apr 1, 2013
+OMIM:125420	DENTIN DYSPLASIA, TYPE II					HP:0011060	Dentinogenesis imperfecta limited to primary teeth			TAS	TAS						Disease name contained:dentin dysplasia, type ii	OMIM:125420	HPO:skoehler	21.01.2015
+	

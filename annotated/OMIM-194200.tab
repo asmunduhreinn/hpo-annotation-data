@@ -7,4 +7,6 @@ OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0004757	Paroxysmal atrial fibr
 OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0004763	Paroxysmal supraventricular tachycardia			IEA	IEA							OMIM:194200	HPO	Feb 17, 2009	
 OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0006677	Prolonged QRS complex			IEA	IEA							OMIM:194200	HPO	Feb 17, 2009	
 OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0006684	Ventricular preexcitation with multiple accessory pathways			IEA	IEA							OMIM:194200	HPO	Feb 17, 2009	
-OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0005165	Shortened PR interval			TAS	TAS							OMIM:194200	HPO:probinson	Jun 10, 2012	
+OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0005165	Shortened PR interval			TAS	TAS							OMIM:194200	HPO:probinson	Jun 10, 2012
+OMIM:194200	WOLFF-PARKINSON-WHITE SYNDROME					HP:0001716	Wolff-Parkinson-White syndrome			TAS	TAS						Disease name contained:wolff-parkinson-white syndrome	OMIM:194200	HPO:skoehler	21.01.2015
+	
