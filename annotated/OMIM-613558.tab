@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:613558	#613558 DEAFNESS, AUTOSOMAL DOMINANT 51; DFNA51;;CHROMOSOME 9q21.11 DUPLICATION SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT	OMIM:613558	HPO:skoehler	17.10.2012
 OMIM:613558	#613558 DEAFNESS, AUTOSOMAL DOMINANT 51; DFNA51;;CHROMOSOME 9q21.11 DUPLICATION SYNDROME					HP:0003676	Progressive disorder			IEA	IEA						OMIM-CS:MISCELLANEOUS > PROGRESSIVE DISORDER	OMIM:613558	HPO:skoehler	17.10.2012
+OMIM:613558	#613558 DEAFNESS, AUTOSOMAL DOMINANT 51; DFNA51;;CHROMOSOME 9Q21.11 DUPLICATION SYNDROME					HP:0000365	Hearing impairment			IEA	IEA						Disease name contained:#613558 deafness, autosomal dominant	OMIM:613558	HPO:skoehler	27.01.2015
