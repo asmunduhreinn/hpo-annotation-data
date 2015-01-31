@@ -1,10 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:105250	HPO	17.02.2009
-OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0000973	Cutis laxa			IEA	IEA							OMIM:105250	HPO	17.02.2009
-OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0000989	Pruritus			IEA	IEA							OMIM:105250	HPO	17.02.2009
-OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0001149	Lattice corneal dystrophy			IEA	IEA							OMIM:105250	HPO	17.02.2009
-OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:105250	HPO	17.02.2009
-OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0003581	Adult onset			IEA	IEA							OMIM:105250	HPO	17.02.2009
-OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0009830	Peripheral neuropathy			IEA	IEA							OMIM:105250	HPO:skoehler	20.06.2010
-OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0002459	Dysautonomia			IEA	IEA				NOT	NOT		OMIM:105250	HPO:skoehler	18.06.2010
-OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0011034	Amyloidosis			IEA	IEA						Disease name contained:amyloidosis, primary cutaneous	OMIM:105250	HPO:skoehler	27.01.2015
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:105250	HPO:probinson	Feb 17, 2009	
+OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0000973	Cutis laxa			TAS	TAS							OMIM:105250	HPO:probinson	Feb 17, 2009	
+OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0000989	Pruritus			TAS	TAS							OMIM:105250	HPO:probinson	Feb 17, 2009	
+OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0001149	Lattice corneal dystrophy			TAS	TAS							OMIM:105250	HPO:probinson	Feb 17, 2009	
+OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0003581	Adult onset			TAS	TAS							OMIM:105250	HPO:probinson	Feb 17, 2009	
+OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0009830	Peripheral neuropathy			TAS	TAS				NOT	NOT		OMIM:105250	HPO:skoehler	Jun 20, 2010	
+OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0002459	Dysautonomia			TAS	TAS				NOT	NOT		OMIM:105250	HPO:skoehler	Jun 18, 2010	
+OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0011034	Amyloidosis			TAS	TAS						Localized amyloid deposition	OMIM:105250	HPO:skoehler	Jan 27, 2015	
+OMIM:105250	AMYLOIDOSIS, PRIMARY CUTANEOUS					HP:0001291	Abnormality of the cranial nerves			TAS	TAS							OMIM:105250	HPO:probinson	Jan 31, 2015	
