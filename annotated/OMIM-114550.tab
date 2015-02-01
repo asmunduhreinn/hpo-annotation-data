@@ -1,8 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:114550	HPO	17.02.2009
-OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0001402	Hepatocellular carcinoma			IEA	IEA							OMIM:114550	HPO	17.02.2009
-OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0001413	Micronodular cirrhosis			IEA	IEA							OMIM:114550	HPO	17.02.2009
-OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0001425	Heterogeneous			IEA	IEA							OMIM:114550	HPO	17.02.2009
-OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0001428	Somatic mutation			IEA	IEA							OMIM:114550	HPO	17.02.2009
-OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:114550	HPO	17.02.2009
-OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0006572	Subacute progressive viral hepatitis			IEA	IEA							OMIM:114550	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:114550	HPO:probinson	Feb 17, 2009	
+OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0001402	Hepatocellular carcinoma			TAS	TAS							OMIM:114550	HPO:probinson	Feb 17, 2009	
+OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0001413	Micronodular cirrhosis			TAS	TAS							OMIM:114550	HPO:probinson	Feb 17, 2009	
+OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0001428	Somatic mutation			TAS	TAS							OMIM:114550	HPO:probinson	Feb 17, 2009	
+OMIM:114550	HEPATOCELLULAR CARCINOMA					HP:0006572	Subacute progressive viral hepatitis			TAS	TAS							OMIM:114550	HPO:probinson	Feb 17, 2009	
