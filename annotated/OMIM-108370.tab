@@ -1,3 +1,10 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:108370	ASPARAGINE SYNTHETASE					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:108370	HPO	17.02.2009
-OMIM:108370	ASPARAGINE SYNTHETASE					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:108370	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:108370	ASPARAGINE SYNTHETASE					HP:0000006	Autosomal dominant inheritance			PCS	PCS							PMID:24139043	HPO:probinson	Feb 17, 2009	
+OMIM:108370	ASPARAGINE SYNTHETASE					HP:0011451	Congenital microcephaly			PCS	PCS							PMID:24139043	HPO:probinson	Feb 1, 2015	
+OMIM:108370	ASPARAGINE SYNTHETASE					HP:0001249	Intellectual disability			PCS	PCS							PMID:24139043	HPO:probinson	Feb 1, 2015	
+OMIM:108370	ASPARAGINE SYNTHETASE					HP:0001250	Seizures			PCS	PCS							PMID:24139043	HPO:probinson	Feb 1, 2015	
+OMIM:108370	ASPARAGINE SYNTHETASE					HP:0002059	Cerebral atrophy			PCS	PCS							PMID:24139043	HPO:probinson	Feb 1, 2015	
+OMIM:108370	ASPARAGINE SYNTHETASE					HP:0008936	Muscular hypotonia of the trunk			PCS	PCS							PMID:24139043	HPO:probinson	Feb 1, 2015	
+OMIM:108370	ASPARAGINE SYNTHETASE					HP:0001257	Spasticity			PCS	PCS							PMID:24139043	HPO:probinson	Feb 1, 2015	
+OMIM:108370	ASPARAGINE SYNTHETASE					HP:0012448	Delayed myelination			PCS	PCS							PMID:24139043	HPO:probinson	Feb 1, 2015	
+OMIM:108370	ASPARAGINE SYNTHETASE					HP:0003217	Hyperglutaminemia			PCS	PCS						Mild	PMID:24139043	HPO:probinson	Feb 1, 2015	
