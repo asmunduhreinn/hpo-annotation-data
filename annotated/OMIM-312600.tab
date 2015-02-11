@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:312600	RETINITIS PIGMENTOSA 2, X-LINKED					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:312600	HPO	17.02.2009
+OMIM:312600	RETINITIS PIGMENTOSA 2, X-LINKED					HP:0001417	X-linked inheritance			TAS	TAS							OMIM:312600	HPO:skoehler	11.02.2015
 OMIM:312600	RETINITIS PIGMENTOSA 2, X-LINKED					HP:0000510	Retinitis pigmentosa			IEA	IEA							OMIM:312600	HPO	17.02.2009
 OMIM:312600	RETINITIS PIGMENTOSA 2, X-LINKED					HP:0000518	Cataract			IEA	IEA							OMIM:312600	HPO	17.02.2009
 OMIM:312600	RETINITIS PIGMENTOSA 2, X-LINKED					HP:0000545	Myopia			IEA	IEA							OMIM:312600	HPO:skoehler	20.06.2010
