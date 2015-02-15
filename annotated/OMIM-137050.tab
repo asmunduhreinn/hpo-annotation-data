@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:137050	GAMMA-A-GLOBULIN, DEFECT IN ASSEMBLY OF					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:137050	HPO	17.02.2009
-OMIM:137050	GAMMA-A-GLOBULIN, DEFECT IN ASSEMBLY OF					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:137050	HPO	17.02.2009
-OMIM:137050	GAMMA-A-GLOBULIN, DEFECT IN ASSEMBLY OF					HP:0002205	Recurrent respiratory infections			IEA	IEA							OMIM:137050	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:137050	GAMMA-A-GLOBULIN, DEFECT IN ASSEMBLY OF					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:137050	HPO:probinson	Feb 17, 2009	
+OMIM:137050	GAMMA-A-GLOBULIN, DEFECT IN ASSEMBLY OF					HP:0002205	Recurrent respiratory infections			TAS	TAS							OMIM:137050	HPO:probinson	Feb 17, 2009	
+OMIM:137050	GAMMA-A-GLOBULIN, DEFECT IN ASSEMBLY OF					HP:0002720	IgA deficiency			TAS	TAS							OMIM:137050	HPO:probinson	Feb 15, 2015	

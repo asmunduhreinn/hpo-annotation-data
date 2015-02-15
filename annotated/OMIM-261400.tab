@@ -1,3 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:261400	PERONEUS TERTIUS MUSCLE, ABSENCE OF					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:261400	HPO	17.02.2009
-OMIM:261400	PERONEUS TERTIUS MUSCLE, ABSENCE OF					HP:0003011	Abnormality of musculature			IEA	IEA							OMIM:261400	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:261400	PERONEUS TERTIUS MUSCLE, ABSENCE OF					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:261400	HPO:probinson	Feb 17, 2009	
+OMIM:261400	PERONEUS TERTIUS MUSCLE, ABSENCE OF					HP:0003011	Abnormality of the musculature			IEA	IEA							OMIM:261400	HPO	Feb 17, 2009	
+OMIM:261400	PERONEUS TERTIUS MUSCLE, ABSENCE OF					HP:0009027	Foot dorsiflexor weakness			TAS	TAS							OMIM:261400	HPO:probinson	Feb 3, 2015	
