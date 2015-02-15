@@ -1,3 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:142000	HEMOGLOBIN--DELTA LOCUS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:142000	HPO	17.02.2009
-OMIM:142000	HEMOGLOBIN--DELTA LOCUS					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:142000	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:142000	HEMOGLOBIN--DELTA LOCUS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:142000	HPO	Feb 17, 2009	
+OMIM:142000	HEMOGLOBIN--DELTA LOCUS					HP:0005560	Imbalanced hemoglobin synthesis			TAS	TAS							OMIM:142000	HPO	Feb 15, 2015	
+OMIM:142000	HEMOGLOBIN--DELTA LOCUS					HP:0001903	Anemia			TAS	TAS							OMIM:142000	HPO	Feb 15, 2015	
