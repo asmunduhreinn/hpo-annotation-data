@@ -1,7 +1,6 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:175800	HPO	17.02.2009
-OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0000951	Abnormality of the skin			IEA	IEA							OMIM:175800	HPO	17.02.2009
-OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:175800	HPO	17.02.2009
-OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0002664	Neoplasm			IEA	IEA							OMIM:175800	HPO	17.02.2009
-OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0003596	Middle age onset			IEA	IEA							OMIM:175800	HPO	17.02.2009
-OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0200044	Porokeratosis			IEA	IEA						Disease name contained:porokeratosis of mibelli	OMIM:175800	HPO:skoehler	27.01.2015
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:175800	HPO:probinson	Feb 17, 2009	
+OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0008069	Neoplasm of the skin			TAS	TAS	Frequent						OMIM:175800	HPO:probinson	Feb 17, 2009	
+OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0003596	Middle age onset			TAS	TAS							OMIM:175800	HPO:probinson	Feb 17, 2009	
+OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0200044	Porokeratosis			TAS	TAS						Disease name contained:porokeratosis of mibelli	OMIM:175800	HPO:skoehler	Jan 27, 2015	
+OMIM:175800	POROKERATOSIS OF MIBELLI					HP:0003220	Abnormality of chromosome stability			TAS	TAS							OMIM:175800	HPO:probinson	Feb 22, 2015	

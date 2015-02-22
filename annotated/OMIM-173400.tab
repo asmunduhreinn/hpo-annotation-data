@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:173400	PLATELET AGGREGATION, SPONTANEOUS					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:173400	HPO	17.02.2009
-OMIM:173400	PLATELET AGGREGATION, SPONTANEOUS					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:173400	HPO	17.02.2009
-OMIM:173400	PLATELET AGGREGATION, SPONTANEOUS					HP:0004419	Recurrent thrombophlebitis			IEA	IEA							OMIM:173400	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:173400	PLATELET AGGREGATION, SPONTANEOUS					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:173400	HPO:probinson	Feb 17, 2009	
+OMIM:173400	PLATELET AGGREGATION, SPONTANEOUS					HP:0004419	Recurrent thrombophlebitis			TAS	TAS							OMIM:173400	HPO:probinson	Feb 17, 2009	
+OMIM:173400	PLATELET AGGREGATION, SPONTANEOUS					HP:0011869	Abnormal platelet function			TAS	TAS							OMIM:173400	HPO:probinson	Feb 22, 2015	
