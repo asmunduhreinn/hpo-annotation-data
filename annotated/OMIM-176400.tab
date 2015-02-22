@@ -1,6 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:176400	HPO	17.02.2009
-OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0000821	Hypothyroidism			IEA	IEA							OMIM:176400	HPO:skoehler	20.06.2010
-OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0001507	Growth abnormality			IEA	IEA							OMIM:176400	HPO	17.02.2009
-OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:176400	HPO	17.02.2009
-OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0008236	Isosexual precocious puberty			IEA	IEA							OMIM:176400	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:176400	HPO	Feb 17, 2009	
+OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0000821	Hypothyroidism			TAS	TAS	Occasional						OMIM:176400	HPO:skoehler	Jun 20, 2010	
+OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0004322	Short stature	HP:0003581	Adult onset	TAS	TAS							OMIM:176400	HPO	Feb 17, 2009	
+OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0008236	Isosexual precocious puberty			TAS	TAS							OMIM:176400	HPO	Feb 17, 2009	
+OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0011969	Elevated luteinizing hormone			TAS	TAS							OMIM:176400	HPO	Feb 22, 2015	
+OMIM:176400	PRECOCIOUS PUBERTY, CENTRAL					HP:0008232	Elevated follicle stimulating hormone			TAS	TAS							OMIM:176400	HPO	Feb 22, 2015	
