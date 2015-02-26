@@ -1,2 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:611548	#611548 PREMATURE OVARIAN FAILURE 5; POF5				NOBOX	HP:0008209	Premature ovarian failure			IEA	IEA							OMIM:611548	HPO:probinson	Jan 9, 2013	
+OMIM:611548	#611548 PREMATURE OVARIAN FAILURE 5; POF5					HP:0000786	Primary amenorrhea			IEA	IEA	rare					OMIM-CS:GENITOURINARY_INTERNAL GENITALIA, FEMALE > PRIMARY AMENORRHEA (IN SOME PATIENTS)	OMIM:611548	HPO:skoehler	22.02.2015
+OMIM:611548	#611548 PREMATURE OVARIAN FAILURE 5; POF5					HP:0000869	Secondary amenorrhea			IEA	IEA	hallmark					OMIM-CS:GENITOURINARY_INTERNAL GENITALIA, FEMALE > SECONDARY AMENORRHEA (IN MOST PATIENTS)	OMIM:611548	HPO:skoehler	22.02.2015
