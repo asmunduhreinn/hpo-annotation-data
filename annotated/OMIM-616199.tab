@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:616199	#616199 POLYGLUCOSAN BODY MYOPATHY 2; PGBM2					HP:0003202	Skeletal muscle atrophy			IEA	IEA						OMIM-CS:MUSCLE, SOFT TISSUE > MUSCLE ATROPHY	OMIM:616199	HPO:skoehler	22.02.2015
+OMIM:616199	#616199 POLYGLUCOSAN BODY MYOPATHY 2; PGBM2					HP:0002460	Distal muscle weakness			IEA	IEA	rare					OMIM-CS:MUSCLE, SOFT TISSUE > MUSCLE WEAKNESS, DISTAL (IN SOME PATIENTS)	OMIM:616199	HPO:skoehler	22.02.2015

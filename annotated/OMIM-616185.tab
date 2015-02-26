@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:616185	#616185 OVARIAN DYSGENESIS 4; ODG4					HP:0000786	Primary amenorrhea			IEA	IEA						OMIM-CS:ENDOCRINE FEATURES > PRIMARY AMENORRHEA	OMIM:616185	HPO:skoehler	22.02.2015
+OMIM:616185	#616185 OVARIAN DYSGENESIS 4; ODG4					HP:0004322	Short stature			IEA	IEA						OMIM-CS:GROWTH_HEIGHT > SHORT STATURE	OMIM:616185	HPO:skoehler	22.02.2015
+OMIM:616185	#616185 OVARIAN DYSGENESIS 4; ODG4					HP:0004325	Decreased body weight			IEA	IEA						OMIM-CS:GROWTH_WEIGHT > LOW WEIGHT	OMIM:616185	HPO:skoehler	22.02.2015
+OMIM:616185	#616185 OVARIAN DYSGENESIS 4; ODG4					HP:0002750	Delayed skeletal maturation			IEA	IEA						OMIM-CS:SKELETAL > DELAYED BONE AGE	OMIM:616185	HPO:skoehler	22.02.2015
