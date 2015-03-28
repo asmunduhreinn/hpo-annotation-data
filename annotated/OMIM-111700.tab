@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+111700	RHESUS BLOOD GROUP, CcEe ANTIGENS; RHCE					HP:0000007	Autosomal recessive inheritance			PCS	PCS						Rhnull disease	pmid:9657769	HPO:probinson	Mar 28, 2015	
+111700	RHESUS BLOOD GROUP, CcEe ANTIGENS; RHCE					HP:0004446	Stomatocytosis			PCS	PCS						Rhnull disease	pmid:9657769	HPO:probinson	Mar 28, 2015	
+111700	RHESUS BLOOD GROUP, CcEe ANTIGENS; RHCE					HP:0004870	Chronic hemolytic anemia			PCS	PCS						Rhnull disease	pmid:9657769	HPO:probinson	Mar 28, 2015	

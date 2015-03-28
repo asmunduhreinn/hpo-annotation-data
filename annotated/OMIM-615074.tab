@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+615074	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18; MRD18					HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:23644463	HPO:probinson	Mar 28, 2015	
+615074	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18; MRD18					HP:0010864	Intellectual disability, severe			PCS	PCS	4/4						pmid:23644463	HPO:probinson	Mar 28, 2015	
+615074	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18; MRD18					HP:0002463	Language impairment			PCS	PCS	4/4						pmid:23644463	HPO:probinson	Mar 28, 2015	
+615074	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18; MRD18					HP:0000455	Broad nasal tip			PCS	PCS	4/4						pmid:23644463	HPO:probinson	Mar 28, 2015	
+615074	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18; MRD18					HP:0000322	Short philtrum			PCS	PCS	4/4						pmid:23644463	HPO:probinson	Mar 28, 2015	
+615074	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18; MRD18					HP:0008070	Sparse hair			PCS	PCS	4/4						pmid:23644463	HPO:probinson	Mar 28, 2015	
+615074	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18; MRD18					HP:0000486	Strabismus			PCS	PCS	4/4						pmid:23644463	HPO:probinson	Mar 28, 2015	
+615074	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18; MRD18					HP:0001263	Global developmental delay			PCS	PCS	4/4						pmid:23644463	HPO:probinson	Mar 28, 2015	
+615074	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18; MRD18					HP:0001319	Neonatal hypotonia			PCS	PCS							pmid:23644463	HPO:probinson	Mar 28, 2015	
+615074	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18; MRD18					HP:0000748	Inappropriate laughter			PCS	PCS							pmid:23644463	HPO:probinson	Mar 28, 2015	

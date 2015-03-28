@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+613791	MASP2 DEFICIENCY					HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:12904520	HPO:probinson	Mar 28, 2015	
+613791	MASP2 DEFICIENCY					HP:0100279	Ulcerative colitis			PCS	PCS	1/1						pmid:12904520	HPO:probinson	Mar 28, 2015	
+613791	MASP2 DEFICIENCY					HP:0002725	Systemic lupus erythematosus			PCS	PCS	1/1						pmid:12904520	HPO:probinson	Mar 28, 2015	
+613791	MASP2 DEFICIENCY					HP:0006532	Recurrent pneumonia			PCS	PCS	1/1						pmid:12904520	HPO:probinson	Mar 28, 2015	
+613791	MASP2 DEFICIENCY					HP:0004431	Complement deficiency			PCS	PCS	1/1						pmid:12904520	HPO:probinson	Mar 28, 2015	
