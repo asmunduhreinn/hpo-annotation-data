@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:616248	#616248 LETHAL CONGENITAL CONTRACTURE SYNDROME 6; LCCS6					HP:0000256	Macrocephaly			IEA	IEA						OMIM-CS:HEAD AND NECK_HEAD > MACROCEPHALY	OMIM:616248	HPO:skoehler	22.03.2015
+OMIM:616248	#616248 LETHAL CONGENITAL CONTRACTURE SYNDROME 6; LCCS6					HP:0001558	Decreased fetal movement			IEA	IEA						OMIM-CS:PRENATAL MANIFESTATIONS_MOVEMENT > REDUCED FETAL MOVEMENTS	OMIM:616248	HPO:skoehler	22.03.2015
