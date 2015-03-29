@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-615593	IMMUNODEFICIENCY 16; IMD16				TNFRSF4	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:23897980	HPO:probinson	Mar 28, 2015	
-615593	IMMUNODEFICIENCY 16; IMD16				TNFRSF4	HP:0100726	Kaposi's sarcoma	HP:0011463	Childhood onset	PCS	PCS	3/3						pmid:20156905	HPO:probinson	Mar 28, 2015	
-615593	IMMUNODEFICIENCY 16; IMD16				TNFRSF4	HP:0001744	Splenomegaly			PCS	PCS							pmid:20156905	HPO:probinson	Mar 28, 2015	
-615593	IMMUNODEFICIENCY 16; IMD16				TNFRSF4	HP:0001876	Pancytopenia			PCS	PCS							pmid:20156905	HPO:probinson	Mar 28, 2015	
-615593	IMMUNODEFICIENCY 16; IMD16				TNFRSF4	HP:0004844	Coombs-positive hemolytic anemia			PCS	PCS							pmid:20156905	HPO:probinson	Mar 28, 2015	
+OMIM:615593	IMMUNODEFICIENCY 16; IMD16				TNFRSF4	HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:23897980	HPO:probinson	Mar 28, 2015	
+OMIM:615593	IMMUNODEFICIENCY 16; IMD16				TNFRSF4	HP:0100726	Kaposi's sarcoma	HP:0011463	Childhood onset	PCS	PCS	3/3						pmid:20156905	HPO:probinson	Mar 28, 2015	
+OMIM:615593	IMMUNODEFICIENCY 16; IMD16				TNFRSF4	HP:0001744	Splenomegaly			PCS	PCS							pmid:20156905	HPO:probinson	Mar 28, 2015	
+OMIM:615593	IMMUNODEFICIENCY 16; IMD16				TNFRSF4	HP:0001876	Pancytopenia			PCS	PCS							pmid:20156905	HPO:probinson	Mar 28, 2015	
+OMIM:615593	IMMUNODEFICIENCY 16; IMD16				TNFRSF4	HP:0004844	Coombs-positive hemolytic anemia			PCS	PCS							pmid:20156905	HPO:probinson	Mar 28, 2015	
