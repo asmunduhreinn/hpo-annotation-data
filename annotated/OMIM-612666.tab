@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:612666	DUAL SERINE/THREONINE AND TYROSINE PROTEIN KINASE; DSTYK					HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:23862974	HPO:probinson	Mar 30, 2015	
+OMIM:612666	DUAL SERINE/THREONINE AND TYROSINE PROTEIN KINASE; DSTYK					HP:0000089	Renal hypoplasia			PCS	PCS							pmid:23862974	HPO:probinson	Mar 30, 2015	
+OMIM:612666	DUAL SERINE/THREONINE AND TYROSINE PROTEIN KINASE; DSTYK					HP:0000074	Ureteropelvic junction obstruction			PCS	PCS							pmid:23862974	HPO:probinson	Mar 30, 2015	
+OMIM:612666	DUAL SERINE/THREONINE AND TYROSINE PROTEIN KINASE; DSTYK					HP:0000076	Vesicoureteral reflux			PCS	PCS							pmid:23862974	HPO:probinson	Mar 30, 2015	

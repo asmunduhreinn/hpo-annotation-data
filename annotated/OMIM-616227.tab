@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:616227	MYASTHENIC SYNDROME, CONGENITAL, WITHOUT TUBULAR AGGREGATES; CMSWTA				ALG14	HP:0003473	Fatigable weakness					2/2						pmid:23404334	HPO:probinson	Mar 30, 2015	
+OMIM:616227	MYASTHENIC SYNDROME, CONGENITAL, WITHOUT TUBULAR AGGREGATES; CMSWTA				ALG14	HP:0002359	Frequent falls											pmid:23404334	HPO:probinson	Mar 30, 2015	
+OMIM:616227	MYASTHENIC SYNDROME, CONGENITAL, WITHOUT TUBULAR AGGREGATES; CMSWTA				ALG14	HP:0030208	Acetylcholine receptor antibody positivity					2/2			NOT	NOT		pmid:23404334	HPO:probinson	Mar 30, 2015	
+OMIM:616227	MYASTHENIC SYNDROME, CONGENITAL, WITHOUT TUBULAR AGGREGATES; CMSWTA				ALG14	HP:0002828	Multiple joint contractures					6/7						pmid:23404334	HPO:probinson	Mar 30, 2015	
+OMIM:616227	MYASTHENIC SYNDROME, CONGENITAL, WITHOUT TUBULAR AGGREGATES; CMSWTA				ALG14	HP:0003403	EMG: decremental response of compound muscle action potential to repetitive nerve stimulation					5/5						pmid:23404334	HPO:probinson	Mar 30, 2015	
+OMIM:616227	MYASTHENIC SYNDROME, CONGENITAL, WITHOUT TUBULAR AGGREGATES; CMSWTA				ALG14	HP:0000508	Ptosis					1/7					Mild	pmid:23404334	HPO:probinson	Mar 30, 2015	
+OMIM:616227	MYASTHENIC SYNDROME, CONGENITAL, WITHOUT TUBULAR AGGREGATES; CMSWTA				ALG14	HP:0030205	Increased jitter at single fibre EMG					4/4						pmid:23404334	HPO:probinson	Mar 30, 2015	
+OMIM:616227	MYASTHENIC SYNDROME, CONGENITAL, WITHOUT TUBULAR AGGREGATES; CMSWTA				ALG14	HP:0000007	Autosomal recessive inheritance											pmid:23404334	HPO:probinson	Mar 30, 2015	
