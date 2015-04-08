@@ -1,3 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:607842	#607842 AURAL ATRESIA, CONGENITAL; CAA				TSHZ1	HP:0000413	Atresia of the external auditory canal			PCS	PCS							pmid:22152683	HPO:probinson	Jan 9, 2013	
 OMIM:607842	#607842 AURAL ATRESIA, CONGENITAL; CAA				TSHZ1	HP:0000006	Autosomal dominant inheritance			PCS	PCS							pmid:22152683	HPO:probinson	Mar 4, 2013	
+OMIM:607842	#607842 AURAL ATRESIA, CONGENITAL; CAA;;AURAL ATRESIA, CONGENITAL, WITH HYPOSMIA					HP:0000405	Conductive hearing impairment			IEA	IEA						MODIFIER:BILATERAL;OMIM-CS:HEAD AND NECK_EARS > CONDUCTIVE HEARING LOSS, BILATERAL	OMIM:607842	HPO:skoehler	05.04.2015
+OMIM:607842	#607842 AURAL ATRESIA, CONGENITAL; CAA;;AURAL ATRESIA, CONGENITAL, WITH HYPOSMIA					HP:0004409	Hyposmia			IEA	IEA						OMIM-CS:HEAD AND NECK_NOSE > HYPOSMIA	OMIM:607842	HPO:skoehler	05.04.2015
