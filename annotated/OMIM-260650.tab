@@ -1,10 +1,10 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA									17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000651	Diplopia			IEA	IEA									17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000988	Skin rash			TAS	TAS							MIM:260650	HPO:probinson	17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000518	Cataract			TAS	TAS							MIM:260650	HPO:probinson	17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001251	Ataxia			IEA	IEA									17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001260	Dysarthria			IEA	IEA									17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001263	Global developmental delay			IEA	IEA									17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001289	Confusion			IEA	IEA									17.02.2009	
-MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA									17.02.2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000007	Autosomal recessive inheritance			IEA	IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000651	Diplopia			IEA	IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000988	Skin rash			TAS	TAS							MIM:260650	HPO:probinson	Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0000518	Cataract			TAS	TAS							MIM:260650	HPO:probinson	Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001251	Ataxia			IEA	IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001260	Dysarthria			IEA	IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001263	Global developmental delay			IEA	IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0001289	Confusion			IEA	IEA									Feb 17, 2009	
+MIM:260650	PELLAGRA-LIKE SYNDROME					HP:0003355	Aminoaciduria			TAS	TAS				NOT	NOT				Apr 18, 2015	

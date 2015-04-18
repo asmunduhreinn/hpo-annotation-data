@@ -1,11 +1,9 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:260005	HPO	17.02.2009
-OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0000119	Abnormality of the genitourinary system			IEA	IEA							OMIM:260005	HPO	17.02.2009
-OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:260005	HPO	17.02.2009
-OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0002013	Vomiting			IEA	IEA							OMIM:260005	HPO	17.02.2009
-OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0002014	Diarrhea			IEA	IEA							OMIM:260005	HPO	17.02.2009
-OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0002027	Abdominal pain			IEA	IEA							OMIM:260005	HPO	17.02.2009
-OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0004387	Enterocolitis			IEA	IEA							OMIM:260005	HPO	17.02.2009
-OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0003137	Prolinuria			TAS	TAS						Disease name contained:inase deficiency|oxoprolinuria due to oxoprolinase	OMIM:260005	HPO:skoehler	21.01.2015
-OMIM:260005	5-@OXOPROLINASE DEFICIENCY					HP:0040142	5-oxoprolinase deficiency			TAS	TAS						Disease name contained:inase deficiency|oxoprolinuria due to oxoprolinase	OMIM:260005	HPO:skoehler	21.01.2015
-
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:260005	5-@OXOPROLINASE DEFICIENCY; OPLAHD					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:260005	HPO	Feb 17, 2009	
+OMIM:260005	5-@OXOPROLINASE DEFICIENCY; OPLAHD					HP:0002013	Vomiting			IEA	IEA							OMIM:260005	HPO	Feb 17, 2009	
+OMIM:260005	5-@OXOPROLINASE DEFICIENCY; OPLAHD					HP:0002014	Diarrhea			IEA	IEA							OMIM:260005	HPO	Feb 17, 2009	
+OMIM:260005	5-@OXOPROLINASE DEFICIENCY; OPLAHD					HP:0002027	Abdominal pain			IEA	IEA							OMIM:260005	HPO	Feb 17, 2009	
+OMIM:260005	5-@OXOPROLINASE DEFICIENCY; OPLAHD					HP:0004387	Enterocolitis			IEA	IEA							OMIM:260005	HPO	Feb 17, 2009	
+OMIM:260005	5-@OXOPROLINASE DEFICIENCY; OPLAHD					HP:0003137	Prolinuria			TAS	TAS						Disease name contained:inase deficiency|oxoprolinuria due to oxoprolinase	OMIM:260005	HPO:skoehler	Jan 21, 2015	
+OMIM:260005	5-@OXOPROLINASE DEFICIENCY; OPLAHD					HP:0040142	5-oxoprolinase deficiency			TAS	TAS						Disease name contained:inase deficiency|oxoprolinuria due to oxoprolinase	OMIM:260005	HPO:skoehler	Jan 21, 2015	
+OMIM:260005	5-@OXOPROLINASE DEFICIENCY; OPLAHD					HP:0008672	Calcium oxalate nephrolithiasis			TAS	TAS							OMIM:260005	HPO:skoehler	Apr 18, 2015	
