@@ -1,5 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:258800	ORAL SENSIBILITY, DISTURBANCE OF					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:258800	HPO	17.02.2009
-OMIM:258800	ORAL SENSIBILITY, DISTURBANCE OF					HP:0001333	Abnormality of the sensory nervous system			IEA	IEA							OMIM:258800	HPO	17.02.2009
-OMIM:258800	ORAL SENSIBILITY, DISTURBANCE OF					HP:0002307	Drooling			IEA	IEA							OMIM:258800	HPO	17.02.2009
-OMIM:258800	ORAL SENSIBILITY, DISTURBANCE OF					HP:0009090	Facial diplegic appearance			IEA	IEA							OMIM:258800	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:258800	ORAL SENSIBILITY, DISTURBANCE OF					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:258800	HPO:probinson	Feb 17, 2009	
+OMIM:258800	ORAL SENSIBILITY, DISTURBANCE OF					HP:0002311	Incoordination			TAS	TAS							OMIM:258800	HPO:probinson	Feb 17, 2009	
+OMIM:258800	ORAL SENSIBILITY, DISTURBANCE OF					HP:0002307	Drooling			TAS	TAS							OMIM:258800	HPO:probinson	Feb 17, 2009	
