@@ -1,3 +1,2 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:602025	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 9					HP:0001507	Growth abnormality			IEA	IEA							OMIM:602025	HPO	17.02.2009
-OMIM:602025	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 9					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:602025	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:602025	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 9; BMIQ9					HP:0001513	Obesity			TAS	TAS							OMIM:602025	HPO	Feb 17, 2009	

@@ -1,3 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:601665	OBESITYLEANNESS, INCLUDED					HP:0001513	Obesity			IEA	IEA							OMIM:601665	HPO	17.02.2009
-OMIM:601665	OBESITYLEANNESS, INCLUDED					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:601665	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:601665	OBESITY					HP:0001513	Obesity			TAS	TAS							OMIM:601665	HPO	Feb 17, 2009	
+OMIM:601665	OBESITY					HP:0012340	Decreased resting energy expenditure			TAS	TAS							OMIM:601665	HPO	May 3, 2015	
+OMIM:601665	OBESITY					HP:0010982	Polygenic inheritance			TAS	TAS							OMIM:601665	HPO	May 3, 2015	
