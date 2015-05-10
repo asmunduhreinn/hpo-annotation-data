@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:615426	AMYOTROPHIC LATERAL SCLEROSIS 20; ALS20				HNRNPA1	HP:0000006	Autosomal dominant inheritance			PCS	PCS							PMID:23455423	HPO:probinson	May 10, 2015	
+OMIM:615426	AMYOTROPHIC LATERAL SCLEROSIS 20; ALS20				HNRNPA1	HP:0003560	Muscular dystrophy	HP:0003584	Late onset	PCS	PCS							PMID:23455423	HPO:probinson	May 10, 2015	
+OMIM:615426	AMYOTROPHIC LATERAL SCLEROSIS 20; ALS20				HNRNPA1	HP:0003805	Rimmed vacuoles			PCS	PCS							PMID:23455423	HPO:probinson	May 10, 2015	
+OMIM:615426	AMYOTROPHIC LATERAL SCLEROSIS 20; ALS20				HNRNPA1	HP:0100299	Muscle fiber inclusion bodies			PCS	PCS							PMID:23455423	HPO:probinson	May 10, 2015	
+OMIM:615426	AMYOTROPHIC LATERAL SCLEROSIS 20; ALS20				HNRNPA1	HP:0003155	Elevated alkaline phosphatase			PCS	PCS							PMID:23455423	HPO:probinson	May 10, 2015	

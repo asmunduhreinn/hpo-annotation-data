@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:603383	GLAUCOMA 1, OPEN ANGLE, F; GLC1F					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:603383	HPO:probinson	May 10, 2015	
+OMIM:603383	GLAUCOMA 1, OPEN ANGLE, F; GLC1F					HP:0012108	Primary open angle glaucoma			TAS	TAS							OMIM:603383	HPO:probinson	May 10, 2015	
+OMIM:603383	GLAUCOMA 1, OPEN ANGLE, F; GLC1F					HP:0012796	Increased cup-to-disc ratio			TAS	TAS							OMIM:603383	HPO:probinson	May 10, 2015	
+OMIM:603383	GLAUCOMA 1, OPEN ANGLE, F; GLC1F					HP:0007854	Glaucomatous visual field defect			TAS	TAS							OMIM:603383	HPO:probinson	May 10, 2015	
+OMIM:603383	GLAUCOMA 1, OPEN ANGLE, F; GLC1F					HP:0007906	Increased intraocular pressure			TAS	TAS							OMIM:603383	HPO:probinson	May 10, 2015	
