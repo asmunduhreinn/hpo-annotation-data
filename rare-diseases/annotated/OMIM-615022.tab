@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:615022	ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 7; ARCI7					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:615022	HPO:probinson	May 10, 2015	
+OMIM:615022	ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 7; ARCI7					HP:0008064	Ichthyosis			TAS	TAS	3/3						OMIM:615022	HPO:probinson	May 10, 2015	
+OMIM:615022	ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 7; ARCI7					HP:0001019	Erythroderma			TAS	TAS	3/3						OMIM:615022	HPO:probinson	May 10, 2015	
+OMIM:615022	ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 7; ARCI7					HP:0000982	Palmoplantar keratoderma			TAS	TAS	3/3						OMIM:615022	HPO:probinson	May 10, 2015	

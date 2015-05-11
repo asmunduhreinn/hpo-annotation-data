@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:615925	GROWTH HORMONE DEFICIENCY, ISOLATED PARTIAL; GHDP				GHSR	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:615925	HPO:probinson	May 8, 2015	
+OMIM:615925	GROWTH HORMONE DEFICIENCY, ISOLATED PARTIAL; GHDP				GHSR	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:615925	HPO:probinson	May 8, 2015	
+OMIM:615925	GROWTH HORMONE DEFICIENCY, ISOLATED PARTIAL; GHDP				GHSR	HP:0004322	Short stature			TAS	TAS							OMIM:615925	HPO:probinson	May 8, 2015	
+OMIM:615925	GROWTH HORMONE DEFICIENCY, ISOLATED PARTIAL; GHDP				GHSR	HP:0008897	Postnatal growth retardation			TAS	TAS							OMIM:615925	HPO:probinson	May 8, 2015	
+OMIM:615925	GROWTH HORMONE DEFICIENCY, ISOLATED PARTIAL; GHDP				GHSR	HP:0002750	Delayed skeletal maturation			TAS	TAS	Occasional						OMIM:615925	HPO:probinson	May 8, 2015	
+OMIM:615925	GROWTH HORMONE DEFICIENCY, ISOLATED PARTIAL; GHDP				GHSR	HP:0012506	Small pituitary gland			TAS	TAS	Occasional						OMIM:615925	HPO:probinson	May 8, 2015	

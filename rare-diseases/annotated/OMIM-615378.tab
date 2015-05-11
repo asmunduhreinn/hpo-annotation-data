@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:615378	ATRIAL FIBRILLATION, FAMILIAL, 14; ATFB14				SCN2B	HP:0000006	Autosomal dominant inheritance			PCS	PCS							PMID:19808477	HPO:probinson	May 10, 2015	
+OMIM:615378	ATRIAL FIBRILLATION, FAMILIAL, 14; ATFB14				SCN2B	HP:0004757	Paroxysmal atrial fibrillation			PCS	PCS	2/2						PMID:19808477	HPO:probinson	May 10, 2015	
+OMIM:615378	ATRIAL FIBRILLATION, FAMILIAL, 14; ATFB14				SCN2B	HP:0012251	ST segment elevation			PCS	PCS	2/2						PMID:19808477	HPO:probinson	May 10, 2015	
+OMIM:615378	ATRIAL FIBRILLATION, FAMILIAL, 14; ATFB14				SCN2B	HP:0012248	Prolonged PR interval			PCS	PCS	1/2						PMID:19808477	HPO:probinson	May 10, 2015	

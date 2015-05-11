@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:615431	MYOPIA 23, AUTOSOMAL RECESSIVE; MYP23				LRPAP1	HP:0000007	Autosomal recessive inheritance			PCS	PCS							PMID:23830514	HPO:probinson	May 8, 2015	
+OMIM:615431	MYOPIA 23, AUTOSOMAL RECESSIVE; MYP23				LRPAP1	HP:0011003	Severe Myopia			PCS	PCS							PMID:23830514	HPO:probinson	May 8, 2015	
+OMIM:615431	MYOPIA 23, AUTOSOMAL RECESSIVE; MYP23				LRPAP1	HP:0000505	Visual impairment			PCS	PCS							PMID:23830514	HPO:probinson	May 8, 2015	
+OMIM:615431	MYOPIA 23, AUTOSOMAL RECESSIVE; MYP23				LRPAP1	HP:0007800	Increased axial globe length			PCS	PCS							PMID:23830514	HPO:probinson	May 8, 2015	
