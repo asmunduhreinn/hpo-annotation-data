@@ -1,2 +1,2 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-DOID-DOID:0006692	Posterior Cervical Sympathetic Syndrome					HP:0000737	Irritability			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.1428249101691141). MESHID: D055010	PMID:23650753	HPO	11.05.2015
+DOID-DOID:0006692	Posterior Cervical Sympathetic Syndrome					HP:0000737	Irritability			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.142824910169114/1). MESHID: D055010	PMID:23650753	HPO	11.05.2015

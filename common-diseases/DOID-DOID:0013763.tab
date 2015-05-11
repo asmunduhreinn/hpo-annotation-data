@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-DOID-DOID:0013763	Dourine					HP:0002311	Incoordination			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.305710066399692). MESHID: D004313	PMID:19924557; PMID:10622626	HPO	11.05.2015
-DOID-DOID:0013763	Dourine					HP:0200035	Skin plaque			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.557508060993791). MESHID: D004313	PMID:12860063	HPO	11.05.2015
-DOID-DOID:0013763	Dourine					HP:0000969	Edema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.5959546840790162). MESHID: D004313	PMID:19924557; PMID:12860063	HPO	11.05.2015
+DOID-DOID:0013763	Dourine					HP:0002311	Incoordination			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.30571006639969/2). MESHID: D004313	PMID:19924557;PMID:10622626	HPO	11.05.2015
+DOID-DOID:0013763	Dourine					HP:0200035	Skin plaque			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.55750806099379/1). MESHID: D004313	PMID:12860063	HPO	11.05.2015
+DOID-DOID:0013763	Dourine					HP:0000969	Edema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.595954684079016/2). MESHID: D004313	PMID:19924557;PMID:12860063	HPO	11.05.2015

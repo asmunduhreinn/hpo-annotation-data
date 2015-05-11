@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D054506	Chloracne					HP:0001061	Acne			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.4971902764388472).	PMID:20516651; PMID:19558551	HPO	11.05.2015
-MESH-D054506	Chloracne					HP:0000998	Hypertrichosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.7760876736237941).	PMID:20516651	HPO	11.05.2015
-MESH-D054506	Chloracne					HP:0007863	Retinal lesions			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.6419638087818511).	PMID:21177527	HPO	11.05.2015
-MESH-D054506	Chloracne					HP:0100820	Glomerulopathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.3996143957199951).	PMID:21177527	HPO	11.05.2015
-MESH-D054506	Chloracne					HP:0002171	Gliosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.6775979369732631).	PMID:21177527	HPO	11.05.2015
-MESH-D054506	Chloracne					HP:0010566	Hamartoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.3792246885812541).	PMID:21177527	HPO	11.05.2015
+MESH-D054506	Chloracne					HP:0001061	Acne			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.497190276438847/2).	PMID:20516651;PMID:19558551	HPO	11.05.2015
+MESH-D054506	Chloracne					HP:0000998	Hypertrichosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.776087673623794/1).	PMID:20516651	HPO	11.05.2015
+MESH-D054506	Chloracne					HP:0007863	Retinal lesions			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.641963808781851/1).	PMID:21177527	HPO	11.05.2015
+MESH-D054506	Chloracne					HP:0100820	Glomerulopathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.399614395719995/1).	PMID:21177527	HPO	11.05.2015
+MESH-D054506	Chloracne					HP:0002171	Gliosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.677597936973263/1).	PMID:21177527	HPO	11.05.2015
+MESH-D054506	Chloracne					HP:0010566	Hamartoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.379224688581254/1).	PMID:21177527	HPO	11.05.2015

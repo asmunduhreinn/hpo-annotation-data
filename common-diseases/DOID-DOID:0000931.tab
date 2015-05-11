@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-DOID-DOID:0000931	Monieziasis					HP:0004325	Decreased body weight			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.8636820552852972). MESHID: D008989	PMID:483862; PMID:532217	HPO	11.05.2015
-DOID-DOID:0000931	Monieziasis					HP:0001733	Pancreatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.3342830468523352). MESHID: D008989	PMID:1461689; PMID:8111844	HPO	11.05.2015
-DOID-DOID:0000931	Monieziasis					HP:0004798	Recurrent infection of the gastrointestinal tract			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.5394877737849371). MESHID: D008989	PMID:127538	HPO	11.05.2015
-DOID-DOID:0000931	Monieziasis					HP:0002014	Diarrhea			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 4.8031107481818881). MESHID: D008989	PMID:19118581	HPO	11.05.2015
+DOID-DOID:0000931	Monieziasis					HP:0004325	Decreased body weight			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.863682055285297/2). MESHID: D008989	PMID:483862;PMID:532217	HPO	11.05.2015
+DOID-DOID:0000931	Monieziasis					HP:0001733	Pancreatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.334283046852335/2). MESHID: D008989	PMID:1461689;PMID:8111844	HPO	11.05.2015
+DOID-DOID:0000931	Monieziasis					HP:0004798	Recurrent infection of the gastrointestinal tract			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.539487773784937/1). MESHID: D008989	PMID:127538	HPO	11.05.2015
+DOID-DOID:0000931	Monieziasis					HP:0002014	Diarrhea			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 4.803110748181888/1). MESHID: D008989	PMID:19118581	HPO	11.05.2015

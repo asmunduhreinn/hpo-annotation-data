@@ -1,14 +1,14 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D012830	Silicotuberculosis					HP:0002093	Respiratory insufficiency			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.6952590573360633).	PMID:21980669; PMID:23200588; PMID:3404654	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0004469	Chronic bronchitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.7764322072478882).	PMID:3441461; PMID:11317968	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0002206	Pulmonary fibrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.7541326164587862).	PMID:8168176; PMID:10420932	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0002795	Functional respiratory abnormality			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.7423806939463071).	PMID:19043915	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0006510	Chronic obstructive pulmonary disease			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.6545635881579542).	PMID:21980669; PMID:1964197	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0002094	Dyspnea			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.3170915159121252).	PMID:1219148; PMID:23200588	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0011838	Sclerodactyly			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.8412148505408831).	PMID:21943540	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0011134	Low-grade fever			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.7979417147798671).	PMID:16529007	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0006516	Hypersensitivity pneumonitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.7529746954451941).	PMID:9432262	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0010444	Pulmonary insufficiency			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.6002497173693761).	PMID:10420932	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0002153	Hyperkalemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.3688909760873121).	PMID:1219148	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0002720	IgA deficiency			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.3438896738818951).	PMID:191887	HPO	11.05.2015
-MESH-D012830	Silicotuberculosis					HP:0011951	Aspiration pneumonia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.146921315118281).	PMID:1219148	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0002093	Respiratory insufficiency			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.695259057336063/3).	PMID:21980669;PMID:23200588;PMID:3404654	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0004469	Chronic bronchitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.776432207247888/2).	PMID:3441461;PMID:11317968	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0002206	Pulmonary fibrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.754132616458786/2).	PMID:8168176;PMID:10420932	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0002795	Functional respiratory abnormality			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.742380693946307/1).	PMID:19043915	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0006510	Chronic obstructive pulmonary disease			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.654563588157954/2).	PMID:21980669;PMID:1964197	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0002094	Dyspnea			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.317091515912125/2).	PMID:1219148;PMID:23200588	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0011838	Sclerodactyly			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.841214850540883/1).	PMID:21943540	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0011134	Low-grade fever			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.797941714779867/1).	PMID:16529007	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0006516	Hypersensitivity pneumonitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.752974695445194/1).	PMID:9432262	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0010444	Pulmonary insufficiency			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.600249717369376/1).	PMID:10420932	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0002153	Hyperkalemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.368890976087312/1).	PMID:1219148	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0002720	IgA deficiency			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.343889673881895/1).	PMID:191887	HPO	11.05.2015
+MESH-D012830	Silicotuberculosis					HP:0011951	Aspiration pneumonia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.14692131511828/1).	PMID:1219148	HPO	11.05.2015

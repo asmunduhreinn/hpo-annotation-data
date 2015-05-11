@@ -1,25 +1,25 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D018216	Osteochondromatosis					HP:0002762	Multiple exostoses			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 35.838684240952684).	PMID:12138992; PMID:9229421; PMID:10855881; PMID:8733974	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0002669	Osteosarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 31.645467181850876).	PMID:17492328; PMID:10102599; PMID:10830660; PMID:8855926; PMID:11779053	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0006765	Chondrosarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 31.0484216721006875).	PMID:9229421; PMID:8191308; PMID:10102599; PMID:8855926; PMID:15723209	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0003083	Dislocated radial head			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.6987046012901462).	PMID:8113381; PMID:18090828	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0100777	Exostoses			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.0098698062464462).	PMID:9294751; PMID:11954808	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0002758	Osteoarthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.7729755804324813).	PMID:15168191; PMID:7571801; PMID:10768235	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0001548	Overgrowth			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.3178116079222222).	PMID:10853915; PMID:12610774	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0002176	Spinal cord compression			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.993441741463512).	PMID:8683956; PMID:9294751	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0003040	Arthropathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.992667497954262).	PMID:10768235; PMID:12578999	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0100769	Synovitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.8881079438007322).	PMID:8614857; PMID:12578999	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0009487	Ulnar deviation of the hand			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.1197063850834381).	PMID:8113381	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0003048	Radial head subluxation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.8965628337692271).	PMID:9364380	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0003031	Ulnar bowing			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.5200852625343161).	PMID:8113381	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0002986	Radial bowing			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.134422781722331).	PMID:8113381	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0006439	Radioulnar dislocation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.8875627037908061).	PMID:18090828	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0003019	Abnormality of the wrist			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.6897369604608861).	PMID:8411062	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0001833	Long foot			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.6644191524765951).	PMID:17492328	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0003940	Osteoarthritis of the elbow			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.5843764448030591).	PMID:12358386	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0003088	Premature osteoarthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.4084857783393951).	PMID:11886909	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0003043	Abnormality of the shoulder			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.1687071665206531).	PMID:17186246	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0002673	Coxa valga			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.0537481937408891).	PMID:10855881	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0002984	Hypoplasia of the radius			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.0447391237985231).	PMID:8113381	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0001000	Abnormality of skin pigmentation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.020354246761062).	PMID:8614857; PMID:12578999	HPO	11.05.2015
-MESH-D018216	Osteochondromatosis					HP:0011108	Recurrent sinusitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.7672991675907141).	PMID:8025190	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0002762	Multiple exostoses			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 35.83868424095268/4).	PMID:12138992;PMID:9229421;PMID:10855881;PMID:8733974	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0002669	Osteosarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 31.64546718185087/6).	PMID:17492328;PMID:10102599;PMID:10830660;PMID:8855926;PMID:11779053	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0006765	Chondrosarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 31.048421672100687/5).	PMID:9229421;PMID:8191308;PMID:10102599;PMID:8855926;PMID:15723209	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0003083	Dislocated radial head			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.698704601290146/2).	PMID:8113381;PMID:18090828	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0100777	Exostoses			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.009869806246446/2).	PMID:9294751;PMID:11954808	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0002758	Osteoarthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.772975580432481/3).	PMID:15168191;PMID:7571801;PMID:10768235	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0001548	Overgrowth			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.317811607922222/2).	PMID:10853915;PMID:12610774	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0002176	Spinal cord compression			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.99344174146351/2).	PMID:8683956;PMID:9294751	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0003040	Arthropathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.99266749795426/2).	PMID:10768235;PMID:12578999	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0100769	Synovitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.888107943800732/2).	PMID:8614857;PMID:12578999	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0009487	Ulnar deviation of the hand			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.119706385083438/1).	PMID:8113381	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0003048	Radial head subluxation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.896562833769227/1).	PMID:9364380	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0003031	Ulnar bowing			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.520085262534316/1).	PMID:8113381	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0002986	Radial bowing			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.13442278172233/1).	PMID:8113381	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0006439	Radioulnar dislocation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.887562703790806/1).	PMID:18090828	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0003019	Abnormality of the wrist			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.689736960460886/1).	PMID:8411062	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0001833	Long foot			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.664419152476595/1).	PMID:17492328	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0003940	Osteoarthritis of the elbow			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.584376444803059/1).	PMID:12358386	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0003088	Premature osteoarthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.408485778339395/1).	PMID:11886909	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0003043	Abnormality of the shoulder			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.168707166520653/1).	PMID:17186246	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0002673	Coxa valga			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.053748193740889/1).	PMID:10855881	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0002984	Hypoplasia of the radius			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.044739123798523/1).	PMID:8113381	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0001000	Abnormality of skin pigmentation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.02035424676106/2).	PMID:8614857;PMID:12578999	HPO	11.05.2015
+MESH-D018216	Osteochondromatosis					HP:0011108	Recurrent sinusitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.767299167590714/1).	PMID:8025190	HPO	11.05.2015

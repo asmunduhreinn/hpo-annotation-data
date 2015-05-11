@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D058285	Tungiasis					HP:0000989	Pruritus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 23.515494988100934).	PMID:22211573; PMID:22305586; PMID:21703785; PMID:22215402	HPO	11.05.2015
-MESH-D058285	Tungiasis					HP:0001798	Anonychia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.444577710026171).	PMID:20890569	HPO	11.05.2015
+MESH-D058285	Tungiasis					HP:0000989	Pruritus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 23.51549498810093/4).	PMID:22211573;PMID:22305586;PMID:21703785;PMID:22215402	HPO	11.05.2015
+MESH-D058285	Tungiasis					HP:0001798	Anonychia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.44457771002617/1).	PMID:20890569	HPO	11.05.2015

@@ -1,2 +1,2 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D054243	Vesicular Stomatitis					HP:0010280	Stomatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 433.4016609463317372).	PMID:19960709; PMID:21438000; PMID:22806964; PMID:23261799; PMID:19596990	HPO	11.05.2015
+MESH-D054243	Vesicular Stomatitis					HP:0010280	Stomatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 433.40166094633173/72).	PMID:19960709;PMID:21438000;PMID:22806964;PMID:23261799;PMID:19596990	HPO	11.05.2015

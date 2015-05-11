@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D050738	Mesomycetozoea Infections					HP:0100608	Metrorrhagia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.548425437642933).	PMID:17304803; PMID:18263836; PMID:17931460	HPO	11.05.2015
-MESH-D050738	Mesomycetozoea Infections					HP:0200042	Skin ulcer			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.9539005232591781).	PMID:20450984	HPO	11.05.2015
-MESH-D050738	Mesomycetozoea Infections					HP:0001581	Recurrent skin infections			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.1945915220884641).	PMID:17304803	HPO	11.05.2015
+MESH-D050738	Mesomycetozoea Infections					HP:0100608	Metrorrhagia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.54842543764293/3).	PMID:17304803;PMID:18263836;PMID:17931460	HPO	11.05.2015
+MESH-D050738	Mesomycetozoea Infections					HP:0200042	Skin ulcer			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.953900523259178/1).	PMID:20450984	HPO	11.05.2015
+MESH-D050738	Mesomycetozoea Infections					HP:0001581	Recurrent skin infections			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.194591522088464/1).	PMID:17304803	HPO	11.05.2015

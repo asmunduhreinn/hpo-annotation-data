@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D017190	Secernentea Infections					HP:0011450	CNS infection			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.4684708322520991).	PMID:19737242	HPO	11.05.2015
-MESH-D017190	Secernentea Infections					HP:0002063	Rigidity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.5589283273676611).	PMID:23043990	HPO	11.05.2015
+MESH-D017190	Secernentea Infections					HP:0011450	CNS infection			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.468470832252099/1).	PMID:19737242	HPO	11.05.2015
+MESH-D017190	Secernentea Infections					HP:0002063	Rigidity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.558928327367661/1).	PMID:23043990	HPO	11.05.2015

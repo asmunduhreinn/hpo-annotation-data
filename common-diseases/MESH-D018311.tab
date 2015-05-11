@@ -1,11 +1,11 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D018311	Luteoma					HP:0001007	Hirsutism			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 35.9752202314216455).	PMID:19243065; PMID:20530950; PMID:11127014; PMID:15782020; PMID:17852427	HPO	11.05.2015
-MESH-D018311	Luteoma					HP:0000062	Ambiguous genitalia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 34.9801942346235754).	PMID:10726707; PMID:10664233; PMID:17915067; PMID:19110243	HPO	11.05.2015
-MESH-D018311	Luteoma					HP:0008258	Congenital adrenal hyperplasia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 29.1223760821556434).	PMID:10726707; PMID:11424843; PMID:10664233; PMID:17915067	HPO	11.05.2015
-MESH-D018311	Luteoma					HP:0008072	Maternal virilization in pregnancy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.7217368838006522).	PMID:18635167; PMID:17915067	HPO	11.05.2015
-MESH-D018311	Luteoma					HP:0000057	Clitoromegaly			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.9973351219417132).	PMID:20149054; PMID:19110243	HPO	11.05.2015
-MESH-D018311	Luteoma					HP:0100615	Ovarian neoplasm			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.4120820412196444).	PMID:19243065; PMID:21144088; PMID:22253351; PMID:23329192	HPO	11.05.2015
-MESH-D018311	Luteoma					HP:0100879	Enlarged ovaries			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.0638319342229962).	PMID:9150550; PMID:11870143	HPO	11.05.2015
-MESH-D018311	Luteoma					HP:0100240	Synostosis of joints			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.955403333792161).	PMID:10664233	HPO	11.05.2015
-MESH-D018311	Luteoma					HP:0008665	Clitoral hypertrophy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.1211775549723111).	PMID:16086574	HPO	11.05.2015
-MESH-D018311	Luteoma					HP:0002828	Multiple joint contractures			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.7423806939463071).	PMID:10664233	HPO	11.05.2015
+MESH-D018311	Luteoma					HP:0001007	Hirsutism			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 35.975220231421645/5).	PMID:19243065;PMID:20530950;PMID:11127014;PMID:15782020;PMID:17852427	HPO	11.05.2015
+MESH-D018311	Luteoma					HP:0000062	Ambiguous genitalia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 34.980194234623575/4).	PMID:10726707;PMID:10664233;PMID:17915067;PMID:19110243	HPO	11.05.2015
+MESH-D018311	Luteoma					HP:0008258	Congenital adrenal hyperplasia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 29.122376082155643/4).	PMID:10726707;PMID:11424843;PMID:10664233;PMID:17915067	HPO	11.05.2015
+MESH-D018311	Luteoma					HP:0008072	Maternal virilization in pregnancy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.721736883800652/2).	PMID:18635167;PMID:17915067	HPO	11.05.2015
+MESH-D018311	Luteoma					HP:0000057	Clitoromegaly			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.997335121941713/2).	PMID:20149054;PMID:19110243	HPO	11.05.2015
+MESH-D018311	Luteoma					HP:0100615	Ovarian neoplasm			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.412082041219644/4).	PMID:19243065;PMID:21144088;PMID:22253351;PMID:23329192	HPO	11.05.2015
+MESH-D018311	Luteoma					HP:0100879	Enlarged ovaries			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.063831934222996/2).	PMID:9150550;PMID:11870143	HPO	11.05.2015
+MESH-D018311	Luteoma					HP:0100240	Synostosis of joints			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.95540333379216/1).	PMID:10664233	HPO	11.05.2015
+MESH-D018311	Luteoma					HP:0008665	Clitoral hypertrophy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.121177554972311/1).	PMID:16086574	HPO	11.05.2015
+MESH-D018311	Luteoma					HP:0002828	Multiple joint contractures			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.742380693946307/1).	PMID:10664233	HPO	11.05.2015

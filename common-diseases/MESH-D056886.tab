@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D056886	Contrecoup Injury					HP:0100309	Subdural hemorrhage			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.3670402661204511).	PMID:21524330	HPO	11.05.2015
-MESH-D056886	Contrecoup Injury					HP:0100310	Epidural hemorrhage			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.1148017656961671).	PMID:21524330	HPO	11.05.2015
-MESH-D056886	Contrecoup Injury					HP:0001342	Cerebral hemorrhage			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.6298503414182421).	PMID:21534191	HPO	11.05.2015
+MESH-D056886	Contrecoup Injury					HP:0100309	Subdural hemorrhage			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.367040266120451/1).	PMID:21524330	HPO	11.05.2015
+MESH-D056886	Contrecoup Injury					HP:0100310	Epidural hemorrhage			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.114801765696167/1).	PMID:21524330	HPO	11.05.2015
+MESH-D056886	Contrecoup Injury					HP:0001342	Cerebral hemorrhage			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.629850341418242/1).	PMID:21534191	HPO	11.05.2015

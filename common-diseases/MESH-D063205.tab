@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D063205	Pneumorrhachis					HP:0002344	Progressive neurologic deterioration			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.7099754311644971).	PMID:23164825	HPO	11.05.2015
-MESH-D063205	Pneumorrhachis					HP:0003419	Low back pain			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.7138877824500451).	PMID:23324943	HPO	11.05.2015
+MESH-D063205	Pneumorrhachis					HP:0002344	Progressive neurologic deterioration			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.709975431164497/1).	PMID:23164825	HPO	11.05.2015
+MESH-D063205	Pneumorrhachis					HP:0003419	Low back pain			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.713887782450045/1).	PMID:23324943	HPO	11.05.2015

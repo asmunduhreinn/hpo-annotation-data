@@ -1,2 +1,2 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D063371	Myringosclerosis					HP:0009797	Cholesteatoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.9545123311705841).	PMID:22365389	HPO	11.05.2015
+MESH-D063371	Myringosclerosis					HP:0009797	Cholesteatoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.954512331170584/1).	PMID:22365389	HPO	11.05.2015

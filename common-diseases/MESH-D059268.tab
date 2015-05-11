@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D059268	Atrophic Vaginitis					HP:0003002	Breast carcinoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.5441570093512063).	PMID:21172922; PMID:22030384; PMID:22128306	HPO	11.05.2015
-MESH-D059268	Atrophic Vaginitis					HP:0002354	Memory impairment			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.2145391842314291).	PMID:22128306	HPO	11.05.2015
+MESH-D059268	Atrophic Vaginitis					HP:0003002	Breast carcinoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.544157009351206/3).	PMID:21172922;PMID:22030384;PMID:22128306	HPO	11.05.2015
+MESH-D059268	Atrophic Vaginitis					HP:0002354	Memory impairment			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.214539184231429/1).	PMID:22128306	HPO	11.05.2015

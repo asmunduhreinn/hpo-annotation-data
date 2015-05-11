@@ -1,2 +1,2 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D055847	Lynch Syndrome II					HP:0100615	Ovarian neoplasm			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.4120820412196444).	PMID:22343225; PMID:22361722; PMID:19383374; PMID:18972272	HPO	11.05.2015
+MESH-D055847	Lynch Syndrome II					HP:0100615	Ovarian neoplasm			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.412082041219644/4).	PMID:22343225;PMID:22361722;PMID:19383374;PMID:18972272	HPO	11.05.2015

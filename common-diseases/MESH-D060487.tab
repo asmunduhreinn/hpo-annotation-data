@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D060487	Alternariosis					HP:0001581	Recurrent skin infections			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.3891830441769282).	PMID:22142219; PMID:22897073	HPO	11.05.2015
-MESH-D060487	Alternariosis					HP:0002099	Asthma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.0650474729261893).	PMID:22327070; PMID:22865552; PMID:21892786	HPO	11.05.2015
-MESH-D060487	Alternariosis					HP:0003193	Allergic rhinitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.6597166048276562).	PMID:21892786; PMID:21641712	HPO	11.05.2015
-MESH-D060487	Alternariosis					HP:0001880	Eosinophilia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.5809898078444842).	PMID:22327070; PMID:22865552	HPO	11.05.2015
-MESH-D060487	Alternariosis					HP:0001597	Abnormality of the nail			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.7185696183608951).	PMID:22015119	HPO	11.05.2015
-MESH-D060487	Alternariosis					HP:0011946	Bronchiolitis obliterans			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.5045858682421781).	PMID:22563857	HPO	11.05.2015
+MESH-D060487	Alternariosis					HP:0001581	Recurrent skin infections			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.389183044176928/2).	PMID:22142219;PMID:22897073	HPO	11.05.2015
+MESH-D060487	Alternariosis					HP:0002099	Asthma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.065047472926189/3).	PMID:22327070;PMID:22865552;PMID:21892786	HPO	11.05.2015
+MESH-D060487	Alternariosis					HP:0003193	Allergic rhinitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.659716604827656/2).	PMID:21892786;PMID:21641712	HPO	11.05.2015
+MESH-D060487	Alternariosis					HP:0001880	Eosinophilia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.580989807844484/2).	PMID:22327070;PMID:22865552	HPO	11.05.2015
+MESH-D060487	Alternariosis					HP:0001597	Abnormality of the nail			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.718569618360895/1).	PMID:22015119	HPO	11.05.2015
+MESH-D060487	Alternariosis					HP:0011946	Bronchiolitis obliterans			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.504585868242178/1).	PMID:22563857	HPO	11.05.2015

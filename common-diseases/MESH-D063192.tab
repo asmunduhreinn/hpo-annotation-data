@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D063192	Pregnancy, Heterotopic					HP:0005268	Spontaneous abortion			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.429169521700533).	PMID:23610036; PMID:23177413; PMID:23409410	HPO	11.05.2015
-MESH-D063192	Pregnancy, Heterotopic					HP:0002027	Abdominal pain			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.11030587224163).	PMID:23480995; PMID:23092040; PMID:23447925	HPO	11.05.2015
-MESH-D063192	Pregnancy, Heterotopic					HP:0000013	Hypoplasia of the uterus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.1996374672120121).	PMID:23132557	HPO	11.05.2015
-MESH-D063192	Pregnancy, Heterotopic					HP:0100699	Scarring			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.8950022124101712).	PMID:23132557; PMID:22935313	HPO	11.05.2015
+MESH-D063192	Pregnancy, Heterotopic					HP:0005268	Spontaneous abortion			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.42916952170053/3).	PMID:23610036;PMID:23177413;PMID:23409410	HPO	11.05.2015
+MESH-D063192	Pregnancy, Heterotopic					HP:0002027	Abdominal pain			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.1103058722416/3).	PMID:23480995;PMID:23092040;PMID:23447925	HPO	11.05.2015
+MESH-D063192	Pregnancy, Heterotopic					HP:0000013	Hypoplasia of the uterus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.199637467212012/1).	PMID:23132557	HPO	11.05.2015
+MESH-D063192	Pregnancy, Heterotopic					HP:0100699	Scarring			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.895002212410171/2).	PMID:23132557;PMID:22935313	HPO	11.05.2015

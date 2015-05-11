@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D056124	Slit Ventricle Syndrome					HP:0100702	Arachnoid cyst			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.1057468594167973).	PMID:22381817; PMID:23142586; PMID:21039172	HPO	11.05.2015
-MESH-D056124	Slit Ventricle Syndrome					HP:0002119	Ventriculomegaly			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.6418660687484563).	PMID:20617320; PMID:22990728; PMID:23151442	HPO	11.05.2015
-MESH-D056124	Slit Ventricle Syndrome					HP:0002343	Normal pressure hydrocephalus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.3794805762408732).	PMID:22990728; PMID:23151442	HPO	11.05.2015
-MESH-D056124	Slit Ventricle Syndrome					HP:0001334	Communicating hydrocephalus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.107191841108971).	PMID:22381817	HPO	11.05.2015
-MESH-D056124	Slit Ventricle Syndrome					HP:0002475	Myelomeningocele			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.0645986246969241).	PMID:21921577	HPO	11.05.2015
+MESH-D056124	Slit Ventricle Syndrome					HP:0100702	Arachnoid cyst			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.105746859416797/3).	PMID:22381817;PMID:23142586;PMID:21039172	HPO	11.05.2015
+MESH-D056124	Slit Ventricle Syndrome					HP:0002119	Ventriculomegaly			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.641866068748456/3).	PMID:20617320;PMID:22990728;PMID:23151442	HPO	11.05.2015
+MESH-D056124	Slit Ventricle Syndrome					HP:0002343	Normal pressure hydrocephalus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.379480576240873/2).	PMID:22990728;PMID:23151442	HPO	11.05.2015
+MESH-D056124	Slit Ventricle Syndrome					HP:0001334	Communicating hydrocephalus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.10719184110897/1).	PMID:22381817	HPO	11.05.2015
+MESH-D056124	Slit Ventricle Syndrome					HP:0002475	Myelomeningocele			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.064598624696924/1).	PMID:21921577	HPO	11.05.2015

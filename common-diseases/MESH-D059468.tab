@@ -1,2 +1,2 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D059468	Masked Hypertension					HP:0000822	Hypertension			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 102.9406923593165735).	PMID:22071448; PMID:23382487; PMID:23011742; PMID:22886281; PMID:23382481	HPO	11.05.2015
+MESH-D059468	Masked Hypertension					HP:0000822	Hypertension			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 102.94069235931657/35).	PMID:22071448;PMID:23382487;PMID:23011742;PMID:22886281;PMID:23382481	HPO	11.05.2015

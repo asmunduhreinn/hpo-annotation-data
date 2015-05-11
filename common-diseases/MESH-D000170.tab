@@ -1,20 +1,20 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D000170	Acrodynia					HP:0100785	Insomnia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 28.1834910128342674).	PMID:7863176; PMID:6522913; PMID:8429442; PMID:17310361	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0009763	Limb pain			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 28.006850290666734).	PMID:21803782; PMID:2617719; PMID:6522913; PMID:10699136	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0000737	Irritability			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 25.7141245508455725).	PMID:19197099; PMID:12197264; PMID:6522913; PMID:3575038; PMID:8429442	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0001271	Polyneuropathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.5676248006780544).	PMID:486225; PMID:6522913; PMID:287395; PMID:22409470	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0000975	Hyperhidrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.1889522152894764).	PMID:7863176; PMID:21803782; PMID:3575038; PMID:8429442	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0002039	Anorexia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.8142313586900164).	PMID:12197264; PMID:21803782; PMID:3575038; PMID:17310361	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0000822	Hypertension			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.5881384718633147).	PMID:22863825; PMID:15165207; PMID:2617719; PMID:6522913; PMID:8429442	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0001824	Weight loss			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.26463048769934).	PMID:21803782; PMID:6522913; PMID:3575038; PMID:4028035	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0002380	Fasciculations			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.283536890287012).	PMID:7863176; PMID:6522913	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0002960	Autoimmunity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.8388744667822154).	PMID:7863176; PMID:1503626; PMID:19075648; PMID:22498790	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0003401	Paresthesia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.3051016241574662).	PMID:8755187; PMID:6522913	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0001250	Seizures			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.2530482209086463).	PMID:21797771; PMID:16496500; PMID:10699136	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0003326	Myalgia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.7481477461911052).	PMID:7863176; PMID:6522913	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0002666	Pheochromocytoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.6221753043980132).	PMID:22863825; PMID:8429442	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0006323	Premature loss of primary teeth			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.5006671766772131).	PMID:7992695	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0000100	Nephrotic syndrome			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.1741204526748632).	PMID:6143006; PMID:12197264	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0011976	Elevated urinary catecholamines			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.0008724416929411).	PMID:17310361	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0009830	Peripheral neuropathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.9199959858682532).	PMID:7863176; PMID:8755187	HPO	11.05.2015
-MESH-D000170	Acrodynia					HP:0002411	Myokymia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.9185214065311221).	PMID:6522913	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0100785	Insomnia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 28.183491012834267/4).	PMID:7863176;PMID:6522913;PMID:8429442;PMID:17310361	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0009763	Limb pain			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 28.00685029066673/4).	PMID:21803782;PMID:2617719;PMID:6522913;PMID:10699136	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0000737	Irritability			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 25.714124550845572/5).	PMID:19197099;PMID:12197264;PMID:6522913;PMID:3575038;PMID:8429442	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0001271	Polyneuropathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.567624800678054/4).	PMID:486225;PMID:6522913;PMID:287395;PMID:22409470	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0000975	Hyperhidrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.188952215289476/4).	PMID:7863176;PMID:21803782;PMID:3575038;PMID:8429442	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0002039	Anorexia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.814231358690016/4).	PMID:12197264;PMID:21803782;PMID:3575038;PMID:17310361	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0000822	Hypertension			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.588138471863314/7).	PMID:22863825;PMID:15165207;PMID:2617719;PMID:6522913;PMID:8429442	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0001824	Weight loss			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.2646304876993/4).	PMID:21803782;PMID:6522913;PMID:3575038;PMID:4028035	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0002380	Fasciculations			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.28353689028701/2).	PMID:7863176;PMID:6522913	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0002960	Autoimmunity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.838874466782215/4).	PMID:7863176;PMID:1503626;PMID:19075648;PMID:22498790	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0003401	Paresthesia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.305101624157466/2).	PMID:8755187;PMID:6522913	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0001250	Seizures			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.253048220908646/3).	PMID:21797771;PMID:16496500;PMID:10699136	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0003326	Myalgia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.748147746191105/2).	PMID:7863176;PMID:6522913	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0002666	Pheochromocytoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.622175304398013/2).	PMID:22863825;PMID:8429442	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0006323	Premature loss of primary teeth			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.500667176677213/1).	PMID:7992695	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0000100	Nephrotic syndrome			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.174120452674863/2).	PMID:6143006;PMID:12197264	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0011976	Elevated urinary catecholamines			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.000872441692941/1).	PMID:17310361	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0009830	Peripheral neuropathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.919995985868253/2).	PMID:7863176;PMID:8755187	HPO	11.05.2015
+MESH-D000170	Acrodynia					HP:0002411	Myokymia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.918521406531122/1).	PMID:6522913	HPO	11.05.2015

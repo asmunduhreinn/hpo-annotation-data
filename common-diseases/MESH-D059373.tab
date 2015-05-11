@@ -1,8 +1,8 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D059373	Mastodynia					HP:0003002	Breast carcinoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 25.4510853582698828).	PMID:22042371; PMID:22515947; PMID:22109731; PMID:22079722; PMID:21778578	HPO	11.05.2015
-MESH-D059373	Mastodynia					HP:0000740	Anxiety (with pheochromocytoma)			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.6829624625072024).	PMID:22764554; PMID:23642943; PMID:23182226; PMID:22892272	HPO	11.05.2015
-MESH-D059373	Mastodynia					HP:0000771	Gynecomastia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.1159315140453642).	PMID:22925442; PMID:22704706	HPO	11.05.2015
-MESH-D059373	Mastodynia					HP:0000737	Irritability			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.2856498203382292).	PMID:22925442; PMID:22642878	HPO	11.05.2015
-MESH-D059373	Mastodynia					HP:0002331	Headache (with pheochromocytoma)			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.4053247540777712).	PMID:23642943; PMID:23971383	HPO	11.05.2015
-MESH-D059373	Mastodynia					HP:0000858	Menstrual irregularities			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.5381735445989571).	PMID:22120939	HPO	11.05.2015
-MESH-D059373	Mastodynia					HP:0100787	Prostate neoplasm			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.2792433637986312).	PMID:22925442; PMID:22704706	HPO	11.05.2015
+MESH-D059373	Mastodynia					HP:0003002	Breast carcinoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 25.451085358269882/8).	PMID:22042371;PMID:22515947;PMID:22109731;PMID:22079722;PMID:21778578	HPO	11.05.2015
+MESH-D059373	Mastodynia					HP:0000740	Anxiety (with pheochromocytoma)			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.682962462507202/4).	PMID:22764554;PMID:23642943;PMID:23182226;PMID:22892272	HPO	11.05.2015
+MESH-D059373	Mastodynia					HP:0000771	Gynecomastia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.115931514045364/2).	PMID:22925442;PMID:22704706	HPO	11.05.2015
+MESH-D059373	Mastodynia					HP:0000737	Irritability			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.285649820338229/2).	PMID:22925442;PMID:22642878	HPO	11.05.2015
+MESH-D059373	Mastodynia					HP:0002331	Headache (with pheochromocytoma)			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.405324754077771/2).	PMID:23642943;PMID:23971383	HPO	11.05.2015
+MESH-D059373	Mastodynia					HP:0000858	Menstrual irregularities			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.538173544598957/1).	PMID:22120939	HPO	11.05.2015
+MESH-D059373	Mastodynia					HP:0100787	Prostate neoplasm			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.279243363798631/2).	PMID:22925442;PMID:22704706	HPO	11.05.2015

@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D055589	Pancreatitis, Graft					HP:0001735	Acute pancreatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.9643350938908972).	PMID:22158076; PMID:23254701	HPO	11.05.2015
-MESH-D055589	Pancreatitis, Graft					HP:0001733	Pancreatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.3342830468523352).	PMID:21039736; PMID:19369020	HPO	11.05.2015
-MESH-D055589	Pancreatitis, Graft					HP:0002019	Constipation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.2593272448717171).	PMID:23254701	HPO	11.05.2015
+MESH-D055589	Pancreatitis, Graft					HP:0001735	Acute pancreatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.964335093890897/2).	PMID:22158076;PMID:23254701	HPO	11.05.2015
+MESH-D055589	Pancreatitis, Graft					HP:0001733	Pancreatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.334283046852335/2).	PMID:21039736;PMID:19369020	HPO	11.05.2015
+MESH-D055589	Pancreatitis, Graft					HP:0002019	Constipation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.259327244871717/1).	PMID:23254701	HPO	11.05.2015

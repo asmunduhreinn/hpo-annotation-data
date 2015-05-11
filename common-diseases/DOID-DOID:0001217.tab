@@ -1,10 +1,10 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-DOID-DOID:0001217	Fascioloidiasis					HP:0001880	Eosinophilia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.5809898078444842). MESHID: D005213	PMID:15855700; PMID:7448629	HPO	11.05.2015
-DOID-DOID:0001217	Fascioloidiasis					HP:0008978	Necrotizing myopathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.1436431978574361). MESHID: D005213	PMID:3029443	HPO	11.05.2015
-DOID-DOID:0001217	Fascioloidiasis					HP:0004418	Thrombophlebitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.1984228669127371). MESHID: D005213	PMID:1779042	HPO	11.05.2015
-DOID-DOID:0001217	Fascioloidiasis					HP:0009824	Upper limb undergrowth			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.0077185967268941). MESHID: D005213	PMID:21509448	HPO	11.05.2015
-DOID-DOID:0001217	Fascioloidiasis					HP:0001970	Tubulointerstitial nephritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.9441621626704041). MESHID: D005213	PMID:3029443	HPO	11.05.2015
-DOID-DOID:0001217	Fascioloidiasis					HP:0002102	Pleuritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.6763614607724521). MESHID: D005213	PMID:1602568	HPO	11.05.2015
-DOID-DOID:0001217	Fascioloidiasis					HP:0004420	Arterial thrombosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.2686334428321481). MESHID: D005213	PMID:1779042	HPO	11.05.2015
-DOID-DOID:0001217	Fascioloidiasis					HP:0010280	Stomatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.0194675131434961). MESHID: D005213	PMID:3029443	HPO	11.05.2015
-DOID-DOID:0001217	Fascioloidiasis					HP:0006532	Recurrent pneumonia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.94391336780861). MESHID: D005213	PMID:1779042	HPO	11.05.2015
+DOID-DOID:0001217	Fascioloidiasis					HP:0001880	Eosinophilia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.580989807844484/2). MESHID: D005213	PMID:15855700;PMID:7448629	HPO	11.05.2015
+DOID-DOID:0001217	Fascioloidiasis					HP:0008978	Necrotizing myopathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.143643197857436/1). MESHID: D005213	PMID:3029443	HPO	11.05.2015
+DOID-DOID:0001217	Fascioloidiasis					HP:0004418	Thrombophlebitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.198422866912737/1). MESHID: D005213	PMID:1779042	HPO	11.05.2015
+DOID-DOID:0001217	Fascioloidiasis					HP:0009824	Upper limb undergrowth			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.007718596726894/1). MESHID: D005213	PMID:21509448	HPO	11.05.2015
+DOID-DOID:0001217	Fascioloidiasis					HP:0001970	Tubulointerstitial nephritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.944162162670404/1). MESHID: D005213	PMID:3029443	HPO	11.05.2015
+DOID-DOID:0001217	Fascioloidiasis					HP:0002102	Pleuritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.676361460772452/1). MESHID: D005213	PMID:1602568	HPO	11.05.2015
+DOID-DOID:0001217	Fascioloidiasis					HP:0004420	Arterial thrombosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.268633442832148/1). MESHID: D005213	PMID:1779042	HPO	11.05.2015
+DOID-DOID:0001217	Fascioloidiasis					HP:0010280	Stomatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.019467513143496/1). MESHID: D005213	PMID:3029443	HPO	11.05.2015
+DOID-DOID:0001217	Fascioloidiasis					HP:0006532	Recurrent pneumonia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.9439133678086/1). MESHID: D005213	PMID:1779042	HPO	11.05.2015

@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D059407	Pinguecula					HP:0001059	Pterygium			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.804109776018212).	PMID:22112236; PMID:21040504	HPO	11.05.2015
-MESH-D059407	Pinguecula					HP:0000565	Esotropia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.4802422905328521).	PMID:21040504	HPO	11.05.2015
-MESH-D059407	Pinguecula					HP:0000498	Blepharitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.4774319842335971).	PMID:22367046	HPO	11.05.2015
-MESH-D059407	Pinguecula					HP:0000819	Diabetes mellitus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.8989808298671212).	PMID:22112236; PMID:22420025	HPO	11.05.2015
+MESH-D059407	Pinguecula					HP:0001059	Pterygium			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.80410977601821/2).	PMID:22112236;PMID:21040504	HPO	11.05.2015
+MESH-D059407	Pinguecula					HP:0000565	Esotropia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.480242290532852/1).	PMID:21040504	HPO	11.05.2015
+MESH-D059407	Pinguecula					HP:0000498	Blepharitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.477431984233597/1).	PMID:22367046	HPO	11.05.2015
+MESH-D059407	Pinguecula					HP:0000819	Diabetes mellitus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.898980829867121/2).	PMID:22112236;PMID:22420025	HPO	11.05.2015

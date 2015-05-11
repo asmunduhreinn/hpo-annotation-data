@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D059525	Supraglottitis					HP:0001609	Hoarse voice			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.1613673944859011).	PMID:21846416	HPO	11.05.2015
-MESH-D059525	Supraglottitis					HP:0002015	Dysphagia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.5091545538018141).	PMID:21846416	HPO	11.05.2015
-MESH-D059525	Supraglottitis					HP:0002383	Encephalitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.1867359819602441).	PMID:23709315	HPO	11.05.2015
-MESH-D059525	Supraglottitis					HP:0000740	Anxiety (with pheochromocytoma)			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.17074061562680051).	PMID:22489879	HPO	11.05.2015
+MESH-D059525	Supraglottitis					HP:0001609	Hoarse voice			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.161367394485901/1).	PMID:21846416	HPO	11.05.2015
+MESH-D059525	Supraglottitis					HP:0002015	Dysphagia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.509154553801814/1).	PMID:21846416	HPO	11.05.2015
+MESH-D059525	Supraglottitis					HP:0002383	Encephalitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.186735981960244/1).	PMID:23709315	HPO	11.05.2015
+MESH-D059525	Supraglottitis					HP:0000740	Anxiety (with pheochromocytoma)			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.1707406156268005/1).	PMID:22489879	HPO	11.05.2015

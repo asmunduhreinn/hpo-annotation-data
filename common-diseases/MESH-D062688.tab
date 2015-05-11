@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D062688	Buschke-Lowenstein Tumor					HP:0000718	Aggressive behavior			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.2284115377514294).	PMID:22322850; PMID:22807543; PMID:21991883; PMID:22648893	HPO	11.05.2015
-MESH-D062688	Buschke-Lowenstein Tumor					HP:0200043	Verrucae			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.9162218469261932).	PMID:22807543; PMID:23402241	HPO	11.05.2015
-MESH-D062688	Buschke-Lowenstein Tumor					HP:0002860	Squamous cell carcinoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.5395826588039182).	PMID:22684225; PMID:23095561	HPO	11.05.2015
+MESH-D062688	Buschke-Lowenstein Tumor					HP:0000718	Aggressive behavior			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.228411537751429/4).	PMID:22322850;PMID:22807543;PMID:21991883;PMID:22648893	HPO	11.05.2015
+MESH-D062688	Buschke-Lowenstein Tumor					HP:0200043	Verrucae			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.916221846926193/2).	PMID:22807543;PMID:23402241	HPO	11.05.2015
+MESH-D062688	Buschke-Lowenstein Tumor					HP:0002860	Squamous cell carcinoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.539582658803918/2).	PMID:22684225;PMID:23095561	HPO	11.05.2015

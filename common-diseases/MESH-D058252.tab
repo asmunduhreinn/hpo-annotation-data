@@ -1,12 +1,12 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0001114	Xanthelasma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.5713779088579421).	PMID:21626164	HPO	11.05.2015
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0000991	Xanthomatosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.8495095595928231).	PMID:21250495	HPO	11.05.2015
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0003565	Elevated erythrocyte sedimentation rate			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.4299981162729321).	PMID:23745232	HPO	11.05.2015
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0000622	Blurred vision			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.4072846154913051).	PMID:22814320	HPO	11.05.2015
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0001482	Subcutaneous nodule			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.323620723651591).	PMID:21696693	HPO	11.05.2015
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0003651	Foam cells			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.2379872996358991).	PMID:22441374	HPO	11.05.2015
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0200042	Skin ulcer			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.9539005232591781).	PMID:23745232	HPO	11.05.2015
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0000508	Ptosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.8635139448360721).	PMID:21626164	HPO	11.05.2015
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0000651	Diplopia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.5590247540679091).	PMID:22814320	HPO	11.05.2015
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0000520	Proptosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.5433515201137411).	PMID:21626164	HPO	11.05.2015
-MESH-D058252	Necrobiotic Xanthogranuloma					HP:0004377	Hematological neoplasm			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.2972946720548211).	PMID:23286820	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0001114	Xanthelasma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.571377908857942/1).	PMID:21626164	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0000991	Xanthomatosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.849509559592823/1).	PMID:21250495	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0003565	Elevated erythrocyte sedimentation rate			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.429998116272932/1).	PMID:23745232	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0000622	Blurred vision			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.407284615491305/1).	PMID:22814320	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0001482	Subcutaneous nodule			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.32362072365159/1).	PMID:21696693	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0003651	Foam cells			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.237987299635899/1).	PMID:22441374	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0200042	Skin ulcer			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.953900523259178/1).	PMID:23745232	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0000508	Ptosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.863513944836072/1).	PMID:21626164	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0000651	Diplopia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.559024754067909/1).	PMID:22814320	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0000520	Proptosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.543351520113741/1).	PMID:21626164	HPO	11.05.2015
+MESH-D058252	Necrobiotic Xanthogranuloma					HP:0004377	Hematological neoplasm			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.297294672054821/1).	PMID:23286820	HPO	11.05.2015

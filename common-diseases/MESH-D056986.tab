@@ -1,5 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D056986	Euglenozoa Infections					HP:0001945	Fever			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.4046512726414632).	PMID:23071396; PMID:23418454	HPO	11.05.2015
-MESH-D056986	Euglenozoa Infections					HP:0003270	Abdominal distention			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.6581471361453421).	PMID:20052385	HPO	11.05.2015
-MESH-D056986	Euglenozoa Infections					HP:0002039	Anorexia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.7035578396725041).	PMID:20052385	HPO	11.05.2015
-MESH-D056986	Euglenozoa Infections					HP:0001541	Ascites			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 4.9482690290117321).	PMID:20052385	HPO	11.05.2015
+MESH-D056986	Euglenozoa Infections					HP:0001945	Fever			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.404651272641463/2).	PMID:23071396;PMID:23418454	HPO	11.05.2015
+MESH-D056986	Euglenozoa Infections					HP:0003270	Abdominal distention			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.658147136145342/1).	PMID:20052385	HPO	11.05.2015
+MESH-D056986	Euglenozoa Infections					HP:0002039	Anorexia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.703557839672504/1).	PMID:20052385	HPO	11.05.2015
+MESH-D056986	Euglenozoa Infections					HP:0001541	Ascites			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 4.948269029011732/1).	PMID:20052385	HPO	11.05.2015

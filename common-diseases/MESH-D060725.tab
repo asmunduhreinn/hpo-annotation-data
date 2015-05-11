@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D060725	Uterine Retroversion					HP:0001788	Premature rupture of membranes			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.5170393293134651).	PMID:22124410	HPO	11.05.2015
-MESH-D060725	Uterine Retroversion					HP:0000016	Urinary retention			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.602110068037631).	PMID:23195355	HPO	11.05.2015
+MESH-D060725	Uterine Retroversion					HP:0001788	Premature rupture of membranes			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.517039329313465/1).	PMID:22124410	HPO	11.05.2015
+MESH-D060725	Uterine Retroversion					HP:0000016	Urinary retention			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.60211006803763/1).	PMID:23195355	HPO	11.05.2015

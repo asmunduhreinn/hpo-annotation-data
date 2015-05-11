@@ -1,4 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-DOID-DOID:0002949	Nidovirales Infections					HP:0100660	Dyskinesia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.2459802317711591). MESHID: D030341	PMID:21418610	HPO	11.05.2015
-DOID-DOID:0002949	Nidovirales Infections					HP:0000670	Carious teeth			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.5788825502072221). MESHID: D030341	PMID:20067803	HPO	11.05.2015
-DOID-DOID:0002949	Nidovirales Infections					HP:0002013	Vomiting			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.3504335102918441). MESHID: D030341	PMID:21418610	HPO	11.05.2015
+DOID-DOID:0002949	Nidovirales Infections					HP:0100660	Dyskinesia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.245980231771159/1). MESHID: D030341	PMID:21418610	HPO	11.05.2015
+DOID-DOID:0002949	Nidovirales Infections					HP:0000670	Carious teeth			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.578882550207222/1). MESHID: D030341	PMID:20067803	HPO	11.05.2015
+DOID-DOID:0002949	Nidovirales Infections					HP:0002013	Vomiting			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.350433510291844/1). MESHID: D030341	PMID:21418610	HPO	11.05.2015

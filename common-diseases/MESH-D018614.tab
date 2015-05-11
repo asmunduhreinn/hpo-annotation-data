@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D018614	Sweating Sickness					HP:0000975	Hyperhidrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.1889522152894764).	PMID:11284216; PMID:20506726; PMID:14729023; PMID:15521686	HPO	11.05.2015
-MESH-D018614	Sweating Sickness					HP:0002307	Drooling			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.7450485586558941).	PMID:20082997	HPO	11.05.2015
+MESH-D018614	Sweating Sickness					HP:0000975	Hyperhidrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.188952215289476/4).	PMID:11284216;PMID:20506726;PMID:14729023;PMID:15521686	HPO	11.05.2015
+MESH-D018614	Sweating Sickness					HP:0002307	Drooling			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.745048558655894/1).	PMID:20082997	HPO	11.05.2015

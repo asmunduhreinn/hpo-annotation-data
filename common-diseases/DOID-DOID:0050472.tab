@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-DOID-DOID:0050472	Monilethrix					HP:0002209	Sparse scalp hair			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 21.2312579766143272). MESHID: D056734	PMID:21495994; PMID:20669032	HPO	11.05.2015
-DOID-DOID:0050472	Monilethrix					HP:0004779	Brittle scalp hair			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.842472982824541). MESHID: D056734	PMID:20669032	HPO	11.05.2015
+DOID-DOID:0050472	Monilethrix					HP:0002209	Sparse scalp hair			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 21.231257976614327/2). MESHID: D056734	PMID:21495994;PMID:20669032	HPO	11.05.2015
+DOID-DOID:0050472	Monilethrix					HP:0004779	Brittle scalp hair			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.84247298282454/1). MESHID: D056734	PMID:20669032	HPO	11.05.2015

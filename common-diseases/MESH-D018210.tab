@@ -1,16 +1,16 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D018210	Chondromatosis					HP:0006765	Chondrosarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.838737337680554).	PMID:11793371; PMID:14645364; PMID:18498038; PMID:20585708	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0010614	Fibroma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.2653229723162343).	PMID:11793371; PMID:18310848; PMID:18498038	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0002762	Multiple exostoses			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.919342120476342).	PMID:17688470; PMID:23863940	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0002668	Paraganglioma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.9467529703506442).	PMID:8301486; PMID:10375102	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0002829	Arthralgia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.5941664664254352).	PMID:10024035; PMID:16821182	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0100243	Leiomyosarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.9867664030576352).	PMID:8301486; PMID:10375102	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0000574	Thick eyebrow			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.5200852625343161).	PMID:17688470	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0010579	Cone-shaped epiphysis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.2034156532092821).	PMID:17688470	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0000414	Bulbous nose			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.7514305294662251).	PMID:17688470	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0002209	Sparse scalp hair			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.6156289883071631).	PMID:17688470	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0002758	Osteoarthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.5153170536216542).	PMID:18442683; PMID:16670157	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0000343	Long philtrum			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.4546986214945261).	PMID:17688470	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0001992	Organic aciduria			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.4412756011623851).	PMID:22025298	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0009815	Aplasia/hypoplasia of the extremities			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.8461088289626431).	PMID:7758364	HPO	11.05.2015
-MESH-D018210	Chondromatosis					HP:0010762	Chordoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.2144316066450081).	PMID:11793371	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0006765	Chondrosarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.83873733768055/4).	PMID:11793371;PMID:14645364;PMID:18498038;PMID:20585708	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0010614	Fibroma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.265322972316234/3).	PMID:11793371;PMID:18310848;PMID:18498038	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0002762	Multiple exostoses			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.91934212047634/2).	PMID:17688470;PMID:23863940	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0002668	Paraganglioma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.946752970350644/2).	PMID:8301486;PMID:10375102	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0002829	Arthralgia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.594166466425435/2).	PMID:10024035;PMID:16821182	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0100243	Leiomyosarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.986766403057635/2).	PMID:8301486;PMID:10375102	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0000574	Thick eyebrow			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.520085262534316/1).	PMID:17688470	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0010579	Cone-shaped epiphysis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.203415653209282/1).	PMID:17688470	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0000414	Bulbous nose			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.751430529466225/1).	PMID:17688470	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0002209	Sparse scalp hair			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.615628988307163/1).	PMID:17688470	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0002758	Osteoarthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.515317053621654/2).	PMID:18442683;PMID:16670157	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0000343	Long philtrum			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.454698621494526/1).	PMID:17688470	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0001992	Organic aciduria			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.441275601162385/1).	PMID:22025298	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0009815	Aplasia/hypoplasia of the extremities			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.846108828962643/1).	PMID:7758364	HPO	11.05.2015
+MESH-D018210	Chondromatosis					HP:0010762	Chordoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.214431606645008/1).	PMID:11793371	HPO	11.05.2015

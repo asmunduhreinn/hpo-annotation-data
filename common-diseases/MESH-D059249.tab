@@ -1,3 +1,3 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D059249	Otomycosis					HP:0000265	Mastoiditis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.7371110031774712).	PMID:21999222; PMID:21041003	HPO	11.05.2015
-MESH-D059249	Otomycosis					HP:0000989	Pruritus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.7577474940504652).	PMID:21999222; PMID:21499908	HPO	11.05.2015
+MESH-D059249	Otomycosis					HP:0000265	Mastoiditis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.737111003177471/2).	PMID:21999222;PMID:21041003	HPO	11.05.2015
+MESH-D059249	Otomycosis					HP:0000989	Pruritus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.757747494050465/2).	PMID:21999222;PMID:21499908	HPO	11.05.2015

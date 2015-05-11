@@ -1,7 +1,7 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D002284	Carcinoma, Brown-Pearce					HP:0002862	Bladder carcinoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.4186691220772763).	PMID:838457; PMID:421701; PMID:636118	HPO	11.05.2015
-MESH-D002284	Carcinoma, Brown-Pearce					HP:0001510	Growth delay			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.4072324642564312).	PMID:478776; PMID:700954	HPO	11.05.2015
-MESH-D002284	Carcinoma, Brown-Pearce					HP:0100242	Sarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.3071211165239572).	PMID:7405104; PMID:2374484	HPO	11.05.2015
-MESH-D002284	Carcinoma, Brown-Pearce					HP:0001909	Leukemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.8748758359825252).	PMID:295597; PMID:200756	HPO	11.05.2015
-MESH-D002284	Carcinoma, Brown-Pearce					HP:0004820	Acute myelomonocytic leukemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.4175229653431391).	PMID:295597	HPO	11.05.2015
-MESH-D002284	Carcinoma, Brown-Pearce					HP:0100534	Episcleritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.922504437421631).	PMID:478776	HPO	11.05.2015
+MESH-D002284	Carcinoma, Brown-Pearce					HP:0002862	Bladder carcinoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.418669122077276/3).	PMID:838457;PMID:421701;PMID:636118	HPO	11.05.2015
+MESH-D002284	Carcinoma, Brown-Pearce					HP:0001510	Growth delay			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.407232464256431/2).	PMID:478776;PMID:700954	HPO	11.05.2015
+MESH-D002284	Carcinoma, Brown-Pearce					HP:0100242	Sarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.307121116523957/2).	PMID:7405104;PMID:2374484	HPO	11.05.2015
+MESH-D002284	Carcinoma, Brown-Pearce					HP:0001909	Leukemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.874875835982525/2).	PMID:295597;PMID:200756	HPO	11.05.2015
+MESH-D002284	Carcinoma, Brown-Pearce					HP:0004820	Acute myelomonocytic leukemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.417522965343139/1).	PMID:295597	HPO	11.05.2015
+MESH-D002284	Carcinoma, Brown-Pearce					HP:0100534	Episcleritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.92250443742163/1).	PMID:478776	HPO	11.05.2015

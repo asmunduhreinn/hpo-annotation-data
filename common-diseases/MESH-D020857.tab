@@ -1,9 +1,9 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D020857	Hallux Limitus					HP:0001822	Hallux valgus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 84.812691375251499).	PMID:10658949; PMID:10659531; PMID:17114600; PMID:19700117; PMID:19700116	HPO	11.05.2015
-MESH-D020857	Hallux Limitus					HP:0010743	Short metatarsal			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.555047250726012).	PMID:17901350; PMID:15833423	HPO	11.05.2015
-MESH-D020857	Hallux Limitus					HP:0001840	Metatarsus adductus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 21.0932722336404232).	PMID:10658949; PMID:12500786	HPO	11.05.2015
-MESH-D020857	Hallux Limitus					HP:0001763	Pes planus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.4566515866125232).	PMID:12070237; PMID:16586192	HPO	11.05.2015
-MESH-D020857	Hallux Limitus					HP:0010885	Aseptic necrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.545951328029773).	PMID:22243568; PMID:21669339; PMID:10862386	HPO	11.05.2015
-MESH-D020857	Hallux Limitus					HP:0001760	Abnormality of the foot			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.323236025624092).	PMID:21669337; PMID:17507525	HPO	11.05.2015
-MESH-D020857	Hallux Limitus					HP:0006237	Prominent interphalangeal joints			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.7587637146986971).	PMID:12500786	HPO	11.05.2015
-MESH-D020857	Hallux Limitus					HP:0001844	Abnormality of the hallux			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.842472982824541).	PMID:12015407	HPO	11.05.2015
+MESH-D020857	Hallux Limitus					HP:0001822	Hallux valgus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 84.81269137525149/9).	PMID:10658949;PMID:10659531;PMID:17114600;PMID:19700117;PMID:19700116	HPO	11.05.2015
+MESH-D020857	Hallux Limitus					HP:0010743	Short metatarsal			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.55504725072601/2).	PMID:17901350;PMID:15833423	HPO	11.05.2015
+MESH-D020857	Hallux Limitus					HP:0001840	Metatarsus adductus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 21.093272233640423/2).	PMID:10658949;PMID:12500786	HPO	11.05.2015
+MESH-D020857	Hallux Limitus					HP:0001763	Pes planus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.456651586612523/2).	PMID:12070237;PMID:16586192	HPO	11.05.2015
+MESH-D020857	Hallux Limitus					HP:0010885	Aseptic necrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.54595132802977/3).	PMID:22243568;PMID:21669339;PMID:10862386	HPO	11.05.2015
+MESH-D020857	Hallux Limitus					HP:0001760	Abnormality of the foot			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.32323602562409/2).	PMID:21669337;PMID:17507525	HPO	11.05.2015
+MESH-D020857	Hallux Limitus					HP:0006237	Prominent interphalangeal joints			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.758763714698697/1).	PMID:12500786	HPO	11.05.2015
+MESH-D020857	Hallux Limitus					HP:0001844	Abnormality of the hallux			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.84247298282454/1).	PMID:12015407	HPO	11.05.2015

@@ -1,11 +1,11 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D056729	von Willebrand Disease, Type 3					HP:0100609	Hypermenorrhea			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.0766324875744771).	PMID:21451397	HPO	11.05.2015
-MESH-D056729	von Willebrand Disease, Type 3					HP:0005186	Synovial hypertrophy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.748128420602441).	PMID:21070482	HPO	11.05.2015
-MESH-D056729	von Willebrand Disease, Type 3					HP:0008321	Reduced factor X activity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.6229652776484351).	PMID:21451397	HPO	11.05.2015
-MESH-D056729	von Willebrand Disease, Type 3					HP:0003225	Reduced factor V activity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.409278061576261).	PMID:21451397	HPO	11.05.2015
-MESH-D056729	von Willebrand Disease, Type 3					HP:0008169	Reduced factor VII activity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.0499936985314561).	PMID:21451397	HPO	11.05.2015
-MESH-D056729	von Willebrand Disease, Type 3					HP:0003125	Reduced factor VIII activity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.976478178554551).	PMID:21451397	HPO	11.05.2015
-MESH-D056729	von Willebrand Disease, Type 3					HP:0005261	Joint hemorrhage			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.5078236870291151).	PMID:21415708	HPO	11.05.2015
-MESH-D056729	von Willebrand Disease, Type 3					HP:0000132	Menorrhagia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.8046020629024031).	PMID:22918553	HPO	11.05.2015
-MESH-D056729	von Willebrand Disease, Type 3					HP:0002277	Horner syndrome			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.5990830829768981).	PMID:21451397	HPO	11.05.2015
-MESH-D056729	von Willebrand Disease, Type 3					HP:0000225	Gingival bleeding			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.498944104335511).	PMID:22918553	HPO	11.05.2015
+MESH-D056729	von Willebrand Disease, Type 3					HP:0100609	Hypermenorrhea			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.076632487574477/1).	PMID:21451397	HPO	11.05.2015
+MESH-D056729	von Willebrand Disease, Type 3					HP:0005186	Synovial hypertrophy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.74812842060244/1).	PMID:21070482	HPO	11.05.2015
+MESH-D056729	von Willebrand Disease, Type 3					HP:0008321	Reduced factor X activity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.622965277648435/1).	PMID:21451397	HPO	11.05.2015
+MESH-D056729	von Willebrand Disease, Type 3					HP:0003225	Reduced factor V activity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.40927806157626/1).	PMID:21451397	HPO	11.05.2015
+MESH-D056729	von Willebrand Disease, Type 3					HP:0008169	Reduced factor VII activity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.049993698531456/1).	PMID:21451397	HPO	11.05.2015
+MESH-D056729	von Willebrand Disease, Type 3					HP:0003125	Reduced factor VIII activity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.97647817855455/1).	PMID:21451397	HPO	11.05.2015
+MESH-D056729	von Willebrand Disease, Type 3					HP:0005261	Joint hemorrhage			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.507823687029115/1).	PMID:21415708	HPO	11.05.2015
+MESH-D056729	von Willebrand Disease, Type 3					HP:0000132	Menorrhagia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.804602062902403/1).	PMID:22918553	HPO	11.05.2015
+MESH-D056729	von Willebrand Disease, Type 3					HP:0002277	Horner syndrome			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.599083082976898/1).	PMID:21451397	HPO	11.05.2015
+MESH-D056729	von Willebrand Disease, Type 3					HP:0000225	Gingival bleeding			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.49894410433551/1).	PMID:22918553	HPO	11.05.2015

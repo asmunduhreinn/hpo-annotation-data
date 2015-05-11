@@ -1,6 +1,6 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-MESH-D058288	Sister Mary Joseph's Nodule					HP:0001537	Umbilical hernia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.272054781497712).	PMID:22562383; PMID:22629727	HPO	11.05.2015
-MESH-D058288	Sister Mary Joseph's Nodule					HP:0001551	Abnormality of the umbilicus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.7587637146986971).	PMID:21637046	HPO	11.05.2015
-MESH-D058288	Sister Mary Joseph's Nodule					HP:0002586	Peritonitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.1846119566097823).	PMID:21674424; PMID:20739130; PMID:22475900	HPO	11.05.2015
-MESH-D058288	Sister Mary Joseph's Nodule					HP:0001541	Ascites			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.8965380580234652).	PMID:21674424; PMID:22629727	HPO	11.05.2015
-MESH-D058288	Sister Mary Joseph's Nodule					HP:0010450	Esophageal stenosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.320212384791731).	PMID:21674424	HPO	11.05.2015
+MESH-D058288	Sister Mary Joseph's Nodule					HP:0001537	Umbilical hernia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.27205478149771/2).	PMID:22562383;PMID:22629727	HPO	11.05.2015
+MESH-D058288	Sister Mary Joseph's Nodule					HP:0001551	Abnormality of the umbilicus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.758763714698697/1).	PMID:21637046	HPO	11.05.2015
+MESH-D058288	Sister Mary Joseph's Nodule					HP:0002586	Peritonitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.184611956609782/3).	PMID:21674424;PMID:20739130;PMID:22475900	HPO	11.05.2015
+MESH-D058288	Sister Mary Joseph's Nodule					HP:0001541	Ascites			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.896538058023465/2).	PMID:21674424;PMID:22629727	HPO	11.05.2015
+MESH-D058288	Sister Mary Joseph's Nodule					HP:0010450	Esophageal stenosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.32021238479173/1).	PMID:21674424	HPO	11.05.2015
