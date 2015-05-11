@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D056005	Leprosy, Paucibacillary					HP:0001101	Iritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.1871807173287741).	PMID:20563498	HPO	11.05.2015
+MESH-D056005	Leprosy, Paucibacillary					HP:0009831	Mononeuropathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.89548292581838851).	PMID:21638979	HPO	11.05.2015
+MESH-D056005	Leprosy, Paucibacillary					HP:0002360	Sleep disturbance			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.8787155137271191).	PMID:22997695	HPO	11.05.2015
+MESH-D056005	Leprosy, Paucibacillary					HP:0002459	Dysautonomia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.7920036016432291).	PMID:21638979	HPO	11.05.2015
+MESH-D056005	Leprosy, Paucibacillary					HP:0003613	Antiphospholipid antibody positivity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.4600997370459231).	PMID:20140737	HPO	11.05.2015
+MESH-D056005	Leprosy, Paucibacillary					HP:0012211	Abnormal renal physiology			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.6171840982933061).	PMID:21532002	HPO	11.05.2015
+MESH-D056005	Leprosy, Paucibacillary					HP:0011096	Peripheral demyelination			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.6070063001548111).	PMID:21638979	HPO	11.05.2015

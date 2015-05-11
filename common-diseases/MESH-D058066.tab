@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D058066	Digital Dermatitis					HP:0000964	Eczema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 163.2018688095721232).	PMID:23415520; PMID:22266683; PMID:22878094; PMID:22032365; PMID:21057019	HPO	11.05.2015

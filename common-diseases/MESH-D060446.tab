@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D060446	Phaeohyphomycosis					HP:0001000	Abnormality of skin pigmentation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 30.0610627402831846).	PMID:22132499; PMID:22682192; PMID:23250331; PMID:22031645; PMID:22623083	HPO	11.05.2015
+MESH-D060446	Phaeohyphomycosis					HP:0006739	Squamous cell carcinoma of the skin			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.4087509792703021).	PMID:22513067	HPO	11.05.2015
+MESH-D060446	Phaeohyphomycosis					HP:0000951	Abnormality of the skin			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.5292873210413551).	PMID:22132499	HPO	11.05.2015
+MESH-D060446	Phaeohyphomycosis					HP:0011946	Bronchiolitis obliterans			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.5045858682421781).	PMID:23146522	HPO	11.05.2015

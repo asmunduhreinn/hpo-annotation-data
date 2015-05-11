@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0013274	Pneumonia of Calves, Enzootic					HP:0002090	Pneumonia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 47.66988955756105613). MESHID: D048089	PMID:21078926; PMID:16427590; PMID:19796608; PMID:21800424; PMID:18218156	HPO	11.05.2015

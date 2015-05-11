@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0003297	Myxomatosis, Infectious					HP:0010614	Fibroma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 64.2177432410541210). MESHID: D009234	PMID:20334023; PMID:12081009; PMID:10684680; PMID:8380671; PMID:22333483	HPO	11.05.2015
+DOID-DOID:0003297	Myxomatosis, Infectious					HP:0100540	Palpebral edema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.8912292642431141). MESHID: D009234	PMID:914688	HPO	11.05.2015

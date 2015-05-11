@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D011539	Pruritus Vulvae					HP:0000989	Pruritus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 370.3690460625896363).	PMID:11685276; PMID:15301167; PMID:1983214; PMID:21611679; PMID:21508567	HPO	11.05.2015
+MESH-D011539	Pruritus Vulvae					HP:0000964	Eczema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 40.800467202393038).	PMID:1659196; PMID:9249280; PMID:18412806; PMID:8936065; PMID:16891434	HPO	11.05.2015
+MESH-D011539	Pruritus Vulvae					HP:0000737	Irritability			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 25.7141245508455725).	PMID:11685276; PMID:15301167; PMID:1659196; PMID:19386978; PMID:14756897	HPO	11.05.2015

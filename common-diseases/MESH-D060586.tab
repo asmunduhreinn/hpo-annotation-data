@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D060586	Trichosporonosis					HP:0007418	Alopecia totalis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.7884718011465741).	PMID:22426768	HPO	11.05.2015
+MESH-D060586	Trichosporonosis					HP:0001875	Neutropenia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.3106690113648092).	PMID:22093149; PMID:22426768	HPO	11.05.2015
+MESH-D060586	Trichosporonosis					HP:0000559	Corneal scarring			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.676544804322251).	PMID:21876439	HPO	11.05.2015
+MESH-D060586	Trichosporonosis					HP:0001370	Rheumatoid arthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.5450040781679862).	PMID:22117385; PMID:22372158	HPO	11.05.2015
+MESH-D060586	Trichosporonosis					HP:0007340	Lower limb muscle weakness			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.355189516763881).	PMID:22426768	HPO	11.05.2015
+MESH-D060586	Trichosporonosis					HP:0011951	Aspiration pneumonia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.146921315118281).	PMID:22117385	HPO	11.05.2015
+MESH-D060586	Trichosporonosis					HP:0001742	Nasal obstruction			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.8792829969543041).	PMID:22664445	HPO	11.05.2015
+MESH-D060586	Trichosporonosis					HP:0000491	Keratitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.2996234547310751).	PMID:21876439	HPO	11.05.2015
+MESH-D060586	Trichosporonosis					HP:0004377	Hematological neoplasm			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.2972946720548211).	PMID:22093149	HPO	11.05.2015

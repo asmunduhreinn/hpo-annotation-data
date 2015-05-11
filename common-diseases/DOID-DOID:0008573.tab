@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0008573	Lichen Nitidus					HP:0000972	Palmoplantar hyperkeratosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.0411596266503272). MESHID: D017513	PMID:8403484; PMID:15505553	HPO	11.05.2015
+DOID-DOID:0008573	Lichen Nitidus					HP:0001000	Abnormality of skin pigmentation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.0305313701415923). MESHID: D017513	PMID:15057011; PMID:18441851; PMID:15804308	HPO	11.05.2015
+DOID-DOID:0008573	Lichen Nitidus					HP:0000989	Pruritus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.7577474940504652). MESHID: D017513	PMID:8056902; PMID:22714765	HPO	11.05.2015
+DOID-DOID:0008573	Lichen Nitidus					HP:0010783	Erythema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.995460456813992). MESHID: D017513	PMID:8056902; PMID:7894100	HPO	11.05.2015

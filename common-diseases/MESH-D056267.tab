@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D056267	Pagetoid Reticulosis					HP:0002665	Lymphoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.544495316710374).	PMID:23409481; PMID:22548453; PMID:19940753; PMID:19614989	HPO	11.05.2015
+MESH-D056267	Pagetoid Reticulosis					HP:0000962	Hyperkeratosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.5867229410711741).	PMID:19614989	HPO	11.05.2015

@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0002930	Avulavirus Infections					HP:0100021	Cerebral palsy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.9585744128213931). MESHID: D045463	PMID:20663473	HPO	11.05.2015
+DOID-DOID:0002930	Avulavirus Infections					HP:0007354	Amyotrophic lateral sclerosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 4.4255412950816661). MESHID: D045463	PMID:22189432	HPO	11.05.2015
+DOID-DOID:0002930	Avulavirus Infections					HP:0002861	Melanoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 4.1413097143972211). MESHID: D045463	PMID:19515783	HPO	11.05.2015

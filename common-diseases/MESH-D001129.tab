@@ -1,0 +1,17 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D001129	Argyria					HP:0001000	Abnormality of skin pigmentation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 125.2544280845132625).	PMID:11095129; PMID:2653262; PMID:21595676; PMID:7489644; PMID:15981703	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0000230	Gingivitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 39.577653772562077).	PMID:17458063; PMID:15119887; PMID:21712780; PMID:8602431; PMID:7313508	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0100814	Blue nevus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 33.2968687836449754).	PMID:18189030; PMID:4062338; PMID:11807434; PMID:20684156	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0002861	Melanoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 33.130477715177778).	PMID:18189030; PMID:11095129; PMID:7451158; PMID:16387002; PMID:15503979	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0000961	Cyanosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 21.1638840015448863).	PMID:2459987; PMID:11325689; PMID:8063942	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0007759	Opacification of the corneal stroma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.386997489326672).	PMID:14508256; PMID:20335809	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0000486	Strabismus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.459251642771852).	PMID:11095129; PMID:11225403	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0001733	Pancreatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.5014245702785023).	PMID:2462532; PMID:10089055; PMID:10089056	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0000502	Abnormality of the conjunctiva			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.1560740292543131).	PMID:312638	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0010280	Stomatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.0389350262869932).	PMID:15503979; PMID:15503543	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0007505	Progressive hyperpigmentation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.6017632935485831).	PMID:21883362	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0007440	Generalized hyperpigmentation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.9745740807804351).	PMID:524103	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0100608	Metrorrhagia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.365616958428622).	PMID:8115732; PMID:23322674	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0000737	Irritability			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.2856498203382292).	PMID:11482721; PMID:15964881	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0000556	Retinal dystrophy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.476496967802691).	PMID:8115732	HPO	11.05.2015
+MESH-D001129	Argyria					HP:0000651	Diplopia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.5590247540679091).	PMID:19512897	HPO	11.05.2015

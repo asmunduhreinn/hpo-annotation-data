@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D059270	Petrositis					HP:0000371	Acute otitis media			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.786383914027812).	PMID:22696630; PMID:23909122	HPO	11.05.2015
+MESH-D059270	Petrositis					HP:0011349	Abducens palsy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.584977610796761).	PMID:22696630	HPO	11.05.2015
+MESH-D059270	Petrositis					HP:0006824	Cranial nerve paralysis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.2786174562924131).	PMID:23448569	HPO	11.05.2015
+MESH-D059270	Petrositis					HP:0000265	Mastoiditis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.8685555015887361).	PMID:23909122	HPO	11.05.2015

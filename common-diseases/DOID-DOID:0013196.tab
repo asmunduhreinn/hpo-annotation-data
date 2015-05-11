@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0013196	Lingual Goiter					HP:0100029	Lingual thyroid			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.7439554003261042). MESHID: D047268	PMID:19232175; PMID:16053391	HPO	11.05.2015
+DOID-DOID:0013196	Lingual Goiter					HP:0002930	Thyroid hormone receptor defect			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.0599937818660391). MESHID: D047268	PMID:16053391	HPO	11.05.2015
+DOID-DOID:0013196	Lingual Goiter					HP:0009798	Euthyroid goiter			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.0061910758730641). MESHID: D047268	PMID:16053391	HPO	11.05.2015
+DOID-DOID:0013196	Lingual Goiter					HP:0100646	Thyroiditis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.7997409839197212). MESHID: D047268	PMID:19232175; PMID:16053391	HPO	11.05.2015

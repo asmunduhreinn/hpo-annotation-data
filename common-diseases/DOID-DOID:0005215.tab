@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0005215	Ephemeral Fever					HP:0001945	Fever			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 285.079073996696377). MESHID: D004810	PMID:17322773; PMID:8545949; PMID:20074986; PMID:12442580; PMID:1547835	HPO	11.05.2015
+DOID-DOID:0005215	Ephemeral Fever					HP:0010280	Stomatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 30.097337565717485). MESHID: D004810	PMID:9880933; PMID:6131919; PMID:8046391; PMID:501340; PMID:4986085	HPO	11.05.2015

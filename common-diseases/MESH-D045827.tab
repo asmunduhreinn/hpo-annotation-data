@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D045827	Cytophagaceae Infections					HP:0008066	Abnormal blistering of the skin			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.6201989774370631).	PMID:21848120	HPO	11.05.2015

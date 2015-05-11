@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D058923	Medial Tibial Stress Syndrome					HP:0009027	Foot dorsiflexor weakness			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.8466129743104391).	PMID:20561280	HPO	11.05.2015
+MESH-D058923	Medial Tibial Stress Syndrome					HP:0100537	Fasciitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.5922633955436441).	PMID:22827721	HPO	11.05.2015
+MESH-D058923	Medial Tibial Stress Syndrome					HP:0003326	Myalgia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.3740738730955521).	PMID:21667913	HPO	11.05.2015

@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D007102	Immersion Foot					HP:0002045	Hypothermia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.364334760034094).	PMID:22580491; PMID:2568185; PMID:7055030; PMID:10206932	HPO	11.05.2015
+MESH-D007102	Immersion Foot					HP:0100758	Gangrene			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.678272857302223).	PMID:16155617; PMID:1972307; PMID:12825888	HPO	11.05.2015
+MESH-D007102	Immersion Foot					HP:0004950	Peripheral arterial disease			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.9813123500457852).	PMID:2012466; PMID:16267198	HPO	11.05.2015
+MESH-D007102	Immersion Foot					HP:0009830	Peripheral neuropathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.9199959858682532).	PMID:2012466; PMID:8712655	HPO	11.05.2015

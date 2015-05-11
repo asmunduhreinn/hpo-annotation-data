@@ -1,0 +1,17 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D056006	Leprosy, Multibacillary					HP:0010783	Erythema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 49.4795720556629569).	PMID:20563497; PMID:22235621; PMID:23029751; PMID:22745841; PMID:19723489	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0001369	Arthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.641781517184774).	PMID:20563498; PMID:23029751; PMID:23741889; PMID:21340415	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0003613	Antiphospholipid antibody positivity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.380299211137773).	PMID:20140737; PMID:19851667; PMID:21340415	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0001101	Iritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.3743614346575482).	PMID:20563498; PMID:23741889	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0004425	Flat forehead			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.967004245470641).	PMID:19961820	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0000099	Glomerulonephritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.8110717103479322).	PMID:21806536; PMID:20016924	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0001000	Abnormality of skin pigmentation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.020354246761062).	PMID:23169418; PMID:21710853	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0011859	Punctate keratitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.3904539763306241).	PMID:21434594	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0001128	Trichiasis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.2433208691620121).	PMID:21434594	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0000762	Decreased nerve conduction velocity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.810728725518051).	PMID:20087206	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0000656	Ectropion			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.748722782017781).	PMID:21710853	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0002572	Episodic vomiting			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.6199573296927861).	PMID:20016924	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0000965	Cutis marmorata			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.258225076863531).	PMID:22490424	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0001094	Iridocyclitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.1698372371651781).	PMID:21710853	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0001482	Subcutaneous nodule			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.323620723651591).	PMID:22235621	HPO	11.05.2015
+MESH-D056006	Leprosy, Multibacillary					HP:0001025	Urticaria			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.43357884566595751).	PMID:19961820	HPO	11.05.2015

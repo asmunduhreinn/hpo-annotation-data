@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D015472	Leukemia, Eosinophilic, Acute					HP:0001909	Leukemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 79.8738825238427218).	PMID:1477652; PMID:2525145; PMID:8500576; PMID:8390246; PMID:1701160	HPO	11.05.2015
+MESH-D015472	Leukemia, Eosinophilic, Acute					HP:0001880	Eosinophilia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 69.485938847066912).	PMID:22420754; PMID:8157759; PMID:12436294; PMID:2028071; PMID:1581209	HPO	11.05.2015
+MESH-D015472	Leukemia, Eosinophilic, Acute					HP:0002488	Acute leukemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.505917205011193).	PMID:11106826; PMID:1950362; PMID:17997736	HPO	11.05.2015

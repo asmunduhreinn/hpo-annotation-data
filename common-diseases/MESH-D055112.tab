@@ -1,0 +1,13 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D055112	Pyometra					HP:0001254	Lethargy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 41.68195640830816).	PMID:19368254; PMID:23082542; PMID:22448515; PMID:23279042; PMID:21933164	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0000138	Ovarian cysts			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 39.8032358691860546).	PMID:19899436; PMID:19058986; PMID:20466393; PMID:19055567; PMID:23178080	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0003270	Abdominal distention			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 26.6325885445813674).	PMID:22448515; PMID:19058986; PMID:21933164; PMID:21265853	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0002039	Anorexia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.8142313586900164).	PMID:19368254; PMID:23082542; PMID:22448515; PMID:23279042	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0100806	Sepsis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.4523566523176335).	PMID:22731982; PMID:20130873; PMID:19939375; PMID:19134167; PMID:23279529	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0100878	Enlarged uterus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.734239005745852).	PMID:21933164; PMID:22946378	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0100718	Uterine rupture			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.792011603294592).	PMID:20815069; PMID:18798423	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0001959	Polydipsia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.4771460127735422).	PMID:22448515; PMID:19058986	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0002027	Abdominal pain			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.11030587224163).	PMID:19939375; PMID:20815069; PMID:20598053	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0001827	Genital tract atresia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.3724693535788061).	PMID:20130873	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0001974	Leukocytosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.0663503886343142).	PMID:19368254; PMID:23082542	HPO	11.05.2015
+MESH-D055112	Pyometra					HP:0001945	Fever			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.1069769089621943).	PMID:19939375; PMID:20598053; PMID:19949560	HPO	11.05.2015

@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D056828	Hereditary Angioedema Type III					HP:0100665	Angioedema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 28.4716785922546664).	PMID:22920075; PMID:20866113; PMID:23480060; PMID:23406930	HPO	11.05.2015

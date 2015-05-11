@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D056768	Giant Axonal Neuropathy					HP:0003477	Peripheral axonal neuropathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 84.0526361740988610).	PMID:22806374; PMID:19295179; PMID:22301809; PMID:23044025; PMID:22971091	HPO	11.05.2015
+MESH-D056768	Giant Axonal Neuropathy					HP:0001263	Global developmental delay			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.916847439264882).	PMID:22971091; PMID:20949505	HPO	11.05.2015

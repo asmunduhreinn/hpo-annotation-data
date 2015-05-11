@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D045262	Reticulocytosis					HP:0001923	Reticulocytosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 208.367634802357425).	PMID:19651194; PMID:15133268; PMID:16882712; PMID:21986355; PMID:22513419	HPO	11.05.2015
+MESH-D045262	Reticulocytosis					HP:0001878	Hemolytic anemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 25.7605736826498564).	PMID:17251326; PMID:18266205; PMID:18055338; PMID:21105201	HPO	11.05.2015
+MESH-D045262	Reticulocytosis					HP:0005511	Heinz body anemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.018519277536652).	PMID:15224761; PMID:14679403	HPO	11.05.2015
+MESH-D045262	Reticulocytosis					HP:0001891	Iron deficiency anemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.410542054681183).	PMID:19651194; PMID:22244935; PMID:21105201	HPO	11.05.2015
+MESH-D045262	Reticulocytosis					HP:0001935	Microcytic anemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.4786095990142452).	PMID:16882712; PMID:22244935	HPO	11.05.2015

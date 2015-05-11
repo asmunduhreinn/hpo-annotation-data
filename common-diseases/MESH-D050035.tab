@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D050035	Sexual Infantilism					HP:0008258	Congenital adrenal hyperplasia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 21.8417820616167333).	PMID:17454159; PMID:16103714; PMID:22815032	HPO	11.05.2015
+MESH-D050035	Sexual Infantilism					HP:0002900	Hypokalemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.2357651166912483).	PMID:17454159; PMID:19504440; PMID:16772352	HPO	11.05.2015
+MESH-D050035	Sexual Infantilism					HP:0000822	Hypertension			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.7058131941880825).	PMID:17454159; PMID:19504440; PMID:16103714; PMID:22815032; PMID:16772352	HPO	11.05.2015
+MESH-D050035	Sexual Infantilism					HP:0010458	Female pseudohermaphroditism			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.4614783084799041).	PMID:16772352	HPO	11.05.2015
+MESH-D050035	Sexual Infantilism					HP:0007431	Congenital ichthyosiform erythroderma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.2353047941737771).	PMID:14081787	HPO	11.05.2015
+MESH-D050035	Sexual Infantilism					HP:0000876	Oligomenorrhea			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.790056154713331).	PMID:22723313	HPO	11.05.2015
+MESH-D050035	Sexual Infantilism					HP:0000127	Renal salt wasting			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.5272984992100811).	PMID:22815032	HPO	11.05.2015
+MESH-D050035	Sexual Infantilism					HP:0000815	Hypergonadotropic hypogonadism			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.4906148493484751).	PMID:17454159	HPO	11.05.2015
+MESH-D050035	Sexual Infantilism					HP:0000027	Azoospermia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.4113745050426851).	PMID:22723313	HPO	11.05.2015
+MESH-D050035	Sexual Infantilism					HP:0001258	Spastic paraplegia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.366009430893031).	PMID:20453063	HPO	11.05.2015

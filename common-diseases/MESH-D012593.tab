@@ -1,0 +1,11 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D012593	Sclerema Neonatorum					HP:0100806	Sepsis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 32.7237706437082148).	PMID:6558245; PMID:19141140; PMID:7024055; PMID:19319014; PMID:10605318	HPO	11.05.2015
+MESH-D012593	Sclerema Neonatorum					HP:0002045	Hypothermia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.364334760034094).	PMID:8222894; PMID:19141140; PMID:19222934; PMID:17585096	HPO	11.05.2015
+MESH-D012593	Sclerema Neonatorum					HP:0100324	Scleroderma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.3379492296468563).	PMID:6241436; PMID:605801; PMID:3789776	HPO	11.05.2015
+MESH-D012593	Sclerema Neonatorum					HP:0001482	Subcutaneous nodule			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.647241447303182).	PMID:2279508; PMID:14749865	HPO	11.05.2015
+MESH-D012593	Sclerema Neonatorum					HP:0100276	Skin pits			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.9861749924589151).	PMID:19319014	HPO	11.05.2015
+MESH-D012593	Sclerema Neonatorum					HP:0003072	Hypercalcemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.089061856014342).	PMID:20178707; PMID:14749865	HPO	11.05.2015
+MESH-D012593	Sclerema Neonatorum					HP:0002090	Pneumonia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.0007437440525513).	PMID:701534; PMID:14749865; PMID:3789776	HPO	11.05.2015
+MESH-D012593	Sclerema Neonatorum					HP:0011331	Hemifacial atrophy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.0766324875744771).	PMID:6241436	HPO	11.05.2015
+MESH-D012593	Sclerema Neonatorum					HP:0009771	Osteolytic defects of the phalanges of the hand			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.6025861153117821).	PMID:6241436	HPO	11.05.2015
+MESH-D012593	Sclerema Neonatorum					HP:0001706	Endocardial fibroelastosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.104521685602631).	PMID:605801	HPO	11.05.2015

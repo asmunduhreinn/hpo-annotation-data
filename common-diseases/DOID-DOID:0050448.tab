@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0050448	Leukokeratosis, Hereditary Mucosal					HP:0003764	Nevus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 65.2062326903618410). MESHID: D053529	PMID:22750590; PMID:22211089; PMID:18091717; PMID:19602060; PMID:22068767	HPO	11.05.2015

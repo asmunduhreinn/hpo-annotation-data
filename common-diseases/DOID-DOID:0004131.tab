@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0004131	Erythrasma					HP:0001581	Recurrent skin infections			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 30.972957610442325). MESHID: D004894	PMID:6851651; PMID:21923567; PMID:21977942; PMID:16719870; PMID:1885917	HPO	11.05.2015
+DOID-DOID:0004131	Erythrasma					HP:0000964	Eczema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.3001752008973853). MESHID: D004894	PMID:17461292; PMID:7969634; PMID:939330	HPO	11.05.2015
+DOID-DOID:0004131	Erythrasma					HP:0001806	Onycholysis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.3404435557559631). MESHID: D004894	PMID:65505	HPO	11.05.2015
+DOID-DOID:0004131	Erythrasma					HP:0000962	Hyperkeratosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.5867229410711741). MESHID: D004894	PMID:65505	HPO	11.05.2015

@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D054319	Marchiafava-Bignami Disease					HP:0001260	Dysarthria			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 21.3580858680180123).	PMID:21712668; PMID:22325074; PMID:22777568	HPO	11.05.2015
+MESH-D054319	Marchiafava-Bignami Disease					HP:0001259	Coma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.674360617104133).	PMID:17933499; PMID:18247183; PMID:22777568	HPO	11.05.2015
+MESH-D054319	Marchiafava-Bignami Disease					HP:0000743	Frontal release signs			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.293027811898971).	PMID:18247183	HPO	11.05.2015
+MESH-D054319	Marchiafava-Bignami Disease					HP:0004395	Malnutrition			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.5502382764333762).	PMID:22306402; PMID:22325074	HPO	11.05.2015
+MESH-D054319	Marchiafava-Bignami Disease					HP:0100543	Cognitive impairment			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.3134382997287732).	PMID:17993203; PMID:22777568	HPO	11.05.2015
+MESH-D054319	Marchiafava-Bignami Disease					HP:0001289	Confusion			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.2045284965735862).	PMID:21712668; PMID:19847434	HPO	11.05.2015
+MESH-D054319	Marchiafava-Bignami Disease					HP:0002442	Dyscalculia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.6467759263421531).	PMID:22325074	HPO	11.05.2015
+MESH-D054319	Marchiafava-Bignami Disease					HP:0002540	Inability to walk			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.485764156134951).	PMID:22777568	HPO	11.05.2015

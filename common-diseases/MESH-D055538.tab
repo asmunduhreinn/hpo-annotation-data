@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D055538	delta-Thalassemia					HP:0005560	Imbalanced hemoglobin synthesis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 91.1662865707959515).	PMID:23089702; PMID:22194178; PMID:22014901; PMID:18939939; PMID:22042275	HPO	11.05.2015

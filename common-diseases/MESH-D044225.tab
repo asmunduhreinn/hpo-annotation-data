@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D044225	Piscirickettsiaceae Infections					HP:0000967	Petechiae			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.8236411502266332).	PMID:16475524; PMID:18236629	HPO	11.05.2015
+MESH-D044225	Piscirickettsiaceae Infections					HP:0001254	Lethargy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.8939854694360342).	PMID:16475524; PMID:18236629	HPO	11.05.2015

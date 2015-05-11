@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0013444	Glanders					HP:0002090	Pneumonia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.3345729067542545). MESHID: D005896	PMID:23508691; PMID:23700931; PMID:19179415; PMID:22025508; PMID:12170562	HPO	11.05.2015
+DOID-DOID:0013444	Glanders					HP:0100806	Sepsis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.3618853218541074). MESHID: D005896	PMID:23700931; PMID:7159234; PMID:12170562; PMID:21182082	HPO	11.05.2015
+DOID-DOID:0013444	Glanders					HP:0002719	Recurrent infections			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.0318451428799063). MESHID: D005896	PMID:7159234; PMID:11105952; PMID:20542133	HPO	11.05.2015
+DOID-DOID:0013444	Glanders					HP:0004325	Decreased body weight			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.8636820552852972). MESHID: D005896	PMID:7801539; PMID:22937975	HPO	11.05.2015

@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0012711	Piedra					HP:0011364	White hair			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 96.207632644147989). MESHID: D010854	PMID:19148418; PMID:21860159; PMID:1879212; PMID:14512933; PMID:2583717	HPO	11.05.2015

@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D020792	Salivary Calculi					HP:0011850	Parotitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 45.1939091836906368).	PMID:10643284; PMID:17650720; PMID:23073736; PMID:16479855; PMID:11718255	HPO	11.05.2015

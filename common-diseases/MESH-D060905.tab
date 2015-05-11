@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D060905	Coxa Vara					HP:0002812	Coxa vara			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 93.0772526113299510).	PMID:22740274; PMID:22643126; PMID:22747872; PMID:21565623; PMID:22678705	HPO	11.05.2015
+MESH-D060905	Coxa Vara					HP:0100490	Camptodactyly of finger			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 28.511627718233993).	PMID:21565623; PMID:22678705; PMID:22386609	HPO	11.05.2015
+MESH-D060905	Coxa Vara					HP:0002673	Coxa valga			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.1074963874817782).	PMID:20952111; PMID:22547145	HPO	11.05.2015
+MESH-D060905	Coxa Vara					HP:0005086	Knee osteoarthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.9599157332126543).	PMID:22530220; PMID:22141334; PMID:22874524	HPO	11.05.2015
+MESH-D060905	Coxa Vara					HP:0001701	Pericarditis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.2660415351939243).	PMID:21565623; PMID:22678705; PMID:22386609	HPO	11.05.2015
+MESH-D060905	Coxa Vara					HP:0010885	Aseptic necrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.545951328029773).	PMID:22740274; PMID:22643126; PMID:21796335	HPO	11.05.2015
+MESH-D060905	Coxa Vara					HP:0004474	Persistent open anterior fontanelle			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.3532986065905311).	PMID:21274329	HPO	11.05.2015

@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D060545	Pudendal Neuralgia					HP:0010992	Stress urinary incontinence			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.9456700519110642).	PMID:21985718; PMID:21887541	HPO	11.05.2015
+MESH-D060545	Pudendal Neuralgia					HP:0009830	Peripheral neuropathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.9199959858682532).	PMID:21985718; PMID:22516784	HPO	11.05.2015
+MESH-D060545	Pudendal Neuralgia					HP:0003474	Sensory impairment			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.6167271399918941).	PMID:23182119	HPO	11.05.2015

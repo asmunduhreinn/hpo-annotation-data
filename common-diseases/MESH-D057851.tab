@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D057851	Posterior Capsular Rupture, Ocular					HP:0000518	Cataract			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 68.3825856156018112).	PMID:21546922; PMID:22301099; PMID:21940142; PMID:23332256; PMID:22956638	HPO	11.05.2015
+MESH-D057851	Posterior Capsular Rupture, Ocular					HP:0001115	Posterior polar cataract			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 36.949250037988483).	PMID:20572822; PMID:21853943; PMID:22920002	HPO	11.05.2015

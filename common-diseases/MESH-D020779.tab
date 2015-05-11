@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D020779	Sinus Pericranii					HP:0002597	Abnormality of the vasculature			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 35.6609675420401765).	PMID:11857948; PMID:23037573; PMID:19916855; PMID:21656130; PMID:18342516	HPO	11.05.2015
+MESH-D020779	Sinus Pericranii					HP:0000246	Sinusitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 32.16693422788086).	PMID:23037573; PMID:22415496; PMID:15490192; PMID:20878339; PMID:19362322	HPO	11.05.2015
+MESH-D020779	Sinus Pericranii					HP:0002619	Varicose veins			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.8976983325048243).	PMID:19951040; PMID:22415496; PMID:19362322	HPO	11.05.2015
+MESH-D020779	Sinus Pericranii					HP:0004440	Coronal craniosynostosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.875990840896232).	PMID:17251841; PMID:19951040	HPO	11.05.2015
+MESH-D020779	Sinus Pericranii					HP:0002624	Venous abnormality			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.8105272348197732).	PMID:14729540; PMID:19362322	HPO	11.05.2015
+MESH-D020779	Sinus Pericranii					HP:0001362	Skull defect			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.6629330457323062).	PMID:19877791; PMID:21741191	HPO	11.05.2015
+MESH-D020779	Sinus Pericranii					HP:0004664	Facial midline hemangioma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.3532986065905311).	PMID:16443074	HPO	11.05.2015
+MESH-D020779	Sinus Pericranii					HP:0001028	Hemangioma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.4565359392831512).	PMID:20878339; PMID:16052365	HPO	11.05.2015
+MESH-D020779	Sinus Pericranii					HP:0000263	Oxycephaly			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.3743734513529221).	PMID:17251841	HPO	11.05.2015

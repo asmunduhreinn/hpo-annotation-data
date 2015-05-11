@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D057767	Kashin-Beck Disease					HP:0002758	Osteoarthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 73.6072193753515814).	PMID:21398559; PMID:22370124; PMID:22469850; PMID:22126763; PMID:22068351	HPO	11.05.2015
+MESH-D057767	Kashin-Beck Disease					HP:0002829	Arthralgia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 31.4854161660635875).	PMID:21398559; PMID:23224268; PMID:22157279; PMID:20549501; PMID:21409915	HPO	11.05.2015

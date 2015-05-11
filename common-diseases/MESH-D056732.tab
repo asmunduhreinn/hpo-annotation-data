@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D056732	Prolidase Deficiency					HP:0200042	Skin ulcer			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.9078010465183562).	PMID:21760498; PMID:19937054	HPO	11.05.2015
+MESH-D056732	Prolidase Deficiency					HP:0001249	Intellectual disability			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.723256744810762).	PMID:19415262; PMID:19782660	HPO	11.05.2015
+MESH-D056732	Prolidase Deficiency					HP:0002719	Recurrent infections			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.0212300952532712).	PMID:21760498; PMID:19782660	HPO	11.05.2015

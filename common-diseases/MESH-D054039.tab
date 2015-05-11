@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D054039	Onycholysis					HP:0001806	Onycholysis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 252.19197600541127).	PMID:21699122; PMID:18344734; PMID:20476857; PMID:22917894; PMID:23364154	HPO	11.05.2015
+MESH-D054039	Onycholysis					HP:0008404	Nail dystrophy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 58.451644465474387).	PMID:20886715; PMID:20721648; PMID:23364154; PMID:18454890; PMID:19911853	HPO	11.05.2015
+MESH-D054039	Onycholysis					HP:0001803	Nail pits			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 43.191802180404474).	PMID:19911853; PMID:22382303; PMID:22301796; PMID:22589259	HPO	11.05.2015
+MESH-D054039	Onycholysis					HP:0008392	Subungual hyperkeratosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 42.3375057792122364).	PMID:18454890; PMID:19911853; PMID:22155805; PMID:22589259	HPO	11.05.2015
+MESH-D054039	Onycholysis					HP:0001369	Arthritis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 39.283563034369548).	PMID:16738841; PMID:20476857; PMID:22382304; PMID:22337245; PMID:22382303	HPO	11.05.2015
+MESH-D054039	Onycholysis					HP:0100686	Enthesitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.6662163513221733).	PMID:20476857; PMID:22382303; PMID:23128597	HPO	11.05.2015
+MESH-D054039	Onycholysis					HP:0001820	Leukonychia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.139768521169522).	PMID:19391293; PMID:23541759	HPO	11.05.2015
+MESH-D054039	Onycholysis					HP:0001805	Thick nail			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.909397242989052).	PMID:23364154; PMID:23128597	HPO	11.05.2015
+MESH-D054039	Onycholysis					HP:0001807	Ridged nail			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.7286291200525132).	PMID:18454890; PMID:23541759	HPO	11.05.2015

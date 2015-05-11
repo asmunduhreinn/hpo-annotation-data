@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D057774	Post-Exercise Hypotension					HP:0002615	Hypotension			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 85.3293586475588318).	PMID:21422379; PMID:21734721; PMID:23047713; PMID:21993035; PMID:22131224	HPO	11.05.2015
+MESH-D057774	Post-Exercise Hypotension					HP:0000822	Hypertension			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.5881384718633147).	PMID:21734721; PMID:21993035; PMID:21359479; PMID:20054347; PMID:23766641	HPO	11.05.2015

@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D058745	Iliotibial Band Syndrome					HP:0003170	Abnormality of the acetabulum			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.444577710026171).	PMID:21663719	HPO	11.05.2015
+MESH-D058745	Iliotibial Band Syndrome					HP:0008796	Externally rotated hips			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.4084857783393951).	PMID:21821478	HPO	11.05.2015
+MESH-D058745	Iliotibial Band Syndrome					HP:0001763	Pes planus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.7283257933062611).	PMID:21962907	HPO	11.05.2015

@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0003107	Toxascariasis					HP:0002127	Upper motor neuron abnormality			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.124034726469061). MESHID: D017227	PMID:20668798	HPO	11.05.2015
+DOID-DOID:0003107	Toxascariasis					HP:0003693	Distal amyotrophy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.8135562259248951). MESHID: D017227	PMID:20668798	HPO	11.05.2015
+DOID-DOID:0003107	Toxascariasis					HP:0002366	Abnormality of the lower motor neuron			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.6804697721286261). MESHID: D017227	PMID:20668798	HPO	11.05.2015
+DOID-DOID:0003107	Toxascariasis					HP:0002460	Distal muscle weakness			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.5997084154841681). MESHID: D017227	PMID:20668798	HPO	11.05.2015
+DOID-DOID:0003107	Toxascariasis					HP:0002380	Fasciculations			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.6417684451435051). MESHID: D017227	PMID:20668798	HPO	11.05.2015
+DOID-DOID:0003107	Toxascariasis					HP:0003690	Limb muscle weakness			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.192794767161541). MESHID: D017227	PMID:20668798	HPO	11.05.2015

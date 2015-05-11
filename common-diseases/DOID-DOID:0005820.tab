@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0005820	Composite Lymphoma					HP:0002665	Lymphoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 33.86123829177592610). MESHID: D058617	PMID:21813545; PMID:21615612; PMID:22126384; PMID:22371913; PMID:22944294	HPO	11.05.2015
+DOID-DOID:0005820	Composite Lymphoma					HP:0100628	Esophageal diverticulum			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.9357178192156771). MESHID: D058617	PMID:22371913	HPO	11.05.2015

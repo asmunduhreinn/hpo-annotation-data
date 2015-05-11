@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D062625	Cystadenofibroma					HP:0000137	Abnormality of the ovary			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.0447391237985231).	PMID:22814827	HPO	11.05.2015
+MESH-D062625	Cystadenofibroma					HP:0100615	Ovarian neoplasm			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.2060410206098222).	PMID:22455848; PMID:23171527	HPO	11.05.2015
+MESH-D062625	Cystadenofibroma					HP:0002300	Mutism			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.06420165617761).	PMID:23419475	HPO	11.05.2015
+MESH-D062625	Cystadenofibroma					HP:0008209	Premature ovarian failure			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.9908453809043581).	PMID:23153077	HPO	11.05.2015
+MESH-D062625	Cystadenofibroma					HP:0007359	Focal seizures			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.1152808076214951).	PMID:23419475	HPO	11.05.2015
+MESH-D062625	Cystadenofibroma					HP:0000713	Agitation			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.0255180681689011).	PMID:23419475	HPO	11.05.2015

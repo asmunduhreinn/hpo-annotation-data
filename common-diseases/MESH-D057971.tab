@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D057971	Anterior Capsular Rupture, Ocular					HP:0011502	Posterior lenticonus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.2330350703904411).	PMID:22018369	HPO	11.05.2015
+MESH-D057971	Anterior Capsular Rupture, Ocular					HP:0011501	Anterior lenticonus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.1211775549723111).	PMID:22018369	HPO	11.05.2015

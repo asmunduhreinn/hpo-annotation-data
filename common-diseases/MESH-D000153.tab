@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D000153	Acne Keloid					HP:0001061	Acne			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 312.4297569109711550).	PMID:2656800; PMID:11074701; PMID:20180836; PMID:2791646; PMID:2331046	HPO	11.05.2015
+MESH-D000153	Acne Keloid					HP:0010562	Keloids			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 239.9512193845143631).	PMID:16528552; PMID:11074701; PMID:20180836; PMID:16164153; PMID:22849351	HPO	11.05.2015
+MESH-D000153	Acne Keloid					HP:0100699	Scarring			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 173.16253871717835).	PMID:2656800; PMID:16528552; PMID:11074701; PMID:20180836; PMID:2791646	HPO	11.05.2015
+MESH-D000153	Acne Keloid					HP:0001596	Alopecia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 68.8168273043387411).	PMID:2791646; PMID:20507181; PMID:1296999; PMID:9031798; PMID:866280	HPO	11.05.2015
+MESH-D000153	Acne Keloid					HP:0001075	Atrophic scars			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 27.4096586812089173).	PMID:20180836; PMID:22849351; PMID:9339286	HPO	11.05.2015
+MESH-D000153	Acne Keloid					HP:0004552	Scarring alopecia of scalp			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.164926085583242).	PMID:18284270; PMID:16197427	HPO	11.05.2015
+MESH-D000153	Acne Keloid					HP:0000964	Eczema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.3001752008973853).	PMID:23210948; PMID:3048823; PMID:429677	HPO	11.05.2015
+MESH-D000153	Acne Keloid					HP:0000982	Palmoplantar keratoderma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.6340803238044921).	PMID:18284270	HPO	11.05.2015

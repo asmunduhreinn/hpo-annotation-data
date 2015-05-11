@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D059607	Polydipsia, Psychogenic					HP:0001959	Polydipsia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 54.1700110447073947).	PMID:23896855; PMID:21638234; PMID:22306188; PMID:22452903; PMID:23181904	HPO	11.05.2015
+MESH-D059607	Polydipsia, Psychogenic					HP:0100753	Schizophrenia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 25.299373769905124).	PMID:21638234; PMID:22452903; PMID:23181904; PMID:21811958	HPO	11.05.2015
+MESH-D059607	Polydipsia, Psychogenic					HP:0002902	Hyponatremia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.4781280616502423).	PMID:21638234; PMID:23181904; PMID:21811958	HPO	11.05.2015

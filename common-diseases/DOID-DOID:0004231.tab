@@ -1,0 +1,10 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0004231	Histiocytoma					HP:0100242	Sarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 41.882045024357819). MESHID: D051642	PMID:18592766; PMID:16327604; PMID:16026629; PMID:17987966; PMID:17436568	HPO	11.05.2015
+DOID-DOID:0004231	Histiocytoma					HP:0100726	Kaposi's sarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.4978992083426292). MESHID: D051642	PMID:17937163; PMID:16640541	HPO	11.05.2015
+DOID-DOID:0004231	Histiocytoma					HP:0100526	Neoplasm of the lungs			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.1186652664610992). MESHID: D051642	PMID:21356586; PMID:16119991	HPO	11.05.2015
+DOID-DOID:0004231	Histiocytoma					HP:0009829	Phocomelia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.5031510048804741). MESHID: D051642	PMID:16874423	HPO	11.05.2015
+DOID-DOID:0004231	Histiocytoma					HP:0005948	Cystic lung disease			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.4164294627338861). MESHID: D051642	PMID:21356586	HPO	11.05.2015
+DOID-DOID:0004231	Histiocytoma					HP:0006772	Renal angiomyolipoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.8117923570051061). MESHID: D051642	PMID:21356586	HPO	11.05.2015
+DOID-DOID:0004231	Histiocytoma					HP:0100244	Fibrosarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.132626436293281). MESHID: D051642	PMID:17937163	HPO	11.05.2015
+DOID-DOID:0004231	Histiocytoma					HP:0002859	Rhabdomyosarcoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.0804726029401311). MESHID: D051642	PMID:17937163	HPO	11.05.2015
+DOID-DOID:0004231	Histiocytoma					HP:0002107	Pneumothorax			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.0438678644502021). MESHID: D051642	PMID:21356586	HPO	11.05.2015

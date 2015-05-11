@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D031261	Poult Enteritis Mortality Syndrome					HP:0002014	Diarrhea			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.2124429927275534).	PMID:20095151; PMID:19630235; PMID:14557664; PMID:19359682	HPO	11.05.2015
+MESH-D031261	Poult Enteritis Mortality Syndrome					HP:0000096	Glomerulosclerosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.0769727514232751).	PMID:20032261	HPO	11.05.2015
+MESH-D031261	Poult Enteritis Mortality Syndrome					HP:0001254	Lethargy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.9469927347180171).	PMID:19630235	HPO	11.05.2015

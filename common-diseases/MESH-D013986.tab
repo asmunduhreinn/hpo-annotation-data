@@ -1,0 +1,9 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D013986	Tick Toxicoses					HP:0003470	Paralysis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 170.3730885024498333).	PMID:4707234; PMID:15938507; PMID:915536; PMID:627119; PMID:7332635	HPO	11.05.2015
+MESH-D013986	Tick Toxicoses					HP:0010783	Erythema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 43.981841827255968).	PMID:6519990; PMID:188148; PMID:3957641; PMID:3903977; PMID:6394553	HPO	11.05.2015
+MESH-D013986	Tick Toxicoses					HP:0000975	Hyperhidrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.1889522152894764).	PMID:1923386; PMID:4088643; PMID:2884612; PMID:7414698	HPO	11.05.2015
+MESH-D013986	Tick Toxicoses					HP:0001945	Fever			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.2139538179243886).	PMID:7036374; PMID:2330527; PMID:21827517; PMID:3957641; PMID:8968882	HPO	11.05.2015
+MESH-D013986	Tick Toxicoses					HP:0001283	Bulbar palsy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.8479059552721822).	PMID:927249; PMID:3724629	HPO	11.05.2015
+MESH-D013986	Tick Toxicoses					HP:0002311	Incoordination			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.305710066399692).	PMID:4707234; PMID:17636380	HPO	11.05.2015
+MESH-D013986	Tick Toxicoses					HP:0003690	Limb muscle weakness			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.385589534323082).	PMID:4707234; PMID:17706447	HPO	11.05.2015
+MESH-D013986	Tick Toxicoses					HP:0001251	Ataxia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.3054577190636552).	PMID:627119; PMID:374676	HPO	11.05.2015

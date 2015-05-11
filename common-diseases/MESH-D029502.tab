@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D029502	Anemia, Hypoplastic, Congenital					HP:0001915	Aplastic anemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.1799877820468532).	PMID:18084332; PMID:15782403	HPO	11.05.2015
+MESH-D029502	Anemia, Hypoplastic, Congenital					HP:0004859	Amegakaryocytic thrombocytopenia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.9632745255265031).	PMID:15782403	HPO	11.05.2015
+MESH-D029502	Anemia, Hypoplastic, Congenital					HP:0001905	Congenital thrombocytopenia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.6983207041522771).	PMID:15782403	HPO	11.05.2015
+MESH-D029502	Anemia, Hypoplastic, Congenital					HP:0001908	Hypoplastic anemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.1636438645641061).	PMID:15525619	HPO	11.05.2015
+MESH-D029502	Anemia, Hypoplastic, Congenital					HP:0004808	Acute myeloid leukemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 5.0528433451720881).	PMID:15782403	HPO	11.05.2015

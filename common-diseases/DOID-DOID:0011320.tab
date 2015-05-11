@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0011320	Kyasanur Forest Disease					HP:0001945	Fever			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.2139538179243886). MESHID: D007733	PMID:21122237; PMID:2665018; PMID:16710839; PMID:22172587; PMID:11849118	HPO	11.05.2015
+DOID-DOID:0011320	Kyasanur Forest Disease					HP:0002383	Encephalitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.5602079458807343). MESHID: D007733	PMID:23110991; PMID:2665018; PMID:11849118	HPO	11.05.2015

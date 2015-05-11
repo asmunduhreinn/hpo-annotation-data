@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0004336	Tinea Favosa					HP:0002287	Progressive alopecia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.482097595682641). MESHID: D014007	PMID:16281590	HPO	11.05.2015

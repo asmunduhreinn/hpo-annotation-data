@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D005535	Foot Rot					HP:0000964	Eczema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 81.6009344047860616).	PMID:20594602; PMID:16968306; PMID:22526726; PMID:22458248; PMID:674842	HPO	11.05.2015
+MESH-D005535	Foot Rot					HP:0001288	Gait disturbance			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 14.0598157816923062).	PMID:1926698; PMID:1410809	HPO	11.05.2015
+MESH-D005535	Foot Rot					HP:0100523	Liver abscess			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.9399558085435362).	PMID:8711893; PMID:16363327	HPO	11.05.2015

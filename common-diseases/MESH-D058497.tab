@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D058497	Fraser Syndrome					HP:0001126	Cryptophthalmos			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 66.271149887966336).	PMID:21507892; PMID:21747265; PMID:22613833; PMID:23473829; PMID:21806907	HPO	11.05.2015
+MESH-D058497	Fraser Syndrome					HP:0004691	2-3 toe syndactyly			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 41.5414664627726045).	PMID:22283518; PMID:22613833; PMID:23473829; PMID:21806907; PMID:22510445	HPO	11.05.2015
+MESH-D058497	Fraser Syndrome					HP:0000528	Anophthalmia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 27.784786468216483).	PMID:22283518; PMID:21507892; PMID:21487712	HPO	11.05.2015
+MESH-D058497	Fraser Syndrome					HP:0000104	Renal agenesis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 26.711075377488813).	PMID:21507892; PMID:21993971; PMID:22029163	HPO	11.05.2015
+MESH-D058497	Fraser Syndrome					HP:0000568	Microphthalmos			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.377162555563612).	PMID:22283518; PMID:21507892	HPO	11.05.2015

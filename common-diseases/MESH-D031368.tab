@@ -1,0 +1,14 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D031368	Zoster Sine Herpete					HP:0002196	Myelopathy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.095919646399872).	PMID:20186614; PMID:12809993	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0000491	Keratitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.599246909462152).	PMID:18245272; PMID:12219995	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0000554	Uveitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.5021809483637962).	PMID:15209460; PMID:18245272	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0002383	Encephalitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.3734719639204892).	PMID:22982982; PMID:20687373	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0100963	Hyperesthesia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.2473531326899521).	PMID:15334402	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0001287	Meningitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.9000221481141412).	PMID:20186614; PMID:20687373	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0000613	Photophobia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.3935835886776841).	PMID:15334402	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0000602	Ophthalmoplegia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.2839915323008261).	PMID:20186614	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0006824	Cranial nerve paralysis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.2786174562924131).	PMID:20186614	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0004418	Thrombophlebitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.1984228669127371).	PMID:15334402	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0001609	Hoarse voice			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.1613673944859011).	PMID:17260814	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0000265	Mastoiditis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.8685555015887361).	PMID:15334402	HPO	11.05.2015
+MESH-D031368	Zoster Sine Herpete					HP:0000988	Skin rash			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.8325221915277341).	PMID:17260814	HPO	11.05.2015

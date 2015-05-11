@@ -1,0 +1,7 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D060486	Ophthalmoplegic Migraine					HP:0002076	Migraine			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 33.255971332697415).	PMID:23220797; PMID:23150890; PMID:22531656; PMID:22174363; PMID:22241707	HPO	11.05.2015
+MESH-D060486	Ophthalmoplegic Migraine					HP:0000602	Ophthalmoplegia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 29.1359661292033044).	PMID:23220797; PMID:23150890; PMID:22531656; PMID:22241707	HPO	11.05.2015
+MESH-D060486	Ophthalmoplegic Migraine					HP:0001291	Abnormality of the cranial nerves			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 16.6548652655304362).	PMID:23220797; PMID:23150890	HPO	11.05.2015
+MESH-D060486	Ophthalmoplegic Migraine					HP:0000651	Diplopia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.1180495081358192).	PMID:22531656; PMID:22674608	HPO	11.05.2015
+MESH-D060486	Ophthalmoplegic Migraine					HP:0011096	Peripheral demyelination			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.2140126003096232).	PMID:22174363; PMID:22241707	HPO	11.05.2015
+MESH-D060486	Ophthalmoplegic Migraine					HP:0011349	Abducens palsy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.584977610796761).	PMID:22531656	HPO	11.05.2015

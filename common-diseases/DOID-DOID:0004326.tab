@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0004326	Filoviridae Infections					HP:0001945	Fever			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 129.581397271225635). MESHID: D018702	PMID:23711383; PMID:16026254; PMID:20729866; PMID:18393603; PMID:15302213	HPO	11.05.2015

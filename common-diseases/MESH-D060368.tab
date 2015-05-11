@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D060368	Lobomycosis					HP:0010562	Keloids			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.4807238312589922).	PMID:21603828; PMID:22682191	HPO	11.05.2015

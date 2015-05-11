@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0010843	Encephalomyelitis, Western Equine					HP:0002383	Encephalitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 88.1745116933241517). MESHID: D020241	PMID:19407138; PMID:17499379; PMID:23031498; PMID:19428608; PMID:18801549	HPO	11.05.2015

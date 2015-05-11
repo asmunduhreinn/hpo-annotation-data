@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0008399	Trombiculiasis					HP:0000989	Pruritus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 47.030989976201868). MESHID: D014323	PMID:15272753; PMID:11883423; PMID:11467042; PMID:3618452; PMID:3710893	HPO	11.05.2015
+DOID-DOID:0008399	Trombiculiasis					HP:0000964	Eczema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 45.9005256026921569). MESHID: D014323	PMID:8028112; PMID:500457; PMID:19152585; PMID:9240845; PMID:1474650	HPO	11.05.2015
+DOID-DOID:0008399	Trombiculiasis					HP:0000962	Hyperkeratosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.1734458821423482). MESHID: D014323	PMID:500457; PMID:23458565	HPO	11.05.2015
+DOID-DOID:0008399	Trombiculiasis					HP:0001596	Alopecia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.512150418970682). MESHID: D014323	PMID:23458565; PMID:9240845	HPO	11.05.2015

@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D047508	Massive Hepatic Necrosis					HP:0002605	Hepatic necrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 67.364796571684229).	PMID:19276729; PMID:19455019; PMID:19959885; PMID:18071289; PMID:17498254	HPO	11.05.2015
+MESH-D047508	Massive Hepatic Necrosis					HP:0006554	Acute hepatic failure			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 13.418034847493012).	PMID:16967214; PMID:22809224	HPO	11.05.2015
+MESH-D047508	Massive Hepatic Necrosis					HP:0001397	Hepatic steatosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 11.2489895593476172).	PMID:22082823; PMID:19121848	HPO	11.05.2015
+MESH-D047508	Massive Hepatic Necrosis					HP:0000952	Jaundice			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.3754928348089662).	PMID:19455019; PMID:19657276	HPO	11.05.2015
+MESH-D047508	Massive Hepatic Necrosis					HP:0001903	Anemia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.4528017432455262).	PMID:19959885; PMID:15500656	HPO	11.05.2015

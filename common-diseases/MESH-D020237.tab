@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D020237	Alexia, Pure					HP:0010523	Alexia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 374.9471081180317443).	PMID:21675099; PMID:23884814; PMID:23774289; PMID:16720031; PMID:17628601	HPO	11.05.2015
+MESH-D020237	Alexia, Pure					HP:0010522	Dyslexia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 86.9210297222191312).	PMID:23884814; PMID:17628601; PMID:18781441; PMID:16801352; PMID:22531038	HPO	11.05.2015
+MESH-D020237	Alexia, Pure					HP:0002442	Dyscalculia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 28.940327779026463).	PMID:16832778; PMID:22034787; PMID:21912890	HPO	11.05.2015
+MESH-D020237	Alexia, Pure					HP:0000505	Visual impairment			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.3328966695622283).	PMID:17131595; PMID:19498088; PMID:19366870	HPO	11.05.2015
+MESH-D020237	Alexia, Pure					HP:0010528	Prosopagnosia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.066034081970992).	PMID:14707313; PMID:21243372	HPO	11.05.2015
+MESH-D020237	Alexia, Pure					HP:0008765	Auditory hallucinations			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.1733894710927971).	PMID:14707313	HPO	11.05.2015
+MESH-D020237	Alexia, Pure					HP:0002367	Visual hallucinations			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.084833835377631).	PMID:14707313	HPO	11.05.2015

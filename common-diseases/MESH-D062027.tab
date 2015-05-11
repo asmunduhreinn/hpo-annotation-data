@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D062027	Linear IgA Bullous Dermatosis					HP:0002960	Autoimmunity			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 21.048593083477775).	PMID:22264207; PMID:21906150; PMID:23316661; PMID:23067077; PMID:22924407	HPO	11.05.2015
+MESH-D062027	Linear IgA Bullous Dermatosis					HP:0008066	Abnormal blistering of the skin			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.860596932311193).	PMID:21906150; PMID:23316661; PMID:22924407	HPO	11.05.2015

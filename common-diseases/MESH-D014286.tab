@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D014286	Trilogy of Fallot					HP:0001642	Pulmonic stenosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 20.9561388559338973).	PMID:1018435; PMID:821435; PMID:15966615	HPO	11.05.2015
+MESH-D014286	Trilogy of Fallot					HP:0000347	Micrognathia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.069164445519731).	PMID:21602040	HPO	11.05.2015
+MESH-D014286	Trilogy of Fallot					HP:0003236	Elevated serum creatine phosphokinase			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.9208945631807261).	PMID:2968276	HPO	11.05.2015
+MESH-D014286	Trilogy of Fallot					HP:0003712	Muscle hypertrophy			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.7507107144011951).	PMID:8223004	HPO	11.05.2015
+MESH-D014286	Trilogy of Fallot					HP:0001406	Intrahepatic cholestasis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 7.5184725076311521).	PMID:20707932	HPO	11.05.2015

@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D004919	Erythroplasia					HP:0002745	Oral leukoplakia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 257.7925216977235).	PMID:16390464; PMID:20174843; PMID:9084201; PMID:19575119; PMID:19640683	HPO	11.05.2015
+MESH-D004919	Erythroplasia					HP:0002860	Squamous cell carcinoma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 173.4104011524901246).	PMID:7585266; PMID:10453555; PMID:14714308; PMID:21888568; PMID:20174843	HPO	11.05.2015
+MESH-D004919	Erythroplasia					HP:0010280	Stomatitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 84.2725451840089514).	PMID:9355776; PMID:19166542; PMID:21883487; PMID:20714910; PMID:21396880	HPO	11.05.2015
+MESH-D004919	Erythroplasia					HP:0100825	Cheilitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 24.3273951177803873).	PMID:20739038; PMID:11446145; PMID:18674954	HPO	11.05.2015
+MESH-D004919	Erythroplasia					HP:0000962	Hyperkeratosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 22.7601688232135223).	PMID:9084201; PMID:16757199; PMID:17823667	HPO	11.05.2015
+MESH-D004919	Erythroplasia					HP:0000040	Enlarged penis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 21.5211260260589942).	PMID:322170; PMID:11489718	HPO	11.05.2015
+MESH-D004919	Erythroplasia					HP:0000155	Oral ulcer			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.8956893168749251).	PMID:20174843	HPO	11.05.2015

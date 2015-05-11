@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D050489	Bunion, Tailor's					HP:0001822	Hallux valgus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 103.6599561253073611).	PMID:23337269; PMID:21928669; PMID:22326005; PMID:22245820; PMID:16919208	HPO	11.05.2015
+MESH-D050489	Bunion, Tailor's					HP:0001845	Overlapping toe			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 23.2904968109766452).	PMID:22674897; PMID:17144958	HPO	11.05.2015
+MESH-D050489	Bunion, Tailor's					HP:0001765	Hammertoe			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.3671797989297372).	PMID:22674897; PMID:17144958	HPO	11.05.2015
+MESH-D050489	Bunion, Tailor's					HP:0100498	Deviation of toes			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 12.456178621704651).	PMID:18348823	HPO	11.05.2015

@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D003387	Cracked Tooth Syndrome					HP:0000704	Periodontitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 47.65974149933069).	PMID:19024251; PMID:16494096; PMID:22341061; PMID:18037046; PMID:10770009	HPO	11.05.2015
+MESH-D003387	Cracked Tooth Syndrome					HP:0000670	Carious teeth			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 33.473295301243336).	PMID:10850244; PMID:15448465; PMID:20660797; PMID:2637226; PMID:20415928	HPO	11.05.2015
+MESH-D003387	Cracked Tooth Syndrome					HP:0011093	Molarization of premolar			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 28.242119926009513).	PMID:9707981; PMID:12859085; PMID:1343011	HPO	11.05.2015
+MESH-D003387	Cracked Tooth Syndrome					HP:0003763	Bruxism			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.920892696301322).	PMID:19249590; PMID:10863456	HPO	11.05.2015
+MESH-D003387	Cracked Tooth Syndrome					HP:0001944	Dehydration			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 18.7008070608998483).	PMID:11854675; PMID:11359251; PMID:19261049	HPO	11.05.2015

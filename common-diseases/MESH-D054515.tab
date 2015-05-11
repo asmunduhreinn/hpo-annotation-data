@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D054515	Vulvar Vestibulitis					HP:0000740	Anxiety (with pheochromocytoma)			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.51222184688043).	PMID:18287822; PMID:19170850; PMID:18635182	HPO	11.05.2015
+MESH-D054515	Vulvar Vestibulitis					HP:0006089	Palmar hyperhidrosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 10.482097595682641).	PMID:19576479	HPO	11.05.2015
+MESH-D054515	Vulvar Vestibulitis					HP:0100963	Hyperesthesia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 9.2473531326899521).	PMID:18156988	HPO	11.05.2015
+MESH-D054515	Vulvar Vestibulitis					HP:0000973	Cutis laxa			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.8466129743104391).	PMID:19576479	HPO	11.05.2015
+MESH-D054515	Vulvar Vestibulitis					HP:0000982	Palmoplantar keratoderma			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.6340803238044921).	PMID:19576479	HPO	11.05.2015
+MESH-D054515	Vulvar Vestibulitis					HP:0001324	Muscle weakness			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 8.599021268233462).	PMID:20652736; PMID:18209522	HPO	11.05.2015
+MESH-D054515	Vulvar Vestibulitis					HP:0008066	Abnormal blistering of the skin			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 6.6201989774370631).	PMID:19376494	HPO	11.05.2015

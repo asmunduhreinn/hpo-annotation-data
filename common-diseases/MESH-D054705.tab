@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D054705	Mastocytoma, Skin					HP:0100495	Mastocytosis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 37.212739093142985).	PMID:19253510; PMID:22498828; PMID:20875331; PMID:19400472; PMID:21708063	HPO	11.05.2015
+MESH-D054705	Mastocytoma, Skin					HP:0001025	Urticaria			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 19.3007365369978743).	PMID:19689539; PMID:19253510; PMID:21708063	HPO	11.05.2015

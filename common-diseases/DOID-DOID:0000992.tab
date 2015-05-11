@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+DOID-DOID:0000992	Hemorrhagic Fever, Omsk					HP:0001945	Fever			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 44.42790763584877612). MESHID: D006481	PMID:20875909; PMID:1853161; PMID:20850178; PMID:8381470; PMID:2854336	HPO	11.05.2015
+DOID-DOID:0000992	Hemorrhagic Fever, Omsk					HP:0002383	Encephalitis			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 36.307151873721717). MESHID: D006481	PMID:20875909; PMID:20850178; PMID:8381470; PMID:2854336; PMID:15606630	HPO	11.05.2015

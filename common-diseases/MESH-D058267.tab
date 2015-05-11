@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+MESH-D058267	Flea Infestations					HP:0100608	Metrorrhagia			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 51.82808479214309510).	PMID:23351927; PMID:23290278; PMID:21144663; PMID:21275240; PMID:21777738	HPO	11.05.2015
+MESH-D058267	Flea Infestations					HP:0000989	Pruritus			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 17.6366212410756983).	PMID:22305586; PMID:23021262; PMID:21329307	HPO	11.05.2015
+MESH-D058267	Flea Infestations					HP:0000964	Eczema			ITM	ITM						Parsed by BioLark from Pubmed abstract (additional info: 15.3001752008973853).	PMID:23866926; PMID:19517416; PMID:23254239	HPO	11.05.2015
