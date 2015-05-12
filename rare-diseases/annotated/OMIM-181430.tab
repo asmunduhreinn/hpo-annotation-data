@@ -1,6 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:181430	HPO	17.02.2009
-OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:181430	HPO	17.02.2009
-OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED					HP:0003198	Myopathy			IEA	IEA							OMIM:181430	HPO:skoehler	20.06.2010
-OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED					HP:0003677	Slow progression			IEA	IEA							OMIM:181430	HPO	17.02.2009
-OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED					HP:0009054	Scapuloperoneal myopathy			IEA	IEA							OMIM:181430	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED; SPMM					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:181430	HPO	Feb 17, 2009	
+OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED; SPMM					HP:0003198	Myopathy			TAS	TAS							OMIM:181430	HPO:skoehler	Jun 20, 2010	
+OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED; SPMM					HP:0003677	Slow progression			TAS	TAS							OMIM:181430	HPO	Feb 17, 2009	
+OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED; SPMM					HP:0009054	Scapuloperoneal myopathy			TAS	TAS							OMIM:181430	HPO	Feb 17, 2009	
+OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED; SPMM					HP:0003458	EMG: myopathic abnormalities			TAS	TAS							OMIM:181430	HPO	May 12, 2015	
+OMIM:181430	SCAPULOPERONEAL MYOPATHY, MYH7-RELATED; SPMM					HP:0030319	Weakness of facial musculature			TAS	TAS							OMIM:181430	HPO	May 12, 2015	
