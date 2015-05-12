@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:600845	PURINERGIC RECEPTOR P2X, LIGAND-GATED ION CHANNEL, 1; P2RX1				P2RX1	HP:0001428	Somatic mutation			TAS	TAS							OMIM:600845	HPO:probinson	May 12, 2015	
+OMIM:600845	PURINERGIC RECEPTOR P2X, LIGAND-GATED ION CHANNEL, 1; P2RX1				P2RX1	HP:0001892	Abnormal bleeding			TAS	TAS							OMIM:600845	HPO:probinson	May 12, 2015	
+OMIM:600845	PURINERGIC RECEPTOR P2X, LIGAND-GATED ION CHANNEL, 1; P2RX1				P2RX1	HP:0000978	Bruising susceptibility			TAS	TAS							OMIM:600845	HPO:probinson	May 12, 2015	
+OMIM:600845	PURINERGIC RECEPTOR P2X, LIGAND-GATED ION CHANNEL, 1; P2RX1				P2RX1	HP:0000967	Petechiae			TAS	TAS							OMIM:600845	HPO:probinson	May 12, 2015	
