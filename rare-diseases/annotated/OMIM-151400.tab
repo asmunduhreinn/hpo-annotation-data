@@ -1,5 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:151400	LEUKEMIA, CHRONIC LYMPHOCYTIC					HP:0001444	Autosomal dominant somatic cell mutation			IEA	IEA							OMIM:151400	HPO	17.02.2009
-OMIM:151400	LEUKEMIA, CHRONIC LYMPHOCYTIC					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:151400	HPO	17.02.2009
-OMIM:151400	LEUKEMIA, CHRONIC LYMPHOCYTIC					HP:0005550	Chronic lymphatic leukemia			IEA	IEA							OMIM:151400	HPO	17.02.2009
-OMIM:151400	#151400 LEUKEMIA, CHRONIC LYMPHOCYTIC; CLL;;LEUKEMIA, CHRONIC LYMPHATIC					HP:0001428	Somatic mutation			IEA	IEA						OMIM-CS:INHERITANCE > SOMATIC MUTATION	OMIM:151400	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:151400	LEUKEMIA, CHRONIC LYMPHOCYTIC; CLL					HP:0001444	Autosomal dominant somatic cell mutation			IEA	IEA							OMIM:151400	HPO	Feb 17, 2009	
+OMIM:151400	LEUKEMIA, CHRONIC LYMPHOCYTIC; CLL					HP:0005550	Chronic lymphatic leukemia			IEA	IEA							OMIM:151400	HPO	Feb 17, 2009	
+OMIM:151400	LEUKEMIA, CHRONIC LYMPHOCYTIC; CLL					HP:0001428	Somatic mutation			IEA	IEA						OMIM-CS:INHERITANCE > SOMATIC MUTATION	OMIM:151400	HPO:skoehler	Oct 17, 2012	
+OMIM:151400	LEUKEMIA, CHRONIC LYMPHOCYTIC; CLL					HP:0005374	Cellular immunodeficiency			IEA	IEA							OMIM:151400	HPO	May 23, 2015	
