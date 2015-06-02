@@ -1,12 +1,10 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
-MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0000006	Autosomal dominant inheritance			IEA	IEA									17.02.2009
-MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA									17.02.2009
-MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0002189	Excessive daytime sleepiness			IEA	IEA									17.02.2009
-MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0002330	Paroxysmal drowsiness			IEA	IEA									17.02.2009
-MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0002494	Abnormal rapid eye movement (REM) sleep			IEA	IEA									17.02.2009
-MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0002519	Hypnagogic hallucinations			IEA	IEA									17.02.2009
-MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0006896	Hypnopompic hallucinations			IEA	IEA									17.02.2009
-MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0002524	Cataplexy			TAS	TAS							MIM:161400	HPO:probinson	11.04.2012
-OMIM:161400	#161400 NARCOLEPSY 1; NRCLP1;;NARCOLEPTIC SYNDROME 1CATAPLEXY, INCLUDED					HP:0001425	Heterogeneous			IEA	IEA						OMIM-CS:MISCELLANEOUS > GENETIC HETEROGENEITY	OMIM:161400	HPO:skoehler	17.10.2012
-OMIM:161400	#161400 NARCOLEPSY 1; NRCLP1;;NARCOLEPTIC SYNDROME 1CATAPLEXY, INCLUDED					HP:0030050	Narcolepsy			IEA	IEA						Disease name contained:#161400 narcolepsy 1; nrclp1;;narcolep	OMIM:161400	HPO:skoehler	27.01.2015
-OMIM:161400	#161400 NARCOLEPSY 1; NRCLP1;;NARCOLEPTIC SYNDROME 1CATAPLEXY, INCLUDED					HP:0030050	Narcolepsy			IEA	IEA						Disease name contained:#161400 narcolepsy 1; nrclp1;;narcolep	OMIM:161400	HPO:skoehler	27.01.2015
+MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0000006	Autosomal dominant inheritance			IEA	IEA									Feb 17, 2009	
+MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0002189	Excessive daytime sleepiness			IEA	IEA									Feb 17, 2009	
+MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0002330	Paroxysmal drowsiness			IEA	IEA									Feb 17, 2009	
+MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0002494	Abnormal rapid eye movement (REM) sleep			IEA	IEA									Feb 17, 2009	
+MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0002519	Hypnagogic hallucinations			IEA	IEA									Feb 17, 2009	
+MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0006896	Hypnopompic hallucinations			IEA	IEA									Feb 17, 2009	
+MIM:161400	NARCOLEPSY 1				HCRT, NCRNA00163	HP:0002524	Cataplexy			TAS	TAS							MIM:161400	HPO:probinson	Apr 11, 2012	
+OMIM:161400	NARCOLEPSY 1; NRCLP1					HP:0001425	Heterogeneous			IEA	IEA						OMIM-CS:MISCELLANEOUS > GENETIC HETEROGENEITY	OMIM:161400	HPO:skoehler	Oct 17, 2012	
+OMIM:161400	NARCOLEPSY 1; NRCLP1					HP:0030050	Narcolepsy			TAS	TAS						Disease name contained:#161400 narcolepsy 1; nrclp1;;narcolep	OMIM:161400	HPO:skoehler	Jan 27, 2015	
