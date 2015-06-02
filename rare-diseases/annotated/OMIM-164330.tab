@@ -1,7 +1,5 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:164330	ODONTOMA-DYSPHAGIA SYNDROME					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:164330	HPO	17.02.2009
-OMIM:164330	ODONTOMA-DYSPHAGIA SYNDROME					HP:0000153	Abnormality of the mouth			IEA	IEA							OMIM:164330	HPO	17.02.2009
-OMIM:164330	ODONTOMA-DYSPHAGIA SYNDROME					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:164330	HPO	17.02.2009
-OMIM:164330	ODONTOMA-DYSPHAGIA SYNDROME					HP:0002015	Dysphagia			IEA	IEA							OMIM:164330	HPO	17.02.2009
-OMIM:164330	ODONTOMA-DYSPHAGIA SYNDROME					HP:0003712	Muscle hypertrophy			IEA	IEA							OMIM:164330	HPO:skoehler	20.06.2010
-OMIM:164330	164330 ODONTOMA-DYSPHAGIA SYNDROME					HP:0011068	Odontoma			IEA	IEA						OMIM-CS:MOUTH > ODONTOMA	OMIM:164330	HPO:skoehler	17.10.2012
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:164330	ODONTOMA-DYSPHAGIA SYNDROME					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:164330	HPO:probinson	Feb 17, 2009	
+OMIM:164330	ODONTOMA-DYSPHAGIA SYNDROME					HP:0002015	Dysphagia			TAS	TAS							OMIM:164330	HPO:probinson	Feb 17, 2009	
+OMIM:164330	ODONTOMA-DYSPHAGIA SYNDROME					HP:0011068	Odontoma			TAS	TAS						OMIM-CS:MOUTH > ODONTOMA	OMIM:164330	HPO:skoehler	Oct 17, 2012	
+OMIM:164330	ODONTOMA-DYSPHAGIA SYNDROME					HP:0002031	Abnormality of the esophagus			TAS	TAS							OMIM:164330	HPO:probinson	Jun 2, 2015	

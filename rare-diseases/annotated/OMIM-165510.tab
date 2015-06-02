@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:165510	OPTIC ATROPHY WITH NEGATIVE ELECTRORETINOGRAMS					HP:0000648	Optic atrophy			IEA	IEA							OMIM:165510	HPO	17.02.2009
-OMIM:165510	OPTIC ATROPHY WITH NEGATIVE ELECTRORETINOGRAMS					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:165510	HPO	17.02.2009
-OMIM:165510	165510 OPTIC ATROPHY WITH NEGATIVE ELECTRORETINOGRAMS					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT FORM	OMIM:165510	HPO:skoehler	29.05.2013
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:165510	OPTIC ATROPHY WITH NEGATIVE ELECTRORETINOGRAMS					HP:0000648	Optic atrophy			IEA	IEA							OMIM:165510	HPO	Feb 17, 2009	
+OMIM:165510	OPTIC ATROPHY WITH NEGATIVE ELECTRORETINOGRAMS					HP:0000512	Abnormal electroretinogram			IEA	IEA							OMIM:165510	HPO	Feb 17, 2009	
+OMIM:165510	OPTIC ATROPHY WITH NEGATIVE ELECTRORETINOGRAMS					HP:0000006	Autosomal dominant inheritance			IEA	IEA						OMIM-CS:INHERITANCE > AUTOSOMAL DOMINANT FORM	OMIM:165510	HPO:skoehler	May 29, 2013	
