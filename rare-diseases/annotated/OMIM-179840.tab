@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:179840	RETICULAR DYSTROPHY OF RETINAL PIGMENT EPITHELIUM					HP:0001939	Abnormality of metabolism/homeostasis			IEA	IEA							OMIM:179840	HPO	17.02.2009
-OMIM:179840	RETICULAR DYSTROPHY OF RETINAL PIGMENT EPITHELIUM					HP:0007702	Pigmentary retinal deposits			IEA	IEA							OMIM:179840	HPO	17.02.2009
-OMIM:179840	179840 RETICULAR DYSTROPHY OF RETINAL PIGMENT EPITHELIUM					HP:0000512	Abnormal electroretinogram			IEA	IEA				NOT	NOT	OMIM-CS:LAB > NORMAL ELECTRORETINOGRAM	OMIM:179840	HPO:skoehler	27.11.2014
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:179840	RETICULAR DYSTROPHY OF RETINAL PIGMENT EPITHELIUM					HP:0007702	Pigmentary retinal deposits			TAS	TAS							OMIM:179840	HPO:probinson	Feb 17, 2009	
+OMIM:179840	RETICULAR DYSTROPHY OF RETINAL PIGMENT EPITHELIUM					HP:0000512	Abnormal electroretinogram			TAS	TAS				NOT	NOT	OMIM-CS:LAB > NORMAL ELECTRORETINOGRAM	OMIM:179840	HPO:skoehler	Nov 27, 2014	
+OMIM:179840	RETICULAR DYSTROPHY OF RETINAL PIGMENT EPITHELIUM					HP:0008051	Abnormality of the retinal pigment epithelium			TAS	TAS							OMIM:179840	HPO:probinson	Jun 4, 2015	
