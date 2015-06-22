@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615935	#615935 PANCREATIC AGENESIS 2; PAGEN2;;PANCREATIC HYPOPLASIA, CONGENITAL 2					HP:0002570	Steatorrhea			IEA	IEA						OMIM-CS:ENDOCRINE FEATURES > STEATORRHEA	OMIM:615935	HPO:skoehler	22.06.2015
+OMIM:615935	#615935 PANCREATIC AGENESIS 2; PAGEN2;;PANCREATIC HYPOPLASIA, CONGENITAL 2					HP:0001518	Small for gestational age			IEA	IEA						OMIM-CS:GROWTH_WEIGHT > LOW BIRTH WEIGHT	OMIM:615935	HPO:skoehler	22.06.2015
