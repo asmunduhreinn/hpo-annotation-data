@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:616410	#616410 SPINOCEREBELLAR ATAXIA 41; SCA41					HP:0001272	Cerebellar atrophy			IEA	IEA						OMIM-CS:NEUROLOGIC_CENTRAL NERVOUS SYSTEM > CEREBELLAR ATROPHY	OMIM:616410	HPO:skoehler	22.06.2015
+OMIM:616410	#616410 SPINOCEREBELLAR ATAXIA 41; SCA41					HP:0002317	Unsteady gait			IEA	IEA						OMIM-CS:NEUROLOGIC_CENTRAL NERVOUS SYSTEM > GAIT INSTABILITY	OMIM:616410	HPO:skoehler	22.06.2015
