@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:616371	#616371 PULMONARY FIBROSIS AND/OR BONE MARROW FAILURE, TELOMERE-RELATED, 4;PFBMFT4					HP:0002206	Pulmonary fibrosis			IEA	IEA						OMIM-CS:RESPIRATORY_LUNG > PULMONARY FIBROSIS	OMIM:616371	HPO:skoehler	22.06.2015
+OMIM:616371	#616371 PULMONARY FIBROSIS AND/OR BONE MARROW FAILURE, TELOMERE-RELATED, 4;PFBMFT4					HP:0002216	Premature graying of hair			IEA	IEA	rare					OMIM-CS:SKIN, NAILS, HAIR_HAIR > PREMATURE GRAYING OF THE HAIR (IN SOME PATIENTS)	OMIM:616371	HPO:skoehler	22.06.2015

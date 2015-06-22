@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:616394	#616394 RETINITIS PIGMENTOSA 71; RP71					HP:0007843	Attenuation of retinal blood vessels			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > ATTENUATION OF RETINAL BLOOD VESSELS	OMIM:616394	HPO:skoehler	22.06.2015
+OMIM:616394	#616394 RETINITIS PIGMENTOSA 71; RP71					HP:0000543	Optic disc pallor			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > OPTIC DISC PALLOR	OMIM:616394	HPO:skoehler	22.06.2015
