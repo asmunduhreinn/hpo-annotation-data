@@ -1,3 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:607487	#607487 CARDIOMYOPATHY, DILATED, 1N; CMD1N				TCAP	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:607487	HPO:probinson	Jan 9, 2013	
 OMIM:607487	#607487 CARDIOMYOPATHY, DILATED, 1N; CMD1N				TCAP	HP:0001644	Dilated cardiomyopathy			TAS	TAS							OMIM:607487	HPO:probinson	Feb 25, 2013	
+OMIM:607487	#607487 CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 25; CMH25					HP:0001712	Left ventricular hypertrophy			IEA	IEA	rare					OMIM-CS:CARDIOVASCULAR_HEART > LEFT VENTRICULAR HYPERTROPHY (IN SOME PATIENTS)	OMIM:607487	HPO:skoehler	22.06.2015
+OMIM:607487	#607487 CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 25; CMH25					HP:0001716	Wolff-Parkinson-White syndrome			IEA	IEA	rare					OMIM-CS:CARDIOVASCULAR_HEART > WOLFF-PARKINSON-WHITE SYNDROME (RARE)	OMIM:607487	HPO:skoehler	22.06.2015
