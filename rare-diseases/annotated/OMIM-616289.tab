@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:616289	#616289 OPTIC ATROPHY 8; OPA8					HP:0000505	Visual impairment			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > DECREASED VISUAL ACUITY	OMIM:616289	HPO:skoehler	22.06.2015
+OMIM:616289	#616289 OPTIC ATROPHY 8; OPA8					HP:0000648	Optic atrophy			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > OPTIC ATROPHY	OMIM:616289	HPO:skoehler	22.06.2015
+OMIM:616289	#616289 OPTIC ATROPHY 8; OPA8					HP:0000642	Red-green dyschromatopsia			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > RED-GREEN DYSCHROMATOPSIA	OMIM:616289	HPO:skoehler	22.06.2015
