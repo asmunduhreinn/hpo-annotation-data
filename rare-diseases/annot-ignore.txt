@@ -1,2 +1,16 @@
 # This files contains the OMIM-IDs that we specifically marked as ignored
 # These entries will be ingnored by all annotation pipelines
+OMIM-176947
+OMIM-176790
+OMIM-172200
+OMIM-159556
+OMIM-159557
+OMIM-159558
+OMIM-147320
+OMIM-142860
+OMIM-142240
+OMIM-182257
+OMIM-180721
+OMIM-100650
+OMIM-176705
+OMIM-176385
