@@ -1,0 +1,2 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:616208	#616208 AMYOTROPHIC LATERAL SCLEROSIS 22 WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA;ALS22					HP:0002145	Frontotemporal dementia			IEA	IEA	rare					OMIM-CS:NEUROLOGIC_CENTRAL NERVOUS SYSTEM > FRONTOTEMPORAL DEMENTIA (IN SOME PATIENTS)	OMIM:616208	HPO:skoehler	05.07.2015
