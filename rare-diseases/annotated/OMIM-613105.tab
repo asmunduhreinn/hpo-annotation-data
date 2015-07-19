@@ -1,5 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:613105	CHOROIDAL DYSTROPHY, CENTRAL AREOLAR 2; CACD2					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:613105	HPO:skoehler	19.06.2010
-OMIM:613105	CHOROIDAL DYSTROPHY, CENTRAL AREOLAR 2; CACD2					HP:0000613	Photophobia			IEA	IEA							OMIM:613105	HPO:skoehler	19.06.2010
-OMIM:613105	CHOROIDAL DYSTROPHY, CENTRAL AREOLAR 2; CACD2					HP:0007712	Choroidal dystrophy			TAS	TAS						Disease name contained:choroidal dystrophy, central areolar 2;	OMIM:613105	HPO:skoehler	21.01.2015
-
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:613105	CHOROIDAL DYSTROPHY, CENTRAL AREOLAR 2; CACD2					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:613105	HPO:skoehler	Jun 19, 2010	
+OMIM:613105	CHOROIDAL DYSTROPHY, CENTRAL AREOLAR 2; CACD2					HP:0000613	Photophobia			IEA	IEA							OMIM:613105	HPO:skoehler	Jun 19, 2010	
+OMIM:613105	CHOROIDAL DYSTROPHY, CENTRAL AREOLAR 2; CACD2					HP:0000533	Chorioretinal atrophy			PCS	PCS							pmid:14557183	HPO:probinson	Jul 19, 2015	

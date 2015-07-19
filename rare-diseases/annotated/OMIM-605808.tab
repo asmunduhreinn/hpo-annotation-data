@@ -1,4 +1,7 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:605808	BIRDSHOT CHORIORETINOPATHY					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:605808	HPO	17.02.2009
-OMIM:605808	BIRDSHOT CHORIORETINOPATHY					HP:0001145	Chorioretinopathy			IEA	IEA							OMIM:605808	HPO	17.02.2009
-OMIM:605808	BIRDSHOT CHORIORETINOPATHY					HP:0008017	Depigmented lesions of the retinal pigment epithelium			IEA	IEA							OMIM:605808	HPO	17.02.2009
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:605808	BIRDSHOT CHORIORETINOPATHY					HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:605808	HPO:probinson	Feb 17, 2009	
+OMIM:605808	BIRDSHOT CHORIORETINOPATHY					HP:0000532	Chorioretinal abnormality			TAS	TAS							OMIM:605808	HPO:probinson	Feb 17, 2009	
+OMIM:605808	BIRDSHOT CHORIORETINOPATHY					HP:0008017	Depigmented lesions of the retinal pigment epithelium			TAS	TAS							OMIM:605808	HPO:probinson	Feb 17, 2009	
+OMIM:605808	BIRDSHOT CHORIORETINOPATHY					HP:0012123	Posterior uveitis			PCS	PCS							pmid:10896989	HPO:probinson	Jul 19, 2015	
+OMIM:605808	BIRDSHOT CHORIORETINOPATHY					HP:0011531	Vitreitis			PCS	PCS							pmid:10896989	HPO:probinson	Jul 19, 2015	
+OMIM:605808	BIRDSHOT CHORIORETINOPATHY					HP:0000505	Visual impairment			PCS	PCS							pmid:10896989	HPO:probinson	Jul 19, 2015	
