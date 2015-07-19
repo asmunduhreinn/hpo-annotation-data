@@ -1,4 +1,4 @@
-Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
-OMIM:266400	REESE RETINAL DYSPLASIA					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:266400	HPO	17.02.2009
-OMIM:266400	REESE RETINAL DYSPLASIA					HP:0007901	Retinal malformation			IEA	IEA							OMIM:266400	HPO	17.02.2009
-OMIM:266400	REESE RETINAL DYSPLASIA					HP:0007973	Retinal dysplasia			IEA	IEA						Disease name contained:reese retinal dysplasia	OMIM:266400	HPO:skoehler	27.01.2015
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
+OMIM:266400	REESE RETINAL DYSPLASIA					HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:266400	HPO	Feb 17, 2009	
+OMIM:266400	REESE RETINAL DYSPLASIA					HP:0007973	Retinal dysplasia			TAS	TAS						Disease name contained:reese retinal dysplasia	OMIM:266400	HPO:skoehler	Jan 27, 2015	
+OMIM:266400	REESE RETINAL DYSPLASIA					HP:0007968	Persistent hyperplastic primary vitreous			TAS	TAS							OMIM:266400	HPO:probinson	Jul 19, 2015	
