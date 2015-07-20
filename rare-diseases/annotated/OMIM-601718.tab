@@ -1,7 +1,11 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0000510	Retinitis pigmentosa			TAS	TAS							OMIM:601718	HPO:skoehler	Jan 9, 2013	
 OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0000543	Optic disc pallor			TAS	TAS							OMIM:601718	HPO:skoehler	Jan 9, 2013	
-OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0007737	Bony spicule pigmentary retinopathy			TAS	TAS							OMIM:601718	HPO:skoehler	Jan 9, 2013	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0007737	Bone spicule pigmentation of the retina			TAS	TAS							OMIM:601718	HPO:skoehler	Jan 9, 2013	
 OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0007843	Attenuation of retinal blood vessels			TAS	TAS							OMIM:601718	HPO:skoehler	Jan 9, 2013	
-OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0008051	Abnormality of the retinal pigment epithelium			IEA	IEA							OMIM:601718	HPO:skoehler	Jan 9, 2013	
 OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0000007	Autosomal recessive inheritance			PCS	PCS							pmid:9425888	HPO:probinson	Jul 19, 2015	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0000662	Night blindness	HP:0003621	Juvenile onset	PCS	PCS							pmid:9070931	HPO:skoehler	Jul 20, 2015	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0000505	Visual impairment	HP:0003621	Juvenile onset	PCS	PCS							pmid:9070931	HPO:skoehler	Jul 20, 2015	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0001133	Constricted visual fields			PCS	PCS							pmid:9070931	HPO:skoehler	Jul 20, 2015	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0000512	Abnormal electroretinogram			PCS	PCS							pmid:9070931	HPO:skoehler	Jul 20, 2015	
+OMIM:601718	#601718 RETINITIS PIGMENTOSA 19; RP19					HP:0007722	Retinal pigment epithelial atrophy			TAS	TAS							OMIM:601718	HPO:skoehler	Jul 20, 2015	
