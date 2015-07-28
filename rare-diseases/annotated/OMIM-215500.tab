@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:215500	CHOROIDAL DYSTROPHY, CENTRAL AREOLAR					HP:0000007	Autosomal recessive inheritance			IEA	IEA							OMIM:215500	HPO	Feb 17, 2009	
 OMIM:215500	CHOROIDAL DYSTROPHY, CENTRAL AREOLAR					HP:0000533	Chorioretinal atrophy			TAS	TAS							OMIM:215500	HPO:probinson	Jul 19, 2015	
+OMIM:215500	%215500 CHOROIDAL DYSTROPHY, CENTRAL AREOLAR, 1; CACD1;;CHOROIDAL DYSTROPHY, CENTRAL AREOLAR; CACD;;CHOROIDAL SCLEROSIS					HP:0030491	Choriocapillaris atrophy			IEA	IEA						OMIM-CS:EYES > CHORIOCAPILLARIS ATROPHY	OMIM:215500	HPO:skoehler	26.07.2015
