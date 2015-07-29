@@ -1,3 +1,5 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:614889	IMMUNODEFICIENCY 28; IMD28				IFNGR2	HP:0000007	Autosomal recessive inheritance			TAS	TAS							OMIM:614889	HPO:probinson	May 12, 2015	
-OMIM:614889	IMMUNODEFICIENCY 28; IMD28				IFNGR2	HP:0011274	Recurrent mycobacterial infections			TAS	TAS							OMIM:614889	HPO:probinson	May 12, 2015	
+OMIM:614889	IMMUNODEFICIENCY 28; IMD28				IFNGR2	HP:0011274	Recurrent mycobacterial infections			TAS	TAS							OMIM:614889	HPO:probinson	May 12, 2015
+OMIM:614889	IMMUNODEFICIENCY 28; IMD28					HP:0002721	Immunodeficiency			IEA	IEA						Disease name contained:immunodeficiency 28; imd28	OMIM:614889	HPO:skoehler	29.07.2015
+	
