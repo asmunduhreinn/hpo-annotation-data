@@ -1,2 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:616247	#616247 LONG QT SYNDROME 14; LQT14					HP:0001695	Cardiac arrest			IEA	IEA	rare					OMIM-CS:CARDIOVASCULAR_HEART > CARDIAC ARREST (IN SOME PATIENTS)	OMIM:616247	HPO:skoehler	22.03.2015
+OMIM:616247	#616247 LONG QT SYNDROME 14; LQT14					HP:0001657	Prolonged QT interval			IEA	IEA						Disease name contained:#616247 long qt syndrome 14; lqt14	OMIM:616247	HPO:skoehler	29.07.2015
+
