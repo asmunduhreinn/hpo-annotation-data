@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
 OMIM:191600	URETER, CANCER OF					HP:0000006	Autosomal dominant inheritance			IEA	IEA							OMIM:191600	HPO	17.02.2009
-OMIM:191600	URETER, CANCER OF					HP:0000119	Abnormality of the genitourinary system			IEA	IEA							OMIM:191600	HPO	17.02.2009
+OMIM:191600	URETER, CANCER OF					HP:0100516	Neoplasm of the ureter			IEA	IEA						Disease name contained:ureter, cancer of	OMIM:191600	HPO:skoehler	05.08.2015
+
