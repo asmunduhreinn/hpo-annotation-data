@@ -1,3 +1,4 @@
 Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created	
 OMIM:604625	#604625 TOOTH AGENESIS, SELECTIVE, 3; STHAG3;;HYPODONTIA/OLIGODONTIA 3				PAX9	HP:0000006	Autosomal dominant inheritance			TAS	TAS							OMIM:604625	HPO:probinson	Jan 9, 2013	
 OMIM:604625	#604625 TOOTH AGENESIS, SELECTIVE, 3; STHAG3;;HYPODONTIA/OLIGODONTIA 3				PAX9	HP:0000677	Oligodontia			TAS	TAS							OMIM:604625	HPO:probinson	Feb 22, 2013	
+OMIM:604625	#604625 TOOTH AGENESIS, SELECTIVE, 3; STHAG3;;HYPODONTIA/OLIGODONTIA 3					HP:0000691	Microdontia			IEA	IEA	rare					OMIM-CS:HEAD AND NECK_TEETH > SMALL TEETH (IN SOME PATIENTS)	OMIM:604625	HPO:skoehler	05.08.2015
