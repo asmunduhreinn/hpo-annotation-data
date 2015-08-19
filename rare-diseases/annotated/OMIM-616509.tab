@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:616509	#616509 CATARACT 44; CTRCT44					HP:0000519	Congenital cataract			IEA	IEA						MODIFIER:SEVERE;OMIM-CS:HEAD AND NECK_EYES > CATARACT, CONGENITAL, SEVERE	OMIM:616509	HPO:skoehler	16.08.2015
+OMIM:616509	#616509 CATARACT 44; CTRCT44					HP:0000572	Visual loss			IEA	IEA						OMIM-CS:HEAD AND NECK_EYES > VISION LOSS	OMIM:616509	HPO:skoehler	16.08.2015
