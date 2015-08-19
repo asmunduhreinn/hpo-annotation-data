@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:602723	#602723 PSORIASIS 2; PSORS2					HP:0000962	Hyperkeratosis			IEA	IEA						OMIM-CS:SKIN, NAILS, HAIR_SKIN > HYPERKERATOSIS	OMIM:602723	HPO:skoehler	16.08.2015
+OMIM:602723	#602723 PSORIASIS 2; PSORS2					HP:0001036	Parakeratosis			IEA	IEA						OMIM-CS:SKIN, NAILS, HAIR_SKIN > PARAKERATOSIS	OMIM:602723	HPO:skoehler	16.08.2015
