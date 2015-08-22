@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:277950	#277950 WINCHESTER SYNDROME; WNCHRS					HP:0009134	Osteolysis involving bones of the feet			IEA	IEA						OMIM-TX: 'resents with severe osteolysis in the hands andfe'	OMIM:277950	HPO:skoehler	22.08.2015
+OMIM:277950	#277950 WINCHESTER SYNDROME; WNCHRS					HP:0045039	Osteolysis involving bones of the upper limbs			IEA	IEA						OMIM-TX: 'resents with severe osteolysis in the hands andfe'	OMIM:277950	HPO:skoehler	22.08.2015
+OMIM:277950	#277950 WINCHESTER SYNDROME; WNCHRS					HP:0040160	Generalized osteoporosis			IEA	IEA						OMIM-TX: ' hands andfeet and generalized osteoporosis and bone thinning, '	OMIM:277950	HPO:skoehler	22.08.2015
+OMIM:277950	#277950 WINCHESTER SYNDROME; WNCHRS					HP:0003040	Arthropathy			IEA	IEA						OMIM-TX: 'sis, nodulosis, and arthropathy (MONA; 259600), but'	OMIM:277950	HPO:skoehler	22.08.2015
+OMIM:277950	#277950 WINCHESTER SYNDROME; WNCHRS					HP:0000280	Coarse facial features			IEA	IEA						OMIM-TX: 'features including coarse face, corneal opacities,'	OMIM:277950	HPO:skoehler	22.08.2015
+OMIM:277950	#277950 WINCHESTER SYNDROME; WNCHRS					HP:0007957	Corneal opacity			IEA	IEA						OMIM-TX: 'luding coarse face, corneal opacities, gum hypertrophy, a'	OMIM:277950	HPO:skoehler	22.08.2015
+OMIM:277950	#277950 WINCHESTER SYNDROME; WNCHRS					HP:0000212	Gingival overgrowth			IEA	IEA						OMIM-TX: ' corneal opacities, gum hypertrophy, andEKG changes ha'	OMIM:277950	HPO:skoehler	22.08.2015
