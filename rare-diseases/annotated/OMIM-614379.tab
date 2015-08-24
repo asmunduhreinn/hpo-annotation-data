@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:614379	#614379 COMPLEMENT COMPONENT 4B DEFICIENCY; C4BD ;;C4B DEFICIENCY					HP:0045044	Decreased serum complement C4b			IEA	IEA						OMIM-TX	OMIM:614379	HPO:skoehler	24.08.2015
+OMIM:614379	#614379 COMPLEMENT COMPONENT 4B DEFICIENCY; C4BD ;;C4B DEFICIENCY					HP:0200120	Chronic active hepatitis			IEA	IEA						OMIM-TX: 'nts with autoimmune chronic active hepatitis beginning inchildh'	OMIM:614379	HPO:skoehler	23.08.2015
+OMIM:614379	#614379 COMPLEMENT COMPONENT 4B DEFICIENCY; C4BD ;;C4B DEFICIENCY					HP:0001287	Meningitis			IEA	IEA						OMIM-TX: 'bility to bacterialmeningitis (winkelstein, 1987)'	OMIM:614379	HPO:skoehler	23.08.2015
