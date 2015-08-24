@@ -1,0 +1,3 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:614278	#614278 PLATELET-ACTIVATING FACTOR ACETYLHYDROLASE DEFICIENCY; PAFAD					HP:0040178	Increased level of platelet-activating factor			IEA	IEA						OMIM-TX	OMIM:614278	HPO:skoehler	24.08.2015
+OMIM:614278	#614278 PLATELET-ACTIVATING FACTOR ACETYLHYDROLASE DEFICIENCY; PAFAD					HP:0040175	Platelet-activating factor acetylhydrolase deficiency			IEA	IEA						OMIM-TX	OMIM:614278	HPO:skoehler	24.08.2015
