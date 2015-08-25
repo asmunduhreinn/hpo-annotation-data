@@ -1,0 +1,5 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615106	#615106 COWDEN SYNDROME 3; CWS3					HP:0003287	Abnormality of mitochondrial metabolism			IEA	IEA						OMIM-TX: ' amanifestation of mitochondrial dysfunction. among these 74 ind'	OMIM:615106	HPO:skoehler	25.08.2015
+OMIM:615106	#615106 COWDEN SYNDROME 3; CWS3					HP:0100031	Neoplasm of the thyroid gland			IEA	IEA						OMIM-TX	OMIM:615106	HPO:skoehler	25.08.2015
+OMIM:615106	#615106 COWDEN SYNDROME 3; CWS3					HP:0005584	Renal cell carcinoma			IEA	IEA						OMIM-TX: '2, malignant in 3),renal carcinoma in 2, and uterine l'	OMIM:615106	HPO:skoehler	25.08.2015
+OMIM:615106	#615106 COWDEN SYNDROME 3; CWS3					HP:0000131	Uterine leiomyoma			IEA	IEA						OMIM-TX: 'carcinoma in 2, and uterine leiomyoma in 3. two patients '	OMIM:615106	HPO:skoehler	25.08.2015
