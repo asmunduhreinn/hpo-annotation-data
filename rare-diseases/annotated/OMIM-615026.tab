@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615026	#615026 RIBOFLAVIN DEFICIENCY; RBFVD					HP:0001942	Metabolic acidosis			IEA	IEA						OMIM-TX: ', hypoglycemia, and metabolic acidosis. she haddicarboxyl'	OMIM:615026	HPO:skoehler	23.08.2015
+OMIM:615026	#615026 RIBOFLAVIN DEFICIENCY; RBFVD					HP:0001943	Hypoglycemia			IEA	IEA						OMIM-TX: 'rthwith poor suck, hypoglycemia, and metabolic acid'	OMIM:615026	HPO:skoehler	23.08.2015
+OMIM:615026	#615026 RIBOFLAVIN DEFICIENCY; RBFVD					HP:0002033	Poor suck			IEA	IEA						OMIM-TX: 'on after birthwith poor suck, hypoglycemia, and '	OMIM:615026	HPO:skoehler	23.08.2015
+OMIM:615026	#615026 RIBOFLAVIN DEFICIENCY; RBFVD					HP:0003215	Dicarboxylic aciduria			IEA	IEA						OMIM-TX: 'c acidosis. she haddicarboxylic aciduria and elevated plasma'	OMIM:615026	HPO:skoehler	23.08.2015
+OMIM:615026	#615026 RIBOFLAVIN DEFICIENCY; RBFVD					HP:0100504	Vitamin B2 deficiency			IEA	IEA						OMIM Title	OMIM:615026	HPO:skoehler	23.08.2015
+OMIM:615026	#615026 RIBOFLAVIN DEFICIENCY; RBFVD					HP:0045045	Elevated plasma acylcarnitine levels			IEA	IEA						OMIM-TX: 'c acidosis. she haddicarboxylic aciduria and elevated plasma'	OMIM:615026	HPO:skoehler	23.08.2015
+
