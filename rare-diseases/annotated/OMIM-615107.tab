@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615107	#615107 COWDEN SYNDROME 4; CWS4					HP:0010566	Hamartomas			IEA	IEA						OMIM-TX 	OMIM:615107	HPO:skoehler	26.08.2015
+OMIM:615107	#615107 COWDEN SYNDROME 4; CWS4					HP:0009726	Localized skin lesion			IEA	IEA						OMIM-TX	OMIM:615107	HPO:skoehler	26.08.2015
+OMIM:615107	#615107 COWDEN SYNDROME 4; CWS4					HP:0000168	Abnormality of the gingiva			IEA	IEA						OMIM-TX	OMIM:615107	HPO:skoehler	26.08.2015
+OMIM:615107	#615107 COWDEN SYNDROME 4; CWS4					HP:3000019	Abnormality of buccal mucosa			IEA	IEA						OMIM-TX	OMIM:615107	HPO:skoehler	26.08.2015
+OMIM:615107	#615107 COWDEN SYNDROME 4; CWS4					HP:0012844	Trichilemmoma			IEA	IEA						OMIM-TX	OMIM:615107	HPO:skoehler	26.08.2015
