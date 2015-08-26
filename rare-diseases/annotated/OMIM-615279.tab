@@ -1,0 +1,19 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0000154	Wide mouth			IEA	IEA						OMIM-TX: 'c features, such asmacrostomia and horizontal shap'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0008050	Abnormality of the palpebral fissures			IEA	IEA						OMIM-TX	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0001627	Abnormality of cardiac morphology			IEA	IEA						OMIM-TX: 'niofacial features, cardiac anomalies, hairand skin abno'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0002212	Curly hair			IEA	IEA						OMIM-TX: 'rmal abnormalities(curly hair, hyperkeratosis, hy'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0000962	Hyperkeratosis			IEA	IEA						OMIM-TX: 'lities(curly hair, hyperkeratosis, hyperkeratosis pil'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0040180	Hyperkeratosis pilaris			IEA	IEA						OMIM-TX: 'lities(curly hair, hyperkeratosis, hyperkeratosis pil'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0001642	Pulmonic stenosis			IEA	IEA						OMIM-TX: 'ormation with age), pulmonic stenosis and hypertrophicca'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0001639	Hypertrophic cardiomyopathy			IEA	IEA						OMIM-TX: 'is and hypertrophic cardiomyopathy, failure to thrive,'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0001508	Failure to thrive			IEA	IEA						OMIM-TX: 'hiccardiomyopathy, failure to thrive, scoliosis, pectus '	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0002650	Scoliosis			IEA	IEA						OMIM-TX: ' failure to thrive, scoliosis, pectus excavatum, '	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0000767	Pectus excavatum			IEA	IEA						OMIM-TX: ' thrive, scoliosis, pectus excavatum, diffuseskeletal d'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0004349	Reduced bone mineral density			IEA	IEA						OMIM-TX	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0000639	Nystagmus			IEA	IEA						OMIM-TX: 'eralization, ocular nystagmus, focal atrophy of t'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0001250	Seizures			IEA	IEA						OMIM-TX: 'lateral ventricles, seizures,and developmental '	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0001263	Global developmental delay			IEA	IEA						OMIM-TX: 'ncy, hypotonia, anddevelopmental delay. distinctive featur'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0002046	Heat intolerance			IEA	IEA						OMIM-TX: 'ents had hypotonia, heat intolerance, andexcessive swea'	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0001252	Muscular hypotonia			IEA	IEA						OMIM-TX: '. both patients had hypotonia, heat intolerance, '	OMIM:615279	HPO:skoehler	26.08.2015
+OMIM:615279	#615279 CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3					HP:0000975	Hyperhidrosis			IEA	IEA						OMIM-TX: 'ance, andexcessive sweating.in a comparison o'	OMIM:615279	HPO:skoehler	26.08.2015
