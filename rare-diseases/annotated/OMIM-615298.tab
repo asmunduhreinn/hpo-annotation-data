@@ -1,0 +1,4 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615298	#615298 SYMPHALANGISM, PROXIMAL, 1B; SYM1B					HP:0009177	Fifth finger symphalangism			IEA	IEA						OMIM-TX	OMIM:615298	HPO:skoehler	27.08.2015
+OMIM:615298	#615298 SYMPHALANGISM, PROXIMAL, 1B; SYM1B					HP:0006143	Abnormal finger flexion creases			IEA	IEA						OMIM-TX	OMIM:615298	HPO:skoehler	27.08.2015
+OMIM:615298	#615298 SYMPHALANGISM, PROXIMAL, 1B; SYM1B					HP:0001763	Pes planus			IEA	IEA						OMIM-TX: 'l joint fusions and flat feet. the fusions andma'	OMIM:615298	HPO:skoehler	27.08.2015
