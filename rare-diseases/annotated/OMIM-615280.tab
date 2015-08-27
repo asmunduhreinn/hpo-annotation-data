@@ -1,0 +1,25 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0001646	Abnormality of the aortic valve			IEA	IEA						OMIM-TX	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0004322	Short stature			IEA	IEA						OMIM-TX: ' age 7.5 months for short stature andmild pulmonic s'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0010438	Abnormality of the ventricular septum			IEA	IEA						OMIM-TX	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000639	Nystagmus			IEA	IEA						OMIM-TX: 'ular abnormalities(nystagmus, strabismus, myopia'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000486	Strabismus			IEA	IEA						OMIM-TX: 'alities(nystagmus, strabismus, myopia, bilateral '	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000545	Myopia			IEA	IEA						OMIM-TX: 'tagmus, strabismus, myopia, bilateral cataract'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000519	Congenital cataract			IEA	IEA						OMIM-TX: 'strabismus, myopia, bilateral cataracts and optic nervehyp'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000609	Optic nerve hypoplasia			IEA	IEA						OMIM-TX	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0001321	Cerebellar hypoplasia			IEA	IEA						OMIM-TX: ' nervehypoplasia), cerebellar hypoplasia, prominence of the '	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0030047	Abnormality of lateral ventricle			IEA	IEA						OMIM-TX	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0002079	Hypoplasia of the corpus callosum			IEA	IEA						OMIM-TX: 'lateralventricles, thinning of the corpus callosum, and moderate devel'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0001252	Muscular hypotonia			IEA	IEA						OMIM-TX: 'evelopmentaldelay. hypotonia, heat intolerance, '	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0002046	Heat intolerance			IEA	IEA						OMIM-TX: 'ldelay. hypotonia, heat intolerance, and excessive swea'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000975	Hyperhidrosis			IEA	IEA						OMIM-TX: 'ance, and excessive sweating were alsopresent.'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000348	High forehead			IEA	IEA						OMIM-TX	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000341	Narrow forehead			IEA	IEA						OMIM-TX: ' highforehead with bitemporal narrowing and telecanthus, as'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000506	Telecanthus			IEA	IEA						OMIM-TX: 'poral narrowing and telecanthus, as well asectoder'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0001642	Pulmonic stenosis			IEA	IEA						OMIM-TX: 'l features and mildpulmonic stenosis, and several family'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0001263	Global developmental delay			IEA	IEA						OMIM-TX: 'old man with mildlydelayed development, pulmonary stenosis'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000766	Abnormality of the sternum			IEA	IEA						OMIM-TX: 'ency, scoliosis and pectus deformity, ocular abnormaliti'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0002223	Absent eyebrow			IEA	IEA						OMIM-TX: ' curled short hair, absent eyebrows, hyperelastic skin,'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0002650	Scoliosis			IEA	IEA						OMIM-TX: 'hormonedeficiency, scoliosis and pectus deformit'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0000974	Hyperextensible skin			IEA	IEA						OMIM-TX: 'r, absent eyebrows, hyperelastic skin,and multiple lenti'	OMIM:615280	HPO:skoehler	27.08.2015
+OMIM:615280	#615280 CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4					HP:0001003	Multiple lentigines			IEA	IEA						OMIM-TX: 'erelastic skin,and multiple lentigines. his 40-year-old br'	OMIM:615280	HPO:skoehler	27.08.2015
