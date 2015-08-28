@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615344	#615344 PULMONARY HYPERTENSION, PRIMARY, 4; PPH4					HP:0002092	Pulmonary hypertension			IEA	IEA						OMIM-TX: ' autosomal dominantprimary pulmonary hypertension-4, ma et al. (2013)'	OMIM:615344	HPO:skoehler	28.08.2015
+OMIM:615344	#615344 PULMONARY HYPERTENSION, PRIMARY, 4; PPH4					HP:0000006	Autosomal dominant			IEA	IEA						OMIM-TX: ' autosomal dominantprimary pulmonary hypertension-4, ma et al. (2013)'	OMIM:615344	HPO:skoehler	28.08.2015
+OMIM:615344	#615344 PULMONARY HYPERTENSION, PRIMARY, 4; PPH4					HP:0004890	Elevated pulmonary artery pressure			IEA	IEA						OMIM-TX: 'secharacterized by increased pulmonary artery pressure in the absence ofc'	OMIM:615344	HPO:skoehler	28.08.2015
+OMIM:615344	#615344 PULMONARY HYPERTENSION, PRIMARY, 4; PPH4					HP:0001907	Thromboembolism			IEA	IEA				NOT	NOT	OMIM-TX: 'nic heart, lung, orthromboembolic disease. there is often vas'	OMIM:615344	HPO:skoehler	28.08.2015
+OMIM:615344	#615344 PULMONARY HYPERTENSION, PRIMARY, 4; PPH4					HP:0011675	Arrhythmia			IEA	IEA	rare					OMIM-TX: 's developed cardiacarrhythmias. no patients respon'	OMIM:615344	HPO:skoehler	28.08.2015
