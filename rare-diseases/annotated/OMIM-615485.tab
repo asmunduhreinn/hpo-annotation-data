@@ -1,0 +1,8 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615485	#615485 BAINBRIDGE-ROPERS SYNDROME; BRPS					HP:0011344	Severe global developmental delay			IEA	IEA						OMIM-TX: ' nares but had lesssevere psychomotor retardation and normal growth. '	OMIM:615485	HPO:skoehler	29.08.2015
+OMIM:615485	#615485 BAINBRIDGE-ROPERS SYNDROME; BRPS					HP:0011968	Feeding difficulties			IEA	IEA						OMIM-TX: 'omotor retardation, feeding problems, severe postnatal g'	OMIM:615485	HPO:skoehler	29.08.2015
+OMIM:615485	#615485 BAINBRIDGE-ROPERS SYNDROME; BRPS					HP:0008850	Severe postnatal growth retardation			IEA	IEA						OMIM-TX: '...ng problems, severe postnatal growth retardation ...'	OMIM:615485	HPO:skoehler	29.08.2015
+OMIM:615485	#615485 BAINBRIDGE-ROPERS SYNDROME; BRPS					HP:0002553	Highly arched eyebrow			IEA	IEA						OMIM-TX: 'growthretardation, arched eyebrows, anteverted nares, '	OMIM:615485	HPO:skoehler	29.08.2015
+OMIM:615485	#615485 BAINBRIDGE-ROPERS SYNDROME; BRPS					HP:0000463	Anteverted nares			IEA	IEA						OMIM-TX: 'th subject also had anteverted nares but had lesssevere'	OMIM:615485	HPO:skoehler	29.08.2015
+OMIM:615485	#615485 BAINBRIDGE-ROPERS SYNDROME; BRPS					HP:0000545	Myopia			IEA	IEA				NOT	NOT	OMIM-TX: 'rist flexion, or of myopia ortrigonocephaly. '	OMIM:615485	HPO:skoehler	29.08.2015
+OMIM:615485	#615485 BAINBRIDGE-ROPERS SYNDROME; BRPS					HP:0000243	Trigonocephaly			IEA	IEA				NOT	NOT	OMIM-TX: 'on, or of myopia ortrigonocephaly. only 1 subject had'	OMIM:615485	HPO:skoehler	29.08.2015
