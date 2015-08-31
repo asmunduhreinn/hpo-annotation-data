@@ -1,0 +1,6 @@
+Disease ID	Disease Name	Gene ID	Gene Name	Genotype	Gene Symbol(s)	Phenotype ID	Phenotype Name	Age of Onset ID	Age of Onset Name	Evidence ID	Evidence Name	Frequency	Sex ID	Sex Name	Negation ID	Negation Name	Description	Pub	Assigned by	Date Created
+OMIM:615561	#615561 COMPLEMENT FACTOR B DEFICIENCY; CFBD					HP:0005416	Decreased serum complement factor B			IEA	IEA						OMIM-TX	OMIM:615561	HPO:skoehler	30.08.2015
+OMIM:615561	#615561 COMPLEMENT FACTOR B DEFICIENCY; CFBD					HP:0002718	Frequent bacterial infections			IEA	IEA						OMIM-TX: 'ho had a history ofsusceptibility to infection with encapsulated b'	OMIM:615561	HPO:skoehler	30.08.2015
+OMIM:615561	#615561 COMPLEMENT FACTOR B DEFICIENCY; CFBD					HP:0002090	Pneumonia			IEA	IEA						OMIM-TX: 'he hadpneumococcal pneumonia complicated by empy'	OMIM:615561	HPO:skoehler	30.08.2015
+OMIM:615561	#615561 COMPLEMENT FACTOR B DEFICIENCY; CFBD					HP:0002586	Peritonitis			IEA	IEA						OMIM-TX: 'e with pneumococcalperitonitis. two years later, s'	OMIM:615561	HPO:skoehler	30.08.2015
+OMIM:615561	#615561 COMPLEMENT FACTOR B DEFICIENCY; CFBD					HP:0005381	Recurrent meningococcal disease			IEA	IEA						OMIM-TX: 'developed neisseria meningitis, and at age 30, she'	OMIM:615561	HPO:skoehler	30.08.2015
